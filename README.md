@@ -87,8 +87,14 @@
 [[Project](https://zhang-zx.github.io/SINE/)] 
 [[Code](https://github.com/zhang-zx/SINE)] 
 
+⭐**Inpaint Anything: Segment Anything Meets Image Inpainting** \
+[[Website](https://arxiv.org/abs/2304.06790)] 
+[[Code 1](https://github.com/geekyutao/Inpaint-Anything)] 
+[[Code 2](https://github.com/sail-sg/EditAnything)] 
+
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
+
 
 
 **PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
