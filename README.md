@@ -68,6 +68,9 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.12572)] 
 [[Project](https://pnp-diffusion.github.io/sm/index.html)] 
 [[Code](https://github.com/MichalGeyer/plug-and-play)]
+[[Dataset](https://www.dropbox.com/sh/8giw0uhfekft47h/AAAF1frwakVsQocKczZZSX6La?dl=0)]
+[[Replicate Demo](https://replicate.com/daanelson/plug_and_play_image_translation)] 
+[[Demo](https://huggingface.co/spaces/hysts/PnP-diffusion-features)] 
 
 
 ⭐**Imagic: Text-Based Real Image Editing with Diffusion Models** \
@@ -81,6 +84,7 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/pix2pix)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_instruct_pix2pix.py)] 
 [[Official Code](https://github.com/timothybrooks/instruct-pix2pix)]
+[[Dataset](http://instruct-pix2pix.eecs.berkeley.edu/)]
 
 ⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
 [[CVPR 2023](https://arxiv.org/abs/2212.04489)] 
