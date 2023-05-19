@@ -3,6 +3,9 @@
 ⭐**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
 [[Website](https://arxiv.org/abs/2304.06027)] [[Project](https://jamessealesmith.github.io/continual-diffusion/)]
 
+**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
+[[Website](https://arxiv.org/abs/2305.10120)] [[Code](https://github.com/clear-nus/selective-amnesia)]
+
 **RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
 [[Website](https://arxiv.org/abs/2212.05993)] [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_RGBD2_Generative_Scene_Synthesis_via_Incremental_View_Inpainting_Using_RGBD_CVPR_2023_paper.pdf)] [[Project](https://jblei.site/proj/rgbd-diffusion)] [[Code](https://github.com/Karbo123/RGBD-Diffusion)]
 
