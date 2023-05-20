@@ -169,12 +169,16 @@
 [[Website](https://arxiv.org/abs/2305.05947)]
 
 
+# Diffusion Models Inversion
+⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
+Above
+
+**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
+
+**Inversion-Based Creativity Transfer with Diffusion Models** \
 
 
-
-
-
-
+**Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
 
 
 
