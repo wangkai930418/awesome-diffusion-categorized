@@ -20,6 +20,27 @@
 **DiracDiffusion: Denoising and Incremental Reconstruction with Assured Data-Consistency** \
 [[Website](https://arxiv.org/abs/2303.14353)] 
 
+# Remove concept
+
+**Ablating Concepts in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.13516)] 
+[[Code](https://github.com/nupurkmr9/concept-ablation)]
+[[Project](https://www.cs.cmu.edu/~concept-ablation/)] 
+
+**Erasing Concepts from Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.07345)] 
+[[Code](https://github.com/rohitgandikota/erasing)]
+[[Project](https://erasing.baulab.info/)] 
+
+**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.17591)] 
+[[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
+
+**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2304.03246)] 
+[[Code](https://github.com/abyildirim/inst-inpaint)]
+[[Project](http://instinpaint.abyildirim.com/)] 
+[[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
 
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
