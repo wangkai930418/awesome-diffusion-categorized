@@ -129,7 +129,7 @@
 [[Website](https://arxiv.org/abs/2210.11427)] 
 [[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
 
-**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing**
+**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
 [[Website](https://arxiv.org/abs/2304.08465)] 
 [[Project](https://ljzycmd.github.io/projects/MasaCtrl/)] 
 [[Code](https://github.com/TencentARC/MasaCtrl)] 
