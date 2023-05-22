@@ -117,6 +117,11 @@
 [[Code 1](https://github.com/geekyutao/Inpaint-Anything)] 
 [[Code 2](https://github.com/sail-sg/EditAnything)] 
 
+⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
+[[Website](https://arxiv.org/abs/2108.01073)] 
+[[Project](https://sde-image-editing.github.io/)] 
+[[Code](https://github.com/ermongroup/SDEdit)] 
+
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
 
@@ -168,6 +173,9 @@
 **iEdit: Localised Text-guided Image Editing with Weak Supervision** \
 [[Website](https://arxiv.org/abs/2305.05947)]
 
+**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.04441)]
+
 
 # Diffusion Models Inversion
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
@@ -201,10 +209,44 @@ Above
 
 # T2I Diffusion Model augmentation
 ⭐⭐**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
-[[SIGGRAPH 2023](https://arxiv.org/abs/2301.13826)] [[Official Code](https://github.com/yuval-alaluf/Attend-and-Excite)] [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_attend_and_excite.py)] [[Diffusers doc](https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/attend_and_excite)] [[Project](https://yuval-alaluf.github.io/Attend-and-Excite/)] [[Replicate Demo](https://replicate.com/daanelson/attend-and-excite)]
+[[SIGGRAPH 2023](https://arxiv.org/abs/2301.13826)] 
+[[Official Code](https://github.com/yuval-alaluf/Attend-and-Excite)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_attend_and_excite.py)] 
+[[Diffusers doc](https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/attend_and_excite)] 
+[[Project](https://yuval-alaluf.github.io/Attend-and-Excite/)] 
+[[Replicate Demo](https://replicate.com/daanelson/attend-and-excite)]
+
+**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
+[[Website](https://arxiv.org/abs/2210.00939)] 
+[[Project](https://ku-cvlab.github.io/Self-Attention-Guidance/)] 
+[[Code Official](https://github.com/KU-CVLAB/Self-Attention-Guidance)]
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_sag.py)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/self_attention_guidance)] 
+[[Demo](https://huggingface.co/spaces/susunghong/Self-Attention-Guidance)]
 
 **Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
-[[Website](https://arxiv.org/abs/2302.13153)] [[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] [[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
+[[Website](https://arxiv.org/abs/2302.13153)] 
+[[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
+[[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
 
-**Guided Image Synthesis via Initial Image Editing in Diffusion Model**
+**Expressive Text-to-Image Generation with Rich Text** \
+[[Website](https://arxiv.org/abs/2304.06720)] 
+[[Project](https://rich-text-to-image.github.io/)] 
+[[Code](https://github.com/SongweiGe/rich-text-to-image)]
+[[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
+
+**Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.08084)] 
+[[Project](https://time-diffusion.github.io/)] 
+[[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
+
+**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2304.03869)] 
+[[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
+
+
+**Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[Website](https://arxiv.org/abs/2305.03382)] 
+
+**It is all about where you start: Text-to-image generation with seed selection** \
+[[Website](https://arxiv.org/abs/2304.14530)] 
