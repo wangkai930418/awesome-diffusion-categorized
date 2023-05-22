@@ -178,15 +178,18 @@
 
 
 # Diffusion Models Inversion
-⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
-Above
+⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
+[[Website](https://arxiv.org/abs/2211.12446)] 
+[[Code](https://github.com/salesforce/edict)] 
 
 **Inversion-Based Creativity Transfer with Diffusion Models** \
-
+[[CVPR 2023](https://arxiv.org/abs/2211.13203)] 
+[[Code](https://github.com/zyxElsa/InST)] 
 
 **Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.07825)] 
 
 
 
@@ -253,3 +256,6 @@ Above
 
 **It is all about where you start: Text-to-image generation with seed selection** \
 [[Website](https://arxiv.org/abs/2304.14530)] 
+
+**End-to-End Diffusion Latent Optimization Improves Classifier Guidance** \
+[[Website](https://arxiv.org/abs/2303.13703)] 
