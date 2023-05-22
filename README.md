@@ -214,7 +214,7 @@
 [[Website](https://arxiv.org/abs/2304.06720)] 
 [[Project](https://rich-text-to-image.github.io/)] 
 [[Code](https://github.com/SongweiGe/rich-text-to-image)]
-[[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
+[[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
 
 
 **Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
@@ -226,7 +226,7 @@
 **Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.08084)] 
 [[Project](https://time-diffusion.github.io/)] 
-[[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
+[[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
 
 **Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2304.03869)] 
