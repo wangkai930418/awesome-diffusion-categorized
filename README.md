@@ -216,7 +216,7 @@ Above
 [[Project](https://yuval-alaluf.github.io/Attend-and-Excite/)] 
 [[Replicate Demo](https://replicate.com/daanelson/attend-and-excite)]
 
-**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
+⭐**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
 [[Website](https://arxiv.org/abs/2210.00939)] 
 [[Project](https://ku-cvlab.github.io/Self-Attention-Guidance/)] 
 [[Code Official](https://github.com/KU-CVLAB/Self-Attention-Guidance)]
@@ -244,6 +244,9 @@ Above
 [[Website](https://arxiv.org/abs/2304.03869)] 
 [[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
 
+**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
+[[Website](https://arxiv.org/abs/2305.05189)] 
+[[Code](https://github.com/Qrange-group/SUR-adapter)]
 
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[Website](https://arxiv.org/abs/2305.03382)] 
