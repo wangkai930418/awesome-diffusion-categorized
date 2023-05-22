@@ -227,16 +227,18 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/self_attention_guidance)] 
 [[Demo](https://huggingface.co/spaces/susunghong/Self-Attention-Guidance)]
 
+⭐**Expressive Text-to-Image Generation with Rich Text** \
+[[Website](https://arxiv.org/abs/2304.06720)] 
+[[Project](https://rich-text-to-image.github.io/)] 
+[[Code](https://github.com/SongweiGe/rich-text-to-image)]
+[[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
+
+
 **Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
 [[Website](https://arxiv.org/abs/2302.13153)] 
 [[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
 [[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
 
-**Expressive Text-to-Image Generation with Rich Text** \
-[[Website](https://arxiv.org/abs/2304.06720)] 
-[[Project](https://rich-text-to-image.github.io/)] 
-[[Code](https://github.com/SongweiGe/rich-text-to-image)]
-[[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
 
 **Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.08084)] 
