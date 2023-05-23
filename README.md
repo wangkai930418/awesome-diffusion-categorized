@@ -249,3 +249,31 @@
 **If at First You Don’t Succeed, Try, Try Again:Faithful Diffusion-based Text-to-Image Generation by Selection** \
 [[Website](https://arxiv.org/abs/2305.13308)] 
 [[Code](https://github.com/ExplainableML/ImageSelect)]
+
+
+
+# ControlNet 
+
+⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.05543)] 
+[[Official Code](https://github.com/lllyasviel/controlnet)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_controlnet.py)] 
+
+⭐**GLIGEN: Open-Set Grounded Text-to-Image Generation** \
+[[CVPR 2023](https://arxiv.org/abs/2301.07093)] 
+[[Code](https://github.com/gligen/GLIGEN)]
+[[Demo](https://huggingface.co/spaces/gligen/demo)]
+
+⭐**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.08453)] 
+[[Code](https://github.com/TencentARC/T2I-Adapter)]
+
+**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
+[[Website](https://arxiv.org/abs/2305.11147)] 
+
+
+**Universal Guidance for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.07121)] 
+[[Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
+
