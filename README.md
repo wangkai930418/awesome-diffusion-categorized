@@ -244,3 +244,8 @@
 
 **End-to-End Diffusion Latent Optimization Improves Classifier Guidance** \
 [[Website](https://arxiv.org/abs/2303.13703)] 
+
+
+**If at First You Don’t Succeed, Try, Try Again:Faithful Diffusion-based Text-to-Image Generation by Selection** \
+[[Website](https://arxiv.org/abs/2305.13308)] 
+[[Code](https://github.com/ExplainableML/ImageSelect)]
