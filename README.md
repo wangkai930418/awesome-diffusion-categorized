@@ -277,3 +277,12 @@
 [[Website](https://arxiv.org/abs/2302.07121)] 
 [[Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
 
+
+# Watermark
+**The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.15435)] 
+[[Project](https://pierrefdz.github.io/publications/stablesignature/)] 
+
+**A Recipe for Watermarking Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.10137)] 
+[[Code](https://github.com/yunqing-me/watermarkdm)]
