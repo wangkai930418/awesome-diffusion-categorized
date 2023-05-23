@@ -269,14 +269,21 @@
 [[Website](https://arxiv.org/abs/2302.08453)] 
 [[Code](https://github.com/TencentARC/T2I-Adapter)]
 
+**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
+[[Website](https://arxiv.org/abs/2303.09833)] 
+[[Code](https://github.com/vvictoryuki/freedom)]
+
 **UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
 [[Website](https://arxiv.org/abs/2305.11147)] 
 
+**Freestyle Layout-to-Image Synthesis** \
+[[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
+[[Code](https://github.com/essunny310/freestylenet)]
+[[Project](https://essunny310.github.io/FreestyleNet/)] 
 
 **Universal Guidance for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.07121)] 
 [[Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
-
 
 # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
