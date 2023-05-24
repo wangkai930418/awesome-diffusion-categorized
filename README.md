@@ -323,3 +323,57 @@
 
 **OVTrack: Open-Vocabulary Multiple Object Tracking** \
 [[CVPR 2023](https://arxiv.org/abs/2304.08408)] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# SD-inpaint
+**Blended Diffusion for Text-driven Editing of Natural Images** \
+[[Website](https://arxiv.org/abs/2111.14818)] 
+[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.html)] 
+[[Project](https://omriavrahami.com/blended-diffusion-page/)]
+[[Code](https://github.com/omriav/blended-diffusion)]
+
+**GLIDE: Towards photorealistic image generation and editing with text-guided diffusion model** \
+[[Website](https://arxiv.org/abs/2112.10741)] 
+[[Code](https://github.com/openai/glide-text2im)]
+
+**Paint by Example: Exemplar-based Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.13227)] 
+[[Code](https://github.com/Fantasy-Studio/Paint-by-Example)]
+
+**Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** \
+[[Website](https://arxiv.org/abs/2304.09748)] 
+[[Code](https://github.com/kangyeolk/Paint-by-Sketch)]
