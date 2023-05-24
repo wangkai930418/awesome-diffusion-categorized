@@ -408,7 +408,7 @@
 
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
 [[Website](https://arxiv.org/abs/2211.11337)] 
-[[Code](hhttps://github.com/7eu7d7/DreamArtist-stable-diffusion)]
+[[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
 [[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
 
 **Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
