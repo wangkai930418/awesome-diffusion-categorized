@@ -497,13 +497,17 @@
 [[Project](https://omriavrahami.com/blended-diffusion-page/)]
 [[Code](https://github.com/omriav/blended-diffusion)]
 
+**Paint by Example: Exemplar-based Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.13227)] 
+[[Code](https://github.com/Fantasy-Studio/Paint-by-Example)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/paint_by_example)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/paint_by_example/pipeline_paint_by_example.py)] 
+
+
 **GLIDE: Towards photorealistic image generation and editing with text-guided diffusion model** \
 [[Website](https://arxiv.org/abs/2112.10741)] 
 [[Code](https://github.com/openai/glide-text2im)]
 
-**Paint by Example: Exemplar-based Image Editing with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2211.13227)] 
-[[Code](https://github.com/Fantasy-Studio/Paint-by-Example)]
 
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** \
 [[Website](https://arxiv.org/abs/2304.09748)] 
