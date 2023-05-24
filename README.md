@@ -219,9 +219,13 @@
 
 **Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
 [[Website](https://arxiv.org/abs/2302.13153)] 
+[[Project](https://silent-chen.github.io/layout-guidance/)] 
+[[Code](https://github.com/silent-chen/layout-guidance)]
+
+**Training-Free Layout Control with Cross-Attention Guidance** \
+[[Website](https://arxiv.org/abs/2304.03373)] 
 [[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
 [[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
-
 
 **Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.08084)] 
