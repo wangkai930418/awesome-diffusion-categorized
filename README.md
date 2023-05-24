@@ -293,3 +293,29 @@
 **A Recipe for Watermarking Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.10137)] 
 [[Code](https://github.com/yunqing-me/watermarkdm)]
+
+
+# Segmentation & Detection & Tracking
+⭐⭐**odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
+[[CVPR 2023 Highlight](https://arxiv.org/abs/2303.04803)] 
+[[Project](https://jerryxu.net/ODISE/)] 
+[[Code](https://github.com/NVlabs/ODISE)]
+[[Demo](https://huggingface.co/spaces/xvjiarui/ODISE)]
+
+**DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
+[[Website](https://arxiv.org/abs/2303.09813)] 
+
+
+**DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.11681)] 
+[[Project](https://weijiawu.github.io/DiffusionMask/)] 
+
+**MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model for Few-Shot Instance Segmentation** \
+[[Website](https://arxiv.org/abs/2303.05105)] 
+
+**DiffusionDet: Diffusion Model for Object Detection** \
+[[Website](https://arxiv.org/abs/2211.09788)] 
+[[Code](https://github.com/shoufachen/diffusiondet)]
+
+**OVTrack: Open-Vocabulary Multiple Object Tracking** \
+[[CVPR 2023](https://arxiv.org/abs/2304.08408)] 
