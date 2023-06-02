@@ -157,6 +157,12 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/diffedit)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
 
+**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions** \
+[[Website](https://arxiv.org/abs/2305.18047)] 
+[[Code](https://github.com/QianWangX/InstructEdit)] 
+[[Project](https://qianwangx.github.io/InstructEdit/)] 
+
+
 **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
 [[Website](https://arxiv.org/abs/2304.08465)] 
 [[Project](https://ljzycmd.github.io/projects/MasaCtrl/)] 
@@ -171,6 +177,15 @@
 **HIVE: Harnessing Human Feedback for Instructional Visual Editing** \
 [[Website](https://arxiv.org/abs/2303.09618)] 
 [[Code](https://github.com/salesforce/HIVE)] 
+
+**FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
+[[Website](https://arxiv.org/abs/2305.17423)]
+
+**LayerDiffusion: Layered Controlled Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.18676)]
+
+**Text-to-image Editing by Image Information Removal** \
+[[Website](https://arxiv.org/abs/2305.17489)]
 
 **iEdit: Localised Text-guided Image Editing with Weak Supervision** \
 [[Website](https://arxiv.org/abs/2305.05947)]
