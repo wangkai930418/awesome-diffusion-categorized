@@ -326,6 +326,9 @@
 [[Website](https://arxiv.org/abs/2302.07121)] 
 [[Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
 
+**Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
+[[Website](https://arxiv.org/abs/2306.00914)] 
+
 # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15435)] 
