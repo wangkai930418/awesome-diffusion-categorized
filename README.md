@@ -173,6 +173,8 @@
 [[Website](https://arxiv.org/abs/2303.16765)] 
 [[Code](https://github.com/QianWangX/MDP-Diffusion)] 
 
+**Differential Diffusion: Giving Each Pixel Its Strength** \
+[[Website](https://arxiv.org/abs/2306.00950)] 
 
 **HIVE: Harnessing Human Feedback for Instructional Visual Editing** \
 [[Website](https://arxiv.org/abs/2303.09618)] 
