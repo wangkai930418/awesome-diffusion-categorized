@@ -173,6 +173,9 @@
 [[Website](https://arxiv.org/abs/2303.16765)] 
 [[Code](https://github.com/QianWangX/MDP-Diffusion)] 
 
+**Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
+[[Website](https://arxiv.org/abs/2305.18007)] 
+
 **Differential Diffusion: Giving Each Pixel Its Strength** \
 [[Website](https://arxiv.org/abs/2306.00950)] 
 
