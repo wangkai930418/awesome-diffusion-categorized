@@ -352,12 +352,18 @@
 [[Website](https://arxiv.org/abs/2302.07121)] 
 [[Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
 
+**Late-Constraint Diffusion Guidance for Controllable Image Synthesis** \
+[[Website](https://arxiv.org/abs/2305.11520)] 
+[[Code](https://github.com/AlonzoLeeeooo/LCDG)]
+[[Project](https://alonzoleeeooo.github.io/LCDG/)] 
+
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
 
 **Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
 [[Website](https://arxiv.org/abs/2305.20082)] 
 [[Project](https://control4darxiv.github.io/)] 
+
 
 # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
@@ -516,6 +522,8 @@
 **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09319)] 
 
+**ELODIN: Naming Concepts in Embedding Spaces** \
+[[Website](https://arxiv.org/abs/2303.04001)] 
 
 
 
