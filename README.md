@@ -321,6 +321,11 @@
 [[Code](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
 [[Project](https://shihaozhaozsh.github.io/unicontrolnet/)] 
 
+**Composer: Creative and controllable image synthesis with composable conditions** \
+[[Website](https://arxiv.org/abs/2302.09778)] 
+[[Code](https://github.com/damo-vilab/composer)]
+[[Project](https://damo-vilab.github.io/composer-page/)] 
+
 **DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.15194)] 
 [[Code](https://github.com/sungnyun/diffblender)]
