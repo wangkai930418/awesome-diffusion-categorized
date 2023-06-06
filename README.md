@@ -179,6 +179,9 @@
 **Differential Diffusion: Giving Each Pixel Its Strength** \
 [[Website](https://arxiv.org/abs/2306.00950)] 
 
+**Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.15779)] 
+
 **HIVE: Harnessing Human Feedback for Instructional Visual Editing** \
 [[Website](https://arxiv.org/abs/2303.09618)] 
 [[Code](https://github.com/salesforce/HIVE)] 
@@ -313,6 +316,21 @@
 [[Website](https://arxiv.org/abs/2302.08453)] 
 [[Code](https://github.com/TencentARC/T2I-Adapter)]
 
+⭐**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.16322)] 
+[[Code](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
+[[Project](https://shihaozhaozsh.github.io/unicontrolnet/)] 
+
+**DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.15194)] 
+[[Code](https://github.com/sungnyun/diffblender)]
+[[Project](https://sungnyun.github.io/diffblender/)] 
+
+**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation** \
+[[Website](https://arxiv.org/abs/2303.09833)] 
+[[Code](https://github.com/mhh0318/Cocktail)]
+[[Project](https://mhh0318.github.io/cocktail/)] 
+
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
 [[Website](https://arxiv.org/abs/2303.09833)] 
 [[Code](https://github.com/vvictoryuki/freedom)]
@@ -331,6 +349,10 @@
 
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
+
+**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
+[[Website](https://arxiv.org/abs/2305.20082)] 
+[[Project](https://control4darxiv.github.io/)] 
 
 # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
