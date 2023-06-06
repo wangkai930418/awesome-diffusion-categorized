@@ -201,6 +201,9 @@
 **Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.04441)]
 
+**User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques** \
+[[Website](https://arxiv.org/abs/2306.02717)]
+
 
 # Diffusion Models Inversion
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
