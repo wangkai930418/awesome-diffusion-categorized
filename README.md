@@ -285,6 +285,11 @@
 [[Project](https://time-diffusion.github.io/)] 
 [[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
 
+**Real-World Image Variation by Aligning Diffusion Inversion Chain** \
+[[Website](https://arxiv.org/abs/2305.18729)] 
+[[Project](https://rival-diff.github.io/)] 
+[[Code](https://github.com/julianjuaner/RIVAL/)]
+
 **Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2304.03869)] 
 [[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
@@ -293,8 +298,23 @@
 [[Website](https://arxiv.org/abs/2305.05189)] 
 [[Code](https://github.com/Qrange-group/SUR-adapter)]
 
+**Detector Guidance for Multi-Object Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2306.02236)] 
+[[Code](https://github.com/luping-liu/Detector-Guidance)]
+
+**Designing a Better Asymmetric VQGAN for StableDiffusion** \
+[[Website](https://arxiv.org/abs/2306.04632)] 
+[[Code](https://github.com/buxiangzhiren/Asymmetric_VQGAN)]
+
+**StyleDrop: Text-to-Image Generation in Any Style** \
+[[Website](https://arxiv.org/abs/2306.00983)] 
+[[Project](https://styledrop.github.io/)] 
+
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[Website](https://arxiv.org/abs/2305.03382)] 
+
+**Controllable Text-to-Image Generation with GPT-4** \
+[[Website](https://arxiv.org/abs/2305.18583)] 
 
 **It is all about where you start: Text-to-image generation with seed selection** \
 [[Website](https://arxiv.org/abs/2304.14530)] 
@@ -307,6 +327,8 @@
 [[Website](https://arxiv.org/abs/2305.13308)] 
 [[Code](https://github.com/ExplainableML/ImageSelect)]
 
+**Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.13921)] 
 
 
 # ControlNet 
@@ -453,8 +475,9 @@
 
 
 **BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
-[[Website](https://arxiv.org/abs/2302.13848)] 
-[[Code](https://github.com/csyxwei/ELITE)]
+[[Website](https://arxiv.org/abs/2305.14720)] 
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
+[[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
 
 **ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2302.13848)] 
