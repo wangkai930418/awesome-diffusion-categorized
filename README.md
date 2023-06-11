@@ -216,6 +216,13 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.13203)] 
 [[Code](https://github.com/zyxElsa/InST)] 
 
+**Improving Negative-Prompt Inversion via Proximal Guidance** \
+[[Website](https://arxiv.org/abs/2306.05414)] 
+[[Code](https://github.com/phymhan/prompt-to-prompt)] 
+
+**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.16807)] 
+
 **Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.07825)] 
 
@@ -366,6 +373,9 @@
 **Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
 [[Website](https://arxiv.org/abs/2305.20082)] 
 [[Project](https://control4darxiv.github.io/)] 
+
+**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt** \
+[[Website](https://arxiv.org/abs/2306.04607)] 
 
 
 # Watermark
