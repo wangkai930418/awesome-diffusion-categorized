@@ -451,6 +451,11 @@
 
 ⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** 
 
+
+**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
+[[Website](https://arxiv.org/abs/2302.13848)] 
+[[Code](https://github.com/csyxwei/ELITE)]
+
 **ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2302.13848)] 
 [[Code](https://github.com/csyxwei/ELITE)]
