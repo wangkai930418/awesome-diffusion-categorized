@@ -503,15 +503,47 @@
 [[ICML 2023 oral](https://arxiv.org/abs/2303.05125)] 
 [[Code](https://github.com/Johanan528/Cones)]
 
+**Break-A-Scene: Extracting Multiple Concepts from a Single Image** \
+[[Website](https://arxiv.org/abs/2305.16311)] 
+[[Project](https://omriavrahami.com/break-a-scene/)]
+
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
 [[Website](https://arxiv.org/abs/2211.11337)] 
 [[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
 [[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
 
+**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
+[[Website](https://arxiv.org/abs/2305.13579)] 
+[[Code](https://github.com/drboog/profusion)]
+
+**A Neural Space-Time Representation for Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2305.15391)] 
+[[Code](https://github.com/NeuralTextualInversion/NeTI)]
+[[Project](https://neuraltextualinversion.github.io/NeTI/)] 
+
 **Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2302.12228)] 
 [[Code](https://github.com/mkshing/e4t-diffusion)]
 [[Project](https://tuning-encoder.github.io/)] 
+
+**The Hidden Language of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.00966)] 
+[[Code](https://github.com/hila-chefer/Conceptor)]
+[[Project](https://hila-chefer.github.io/Conceptor/)] 
+
+**Inserting Anybody in Diffusion Models via Celeb Basis** \
+[[Website](https://arxiv.org/abs/2306.00926)] 
+[[Code](https://github.com/ygtxr1997/celebbasis)]
+[[Project](https://celeb-basis.github.io/)] 
+
+**ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.04695)] 
+[[Code](https://github.com/conceptbed/evaluations)]
+[[Project](https://conceptbed.github.io/)] 
+
+**ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
+[[Website](https://arxiv.org/abs/2305.16225)] 
+[[Code](https://github.com/zyxElsa/ProSpect)]
 
 **Subject-driven Text-to-Image Generation via Apprenticeship Learning** \
 [[Website](https://arxiv.org/abs/2304.00186)] 
@@ -550,6 +582,14 @@
 [[Website](https://arxiv.org/abs/2303.09522)] 
 [[Project](https://prompt-plus.github.io/)] 
 
+**Photoswap: Personalized Subject Swapping in Images** \
+[[Website](https://arxiv.org/abs/2305.18286)] 
+[[Project](https://photoswap.github.io/)] 
+
+**Concept Decomposition for Visual Exploration and Inspiration** \
+[[Website](https://arxiv.org/abs/2305.18203)] 
+[[Project](https://inspirationtree.github.io/inspirationtree/)] 
+
 **Gradient-Free Textual Inversion** \
 [[Website](https://arxiv.org/abs/2304.05818)] 
 
@@ -560,11 +600,18 @@
 [[Website](https://arxiv.org/abs/2304.03411)] 
 [[Project](https://jshi31.github.io/InstantBooth/)] 
 
+**Cross-domain Compositing with Pretrained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.10167)] 
+[[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
+
 **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09319)] 
 
 **ELODIN: Naming Concepts in Embedding Spaces** \
 [[Website](https://arxiv.org/abs/2303.04001)] 
+
+**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.18292)] 
 
 
 
