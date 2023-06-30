@@ -1,66 +1,30 @@
-# Continual Learning
 
-⭐**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
-[[Website](https://arxiv.org/abs/2304.06027)] 
-[[Project](https://jamessealesmith.github.io/continual-diffusion/)]
+# Diffusion Models Inversion
+⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
 
-**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
-[[Website](https://arxiv.org/abs/2305.10120)] 
-[[Code](https://github.com/clear-nus/selective-amnesia)]
+⭐⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
+[[Website](https://arxiv.org/abs/2306.05414)] 
+[[Code](https://github.com/phymhan/prompt-to-prompt)] 
 
-**RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
-[[Website](https://arxiv.org/abs/2212.05993)] 
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_RGBD2_Generative_Scene_Synthesis_via_Incremental_View_Inpainting_Using_RGBD_CVPR_2023_paper.pdf)] 
-[[Project](https://jblei.site/proj/rgbd-diffusion)] 
-[[Code](https://github.com/Karbo123/RGBD-Diffusion)]
+⭐**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
+[[Website](https://arxiv.org/abs/2305.16965)] 
+[[Code](https://github.com/gongyeliu/ssd)] 
 
-**Exploring Continual Learning of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.15342)] 
 
-**DiracDiffusion: Denoising and Incremental Reconstruction with Assured Data-Consistency** \
-[[Website](https://arxiv.org/abs/2303.14353)] 
+⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.16807)] 
 
-# Remove concept
 
-**Ablating Concepts in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.13516)] 
-[[Code](https://github.com/nupurkmr9/concept-ablation)]
-[[Project](https://www.cs.cmu.edu/~concept-ablation/)] 
+**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
+[[Website](https://arxiv.org/abs/2211.12446)] 
+[[Code](https://github.com/salesforce/edict)] 
 
-**Erasing Concepts from Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.07345)] 
-[[Code](https://github.com/rohitgandikota/erasing)]
-[[Project](https://erasing.baulab.info/)] 
+**Inversion-Based Creativity Transfer with Diffusion Models** \
+[[CVPR 2023](https://arxiv.org/abs/2211.13203)] 
+[[Code](https://github.com/zyxElsa/InST)] 
 
-**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.17591)] 
-[[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
-
-**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2304.03246)] 
-[[Code](https://github.com/abyildirim/inst-inpaint)]
-[[Project](http://instinpaint.abyildirim.com/)] 
-[[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
-
-# Few-Shot 
-**Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
-[[Website](https://arxiv.org/abs/2305.10722)] 
-
-**Few-shot Semantic Image Synthesis with Class Affinity Transfer** \
-[[CVPR 2023](https://arxiv.org/abs/2304.02321)] 
-
-**Few-Shot Diffusion Models** \
-[[Website](https://arxiv.org/abs/2205.15463)] 
-[[Code](https://github.com/georgosgeorgos/few-shot-diffusion-models)]
-
-**DiffAlign : Few-shot learning using diffusion based synthesis and alignment** \
-[[Website](https://arxiv.org/abs/2212.05404)] 
-
-**Few-shot Image Generation with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2211.03264)] 
-
-**Lafite2: Few-shot Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2210.14124)] 
+**Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.07825)] 
 
 
 # Text-Guided Image Editing
@@ -209,32 +173,72 @@
 [[Website](https://arxiv.org/abs/2306.16894)]
 
 
-# Diffusion Models Inversion
-⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
+# Continual Learning
 
-⭐⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
-[[Website](https://arxiv.org/abs/2306.05414)] 
-[[Code](https://github.com/phymhan/prompt-to-prompt)] 
+⭐**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
+[[Website](https://arxiv.org/abs/2304.06027)] 
+[[Project](https://jamessealesmith.github.io/continual-diffusion/)]
 
-⭐**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
-[[Website](https://arxiv.org/abs/2305.16965)] 
-[[Code](https://github.com/gongyeliu/ssd)] 
+**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
+[[Website](https://arxiv.org/abs/2305.10120)] 
+[[Code](https://github.com/clear-nus/selective-amnesia)]
+
+**RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
+[[Website](https://arxiv.org/abs/2212.05993)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_RGBD2_Generative_Scene_Synthesis_via_Incremental_View_Inpainting_Using_RGBD_CVPR_2023_paper.pdf)] 
+[[Project](https://jblei.site/proj/rgbd-diffusion)] 
+[[Code](https://github.com/Karbo123/RGBD-Diffusion)]
+
+**Exploring Continual Learning of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.15342)] 
+
+**DiracDiffusion: Denoising and Incremental Reconstruction with Assured Data-Consistency** \
+[[Website](https://arxiv.org/abs/2303.14353)] 
+
+# Remove concept
+
+**Ablating Concepts in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.13516)] 
+[[Code](https://github.com/nupurkmr9/concept-ablation)]
+[[Project](https://www.cs.cmu.edu/~concept-ablation/)] 
+
+**Erasing Concepts from Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.07345)] 
+[[Code](https://github.com/rohitgandikota/erasing)]
+[[Project](https://erasing.baulab.info/)] 
+
+**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.17591)] 
+[[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
+
+**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2304.03246)] 
+[[Code](https://github.com/abyildirim/inst-inpaint)]
+[[Project](http://instinpaint.abyildirim.com/)] 
+[[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
+
+# Few-Shot 
+**Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
+[[Website](https://arxiv.org/abs/2305.10722)] 
+
+**Few-shot Semantic Image Synthesis with Class Affinity Transfer** \
+[[CVPR 2023](https://arxiv.org/abs/2304.02321)] 
+
+**Few-Shot Diffusion Models** \
+[[Website](https://arxiv.org/abs/2205.15463)] 
+[[Code](https://github.com/georgosgeorgos/few-shot-diffusion-models)]
+
+**DiffAlign : Few-shot learning using diffusion based synthesis and alignment** \
+[[Website](https://arxiv.org/abs/2212.05404)] 
+
+**Few-shot Image Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.03264)] 
+
+**Lafite2: Few-shot Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2210.14124)] 
 
 
-⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.16807)] 
 
-
-**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
-[[Website](https://arxiv.org/abs/2211.12446)] 
-[[Code](https://github.com/salesforce/edict)] 
-
-**Inversion-Based Creativity Transfer with Diffusion Models** \
-[[CVPR 2023](https://arxiv.org/abs/2211.13203)] 
-[[Code](https://github.com/zyxElsa/InST)] 
-
-**Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2211.07825)] 
 
 
 
