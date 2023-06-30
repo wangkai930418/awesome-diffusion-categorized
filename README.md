@@ -204,6 +204,9 @@
 **User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques** \
 [[Website](https://arxiv.org/abs/2306.02717)]
 
+**PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing** \
+[[Website](https://arxiv.org/abs/2306.16894)]
+
 
 # Diffusion Models Inversion
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
