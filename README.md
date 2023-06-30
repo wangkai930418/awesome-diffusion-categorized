@@ -212,6 +212,19 @@
 # Diffusion Models Inversion
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
 
+⭐⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
+[[Website](https://arxiv.org/abs/2306.05414)] 
+[[Code](https://github.com/phymhan/prompt-to-prompt)] 
+
+⭐**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
+[[Website](https://arxiv.org/abs/2305.16965)] 
+[[Code](https://github.com/gongyeliu/ssd)] 
+
+
+⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.16807)] 
+
+
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
 [[Website](https://arxiv.org/abs/2211.12446)] 
 [[Code](https://github.com/salesforce/edict)] 
@@ -220,15 +233,9 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.13203)] 
 [[Code](https://github.com/zyxElsa/InST)] 
 
-**Improving Negative-Prompt Inversion via Proximal Guidance** \
-[[Website](https://arxiv.org/abs/2306.05414)] 
-[[Code](https://github.com/phymhan/prompt-to-prompt)] 
-
-**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.16807)] 
-
 **Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.07825)] 
+
 
 
 
