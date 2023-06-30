@@ -173,14 +173,15 @@
 [[Website](https://arxiv.org/abs/2303.16765)] 
 [[Code](https://github.com/QianWangX/MDP-Diffusion)] 
 
+**Differential Diffusion: Giving Each Pixel Its Strength** \
+[[Website](https://arxiv.org/abs/2306.00950)] 
+[[Code](https://github.com/exx8/differential-diffusion)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2305.18007)] 
 
-**Differential Diffusion: Giving Each Pixel Its Strength** \
-[[Website](https://arxiv.org/abs/2306.00950)] 
-
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.15779)] 
+[[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
 
 **HIVE: Harnessing Human Feedback for Instructional Visual Editing** \
 [[Website](https://arxiv.org/abs/2303.09618)] 
