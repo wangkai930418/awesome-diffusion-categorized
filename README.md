@@ -223,26 +223,6 @@
 [[Code](https://github.com/clear-nus/selective-amnesia)]
 
 
-# Few-Shot 
-**Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
-[[Website](https://arxiv.org/abs/2305.10722)] 
-
-**Few-shot Semantic Image Synthesis with Class Affinity Transfer** \
-[[CVPR 2023](https://arxiv.org/abs/2304.02321)] 
-
-**Few-Shot Diffusion Models** \
-[[Website](https://arxiv.org/abs/2205.15463)] 
-[[Code](https://github.com/georgosgeorgos/few-shot-diffusion-models)]
-
-**DiffAlign : Few-shot learning using diffusion based synthesis and alignment** \
-[[Website](https://arxiv.org/abs/2212.05404)] 
-
-**Few-shot Image Generation with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2211.03264)] 
-
-**Lafite2: Few-shot Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2210.14124)] 
-
 
 
 
@@ -636,6 +616,26 @@
 
 
 
+
+# Few-Shot 
+**Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
+[[Website](https://arxiv.org/abs/2305.10722)] 
+
+**Few-shot Semantic Image Synthesis with Class Affinity Transfer** \
+[[CVPR 2023](https://arxiv.org/abs/2304.02321)] 
+
+**Few-Shot Diffusion Models** \
+[[Website](https://arxiv.org/abs/2205.15463)] 
+[[Code](https://github.com/georgosgeorgos/few-shot-diffusion-models)]
+
+**DiffAlign : Few-shot learning using diffusion based synthesis and alignment** \
+[[Website](https://arxiv.org/abs/2212.05404)] 
+
+**Few-shot Image Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.03264)] 
+
+**Lafite2: Few-shot Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2210.14124)] 
 
 # Restoration
 
