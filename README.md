@@ -218,6 +218,11 @@
 [[Project](http://instinpaint.abyildirim.com/)] 
 [[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
 
+**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
+[[Website](https://arxiv.org/abs/2305.10120)] 
+[[Code](https://github.com/clear-nus/selective-amnesia)]
+
+
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
 [[Website](https://arxiv.org/abs/2305.10722)] 
