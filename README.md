@@ -86,9 +86,28 @@
 [[Project](https://sde-image-editing.github.io/)] 
 [[Code](https://github.com/ermongroup/SDEdit)] 
 
+⭐**DiffEdit: Diffusion-based semantic image editing with mask guidance** \
+[[ICLR 2023](https://openreview.net/forum?id=3lge0p5o-M-)] 
+[[Website](https://arxiv.org/abs/2210.11427)] 
+[[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/diffedit)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
+
+**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
+[[Website](https://arxiv.org/abs/2304.08465)] 
+[[Project](https://ljzycmd.github.io/projects/MasaCtrl/)] 
+[[Code](https://github.com/TencentARC/MasaCtrl)] 
+[[Demo](https://huggingface.co/spaces/TencentARC/MasaCtrl)]
+
+
+**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions** \
+[[Website](https://arxiv.org/abs/2305.18047)] 
+[[Code](https://github.com/QianWangX/InstructEdit)] 
+[[Project](https://qianwangx.github.io/InstructEdit/)] 
+
+
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
-
 
 
 **PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
@@ -114,24 +133,6 @@
 [[Website](https://arxiv.org/abs/2304.07090)] 
 [[Project](https://delta-denoising-score.github.io/)] 
 
-**DiffEdit: Diffusion-based semantic image editing with mask guidance** \
-[[ICLR 2023](https://openreview.net/forum?id=3lge0p5o-M-)] 
-[[Website](https://arxiv.org/abs/2210.11427)] 
-[[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/diffedit)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
-
-**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions** \
-[[Website](https://arxiv.org/abs/2305.18047)] 
-[[Code](https://github.com/QianWangX/InstructEdit)] 
-[[Project](https://qianwangx.github.io/InstructEdit/)] 
-
-
-**MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
-[[Website](https://arxiv.org/abs/2304.08465)] 
-[[Project](https://ljzycmd.github.io/projects/MasaCtrl/)] 
-[[Code](https://github.com/TencentARC/MasaCtrl)] 
-[[Demo](https://huggingface.co/spaces/TencentARC/MasaCtrl)]
 
 **MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path** \
 [[Website](https://arxiv.org/abs/2303.16765)] 
