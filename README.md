@@ -10,7 +10,6 @@
 [[Website](https://arxiv.org/abs/2305.16965)] 
 [[Code](https://github.com/gongyeliu/ssd)] 
 
-
 ⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
