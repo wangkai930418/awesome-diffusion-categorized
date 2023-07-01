@@ -1,6 +1,9 @@
 
 # Diffusion Models Inversion
-⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
+⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
+[[CVPR 2023](https://arxiv.org/abs/2211.09794)] 
+[[Project](https://null-text-inversion.github.io/)] 
+[[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
 ⭐⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
 [[Website](https://arxiv.org/abs/2306.05414)] 
@@ -12,7 +15,6 @@
 
 ⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
-
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
 [[Website](https://arxiv.org/abs/2211.12446)] 
