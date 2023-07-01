@@ -1,6 +1,9 @@
 
 # Diffusion Models Inversion
-⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** 
+⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
+[[CVPR 2023](https://arxiv.org/abs/2211.09794)] 
+[[Project](https://null-text-inversion.github.io/)] 
+[[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
 ⭐⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
 [[Website](https://arxiv.org/abs/2306.05414)] 
@@ -10,10 +13,8 @@
 [[Website](https://arxiv.org/abs/2305.16965)] 
 [[Code](https://github.com/gongyeliu/ssd)] 
 
-
 ⭐**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
-
 
 **EDICT: Exact Diffusion Inversion via Coupled Transformations** \
 [[Website](https://arxiv.org/abs/2211.12446)] 
@@ -218,25 +219,10 @@
 [[Project](http://instinpaint.abyildirim.com/)] 
 [[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
 
-# Few-Shot 
-**Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
-[[Website](https://arxiv.org/abs/2305.10722)] 
+**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
+[[Website](https://arxiv.org/abs/2305.10120)] 
+[[Code](https://github.com/clear-nus/selective-amnesia)]
 
-**Few-shot Semantic Image Synthesis with Class Affinity Transfer** \
-[[CVPR 2023](https://arxiv.org/abs/2304.02321)] 
-
-**Few-Shot Diffusion Models** \
-[[Website](https://arxiv.org/abs/2205.15463)] 
-[[Code](https://github.com/georgosgeorgos/few-shot-diffusion-models)]
-
-**DiffAlign : Few-shot learning using diffusion based synthesis and alignment** \
-[[Website](https://arxiv.org/abs/2212.05404)] 
-
-**Few-shot Image Generation with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2211.03264)] 
-
-**Lafite2: Few-shot Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2210.14124)] 
 
 
 
@@ -631,6 +617,26 @@
 
 
 
+
+# Few-Shot 
+**Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
+[[Website](https://arxiv.org/abs/2305.10722)] 
+
+**Few-shot Semantic Image Synthesis with Class Affinity Transfer** \
+[[CVPR 2023](https://arxiv.org/abs/2304.02321)] 
+
+**Few-Shot Diffusion Models** \
+[[Website](https://arxiv.org/abs/2205.15463)] 
+[[Code](https://github.com/georgosgeorgos/few-shot-diffusion-models)]
+
+**DiffAlign : Few-shot learning using diffusion based synthesis and alignment** \
+[[Website](https://arxiv.org/abs/2212.05404)] 
+
+**Few-shot Image Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.03264)] 
+
+**Lafite2: Few-shot Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2210.14124)] 
 
 # Restoration
 
