@@ -265,7 +265,7 @@
 [[Code](https://github.com/drboog/profusion)]
 
 
-⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** 
+⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
 [[CVPR 2023](https://arxiv.org/abs/2212.04489)] 
 [[Project](https://zhang-zx.github.io/SINE/)] 
 [[Code](https://github.com/zhang-zx/SINE)] 
