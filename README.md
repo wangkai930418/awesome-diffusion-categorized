@@ -543,9 +543,18 @@
 [[Code](https://github.com/conceptbed/evaluations)]
 [[Project](https://conceptbed.github.io/)] 
 
+**Controlling Text-to-Image Diffusion by Orthogonal Finetuning** \
+[[Website](https://arxiv.org/abs/2306.07280)] 
+[[Code](https://github.com/Zeju1997/ofts)]
+[[Project](https://oft.wyliu.com/)] 
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[Website](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
+
+**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation** \
+[[Website](https://arxiv.org/abs/2306.08247)] 
+[[Project](https://bigaandsmallq.github.io/COW/)] 
 
 **Subject-driven Text-to-Image Generation via Apprenticeship Learning** \
 [[Website](https://arxiv.org/abs/2304.00186)] 
@@ -615,6 +624,17 @@
 **Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.18292)] 
 
+**Cones 2: Customizable Image Synthesis with Multiple Subjects** \
+[[Website](https://arxiv.org/abs/2305.19327v1)] 
+
+**Generate Anything Anywhere in Any Scene** \
+[[Website](https://arxiv.org/abs/2306.17154)] 
+
+**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model** \
+[[Website](https://arxiv.org/abs/2306.07596)] 
+
+**Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
+[[Website](https://arxiv.org/abs/2306.06638v1)] 
 
 
 
