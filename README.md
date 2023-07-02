@@ -402,6 +402,7 @@
 [[Website](https://arxiv.org/abs/2302.10167)] 
 [[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
 
+
 **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09319)] 
 
