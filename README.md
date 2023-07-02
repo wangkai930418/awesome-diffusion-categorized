@@ -634,14 +634,14 @@
 
 
 
-# Watermark
+<!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15435)] 
 [[Project](https://pierrefdz.github.io/publications/stablesignature/)] 
 
 **A Recipe for Watermarking Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.10137)] 
-[[Code](https://github.com/yunqing-me/watermarkdm)]
+[[Code](https://github.com/yunqing-me/watermarkdm)] -->
 
 
 # Segmentation & Detection & Tracking
