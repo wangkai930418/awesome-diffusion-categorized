@@ -226,6 +226,204 @@
 
 
 
+# New concept learning
+⭐⭐⭐**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
+[[Website](https://arxiv.org/abs/2208.01618)] 
+[[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)] 
+[[Code](https://github.com/rinongal/textual_inversion)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/text_inversion)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion)] 
+
+⭐⭐⭐**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2208.12242)] 
+[[Official Dataset](https://github.com/google/dreambooth)]
+[[Unofficial Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
+[[Project](https://dreambooth.github.io/)] 
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/dreambooth)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)] 
+
+⭐⭐**Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion** \
+[[Website](https://arxiv.org/abs/2212.04488)] 
+[[Code](https://github.com/adobe-research/custom-diffusion)]
+[[Project](https://www.cs.cmu.edu/~custom-diffusion/)] 
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/training/custom_diffusion)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion)] 
+
+⭐**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
+[[Website](https://arxiv.org/abs/2305.10431)] 
+[[Code](https://github.com/mit-han-lab/fastcomposer)]
+[[Demo](https://2acfe10ec96df6f2b0.gradio.live/)]
+[[Project](https://fastcomposer.mit.edu/)] 
+
+⭐**ReVersion: Diffusion-Based Relation Inversion from Images** \
+[[Website](https://arxiv.org/abs/2303.13495)] 
+[[Code](https://github.com/ziqihuangg/ReVersion)]
+[[Project](https://ziqihuangg.github.io/projects/reversion.html)]
+
+⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** 
+
+
+**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
+[[Website](https://arxiv.org/abs/2305.14720)] 
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
+[[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
+
+**ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2302.13848)] 
+[[Code](https://github.com/csyxwei/ELITE)]
+[[Demo](https://huggingface.co/spaces/ELITE-library/ELITE)]
+
+
+**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2303.08767)] 
+[[Code](https://github.com/HiPer0/HiPer)]
+[[Project](https://hiper0.github.io/)] 
+
+**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2303.11305)] 
+[[Code](https://github.com/mkshing/svdiff-pytorch)]
+
+**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
+[[Website](https://arxiv.org/abs/2303.15433)] 
+[[Code](https://github.com/VinAIResearch/Anti-DreamBooth)]
+[[Project](https://anti-dreambooth.github.io/)] 
+
+**Cones: Concept Neurons in Diffusion Models for Customized Generation** \
+[[ICML 2023 oral](https://arxiv.org/abs/2303.05125)] 
+[[Code](https://github.com/Johanan528/Cones)]
+
+**Break-A-Scene: Extracting Multiple Concepts from a Single Image** \
+[[Website](https://arxiv.org/abs/2305.16311)] 
+[[Project](https://omriavrahami.com/break-a-scene/)]
+
+**DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
+[[Website](https://arxiv.org/abs/2211.11337)] 
+[[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
+[[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
+
+**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
+[[Website](https://arxiv.org/abs/2305.13579)] 
+[[Code](https://github.com/drboog/profusion)]
+
+**A Neural Space-Time Representation for Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2305.15391)] 
+[[Code](https://github.com/NeuralTextualInversion/NeTI)]
+[[Project](https://neuraltextualinversion.github.io/NeTI/)] 
+
+**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2302.12228)] 
+[[Code](https://github.com/mkshing/e4t-diffusion)]
+[[Project](https://tuning-encoder.github.io/)] 
+
+**The Hidden Language of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.00966)] 
+[[Code](https://github.com/hila-chefer/Conceptor)]
+[[Project](https://hila-chefer.github.io/Conceptor/)] 
+
+**Inserting Anybody in Diffusion Models via Celeb Basis** \
+[[Website](https://arxiv.org/abs/2306.00926)] 
+[[Code](https://github.com/ygtxr1997/celebbasis)]
+[[Project](https://celeb-basis.github.io/)] 
+
+**ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.04695)] 
+[[Code](https://github.com/conceptbed/evaluations)]
+[[Project](https://conceptbed.github.io/)] 
+
+**Controlling Text-to-Image Diffusion by Orthogonal Finetuning** \
+[[Website](https://arxiv.org/abs/2306.07280)] 
+[[Code](https://github.com/Zeju1997/ofts)]
+[[Project](https://oft.wyliu.com/)] 
+
+**ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
+[[Website](https://arxiv.org/abs/2305.16225)] 
+[[Code](https://github.com/zyxElsa/ProSpect)]
+
+**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation** \
+[[Website](https://arxiv.org/abs/2306.08247)] 
+[[Project](https://bigaandsmallq.github.io/COW/)] 
+
+**Subject-driven Text-to-Image Generation via Apprenticeship Learning** \
+[[Website](https://arxiv.org/abs/2304.00186)] 
+[[Project](https://open-vision-language.github.io/suti/)] 
+
+**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2305.03374)] 
+
+**Controllable Textual Inversion for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2304.05265)] 
+[[Code](https://github.com/jnzju/COTI)]
+
+**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation** \
+[[Website](https://arxiv.org/abs/2302.04841)] 
+[[Code](https://github.com/yandex-research/DVAR)]
+
+**Multiresolution Textual Inversion** \
+[[Website](https://arxiv.org/abs/2211.17115)] 
+[[Code](https://github.com/giannisdaras/multires_textual_inversion)]
+
+**Key-Locked Rank One Editing for Text-to-Image Personalization** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
+[[Project](https://research.nvidia.com/labs/par/Perfusion/)] 
+
+**Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
+[[Website](https://arxiv.org/abs/2305.03980)] 
+
+**A Closer Look at Parameter-Efficient Tuning in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.18181)] 
+[[Code](https://github.com/Xiang-cd/unet-finetune)]
+
+**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2304.02642)] 
+
+**$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2303.09522)] 
+[[Project](https://prompt-plus.github.io/)] 
+
+**Photoswap: Personalized Subject Swapping in Images** \
+[[Website](https://arxiv.org/abs/2305.18286)] 
+[[Project](https://photoswap.github.io/)] 
+
+**Concept Decomposition for Visual Exploration and Inspiration** \
+[[Website](https://arxiv.org/abs/2305.18203)] 
+[[Project](https://inspirationtree.github.io/inspirationtree/)] 
+
+**Gradient-Free Textual Inversion** \
+[[Website](https://arxiv.org/abs/2304.05818)] 
+
+**Identity Encoder for Personalized Diffusion** \
+[[Website](https://arxiv.org/abs/2304.07429)] 
+
+**InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning** \
+[[Website](https://arxiv.org/abs/2304.03411)] 
+[[Project](https://jshi31.github.io/InstantBooth/)] 
+
+**Cross-domain Compositing with Pretrained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.10167)] 
+[[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
+
+**Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
+[[Website](https://arxiv.org/abs/2303.09319)] 
+
+**ELODIN: Naming Concepts in Embedding Spaces** \
+[[Website](https://arxiv.org/abs/2303.04001)] 
+
+**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.18292)] 
+
+**Cones 2: Customizable Image Synthesis with Multiple Subjects** \
+[[Website](https://arxiv.org/abs/2305.19327v1)] 
+
+**Generate Anything Anywhere in Any Scene** \
+[[Website](https://arxiv.org/abs/2306.17154)] 
+
+**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model** \
+[[Website](https://arxiv.org/abs/2306.07596)] 
+
+**Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
+[[Website](https://arxiv.org/abs/2306.06638v1)] 
+
+
 
 
 
@@ -437,204 +635,6 @@
 **OVTrack: Open-Vocabulary Multiple Object Tracking** \
 [[CVPR 2023](https://arxiv.org/abs/2304.08408)] 
 
-
-
-# New concept learning
-⭐⭐⭐**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
-[[Website](https://arxiv.org/abs/2208.01618)] 
-[[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)] 
-[[Code](https://github.com/rinongal/textual_inversion)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/text_inversion)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion)] 
-
-⭐⭐⭐**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation** \
-[[Website](https://arxiv.org/abs/2208.12242)] 
-[[Official Dataset](https://github.com/google/dreambooth)]
-[[Unofficial Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
-[[Project](https://dreambooth.github.io/)] 
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/dreambooth)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)] 
-
-⭐⭐**Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion** \
-[[Website](https://arxiv.org/abs/2212.04488)] 
-[[Code](https://github.com/adobe-research/custom-diffusion)]
-[[Project](https://www.cs.cmu.edu/~custom-diffusion/)] 
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/training/custom_diffusion)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion)] 
-
-⭐**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
-[[Website](https://arxiv.org/abs/2305.10431)] 
-[[Code](https://github.com/mit-han-lab/fastcomposer)]
-[[Demo](https://2acfe10ec96df6f2b0.gradio.live/)]
-[[Project](https://fastcomposer.mit.edu/)] 
-
-⭐**ReVersion: Diffusion-Based Relation Inversion from Images** \
-[[Website](https://arxiv.org/abs/2303.13495)] 
-[[Code](https://github.com/ziqihuangg/ReVersion)]
-[[Project](https://ziqihuangg.github.io/projects/reversion.html)]
-
-⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** 
-
-
-**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
-[[Website](https://arxiv.org/abs/2305.14720)] 
-[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
-[[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
-
-**ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2302.13848)] 
-[[Code](https://github.com/csyxwei/ELITE)]
-[[Demo](https://huggingface.co/spaces/ELITE-library/ELITE)]
-
-
-**Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion** \
-[[Website](https://arxiv.org/abs/2303.08767)] 
-[[Code](https://github.com/HiPer0/HiPer)]
-[[Project](https://hiper0.github.io/)] 
-
-**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning** \
-[[Website](https://arxiv.org/abs/2303.11305)] 
-[[Code](https://github.com/mkshing/svdiff-pytorch)]
-
-**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
-[[Website](https://arxiv.org/abs/2303.15433)] 
-[[Code](https://github.com/VinAIResearch/Anti-DreamBooth)]
-[[Project](https://anti-dreambooth.github.io/)] 
-
-**Cones: Concept Neurons in Diffusion Models for Customized Generation** \
-[[ICML 2023 oral](https://arxiv.org/abs/2303.05125)] 
-[[Code](https://github.com/Johanan528/Cones)]
-
-**Break-A-Scene: Extracting Multiple Concepts from a Single Image** \
-[[Website](https://arxiv.org/abs/2305.16311)] 
-[[Project](https://omriavrahami.com/break-a-scene/)]
-
-**DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
-[[Website](https://arxiv.org/abs/2211.11337)] 
-[[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
-[[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
-
-**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
-[[Website](https://arxiv.org/abs/2305.13579)] 
-[[Code](https://github.com/drboog/profusion)]
-
-**A Neural Space-Time Representation for Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2305.15391)] 
-[[Code](https://github.com/NeuralTextualInversion/NeTI)]
-[[Project](https://neuraltextualinversion.github.io/NeTI/)] 
-
-**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2302.12228)] 
-[[Code](https://github.com/mkshing/e4t-diffusion)]
-[[Project](https://tuning-encoder.github.io/)] 
-
-**The Hidden Language of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.00966)] 
-[[Code](https://github.com/hila-chefer/Conceptor)]
-[[Project](https://hila-chefer.github.io/Conceptor/)] 
-
-**Inserting Anybody in Diffusion Models via Celeb Basis** \
-[[Website](https://arxiv.org/abs/2306.00926)] 
-[[Code](https://github.com/ygtxr1997/celebbasis)]
-[[Project](https://celeb-basis.github.io/)] 
-
-**ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.04695)] 
-[[Code](https://github.com/conceptbed/evaluations)]
-[[Project](https://conceptbed.github.io/)] 
-
-**Controlling Text-to-Image Diffusion by Orthogonal Finetuning** \
-[[Website](https://arxiv.org/abs/2306.07280)] 
-[[Code](https://github.com/Zeju1997/ofts)]
-[[Project](https://oft.wyliu.com/)] 
-
-**ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
-[[Website](https://arxiv.org/abs/2305.16225)] 
-[[Code](https://github.com/zyxElsa/ProSpect)]
-
-**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation** \
-[[Website](https://arxiv.org/abs/2306.08247)] 
-[[Project](https://bigaandsmallq.github.io/COW/)] 
-
-**Subject-driven Text-to-Image Generation via Apprenticeship Learning** \
-[[Website](https://arxiv.org/abs/2304.00186)] 
-[[Project](https://open-vision-language.github.io/suti/)] 
-
-**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2305.03374)] 
-
-**Controllable Textual Inversion for Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2304.05265)] 
-[[Code](https://github.com/jnzju/COTI)]
-
-**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation** \
-[[Website](https://arxiv.org/abs/2302.04841)] 
-[[Code](https://github.com/yandex-research/DVAR)]
-
-**Multiresolution Textual Inversion** \
-[[Website](https://arxiv.org/abs/2211.17115)] 
-[[Code](https://github.com/giannisdaras/multires_textual_inversion)]
-
-**Key-Locked Rank One Editing for Text-to-Image Personalization** \
-[[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
-[[Project](https://research.nvidia.com/labs/par/Perfusion/)] 
-
-**Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
-[[Website](https://arxiv.org/abs/2305.03980)] 
-
-**A Closer Look at Parameter-Efficient Tuning in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.18181)] 
-[[Code](https://github.com/Xiang-cd/unet-finetune)]
-
-**Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2304.02642)] 
-
-**$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2303.09522)] 
-[[Project](https://prompt-plus.github.io/)] 
-
-**Photoswap: Personalized Subject Swapping in Images** \
-[[Website](https://arxiv.org/abs/2305.18286)] 
-[[Project](https://photoswap.github.io/)] 
-
-**Concept Decomposition for Visual Exploration and Inspiration** \
-[[Website](https://arxiv.org/abs/2305.18203)] 
-[[Project](https://inspirationtree.github.io/inspirationtree/)] 
-
-**Gradient-Free Textual Inversion** \
-[[Website](https://arxiv.org/abs/2304.05818)] 
-
-**Identity Encoder for Personalized Diffusion** \
-[[Website](https://arxiv.org/abs/2304.07429)] 
-
-**InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning** \
-[[Website](https://arxiv.org/abs/2304.03411)] 
-[[Project](https://jshi31.github.io/InstantBooth/)] 
-
-**Cross-domain Compositing with Pretrained Diffusion Models** \
-[[Website](https://arxiv.org/abs/2302.10167)] 
-[[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
-
-**Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
-[[Website](https://arxiv.org/abs/2303.09319)] 
-
-**ELODIN: Naming Concepts in Embedding Spaces** \
-[[Website](https://arxiv.org/abs/2303.04001)] 
-
-**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.18292)] 
-
-**Cones 2: Customizable Image Synthesis with Multiple Subjects** \
-[[Website](https://arxiv.org/abs/2305.19327v1)] 
-
-**Generate Anything Anywhere in Any Scene** \
-[[Website](https://arxiv.org/abs/2306.17154)] 
-
-**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model** \
-[[Website](https://arxiv.org/abs/2306.07596)] 
-
-**Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
-[[Website](https://arxiv.org/abs/2306.06638v1)] 
 
 
 
