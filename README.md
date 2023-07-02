@@ -619,9 +619,17 @@
 **Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.13921)] 
 
+**Norm-guided latent space exploration for text-to-image generation** \
+[[Website](https://arxiv.org/abs/2306.08687)] 
 
+**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.14685)] 
 
+**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
+[[Website](https://arxiv.org/abs/2306.14544)] 
 
+**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.14408)] 
 
 
 
