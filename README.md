@@ -274,7 +274,7 @@
 [[Website](https://arxiv.org/abs/2303.11305)] 
 [[Code](https://github.com/mkshing/svdiff-pytorch)]
 
-**A Neural Space-Time Representation for Text-to-Image Personalization** \
+⭐**A Neural Space-Time Representation for Text-to-Image Personalization** \
 [[Website](https://arxiv.org/abs/2305.15391)] 
 [[Code](https://github.com/NeuralTextualInversion/NeTI)]
 [[Project](https://neuraltextualinversion.github.io/NeTI/)] 
