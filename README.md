@@ -439,6 +439,82 @@
 
 
 
+# ControlNet 
+
+⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.05543)] 
+[[Official Code](https://github.com/lllyasviel/controlnet)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_controlnet.py)] 
+
+⭐**GLIGEN: Open-Set Grounded Text-to-Image Generation** \
+[[CVPR 2023](https://arxiv.org/abs/2301.07093)] 
+[[Code](https://github.com/gligen/GLIGEN)]
+[[Demo](https://huggingface.co/spaces/gligen/demo)]
+
+⭐**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.08453)] 
+[[Code](https://github.com/TencentARC/T2I-Adapter)]
+
+⭐**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.16322)] 
+[[Code](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
+[[Project](https://shihaozhaozsh.github.io/unicontrolnet/)] 
+
+**Composer: Creative and controllable image synthesis with composable conditions** \
+[[Website](https://arxiv.org/abs/2302.09778)] 
+[[Code](https://github.com/damo-vilab/composer)]
+[[Project](https://damo-vilab.github.io/composer-page/)] 
+
+**DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.15194)] 
+[[Code](https://github.com/sungnyun/diffblender)]
+[[Project](https://sungnyun.github.io/diffblender/)] 
+
+**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation** \
+[[Website](https://arxiv.org/abs/2303.09833)] 
+[[Code](https://github.com/mhh0318/Cocktail)]
+[[Project](https://mhh0318.github.io/cocktail/)] 
+
+**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
+[[Website](https://arxiv.org/abs/2303.09833)] 
+[[Code](https://github.com/vvictoryuki/freedom)]
+
+**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
+[[Website](https://arxiv.org/abs/2305.11147)] 
+
+**Freestyle Layout-to-Image Synthesis** \
+[[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
+[[Code](https://github.com/essunny310/freestylenet)]
+[[Project](https://essunny310.github.io/FreestyleNet/)] 
+
+**Universal Guidance for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.07121)] 
+[[Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
+
+**Late-Constraint Diffusion Guidance for Controllable Image Synthesis** \
+[[Website](https://arxiv.org/abs/2305.11520)] 
+[[Code](https://github.com/AlonzoLeeeooo/LCDG)]
+[[Project](https://alonzoleeeooo.github.io/LCDG/)] 
+
+**Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
+[[Website](https://arxiv.org/abs/2306.00914)] 
+
+**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
+[[Website](https://arxiv.org/abs/2305.20082)] 
+[[Project](https://control4darxiv.github.io/)] 
+
+**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt** \
+[[Website](https://arxiv.org/abs/2306.04607)] 
+
+**Adding 3D Geometry Control to Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.08103)] 
+
+**Continuous Layout Editing of Single Images with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.13078)] 
+
+**Zero-shot spatial layout conditioning for text-to-image diffusion models** \
+[[Website](https://arxiv.org/abs/2306.13754)] 
 
 
 # T2I Diffusion Model augmentation
@@ -544,73 +620,10 @@
 [[Website](https://arxiv.org/abs/2305.13921)] 
 
 
-# ControlNet 
 
-⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2302.05543)] 
-[[Official Code](https://github.com/lllyasviel/controlnet)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_controlnet.py)] 
 
-⭐**GLIGEN: Open-Set Grounded Text-to-Image Generation** \
-[[CVPR 2023](https://arxiv.org/abs/2301.07093)] 
-[[Code](https://github.com/gligen/GLIGEN)]
-[[Demo](https://huggingface.co/spaces/gligen/demo)]
 
-⭐**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2302.08453)] 
-[[Code](https://github.com/TencentARC/T2I-Adapter)]
 
-⭐**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.16322)] 
-[[Code](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
-[[Project](https://shihaozhaozsh.github.io/unicontrolnet/)] 
-
-**Composer: Creative and controllable image synthesis with composable conditions** \
-[[Website](https://arxiv.org/abs/2302.09778)] 
-[[Code](https://github.com/damo-vilab/composer)]
-[[Project](https://damo-vilab.github.io/composer-page/)] 
-
-**DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.15194)] 
-[[Code](https://github.com/sungnyun/diffblender)]
-[[Project](https://sungnyun.github.io/diffblender/)] 
-
-**Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation** \
-[[Website](https://arxiv.org/abs/2303.09833)] 
-[[Code](https://github.com/mhh0318/Cocktail)]
-[[Project](https://mhh0318.github.io/cocktail/)] 
-
-**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
-[[Website](https://arxiv.org/abs/2303.09833)] 
-[[Code](https://github.com/vvictoryuki/freedom)]
-
-**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
-[[Website](https://arxiv.org/abs/2305.11147)] 
-
-**Freestyle Layout-to-Image Synthesis** \
-[[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
-[[Code](https://github.com/essunny310/freestylenet)]
-[[Project](https://essunny310.github.io/FreestyleNet/)] 
-
-**Universal Guidance for Diffusion Models** \
-[[Website](https://arxiv.org/abs/2302.07121)] 
-[[Code](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
-
-**Late-Constraint Diffusion Guidance for Controllable Image Synthesis** \
-[[Website](https://arxiv.org/abs/2305.11520)] 
-[[Code](https://github.com/AlonzoLeeeooo/LCDG)]
-[[Project](https://alonzoleeeooo.github.io/LCDG/)] 
-
-**Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
-[[Website](https://arxiv.org/abs/2306.00914)] 
-
-**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
-[[Website](https://arxiv.org/abs/2305.20082)] 
-[[Project](https://control4darxiv.github.io/)] 
-
-**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt** \
-[[Website](https://arxiv.org/abs/2306.04607)] 
 
 
 # Watermark
