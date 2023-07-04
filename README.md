@@ -174,6 +174,8 @@
 **PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing** \
 [[Website](https://arxiv.org/abs/2306.16894)]
 
+**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
+[[Website](https://arxiv.org/abs/2307.00522)]
 
 # Continual Learning
 
