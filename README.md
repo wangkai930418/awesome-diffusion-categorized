@@ -697,7 +697,7 @@
 **Lafite2: Few-shot Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2210.14124)] 
 
-# Restoration
+<!-- # Restoration -->
 
 
 
