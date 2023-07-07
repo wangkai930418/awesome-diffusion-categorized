@@ -604,6 +604,10 @@
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
 
+**Diffusion Self-Guidance for Controllable Image Generation** \
+[[Website](https://arxiv.org/abs/2306.00986)] 
+[[Project](https://dave.ml/selfguidance/)] 
+
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[Website](https://arxiv.org/abs/2305.03382)] 
 
