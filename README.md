@@ -228,6 +228,9 @@
 [[Website](https://arxiv.org/abs/2305.10120)] 
 [[Code](https://github.com/clear-nus/selective-amnesia)]
 
+**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
+[[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
+[[Code](https://github.com/nannullna/safe-diffusion)]
 
 
 
@@ -291,6 +294,11 @@
 ⭐**Concept Decomposition for Visual Exploration and Inspiration** \
 [[Website](https://arxiv.org/abs/2305.18203)] 
 [[Project](https://inspirationtree.github.io/inspirationtree/)] 
+
+⭐**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \
+[[Website](https://arxiv.org/abs/2307.04725)] 
+[[Project](https://animatediff.github.io/)] 
+[[Code](https://github.com/guoyww/animatediff/)]
 
 **Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2303.08767)] 
@@ -620,6 +628,8 @@
 **End-to-End Diffusion Latent Optimization Improves Classifier Guidance** \
 [[Website](https://arxiv.org/abs/2303.13703)] 
 
+**Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling** \
+[[Website](https://arxiv.org/abs/2307.03992)] 
 
 **If at First You Don’t Succeed, Try, Try Again:Faithful Diffusion-based Text-to-Image Generation by Selection** \
 [[Website](https://arxiv.org/abs/2305.13308)] 
