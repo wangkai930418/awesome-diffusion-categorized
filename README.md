@@ -300,6 +300,10 @@
 [[Project](https://animatediff.github.io/)] 
 [[Code](https://github.com/guoyww/animatediff/)]
 
+**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2307.06949)] 
+[[Project](https://hyperdreambooth.github.io/)] 
+
 **Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2303.08767)] 
 [[Code](https://github.com/HiPer0/HiPer)]
