@@ -717,12 +717,20 @@
 
 <!-- # Restoration -->
 
+# Drag Image Edit
+**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2305.10973)] 
+[[Code](https://github.com/XingangPan/DragGAN)]
+[[Project](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] 
 
 
+**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** \
+[[Website](https://arxiv.org/abs/2306.14435)] 
+[[Code](https://github.com/Yujun-Shi/DragDiffusion)]
 
-
-
-
+**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
+[[Website](https://arxiv.org/abs/2307.02421)] 
+[[Code](https://github.com/MC-E/DragonDiffusion)]
 
 
 
