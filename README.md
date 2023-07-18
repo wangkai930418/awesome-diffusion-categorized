@@ -407,6 +407,10 @@
 **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2304.02642)] 
 
+**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
+[[Website](https://arxiv.org/abs/2307.06925)] 
+[[Project](https://datencoder.github.io/)] 
+
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09522)] 
 [[Project](https://prompt-plus.github.io/)] 
