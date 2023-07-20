@@ -616,6 +616,10 @@
 [[Website](https://arxiv.org/abs/2306.04632)] 
 [[Code](https://github.com/buxiangzhiren/Asymmetric_VQGAN)]
 
+**FABRIC: Personalizing Diffusion Models with Iterative Feedback** \
+[[Website](https://arxiv.org/abs/2307.10159)] 
+[[Code](https://github.com/sd-fabric/fabric)]
+
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
@@ -623,6 +627,9 @@
 **Diffusion Self-Guidance for Controllable Image Generation** \
 [[Website](https://arxiv.org/abs/2306.00986)] 
 [[Project](https://dave.ml/selfguidance/)] 
+
+**Text2Layer: Layered Image Generation using Latent Diffusion Model** \
+[[Website](https://arxiv.org/abs/2307.09781)] 
 
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[Website](https://arxiv.org/abs/2305.03382)] 
