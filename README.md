@@ -576,6 +576,11 @@
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/semantic_stable_diffusion/pipeline_semantic_stable_diffusion.py)]
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion)] 
 
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
+[[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
+[[Code](https://github.com/Sierkinhane/BoxDiff)]
+
+
 **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness** \
 [[Website](https://arxiv.org/abs/2302.10893)] 
 [[Code](https://github.com/ml-research/fair-diffusion)]
@@ -620,6 +625,7 @@
 [[Website](https://arxiv.org/abs/2307.10159)] 
 [[Code](https://github.com/sd-fabric/fabric)]
 
+
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
@@ -627,6 +633,10 @@
 **Diffusion Self-Guidance for Controllable Image Generation** \
 [[Website](https://arxiv.org/abs/2306.00986)] 
 [[Project](https://dave.ml/selfguidance/)] 
+
+**Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
+[[Website](https://arxiv.org/abs/2307.10864)] 
+[[Project](https://sites.google.com/view/divide-and-bind)] 
 
 **Text2Layer: Layered Image Generation using Latent Diffusion Model** \
 [[Website](https://arxiv.org/abs/2307.09781)] 
