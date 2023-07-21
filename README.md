@@ -1,7 +1,7 @@
 ## Contents
 - [Resources](#resources)
-    - [Diffusion Models Inversion](#Diffusion-Models-Inversion)
-    - [Text-Guided Image Editing](#Text-Guided-Image-Editing)
+  - [Diffusion Models Inversion](#Diffusion-Models-Inversion)
+  - [Text Guided Image Editing](#Text-Guided-Image-Editing)
 
 
 
