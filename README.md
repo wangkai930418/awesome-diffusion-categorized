@@ -1,12 +1,17 @@
-## Contents
-- [Resources](#resources)
-  - [Diffusion Models Inversion](#Diffusion-Models-Inversion)
-  - [Text Guided Image Editing](#Text-Guided-Image-Editing)
+<!-- The superlink doesn't support uppercases -->
 
+- [Inversion](#diffusion-models-inversion)
+- [Text-Guided Image Editing](#text-guided-image-editing)
+- [Continual Learning](#continual-learning)
+- [Remove Concept](#remove-concept)
+- [New Concept Learning](#new-concept-learning)
+- [ControlNet](#controlnet)
+- [T2I Diffusion Model augmentation](#t2i-diffusion-model-augmentation)
+- [Segmentation & Detection & Tracking](#segmentation-detection-tracking)
+- [Few-Shot](#few-shot)
+- [Drag Image Edit](#drag-image-edit)
+- [SD Inpainting](#sd-inpaint)
 
-
-
-# Resources
 
 ## Diffusion Models Inversion
 
@@ -212,7 +217,7 @@
 **Class-Incremental Learning using Diffusion Model for Distillation and Replay** \
 [[Website](https://arxiv.org/abs/2306.175603)] 
 
-# Remove concept
+# Remove Concept
 
 **Ablating Concepts in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.13516)] 
@@ -244,7 +249,7 @@
 
 
 
-# New concept learning
+# New Concept Learning
 ⭐⭐⭐**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
 [[Website](https://arxiv.org/abs/2208.01618)] 
 [[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)] 
@@ -698,7 +703,7 @@
 [[Code](https://github.com/yunqing-me/watermarkdm)] -->
 
 
-# Segmentation & Detection & Tracking
+# Segmentation Detection Tracking
 ⭐⭐**odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
 [[CVPR 2023 Highlight](https://arxiv.org/abs/2303.04803)] 
 [[Project](https://jerryxu.net/ODISE/)] 
