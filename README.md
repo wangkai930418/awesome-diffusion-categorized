@@ -1,12 +1,15 @@
-# Contents
-- [Diffusion Models Inversion](#Diffusion-Models-Inversion)
-- [Text-Guided Image Editing](#Text-Guided-Image-Editing)
+## Contents
+- [Resources](#resources)
+    - [Diffusion Models Inversion](#Diffusion-Models-Inversion)
+    - [Text-Guided Image Editing](#Text-Guided-Image-Editing)
 
 
 
 
+# Resources
 
 ## Diffusion Models Inversion
+
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
 [[CVPR 2023](https://arxiv.org/abs/2211.09794)] 
 [[Project](https://null-text-inversion.github.io/)] 
