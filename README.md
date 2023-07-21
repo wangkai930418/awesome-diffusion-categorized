@@ -1,5 +1,12 @@
+# Contents
+- [Diffusion Models Inversion](#Diffusion-Models-Inversion)
+- [Text-Guided Image Editing](#Text-Guided-Image-Editing)
 
-# Diffusion Models Inversion
+
+
+
+
+## Diffusion Models Inversion
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
 [[CVPR 2023](https://arxiv.org/abs/2211.09794)] 
 [[Project](https://null-text-inversion.github.io/)] 
@@ -28,7 +35,7 @@
 [[Website](https://arxiv.org/abs/2211.07825)] 
 
 
-# Text-Guided Image Editing
+## Text Guided Image Editing
 ⭐⭐⭐**Prompt-to-Prompt Image Editing with Cross Attention Control** \
 [[ICLR 2023](https://openreview.net/forum?id=_CDixzkzeyb)] 
 [[Website](https://arxiv.org/abs/2211.09794)] 
