@@ -1,6 +1,6 @@
 <!-- The superlink doesn't support uppercases -->
 
-- [Inversion](#diffusion-models-inversion)
+- [Diffusion Inversion](#diffusion-models-inversion)
 - [Text-Guided Image Editing](#text-guided-image-editing)
 - [Continual Learning](#continual-learning)
 - [Remove Concept](#remove-concept)
