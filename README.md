@@ -315,6 +315,11 @@
 [[Project](https://animatediff.github.io/)] 
 [[Code](https://github.com/guoyww/animatediff/)]
 
+**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**\
+[[Website](https://arxiv.org/abs/2307.11410)] 
+[[Project](https://oppo-mente-lab.github.io/subject_diffusion/)] 
+[[Code](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)]
+
 **HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2307.06949)] 
 [[Project](https://hyperdreambooth.github.io/)] 
