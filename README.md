@@ -215,7 +215,7 @@
 [[Website](https://arxiv.org/abs/2303.14353)] 
 
 **Class-Incremental Learning using Diffusion Model for Distillation and Replay** \
-[[Website](https://arxiv.org/abs/2306.175603)] 
+[[Website](https://arxiv.org/abs/2306.17560)] 
 
 # Remove Concept
 
