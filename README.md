@@ -149,6 +149,9 @@
 [[Website](https://arxiv.org/abs/2304.07090)] 
 [[Project](https://delta-denoising-score.github.io/)] 
 
+**Visual Instruction Inversion: Image Editing via Visual Prompting** \
+[[Website](https://arxiv.org/abs/2307.14331)] 
+[[Project](https://thaoshibe.github.io/visii/)] 
 
 **MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path** \
 [[Website](https://arxiv.org/abs/2303.16765)] 
@@ -557,6 +560,8 @@
 **Zero-shot spatial layout conditioning for text-to-image diffusion models** \
 [[Website](https://arxiv.org/abs/2306.13754)] 
 
+**Composite Diffusion | whole >= \Sigma parts** \
+[[Website](https://arxiv.org/abs/2307.137204)] 
 
 # T2I Diffusion Model augmentation
 ⭐⭐**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
