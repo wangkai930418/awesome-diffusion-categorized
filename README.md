@@ -15,6 +15,20 @@
 
 ## Video Editing 
 
+⭐**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
+[[Website]](https://arxiv.org/abs/2303.09535) 
+[[Code]](https://github.com/ChenyangQiQi/FateZero) 
+[[Project](https://fate-zero-edit.github.io/)] 
+
+⭐**Video-P2P: Video Editing with Cross-attention Control** \
+[[Website]](https://arxiv.org/abs/2303.04761)
+[[Code]](https://github.com/ShaoTengLiu/Video-P2P) 
+
+⭐**Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
+[[Website]](https://arxiv.org/abs/2303.17599) 
+[[Code]](https://github.com/baaivision/vid2vid-zero) 
+
+
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
 [[Website]](https://arxiv.org/abs/2307.10373)
 [[Code]](https://github.com/omerbt/TokenFlow)
@@ -30,23 +44,10 @@
 [[Code]](https://github.com/Make-A-Protagonist/Make-A-Protagonist)
 [[Project](https://make-a-protagonist.github.io/)] 
 
-**Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
-[[Website]](https://arxiv.org/abs/2303.17599) 
-[[Code]](https://github.com/baaivision/vid2vid-zero) 
-
 **Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding** \
 [[CVPR 2023]](https://arxiv.org/abs/2212.02802) 
 [[Code]](https://github.com/man805/Diffusion-Video-Autoencoders) 
 [[Project](https://diff-video-ae.github.io/)] 
-
-**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
-[[Website]](https://arxiv.org/abs/2303.09535) 
-[[Code]](https://github.com/ChenyangQiQi/FateZero) 
-[[Project](https://fate-zero-edit.github.io/)] 
-
-**Video-P2P: Video Editing with Cross-attention Control** \
-[[Website]](https://arxiv.org/abs/2303.04761)
-[[Code]](https://github.com/ShaoTengLiu/Video-P2P) 
 
 **VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
 [[Website]](https://arxiv.org/abs//2306.08707)
