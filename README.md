@@ -147,7 +147,11 @@
 [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
 
 
-
+**Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance** \
+[[Website](https://arxiv.org/abs/2210.05559)] 
+[[Code1](https://github.com/chenwu98/unified-generative-zoo)] 
+[[Code2](https://github.com/chenwu98/cycle-diffusion)] 
+[[Diffusers Code](https://huggingface.co/docs/diffusers/main/en/api/pipelines/cycle_diffusion)] 
 
 **Delta Denoising Score** \
 [[Website](https://arxiv.org/abs/2304.07090)] 
@@ -175,6 +179,14 @@
 [[Website](https://arxiv.org/abs/2303.09618)] 
 [[Code](https://github.com/salesforce/HIVE)] 
 
+**Region-Aware Diffusion for Zero-shot Text-driven Image Editing** \
+[[Website](https://arxiv.org/abs/2302.11797v1)] 
+[[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
+
+**UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
+[[Code](https://github.com/xuduo35/UniTune)] 
+
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
 
@@ -198,6 +210,9 @@
 
 **LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
 [[Website](https://arxiv.org/abs/2307.00522)]
+
+**PRedItOR: Text Guided Image Editing with Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2302.07979v2)]
 
 # Continual Learning
 
