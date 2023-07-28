@@ -115,6 +115,11 @@
 [[Code](https://github.com/TencentARC/MasaCtrl)] 
 [[Demo](https://huggingface.co/spaces/TencentARC/MasaCtrl)]
 
+**An Edit Friendly DDPM Noise Space: Inversion and Manipulations** \
+[[Website](https://arxiv.org/abs/2304.06140)] 
+[[Code](https://github.com/inbarhub/DDPM_inversion)]
+[[Project](https://inbarhub.github.io/DDPM_inversion/)] 
+[[Demo](https://huggingface.co/spaces/LinoyTsaban/edit_friendly_ddpm_inversion)]
 
 **InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions** \
 [[Website](https://arxiv.org/abs/2305.18047)] 
@@ -142,8 +147,7 @@
 [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
 
 
-**An Edit Friendly DDPM Noise Space: Inversion and Manipulations** \
-[[Website](https://arxiv.org/abs/2304.06140)] 
+
 
 **Delta Denoising Score** \
 [[Website](https://arxiv.org/abs/2304.07090)] 
