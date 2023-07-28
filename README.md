@@ -1,5 +1,6 @@
 <!-- The superlink doesn't support uppercases -->
 
+- [Video Editing](#video-editing)
 - [Diffusion Inversion](#diffusion-models-inversion)
 - [Text-Guided Image Editing](#text-guided-image-editing)
 - [Continual Learning](#continual-learning)
@@ -12,6 +13,56 @@
 - [Drag Image Edit](#drag-image-edit)
 - [SD Inpainting](#sd-inpaint)
 
+## Video Editing 
+
+**TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
+[[Website]](https://arxiv.org/abs/2307.10373)
+[[Code]](https://github.com/omerbt/TokenFlow)
+
+**VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
+[[Website]](https://arxiv.org/abs//2306.08707)
+
+**Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** \
+[[Website]](https://arxiv.org/abs/2306.07954)
+
+**ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing** \
+[[Website]](https://arxiv.org/abs/2305.17098)
+[[Code]](https://github.com/thu-ml/controlvideo)
+
+**Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts** \
+[[Website]](https://arxiv.org/abs/2305.08850)
+[[Code]](https://github.com/Make-A-Protagonist/Make-A-Protagonist)
+
+**Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
+[[Website]](https://arxiv.org/abs/2303.17599) 
+[[Code]](https://github.com/baaivision/vid2vid-zero) 
+
+**Edit-A-Video: Single Video Editing with Object-Aware Consistency** \
+[[Website]](https://arxiv.org/abs/2303.17599) 
+
+**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
+[[Website]](https://arxiv.org/abs/2303.09535) 
+[[Code]](https://github.com/ChenyangQiQi/FateZero) 
+
+**Pix2video: Video Editing Using Image Diffusion** \
+[[Website]](https://arxiv.org/abs/2303.12688)
+
+**Video-P2P: Video Editing with Cross-attention Control** \
+[[Website]](https://arxiv.org/abs/2303.04761)
+[[Code]](https://github.com/ShaoTengLiu/Video-P2P) 
+
+**Dreamix: Video Diffusion Models Are General Video Editors** \
+[[Website]](https://arxiv.org/abs/2302.01329)
+
+**Shape-Aware Text-Driven Layered Video Editing** \
+[[Website]](https://arxiv.org/abs/2301.13173) 
+
+**Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding** \
+[[CVPR 2023]](https://arxiv.org/abs/2212.02802) 
+[[Code]](https://github.com/man805/Diffusion-Video-Autoencoders) 
+
+**Towards Consistent Video Editing with Text-to-Image Diffusion Models** \
+[[Website]](https://arxiv.org/abs/2305.17431) 
 
 ## Diffusion Models Inversion
 
