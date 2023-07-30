@@ -810,6 +810,11 @@
 [[Code](https://github.com/NVlabs/ODISE)]
 [[Demo](https://huggingface.co/spaces/xvjiarui/ODISE)]
 
+⭐**Personalize Segment Anything Model with One Shot** \
+[[Website](https://arxiv.org/abs/2305.03048)] 
+[[Code](https://github.com/ZrrSkywalker/Personalize-SAM)]
+
+
 **DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
 [[Website](https://arxiv.org/abs/2303.09813)] 
 
@@ -827,7 +832,6 @@
 
 **OVTrack: Open-Vocabulary Multiple Object Tracking** \
 [[CVPR 2023](https://arxiv.org/abs/2304.08408)] 
-
 
 
 
