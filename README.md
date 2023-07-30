@@ -12,6 +12,9 @@
 - [Few-Shot](#few-shot)
 - [Drag Image Edit](#drag-image-edit)
 - [SD Inpainting](#sd-inpaint)
+- [Document Layout Generation](#document-layout-generation)
+
+
 
 ## Video Editing 
 
@@ -619,6 +622,11 @@
 [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
 [[Project](https://alonzoleeeooo.github.io/LCDG/)] 
 
+**Freestyle Layout-to-Image Synthesis** \
+[[CVPR 2023 highlight]](https://arxiv.org/abs/2303.14412) 
+[[Code]](https://github.com/essunny310/FreestyleNet) 
+[[Project](https://essunny310.github.io/FreestyleNet/)] 
+
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
 
@@ -640,6 +648,9 @@
 
 **Composite Diffusion | whole >= \Sigma parts** \
 [[Website](https://arxiv.org/abs/2307.137204)] 
+
+**LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation** \
+[[Website]](https://arxiv.org/abs/2302.08908) 
 
 # T2I Diffusion Model augmentation
 ⭐⭐**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
@@ -682,6 +693,7 @@
 **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
 [[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
 [[Code](https://github.com/Sierkinhane/BoxDiff)]
+
 
 
 **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness** \
@@ -890,3 +902,29 @@
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** \
 [[Website](https://arxiv.org/abs/2304.09748)] 
 [[Code](https://github.com/kangyeolk/Paint-by-Sketch)]
+
+
+## Document Layout Generation
+
+⭐**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
+[[Website]](https://arxiv.org/abs/2303.08137) 
+[[Code]](https://github.com/CyberAgentAILab/layout-dm) 
+[[Project](https://cyberagentailab.github.io/layout-dm/)] 
+
+**Unifying Layout Generation with a Decoupled Diffusion Model** \
+[[Website]](https://arxiv.org/abs/2303.05049) 
+
+**PLay: Parametrically Conditioned Layout Generation using Latent Diffusion** \
+[[Website]](https://arxiv.org/abs/2301.11529) 
+
+**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
+[[Website]](https://arxiv.org/abs/2303.03755) 
+
+**Diffusion-based Document Layout Generation** \
+[[Website]](https://arxiv.org/abs/2303.10787) 
+
+**LayoutDM: Transformer-based Diffusion Model for Layout Generation** \
+[[Website]](https://arxiv.org/abs/2305.02567) 
+
+**LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models** \
+[[Website]](https://arxiv.org/abs/2303.11589) 
