@@ -907,6 +907,26 @@
 [[Website](https://arxiv.org/abs/2304.09748)] 
 [[Code](https://github.com/kangyeolk/Paint-by-Sketch)]
 
+**Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting** \
+[[CVPR 2023](https://arxiv.org/abs/2212.06909)] 
+[[Code](https://github.com/fenglinglwb/PSM)]
+
+**Delving Globally into Texture and Structure for Image Inpainting**\
+[[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
+[[Code](https://github.com/htyjers/DGTS-Inpainting)]
+
+**Image Inpainting via Iteratively Decoupled Probabilistic Modeling** \
+[[Website](https://arxiv.org/abs/2212.02963)] 
+[[Code](https://github.com/fenglinglwb/PSM)]
+
+**Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models** \
+[[Website](https://arxiv.org/abs/2304.03322)] 
+[[Code](https://github.com/ucsb-nlp-chang/copaint)]
+
+**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2212.05034)] 
+
+
 
 ## Document Layout Generation
 
