@@ -304,12 +304,12 @@
 # Remove Concept
 
 **Ablating Concepts in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.13516)] 
+[[ICCV 2023](https://arxiv.org/abs/2303.13516)] 
 [[Code](https://github.com/nupurkmr9/concept-ablation)]
 [[Project](https://www.cs.cmu.edu/~concept-ablation/)] 
 
 **Erasing Concepts from Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.07345)] 
+[[ICCV 2023](https://arxiv.org/abs/2303.07345)] 
 [[Code](https://github.com/rohitgandikota/erasing)]
 [[Project](https://erasing.baulab.info/)] 
 
