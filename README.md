@@ -172,7 +172,7 @@
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
 
 **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
-[[Website](https://arxiv.org/abs/2304.08465)] 
+[[ICCV 2023](https://arxiv.org/abs/2304.08465)] 
 [[Project](https://ljzycmd.github.io/projects/MasaCtrl/)] 
 [[Code](https://github.com/TencentARC/MasaCtrl)] 
 [[Demo](https://huggingface.co/spaces/TencentARC/MasaCtrl)]
