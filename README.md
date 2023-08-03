@@ -651,7 +651,7 @@
 [[Website](https://arxiv.org/abs/2306.13754)] 
 
 **Composite Diffusion | whole >= \Sigma parts** \
-[[Website](https://arxiv.org/abs/2307.137204)] 
+[[Website](https://arxiv.org/abs/2307.13720)] 
 
 **LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation** \
 [[Website]](https://arxiv.org/abs/2302.08908) 
@@ -940,10 +940,10 @@
 [[Project](https://cyberagentailab.github.io/layout-dm/)] 
 
 **Unifying Layout Generation with a Decoupled Diffusion Model** \
-[[Website]](https://arxiv.org/abs/2303.05049) 
+[[CVPR 2023]](https://arxiv.org/abs/2303.05049) 
 
 **PLay: Parametrically Conditioned Layout Generation using Latent Diffusion** \
-[[Website]](https://arxiv.org/abs/2301.11529) 
+[[ICML 2023]](https://arxiv.org/abs/2301.11529) 
 
 **DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
 [[Website]](https://arxiv.org/abs/2303.03755) 
@@ -952,7 +952,7 @@
 [[Website]](https://arxiv.org/abs/2303.10787) 
 
 **LayoutDM: Transformer-based Diffusion Model for Layout Generation** \
-[[Website]](https://arxiv.org/abs/2305.02567) 
+[[CVPR 2023]](https://arxiv.org/abs/2305.02567) 
 
 **LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models** \
 [[Website]](https://arxiv.org/abs/2303.11589) 
