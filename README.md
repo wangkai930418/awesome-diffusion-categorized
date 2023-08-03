@@ -19,7 +19,7 @@
 ## Video Editing 
 
 ⭐**FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
-[[Website]](https://arxiv.org/abs/2303.09535) 
+[[ICCV 2023]](https://arxiv.org/abs/2303.09535) 
 [[Code]](https://github.com/ChenyangQiQi/FateZero) 
 [[Project](https://fate-zero-edit.github.io/)] 
 
@@ -161,6 +161,7 @@
 
 ⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
 [[Website](https://arxiv.org/abs/2108.01073)] 
+[[ICLR 2022](https://openreview.net/forum?id=aBsCjcPu_tE)] 
 [[Project](https://sde-image-editing.github.io/)] 
 [[Code](https://github.com/ermongroup/SDEdit)] 
 
@@ -345,7 +346,7 @@
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion)] 
 
 ⭐⭐⭐**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation** \
-[[Website](https://arxiv.org/abs/2208.12242)] 
+[[CVPR 2023](https://arxiv.org/abs/2208.12242)] 
 [[Official Dataset](https://github.com/google/dreambooth)]
 [[Unofficial Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
 [[Project](https://dreambooth.github.io/)] 
@@ -353,7 +354,7 @@
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)] 
 
 ⭐⭐**Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion** \
-[[Website](https://arxiv.org/abs/2212.04488)] 
+[[CVPR 2023](https://arxiv.org/abs/2212.04488)] 
 [[Code](https://github.com/adobe-research/custom-diffusion)]
 [[Project](https://www.cs.cmu.edu/~custom-diffusion/)] 
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/training/custom_diffusion)] 
@@ -665,7 +666,7 @@
 [[Replicate Demo](https://replicate.com/daanelson/attend-and-excite)]
 
 ⭐**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
-[[Website](https://arxiv.org/abs/2210.00939)] 
+[[ICCV 2023](https://arxiv.org/abs/2210.00939)] 
 [[Project](https://ku-cvlab.github.io/Self-Attention-Guidance/)] 
 [[Code Official](https://github.com/KU-CVLAB/Self-Attention-Guidance)]
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_sag.py)]
@@ -934,7 +935,7 @@
 ## Document Layout Generation
 
 ⭐**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
-[[Website]](https://arxiv.org/abs/2303.08137) 
+[[CVPR 2023]](https://arxiv.org/abs/2303.08137) 
 [[Code]](https://github.com/CyberAgentAILab/layout-dm) 
 [[Project](https://cyberagentailab.github.io/layout-dm/)] 
 
