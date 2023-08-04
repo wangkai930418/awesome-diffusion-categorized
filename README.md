@@ -61,7 +61,7 @@
 [[Project](https://anonymous-31415926.github.io/)] 
 
 **Shape-Aware Text-Driven Layered Video Editing** \
-[[Website]](https://arxiv.org/abs/2301.13173) 
+[[CVPR 2023]](https://arxiv.org/abs/2301.13173) 
 [[Project](https://text-video-edit.github.io/#)] 
 
 **Pix2video: Video Editing Using Image Diffusion** \
@@ -423,7 +423,7 @@
 [[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
 
 **ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2302.13848)] 
+[[ICCV 2023](https://arxiv.org/abs/2302.13848)] 
 [[Code](https://github.com/csyxwei/ELITE)]
 [[Demo](https://huggingface.co/spaces/ELITE-library/ELITE)]
 
@@ -433,7 +433,7 @@
 
 
 **Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
-[[Website](https://arxiv.org/abs/2303.15433)] 
+[[ICCV 2023](https://arxiv.org/abs/2303.15433)] 
 [[Code](https://github.com/VinAIResearch/Anti-DreamBooth)]
 [[Project](https://anti-dreambooth.github.io/)] 
 
@@ -498,7 +498,7 @@
 [[Code](https://github.com/yandex-research/DVAR)]
 
 **Multiresolution Textual Inversion** \
-[[Website](https://arxiv.org/abs/2211.17115)] 
+[[Neurips 2022 workshop](https://arxiv.org/abs/2211.17115)] 
 [[Code](https://github.com/giannisdaras/multires_textual_inversion)]
 
 **Key-Locked Rank One Editing for Text-to-Image Personalization** \
@@ -606,7 +606,7 @@
 [[Project](https://mhh0318.github.io/cocktail/)] 
 
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
-[[Website](https://arxiv.org/abs/2303.09833)] 
+[[ICCV 2023](https://arxiv.org/abs/2303.09833)] 
 [[Code](https://github.com/vvictoryuki/freedom)]
 
 **UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
@@ -831,7 +831,7 @@
 [[Website](https://arxiv.org/abs/2303.05105)] 
 
 **DiffusionDet: Diffusion Model for Object Detection** \
-[[Website](https://arxiv.org/abs/2211.09788)] 
+[[ICCV 2023](https://arxiv.org/abs/2211.09788)] 
 [[Code](https://github.com/shoufachen/diffusiondet)]
 
 **OVTrack: Open-Vocabulary Multiple Object Tracking** \
