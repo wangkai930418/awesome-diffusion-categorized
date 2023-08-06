@@ -13,6 +13,7 @@
 - [Drag Image Edit](#drag-image-edit)
 - [SD Inpainting](#sd-inpaint)
 - [Document Layout Generation](#document-layout-generation)
+- [Super Resolution](#super-resolution)
 
 
 
@@ -956,3 +957,25 @@
 
 **LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models** \
 [[Website]](https://arxiv.org/abs/2303.11589) 
+
+
+## Super Resolution
+⭐⭐⭐**Image Super-Resolution via Iterative Refinement** \
+[[Website]](https://arxiv.org/abs/2104.07636) 
+[[Code]](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) 
+[[Project](https://iterative-refinement.github.io/)] 
+
+⭐**Exploiting Diffusion Prior for Real-World Image Super-Resolution** \
+[[Website]](https://arxiv.org/abs/2305.07015) 
+[[Code]](https://github.com/IceClear/StableSR) 
+[[Project](https://iceclear.github.io/projects/stablesr/)] 
+
+**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
+[[Website]](https://arxiv.org/abs/2307.12348) 
+[[Code]](https://github.com/zsyoaoa/resshift) 
+
+**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution** \
+[[Website]](https://arxiv.org/abs/2305.15357) 
+
+**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models** \
+[[Website]](https://arxiv.org/abs/2306.00714) 
