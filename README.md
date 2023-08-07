@@ -961,7 +961,7 @@
 
 ## Super Resolution
 ⭐⭐⭐**Image Super-Resolution via Iterative Refinement** \
-[[Website]](https://arxiv.org/abs/2104.07636) 
+[[TPAMI]](https://arxiv.org/abs/2104.07636) 
 [[Code]](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) 
 [[Project](https://iterative-refinement.github.io/)] 
 
