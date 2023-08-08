@@ -115,7 +115,7 @@
 [[Replicate Demo](https://replicate.com/cjwbw/prompt-to-prompt)]
 
 ⭐⭐⭐**Zero-shot Image-to-Image Translation** \
-[[CVPR 2023](https://arxiv.org/abs/2302.03027)] 
+[[SIGGRAPH 2023](https://arxiv.org/abs/2302.03027)] 
 [[Project](https://pix2pixzero.github.io/)] 
 [[Code](https://github.com/pix2pixzero/pix2pix-zero)] 
 [[Demo](https://huggingface.co/spaces/pix2pix-zero-library/pix2pix-zero-demo)] 
