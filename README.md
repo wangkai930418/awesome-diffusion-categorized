@@ -193,6 +193,7 @@
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
+[[Code](https://github.com/sen-mao/StyleDiffusion)] 
 
 
 **PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
