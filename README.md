@@ -607,12 +607,16 @@
 [[Code](https://github.com/mhh0318/Cocktail)]
 [[Project](https://mhh0318.github.io/cocktail/)] 
 
+**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
+[[Website](https://arxiv.org/abs/2305.11147)] 
+[[Code](https://github.com/salesforce/UniControl)]
+[[Project](https://canqin001.github.io/UniControl-Page/)] 
+
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2303.09833)] 
 [[Code](https://github.com/vvictoryuki/freedom)]
 
-**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
-[[Website](https://arxiv.org/abs/2305.11147)] 
+
 
 **Freestyle Layout-to-Image Synthesis** \
 [[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
