@@ -754,6 +754,11 @@
 [[Website](https://arxiv.org/abs/2307.10159)] 
 [[Code](https://github.com/sd-fabric/fabric)]
 
+**ConceptLab: Creative Generation using Diffusion Prior Constraints** \
+[[Website](https://arxiv.org/abs/2308.02669)] 
+[[Code](https://github.com/kfirgoldberg/ConceptLab)]
+[[Project](https://kfirgoldberg.github.io/ConceptLab/)] 
+
 
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
