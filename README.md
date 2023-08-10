@@ -115,7 +115,7 @@
 [[Replicate Demo](https://replicate.com/cjwbw/prompt-to-prompt)]
 
 ⭐⭐⭐**Zero-shot Image-to-Image Translation** \
-[[CVPR 2023](https://arxiv.org/abs/2302.03027)] 
+[[SIGGRAPH 2023](https://arxiv.org/abs/2302.03027)] 
 [[Project](https://pix2pixzero.github.io/)] 
 [[Code](https://github.com/pix2pixzero/pix2pix-zero)] 
 [[Demo](https://huggingface.co/spaces/pix2pix-zero-library/pix2pix-zero-demo)] 
@@ -193,6 +193,7 @@
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
+[[Code](https://github.com/sen-mao/StyleDiffusion)] 
 
 
 **PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
@@ -606,12 +607,16 @@
 [[Code](https://github.com/mhh0318/Cocktail)]
 [[Project](https://mhh0318.github.io/cocktail/)] 
 
+**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
+[[Website](https://arxiv.org/abs/2305.11147)] 
+[[Code](https://github.com/salesforce/UniControl)]
+[[Project](https://canqin001.github.io/UniControl-Page/)] 
+
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2303.09833)] 
 [[Code](https://github.com/vvictoryuki/freedom)]
 
-**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild** \
-[[Website](https://arxiv.org/abs/2305.11147)] 
+
 
 **Freestyle Layout-to-Image Synthesis** \
 [[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
