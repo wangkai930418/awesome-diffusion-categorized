@@ -704,6 +704,10 @@
 [[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
 [[Code](https://github.com/Sierkinhane/BoxDiff)]
 
+**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2304.03373)] 
+[[Project](https://layoutllm-t2i.github.io/)] 
+[[Code](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)]
 
 
 **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness** \
@@ -749,6 +753,11 @@
 **FABRIC: Personalizing Diffusion Models with Iterative Feedback** \
 [[Website](https://arxiv.org/abs/2307.10159)] 
 [[Code](https://github.com/sd-fabric/fabric)]
+
+**ConceptLab: Creative Generation using Diffusion Prior Constraints** \
+[[Website](https://arxiv.org/abs/2308.02669)] 
+[[Code](https://github.com/kfirgoldberg/ConceptLab)]
+[[Project](https://kfirgoldberg.github.io/ConceptLab/)] 
 
 
 **StyleDrop: Text-to-Image Generation in Any Style** \
