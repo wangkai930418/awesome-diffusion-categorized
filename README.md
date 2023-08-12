@@ -6,7 +6,7 @@
 - [Continual Learning](#continual-learning)
 - [Remove Concept](#remove-concept)
 - [New Concept Learning](#new-concept-learning)
-- [ControlNet](#controlnet)
+- [Additional Conditions](#additional-conditions)
 - [T2I Diffusion Model augmentation](#t2i-diffusion-model-augmentation)
 - [Segmentation & Detection & Tracking](#segmentation-detection-tracking)
 - [Few-Shot](#few-shot)
@@ -448,7 +448,7 @@
 
 
 **Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2302.12228)] 
+[[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
 [[Code](https://github.com/mkshing/e4t-diffusion)]
 [[Project](https://tuning-encoder.github.io/)] 
 
@@ -570,7 +570,7 @@
 
 
 
-# ControlNet 
+# Additional conditions 
 
 ⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.05543)] 
@@ -636,6 +636,15 @@
 [[CVPR 2023 highlight]](https://arxiv.org/abs/2303.14412) 
 [[Code]](https://github.com/essunny310/FreestyleNet) 
 [[Project](https://essunny310.github.io/FreestyleNet/)] 
+
+**Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
+[[Project](https://mcm-diffusion.github.io/)] 
+
+**Sketch-Guided Text-to-Image Diffusion Models** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2211.13752)] 
+[[Project](https://sketch-guided-diffusion.github.io/)] 
+[[Code]](https://github.com/Mikubill/sketch2img) 
 
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
@@ -912,6 +921,11 @@
 [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Avrahami_Blended_Diffusion_for_Text-Driven_Editing_of_Natural_Images_CVPR_2022_paper.html)] 
 [[Project](https://omriavrahami.com/blended-diffusion-page/)]
 [[Code](https://github.com/omriav/blended-diffusion)]
+
+**Blended Latent Diffusion** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2206.02779)] 
+[[Code](https://github.com/omriav/blended-latent-diffusion)]
+[[Project](https://omriavrahami.com/blended-latent-diffusion-page/)]
 
 **Paint by Example: Exemplar-based Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.13227)] 
