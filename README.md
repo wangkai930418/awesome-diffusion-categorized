@@ -660,6 +660,10 @@
 [[Project](https://sketch-guided-diffusion.github.io/)] 
 [[Code]](https://github.com/Mikubill/sketch2img) 
 
+**SpaText: Spatio-Textual Representation for Controllable Image Generation**\
+[[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
+[[Project]](https://omriavrahami.com/spatext/g) 
+
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
 
