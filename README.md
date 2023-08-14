@@ -631,6 +631,11 @@
 [[Code](https://github.com/vvictoryuki/freedom)]
 
 
+**Collaborative Diffusion for Multi-Modal Face Generation and Editing** \
+[[CVPR 2023](https://arxiv.org/abs/2304.10530)] 
+[[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)]
+[[Project](https://ziqihuangg.github.io/projects/collaborative-diffusion.html)] 
+
 
 **Freestyle Layout-to-Image Synthesis** \
 [[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
