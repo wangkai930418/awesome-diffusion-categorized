@@ -706,10 +706,11 @@
 [[Demo](https://huggingface.co/spaces/susunghong/Self-Attention-Guidance)]
 
 ⭐**Expressive Text-to-Image Generation with Rich Text** \
-[[Website](https://arxiv.org/abs/2304.06720)] 
+[[ICCV 2023](https://arxiv.org/abs/2304.06720)] 
 [[Project](https://rich-text-to-image.github.io/)] 
 [[Code](https://github.com/SongweiGe/rich-text-to-image)]
 [[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
+
 
 ⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
 [[ICML 2023](https://arxiv.org/abs/2302.08113)] 
@@ -726,9 +727,22 @@
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/semantic_stable_diffusion/pipeline_semantic_stable_diffusion.py)]
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion)] 
 
+
+**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models** \
+[[ICCV 2023](https://arxiv.org/abs/2303.13126)] 
+[[Project](https://magicfusion.github.io/)]
+[[Code](https://github.com/MagicFusion/MagicFusion.github.io)]
+
+**Discriminative Class Tokens for Text-to-Image Diffusion Models** \
+[[ICCV 2023](https://arxiv.org/abs/2303.17155)] 
+[[Project](https://vesteinn.github.io/disco/)]
+[[Code](https://github.com/idansc/discriminative_class_tokens)]
+
+
 **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
 [[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
 [[Code](https://github.com/Sierkinhane/BoxDiff)]
+
 
 **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2304.03373)] 
