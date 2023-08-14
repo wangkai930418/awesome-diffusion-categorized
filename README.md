@@ -234,6 +234,11 @@
 [[Website](https://arxiv.org/abs/2306.00950)] 
 [[Code](https://github.com/exx8/differential-diffusion)] 
 
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
+
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2305.18007)] 
 
@@ -769,6 +774,10 @@
 [[Project](https://kfirgoldberg.github.io/ConceptLab/)] 
 
 
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
+
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
@@ -958,6 +967,11 @@
 **Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models** \
 [[Website](https://arxiv.org/abs/2304.03322)] 
 [[Code](https://github.com/ucsb-nlp-chang/copaint)]
+
+
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
 **SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2212.05034)] 
