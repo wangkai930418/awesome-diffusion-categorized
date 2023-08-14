@@ -583,6 +583,15 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_controlnet.py)] 
 
+⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
+[[ICML 2023](https://arxiv.org/abs/2302.08113)] 
+[[Project](https://multidiffusion.github.io/)] 
+[[Code](https://github.com/omerbt/MultiDiffusion)]
+[[Demo](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)]
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_panorama.py)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/panorama#multidiffusion-fusing-diffusion-paths-for-controlled-image-generation)] 
+[[Replicate Demo](https://replicate.com/omerbt/multidiffusion)]
+
 ⭐**GLIGEN: Open-Set Grounded Text-to-Image Generation** \
 [[CVPR 2023](https://arxiv.org/abs/2301.07093)] 
 [[Code](https://github.com/gligen/GLIGEN)]
@@ -653,6 +662,9 @@
 
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
+
+**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2308.06027)] 
 
 **Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
 [[Website](https://arxiv.org/abs/2305.20082)] 
