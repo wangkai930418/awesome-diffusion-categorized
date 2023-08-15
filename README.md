@@ -1106,7 +1106,7 @@
 ## X2I X2X
 
 **GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation** \
-[[Website]](https://arxiv.org/abs/2303.10056) 
+[[ICCV 2023]](https://arxiv.org/abs/2303.10056) 
 [[Code]](https://github.com/salesforce/GlueGen) 
 
 **Any-to-Any Generation via Composable Diffusion** \
