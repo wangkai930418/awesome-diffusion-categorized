@@ -234,6 +234,11 @@
 [[Website](https://arxiv.org/abs/2306.00950)] 
 [[Code](https://github.com/exx8/differential-diffusion)] 
 
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
+
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2305.18007)] 
 
@@ -578,6 +583,15 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/controlnet)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_controlnet.py)] 
 
+⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
+[[ICML 2023](https://arxiv.org/abs/2302.08113)] 
+[[Project](https://multidiffusion.github.io/)] 
+[[Code](https://github.com/omerbt/MultiDiffusion)]
+[[Demo](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)]
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_panorama.py)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/panorama#multidiffusion-fusing-diffusion-paths-for-controlled-image-generation)] 
+[[Replicate Demo](https://replicate.com/omerbt/multidiffusion)]
+
 ⭐**GLIGEN: Open-Set Grounded Text-to-Image Generation** \
 [[CVPR 2023](https://arxiv.org/abs/2301.07093)] 
 [[Code](https://github.com/gligen/GLIGEN)]
@@ -617,6 +631,11 @@
 [[Code](https://github.com/vvictoryuki/freedom)]
 
 
+**Collaborative Diffusion for Multi-Modal Face Generation and Editing** \
+[[CVPR 2023](https://arxiv.org/abs/2304.10530)] 
+[[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)]
+[[Project](https://ziqihuangg.github.io/projects/collaborative-diffusion.html)] 
+
 
 **Freestyle Layout-to-Image Synthesis** \
 [[CVPR 2023 highlight](https://arxiv.org/abs/2303.14412)] 
@@ -646,8 +665,19 @@
 [[Project](https://sketch-guided-diffusion.github.io/)] 
 [[Code]](https://github.com/Mikubill/sketch2img) 
 
+**SpaText: Spatio-Textual Representation for Controllable Image Generation**\
+[[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
+[[Project]](https://omriavrahami.com/spatext/g) 
+
+**Late-Constraint Diffusion Guidance for Controllable Image Synthesis** \
+[[Website](https://arxiv.org/abs/2305.11520)] 
+[[Code]](https://github.com/AlonzoLeeeooo/LCDG) 
+
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
+
+**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2308.06027)] 
 
 **Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
 [[Website](https://arxiv.org/abs/2305.20082)] 
@@ -689,10 +719,11 @@
 [[Demo](https://huggingface.co/spaces/susunghong/Self-Attention-Guidance)]
 
 ⭐**Expressive Text-to-Image Generation with Rich Text** \
-[[Website](https://arxiv.org/abs/2304.06720)] 
+[[ICCV 2023](https://arxiv.org/abs/2304.06720)] 
 [[Project](https://rich-text-to-image.github.io/)] 
 [[Code](https://github.com/SongweiGe/rich-text-to-image)]
 [[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
+
 
 ⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
 [[ICML 2023](https://arxiv.org/abs/2302.08113)] 
@@ -708,6 +739,18 @@
 [[Code](https://github.com/ml-research/semantic-image-editing)]
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/semantic_stable_diffusion/pipeline_semantic_stable_diffusion.py)]
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion)] 
+
+
+**MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models** \
+[[ICCV 2023](https://arxiv.org/abs/2303.13126)] 
+[[Project](https://magicfusion.github.io/)]
+[[Code](https://github.com/MagicFusion/MagicFusion.github.io)]
+
+**Discriminative Class Tokens for Text-to-Image Diffusion Models** \
+[[ICCV 2023](https://arxiv.org/abs/2303.17155)] 
+[[Project](https://vesteinn.github.io/disco/)]
+[[Code](https://github.com/idansc/discriminative_class_tokens)]
+
 
 **BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
 [[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
@@ -743,6 +786,14 @@
 [[Project](https://time-diffusion.github.io/)] 
 [[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
 
+**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
+[[Website](https://arxiv.org/abs/2305.13655)] 
+[[Project](https://llm-grounded-diffusion.github.io/)] 
+[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
+[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
+[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
+
+
 **Real-World Image Variation by Aligning Diffusion Inversion Chain** \
 [[Website](https://arxiv.org/abs/2305.18729)] 
 [[Project](https://rival-diff.github.io/)] 
@@ -773,6 +824,10 @@
 [[Code](https://github.com/kfirgoldberg/ConceptLab)]
 [[Project](https://kfirgoldberg.github.io/ConceptLab/)] 
 
+
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
@@ -963,6 +1018,11 @@
 **Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models** \
 [[Website](https://arxiv.org/abs/2304.03322)] 
 [[Code](https://github.com/ucsb-nlp-chang/copaint)]
+
+
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
 **SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2212.05034)] 
