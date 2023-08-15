@@ -659,6 +659,11 @@
 [[Code]](https://github.com/essunny310/FreestyleNet) 
 [[Project](https://essunny310.github.io/FreestyleNet/)] 
 
+**HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation** \
+[[ICCV 2023]](https://arxiv.org/abs/2304.04269) 
+[[Code]](https://github.com/IDEA-Research/HumanSD) 
+[[Project](https://idea-research.github.io/HumanSD/)] 
+
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
 [[Project](https://mcm-diffusion.github.io/)] 
@@ -1020,6 +1025,11 @@
 [[ICCV 2023](https://arxiv.org/abs/2307.12493)] 
 [[Code](https://github.com/Shilin-LU/TF-ICON)]
 [[Project](https://shilin-lu.github.io/tf-icon.github.io/)]
+
+**AnyDoor: Zero-shot Object-level Image Customization** \
+[[Website](https://arxiv.org/abs/2307.09481)] 
+[[Project](https://damo-vilab.github.io/AnyDoor-Page/)]
+[[Code](https://github.com/damo-vilab/AnyDoor)] 
 
 
 **Delving Globally into Texture and Structure for Image Inpainting**\
