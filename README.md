@@ -33,6 +33,11 @@
 [[Website]](https://arxiv.org/abs/2303.17599) 
 [[Code]](https://github.com/baaivision/vid2vid-zero) 
 
+**Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** \
+[[ICCV 2023]](https://arxiv.org/abs/2212.11565)
+[[Code]](https://github.com/showlab/Tune-A-Video)
+[[Project](https://tuneavideo.github.io/)] 
+
 
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
 [[Website]](https://arxiv.org/abs/2307.10373)
@@ -54,6 +59,11 @@
 [[Code]](https://github.com/man805/Diffusion-Video-Autoencoders) 
 [[Project](https://diff-video-ae.github.io/)] 
 
+**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
+[[Website]](https://arxiv.org/abs/2305.05464)
+[[Code](https://github.com/haha-lisa/style-a-video)] 
+
+
 **VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
 [[Website]](https://arxiv.org/abs//2306.08707)
 [[Project](https://videdit.github.io/)] 
@@ -74,6 +84,7 @@
 
 **Towards Consistent Video Editing with Text-to-Image Diffusion Models** \
 [[Website]](https://arxiv.org/abs/2305.17431) 
+
 
 
 
