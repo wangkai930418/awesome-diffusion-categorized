@@ -713,6 +713,11 @@
 [[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
 [[Code](https://github.com/Sierkinhane/BoxDiff)]
 
+**Compositional Visual Generation with Composable Diffusion Models** \
+[[ECCV 2022](https://arxiv.org/abs/2206.01714)] 
+[[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
+[[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] 
+
 **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2304.03373)] 
 [[Project](https://layoutllm-t2i.github.io/)] 
