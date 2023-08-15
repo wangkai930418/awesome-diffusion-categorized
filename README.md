@@ -14,6 +14,7 @@
 - [Inpainting](#sd-inpaint)
 - [Doc Layout](#document-layout-generation)
 - [Super Resolution](#super-resolution)
+- [X2I/X2X](#x2i-x2x)
 
 
 
@@ -1102,7 +1103,7 @@
 [[Website]](https://arxiv.org/abs/2306.00714) 
 
 
-## X2I/X2X
+## X2I X2X
 
 **GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation** \
 [[Website]](https://arxiv.org/abs/2303.10056) 
