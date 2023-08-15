@@ -1016,6 +1016,12 @@
 [[CVPR 2023](https://arxiv.org/abs/2212.06909)] 
 [[Code](https://github.com/fenglinglwb/PSM)]
 
+**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition** \
+[[ICCV 2023](https://arxiv.org/abs/2307.12493)] 
+[[Code](https://github.com/Shilin-LU/TF-ICON)]
+[[Project](https://shilin-lu.github.io/tf-icon.github.io/)]
+
+
 **Delving Globally into Texture and Structure for Image Inpainting**\
 [[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
 [[Code](https://github.com/htyjers/DGTS-Inpainting)]
