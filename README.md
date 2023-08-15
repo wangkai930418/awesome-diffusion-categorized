@@ -195,6 +195,9 @@
 [[Website](https://arxiv.org/abs/2303.15649)] 
 [[Code](https://github.com/sen-mao/StyleDiffusion)] 
 
+**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.09869)] 
+[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
 **PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17546)] 
@@ -760,6 +763,12 @@
 [[ECCV 2022](https://arxiv.org/abs/2206.01714)] 
 [[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
 [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] 
+
+**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis** \
+[[Arxiv](https://arxiv.org/abs/2212.05032)] 
+[[ICLR 2023 openreview](https://openreview.net/forum?id=PUIqjT4rzq7)] 
+[[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
+[[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
 
 **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2304.03373)] 
