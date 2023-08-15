@@ -782,6 +782,14 @@
 [[Project](https://time-diffusion.github.io/)] 
 [[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
 
+**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
+[[Website](https://arxiv.org/abs/2305.13655)] 
+[[Project](https://llm-grounded-diffusion.github.io/)] 
+[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
+[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
+[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
+
+
 **Real-World Image Variation by Aligning Diffusion Inversion Chain** \
 [[Website](https://arxiv.org/abs/2305.18729)] 
 [[Project](https://rival-diff.github.io/)] 
