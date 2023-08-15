@@ -2,17 +2,17 @@
 
 - [Video Editing](#video-editing)
 - [Diffusion Inversion](#diffusion-models-inversion)
-- [Text-Guided Image Editing](#text-guided-image-editing)
+- [Text-Guided Editing](#text-guided-image-editing)
 - [Continual Learning](#continual-learning)
 - [Remove Concept](#remove-concept)
 - [New Concept Learning](#new-concept-learning)
 - [Additional Conditions](#additional-conditions)
 - [T2I Model augmentation](#t2i-diffusion-model-augmentation)
-- [Segmentation&Detection&Tracking](#segmentation-detection-tracking)
+- [Seg & Detect & Track](#segmentation-detection-tracking)
 - [Few-Shot](#few-shot)
 - [Drag Image Edit](#drag-image-edit)
-- [SD Inpainting](#sd-inpaint)
-- [Document Layout Generation](#document-layout-generation)
+- [Inpainting](#sd-inpaint)
+- [Doc Layout](#document-layout-generation)
 - [Super Resolution](#super-resolution)
 
 
@@ -1100,3 +1100,15 @@
 
 **Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models** \
 [[Website]](https://arxiv.org/abs/2306.00714) 
+
+
+## X2I/X2X
+
+**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation** \
+[[Website]](https://arxiv.org/abs/2303.10056) 
+[[Code]](https://github.com/salesforce/GlueGen) 
+
+**Any-to-Any Generation via Composable Diffusion** \
+[[Website]](https://arxiv.org/abs/2305.11846) 
+[[Code]](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) 
+[[Project](https://codi-gen.github.io/)] 
