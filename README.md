@@ -621,6 +621,11 @@
 [[Code](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
 [[Project](https://shihaozhaozsh.github.io/unicontrolnet/)] 
 
+⭐**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2308.06721)] 
+[[Code](https://github.com/tencent-ailab/IP-Adapter)]
+[[Project](https://ip-adapter.github.io/)] 
+
 **Composer: Creative and controllable image synthesis with composable conditions** \
 [[Website](https://arxiv.org/abs/2302.09778)] 
 [[Code](https://github.com/damo-vilab/composer)]
