@@ -994,7 +994,10 @@
 [[Website](https://arxiv.org/abs/2307.02421)] 
 [[Code](https://github.com/MC-E/DragonDiffusion)]
 
-
+**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory** \
+[[Website](https://arxiv.org/abs/2308.08089)] 
+[[Code](https://github.com/MC-E/DragonDiffusion)]
+[[Project](https://mc-e.github.io/project/DragonDiffusion/)] 
 
 
 
@@ -1118,6 +1121,8 @@
 **Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models** \
 [[Website]](https://arxiv.org/abs/2306.00714) 
 
+**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
+[[Website]](https://arxiv.org/abs/2308.07977) 
 
 ## X2I X2X
 
