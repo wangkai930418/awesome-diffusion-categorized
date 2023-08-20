@@ -92,7 +92,7 @@
 **Text2LIVE: Text-Driven Layered Image and Video Editing** \
 [[ECCV 2022 Oral]](https://arxiv.org/pdf/2204.02491.pdf) 
 [[Project](https://text2live.github.io/)] 
-
+[[code]](https://github.com/omerbt/Text2LIVE)
 
 
 
