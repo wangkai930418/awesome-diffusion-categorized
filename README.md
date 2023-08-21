@@ -237,6 +237,7 @@
 [[Website](https://arxiv.org/abs/2304.07090)] 
 [[Project](https://delta-denoising-score.github.io/)] 
 
+
 **Visual Instruction Inversion: Image Editing via Visual Prompting** \
 [[Website](https://arxiv.org/abs/2307.14331)] 
 [[Project](https://thaoshibe.github.io/visii/)] 
@@ -271,6 +272,11 @@
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)] 
+
+**Watch Your Steps: Local Image and Scene Editing by Text Instructions** \
+[[Website](https://arxiv.org/abs/2308.08947)]
+[[Project](https://ashmrz.github.io/WatchYourSteps/)] 
+
 
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
