@@ -38,6 +38,10 @@
 [[Code]](https://github.com/showlab/Tune-A-Video)
 [[Project](https://tuneavideo.github.io/)] 
 
+**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** \
+[[Website]](https://arxiv.org/abs/2308.07926)
+[[Code]](https://github.com/qiuyu96/CoDeF)
+[[Project]](https://qiuyu96.github.io/CoDeF/)
 
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
 [[Website]](https://arxiv.org/abs/2307.10373)
@@ -85,6 +89,10 @@
 **Towards Consistent Video Editing with Text-to-Image Diffusion Models** \
 [[Website]](https://arxiv.org/abs/2305.17431) 
 
+**Text2LIVE: Text-Driven Layered Image and Video Editing** \
+[[ECCV 2022 Oral]](https://arxiv.org/pdf/2204.02491.pdf) 
+[[Project](https://text2live.github.io/)] 
+[[code]](https://github.com/omerbt/Text2LIVE)
 
 
 
