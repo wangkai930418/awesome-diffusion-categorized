@@ -27,7 +27,7 @@
 
 ⭐**Video-P2P: Video Editing with Cross-attention Control** \
 [[Website](https://arxiv.org/abs/2303.04761)]
-[[Code](https://github.com/ShaoTengLiu/Video-P2P) 
+[[Code](https://github.com/ShaoTengLiu/Video-P2P)]
 
 ⭐**Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
