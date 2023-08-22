@@ -1,5 +1,6 @@
 <!-- The superlink doesn't support uppercases -->
 
+- [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
 - [Diffusion Inversion](#diffusion-models-inversion)
 - [Text-Guided Editing](#text-guided-image-editing)
@@ -16,6 +17,48 @@
 - [Super Resolution](#super-resolution)
 - [X2I/X2X](#x2i-x2x)
 
+
+
+## Video Generation 
+
+⭐**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)]
+[[Website](https://arxiv.org/abs/2304.08818)]
+[[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] 
+[[Code](https://github.com/srpkdyy/VideoLDM)]
+
+**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
+[[Website](https://arxiv.org/abs/2306.00943)]
+[[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
+[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
+
+**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models Songwei** \
+[[Website](https://arxiv.org/abs/2305.10474)]
+[[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
+[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
+
+**Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising** \
+[[Website](https://arxiv.org/abs/2305.18264)]
+[[Code](https://github.com/G-U-N/Gen-L-Video)]
+
+**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.13840)]
+[[Code](https://github.com/Weifeng-Chen/control-a-video)]
+
+**Imagen Video: High Definition Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2210.02303)]
+[[Project](https://imagen.research.google/video/)] 
+
+
+**Dual-Stream Diffusion Net for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2308.08316)]
+
+
+**SimDA: Simple Diffusion Adapter for Efficient Video Generation** \
+[[Website](https://arxiv.org/abs/2308.09710)]
+
+**VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2305.10874)]
 
 
 ## Video Editing 
