@@ -1131,60 +1131,60 @@
 ## Document Layout Generation
 
 ⭐**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
-[[CVPR 2023]](https://arxiv.org/abs/2303.08137) 
-[[Code]](https://github.com/CyberAgentAILab/layout-dm) 
+[[CVPR 2023](https://arxiv.org/abs/2303.08137)]
+[[Code](https://github.com/CyberAgentAILab/layout-dm)]
 [[Project](https://cyberagentailab.github.io/layout-dm/)] 
 
 **Unifying Layout Generation with a Decoupled Diffusion Model** \
-[[CVPR 2023]](https://arxiv.org/abs/2303.05049) 
+[[CVPR 2023](https://arxiv.org/abs/2303.05049)]
 
 **PLay: Parametrically Conditioned Layout Generation using Latent Diffusion** \
-[[ICML 2023]](https://arxiv.org/abs/2301.11529) 
+[[ICML 2023](https://arxiv.org/abs/2301.11529)]
 
 **DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
-[[Website]](https://arxiv.org/abs/2303.03755) 
+[[Website](https://arxiv.org/abs/2303.03755)]
 
 **Diffusion-based Document Layout Generation** \
-[[Website]](https://arxiv.org/abs/2303.10787) 
+[[Website](https://arxiv.org/abs/2303.10787)]
 
 **LayoutDM: Transformer-based Diffusion Model for Layout Generation** \
-[[CVPR 2023]](https://arxiv.org/abs/2305.02567) 
+[[CVPR 2023](https://arxiv.org/abs/2305.02567)] 
 
 **LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models** \
-[[Website]](https://arxiv.org/abs/2303.11589) 
+[[Website](https://arxiv.org/abs/2303.11589)]
 
 
 ## Super Resolution
 ⭐⭐⭐**Image Super-Resolution via Iterative Refinement** \
-[[TPAMI]](https://arxiv.org/abs/2104.07636) 
-[[Code]](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) 
+[[TPAMI](https://arxiv.org/abs/2104.07636)] 
+[[Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)] 
 [[Project](https://iterative-refinement.github.io/)] 
 
 ⭐**Exploiting Diffusion Prior for Real-World Image Super-Resolution** \
-[[Website]](https://arxiv.org/abs/2305.07015) 
-[[Code]](https://github.com/IceClear/StableSR) 
+[[Website](https://arxiv.org/abs/2305.07015)] 
+[[Code](https://github.com/IceClear/StableSR)] 
 [[Project](https://iceclear.github.io/projects/stablesr/)] 
 
 **ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
-[[Website]](https://arxiv.org/abs/2307.12348) 
-[[Code]](https://github.com/zsyoaoa/resshift) 
+[[Website](https://arxiv.org/abs/2307.12348)] 
+[[Code](https://github.com/zsyoaoa/resshift)] 
 
 **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution** \
-[[Website]](https://arxiv.org/abs/2305.15357) 
+[[Website](https://arxiv.org/abs/2305.15357)] 
 
 **Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models** \
-[[Website]](https://arxiv.org/abs/2306.00714) 
+[[Website](https://arxiv.org/abs/2306.00714)] 
 
 **YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
-[[Website]](https://arxiv.org/abs/2308.07977) 
+[[Website](https://arxiv.org/abs/2308.07977)]
 
 ## X2I X2X
 
 **GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation** \
-[[ICCV 2023]](https://arxiv.org/abs/2303.10056) 
-[[Code]](https://github.com/salesforce/GlueGen) 
+[[ICCV 2023](https://arxiv.org/abs/2303.10056)] 
+[[Code](https://github.com/salesforce/GlueGen)]
 
 **Any-to-Any Generation via Composable Diffusion** \
-[[Website]](https://arxiv.org/abs/2305.11846) 
-[[Code]](https://github.com/microsoft/i-Code/tree/main/i-Code-V3) 
+[[Website](https://arxiv.org/abs/2305.11846)]
+[[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
 [[Project](https://codi-gen.github.io/)] 
