@@ -33,6 +33,11 @@
 [[Website]](https://arxiv.org/abs/2303.17599) 
 [[Code]](https://github.com/baaivision/vid2vid-zero) 
 
+⭐**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** \
+[[Website]](https://arxiv.org/abs/2308.07926) 
+[[Code]](https://github.com/qiuyu96/CoDeF) 
+[[Project](https://qiuyu96.github.io/CoDeF/)] 
+
 **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** \
 [[ICCV 2023]](https://arxiv.org/abs/2212.11565)
 [[Code]](https://github.com/showlab/Tune-A-Video)
@@ -63,6 +68,15 @@
 [[Code]](https://github.com/man805/Diffusion-Video-Autoencoders) 
 [[Project](https://diff-video-ae.github.io/)] 
 
+**Text2LIVE: Text-Driven Layered Image and Video Editing** \
+[[ECCV 2022 Oral]](https://arxiv.org/pdf/2204.02491.pdf) 
+[[Project](https://text2live.github.io/)] 
+[[code]](https://github.com/omerbt/Text2LIVE)
+
+**StableVideo: Text-driven Consistency-aware Diffusion Video Editing** \
+[[Website]](https://arxiv.org/abs/2308.09592)
+[[Code](https://github.com/rese1f/stablevideo)] 
+
 **Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
 [[Website]](https://arxiv.org/abs/2305.05464)
 [[Code](https://github.com/haha-lisa/style-a-video)] 
@@ -89,10 +103,12 @@
 **Towards Consistent Video Editing with Text-to-Image Diffusion Models** \
 [[Website]](https://arxiv.org/abs/2305.17431) 
 
-**Text2LIVE: Text-Driven Layered Image and Video Editing** \
-[[ECCV 2022 Oral]](https://arxiv.org/pdf/2204.02491.pdf) 
-[[Project](https://text2live.github.io/)] 
-[[code]](https://github.com/omerbt/Text2LIVE)
+**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints** \
+[[Website]](https://arxiv.org/abs/2308.10648) 
+
+**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
+[[Website]](https://arxiv.org/abs/2308.10079) 
+
 
 
 
@@ -458,6 +474,11 @@
 [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 [[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
 
+**Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models** \
+[[ICCV 2023](https://arxiv.org/abs/2306.05357)] 
+[[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
+[[Project](https://energy-based-model.github.io/unsupervised-concept-discovery/)]
+
 **ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
 [[ICCV 2023](https://arxiv.org/abs/2302.13848)] 
 [[Code](https://github.com/csyxwei/ELITE)]
@@ -712,6 +733,10 @@
 [[Website](https://arxiv.org/abs/2305.11520)] 
 [[Code]](https://github.com/AlonzoLeeeooo/LCDG) 
 
+
+**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2308.10156)] 
+
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
 
@@ -889,6 +914,9 @@
 **Text2Layer: Layered Image Generation using Latent Diffusion Model** \
 [[Website](https://arxiv.org/abs/2307.09781)] 
 
+**AltDiffusion: A Multilingual Text-to-Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2308.09991)] 
+
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[Website](https://arxiv.org/abs/2305.03382)] 
 
@@ -969,6 +997,8 @@
 **OVTrack: Open-Vocabulary Multiple Object Tracking** \
 [[CVPR 2023](https://arxiv.org/abs/2304.08408)] 
 
+**DiffusionTrack: Diffusion Model For Multi-Object Tracking** \
+[[Website](https://arxiv.org/abs/2308.09905)] 
 
 
 # Few-Shot 
@@ -1073,6 +1103,11 @@
 **Image Inpainting via Iteratively Decoupled Probabilistic Modeling** \
 [[Website](https://arxiv.org/abs/2212.02963)] 
 [[Code](https://github.com/fenglinglwb/PSM)]
+
+**ControlCom: Controllable Image Composition using Diffusion Model** \
+[[Website](https://arxiv.org/abs/2308.10040)] 
+[[Code]](https://github.com/bcmi/ControlCom-Image-Composition) 
+
 
 **Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models** \
 [[Website](https://arxiv.org/abs/2304.03322)] 
