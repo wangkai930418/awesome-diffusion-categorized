@@ -35,18 +35,18 @@
 
 ⭐**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** \
 [[Website]](https://arxiv.org/abs/2308.07926) 
-[[Code]](https://github.com/qiuyu96/CoDeF) 
-[[Project](https://qiuyu96.github.io/CoDeF/)] 
+[[Code]](https://github.com/qiuyu96/CoDeF)
+[[Project]](https://qiuyu96.github.io/CoDeF/) 
 
 **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
 [[ICCV 2023 Oral]](https://arxiv.org/abs/2303.13439)
-[Code](https://text2video-zero.github.io/)
-[Project](https://text2video-zero.github.io/)
+[[Code]](https://text2video-zero.github.io/)
+[[Project]](https://text2video-zero.github.io/)
 
 **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** \
 [[ICCV 2023]](https://arxiv.org/abs/2212.11565)
 [[Code]](https://github.com/showlab/Tune-A-Video)
-[[Project](https://tuneavideo.github.io/)] 
+[[Project]](https://tuneavideo.github.io/) 
 
 **CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** \
 [[Website]](https://arxiv.org/abs/2308.07926)
