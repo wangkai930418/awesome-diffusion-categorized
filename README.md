@@ -122,7 +122,7 @@
 [[code](https://github.com/omerbt/Text2LIVE)]
 
 **StableVideo: Text-driven Consistency-aware Diffusion Video Editing** \
-[[Website](https://arxiv.org/abs/2308.09592)]
+[[ICCV2023](https://arxiv.org/abs/2308.09592)]
 [[Code](https://github.com/rese1f/stablevideo)] 
 
 **Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
