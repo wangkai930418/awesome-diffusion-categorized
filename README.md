@@ -21,11 +21,10 @@
 
 ## Video Generation 
 
-**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
+⭐**Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
 [[ICCV 2023 Oral](https://arxiv.org/abs/2303.13439)]
 [[Code](https://text2video-zero.github.io/)]
 [[Project](https://text2video-zero.github.io/)]
-
 
 ⭐**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)]
@@ -46,10 +45,12 @@
 **Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising** \
 [[Website](https://arxiv.org/abs/2305.18264)]
 [[Code](https://github.com/G-U-N/Gen-L-Video)]
+[[Project](https://g-u-n.github.io/projects/gen-long-video/index.html)] 
 
 **Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.13840)]
 [[Code](https://github.com/Weifeng-Chen/control-a-video)]
+[[Project](https://controlavideo.github.io/)] 
 
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2210.02303)]
@@ -77,6 +78,7 @@
 ⭐**Video-P2P: Video Editing with Cross-attention Control** \
 [[Website](https://arxiv.org/abs/2303.04761)]
 [[Code](https://github.com/ShaoTengLiu/Video-P2P)]
+[[Project](https://video-p2p.github.io/)] 
 
 ⭐**Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
