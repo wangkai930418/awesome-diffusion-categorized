@@ -540,19 +540,15 @@
 [[ICML 2023 oral](https://arxiv.org/abs/2303.05125)] 
 [[Code](https://github.com/Johanan528/Cones)]
 
-
 **Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2303.15433)] 
 [[Code](https://github.com/VinAIResearch/Anti-DreamBooth)]
 [[Project](https://anti-dreambooth.github.io/)] 
 
-
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
 [[Website](https://arxiv.org/abs/2211.11337)] 
 [[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
 [[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
-
-
 
 **Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
@@ -636,8 +632,6 @@
 [[Website](https://arxiv.org/abs/2305.18286)] 
 [[Project](https://photoswap.github.io/)] 
 
-
-
 **Gradient-Free Textual Inversion** \
 [[Website](https://arxiv.org/abs/2304.05818)] 
 
@@ -651,7 +645,6 @@
 **Cross-domain Compositing with Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.10167)] 
 [[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
-
 
 **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09319)] 
@@ -792,9 +785,6 @@
 **Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation** \
 [[Website](https://arxiv.org/abs/2306.00914)] 
 
-**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2308.06027)] 
-
 **Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
 [[Website](https://arxiv.org/abs/2305.20082)] 
 [[Project](https://control4darxiv.github.io/)] 
@@ -805,17 +795,101 @@
 **Adding 3D Geometry Control to Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.08103)] 
 
-**Continuous Layout Editing of Single Images with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.13078)] 
+**LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation** \
+[[Website]](https://arxiv.org/abs/2302.08908) 
 
-**Zero-shot spatial layout conditioning for text-to-image diffusion models** \
-[[Website](https://arxiv.org/abs/2306.13754)] 
+
+# Spatial Control
+
+⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
+[[ICML 2023](https://arxiv.org/abs/2302.08113)] 
+[[Project](https://multidiffusion.github.io/)] 
+[[Code](https://github.com/omerbt/MultiDiffusion)]
+[[Demo](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)]
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_panorama.py)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/panorama#multidiffusion-fusing-diffusion-paths-for-controlled-image-generation)] 
+[[Replicate Demo](https://replicate.com/omerbt/multidiffusion)]
+
+⭐**TextDiffuser: Diffusion Models as Text Painters** \
+[[Website](https://arxiv.org/abs/2305.10855)] 
+[[Project](https://jingyechen.github.io/textdiffuser/)] 
+[[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)]
+[[Demo](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)]
+
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
+[[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
+[[Code](https://github.com/Sierkinhane/BoxDiff)]
+
+**Dense Text-to-Image Generation with Attention Modulation** \
+[[ICCV 2023](https://arxiv.org/abs/2308.12964)] 
+[[Code](https://github.com/naver-ai/densediffusion)]
+
+**Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
+[[Website](https://arxiv.org/abs/2302.13153)] 
+[[Project](https://silent-chen.github.io/layout-guidance/)] 
+[[Code](https://github.com/silent-chen/layout-guidance)]
+
+**Grounded Text-to-Image Synthesis with Attention Refocusing** \
+[[Website](https://arxiv.org/abs/2306.05427)] 
+[[Project](https://attention-refocusing.github.io/)] 
+[[Code](https://github.com/Attention-Refocusing/attention-refocusing)]
+
+**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2304.03373)] 
+[[Project](https://layoutllm-t2i.github.io/)] 
+[[Code](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)]
+
+**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
+[[Website](https://arxiv.org/abs/2305.13655)] 
+[[Project](https://llm-grounded-diffusion.github.io/)] 
+[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
+[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
+[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
+
+**Training-Free Layout Control with Cross-Attention Guidance** \
+[[Website](https://arxiv.org/abs/2304.03373)] 
+[[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
+[[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
+
+**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis** \
+[[Arxiv](https://arxiv.org/abs/2212.05032)] 
+[[ICLR 2023 openreview](https://openreview.net/forum?id=PUIqjT4rzq7)] 
+[[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
+[[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
+
+**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2304.03869)] 
+[[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
+
+**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
+[[Website](https://arxiv.org/abs/2306.14544)] 
+
+**Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.13921)] 
+
+**Controllable Text-to-Image Generation with GPT-4** \
+[[Website](https://arxiv.org/abs/2305.18583)] 
+
+**Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
+[[Website](https://arxiv.org/abs/2305.03382)] 
+
+**Localized Text-to-Image Generation for Free via Cross Attention Control** \
+[[Website](https://arxiv.org/abs/2306.14636)] 
+
+**Training-Free Location-Aware Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2304.13427)] 
 
 **Composite Diffusion | whole >= \Sigma parts** \
 [[Website](https://arxiv.org/abs/2307.13720)] 
 
-**LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation** \
-[[Website]](https://arxiv.org/abs/2302.08908) 
+**Continuous Layout Editing of Single Images with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.13078)] 
+
+**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2308.06027)] 
+
+**Zero-shot spatial layout conditioning for text-to-image diffusion models** \
+[[Website](https://arxiv.org/abs/2306.13754)] 
 
 
 
@@ -842,15 +916,6 @@
 [[Project](https://rich-text-to-image.github.io/)] 
 [[Code](https://github.com/SongweiGe/rich-text-to-image)]
 [[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
-
-⭐**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
-[[ICML 2023](https://arxiv.org/abs/2302.08113)] 
-[[Project](https://multidiffusion.github.io/)] 
-[[Code](https://github.com/omerbt/MultiDiffusion)]
-[[Demo](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)]
-[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_panorama.py)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/panorama#multidiffusion-fusing-diffusion-paths-for-controlled-image-generation)] 
-[[Replicate Demo](https://replicate.com/omerbt/multidiffusion)]
 
 ⭐**SEGA: Instructing Diffusion using Semantic Dimensions** \
 [[Website](https://arxiv.org/abs/2301.12247)] 
@@ -953,76 +1018,6 @@
 [[Website](https://arxiv.org/abs/2306.14408)] 
 
 
-# Spatial Control
-
-⭐**TextDiffuser: Diffusion Models as Text Painters** \
-[[Website](https://arxiv.org/abs/2305.10855)] 
-[[Project](https://jingyechen.github.io/textdiffuser/)] 
-[[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)]
-[[Demo](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)]
-
-**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
-[[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
-[[Code](https://github.com/Sierkinhane/BoxDiff)]
-
-**Dense Text-to-Image Generation with Attention Modulation** \
-[[ICCV 2023](https://arxiv.org/abs/2308.12964)] 
-[[Code](https://github.com/naver-ai/densediffusion)]
-
-**Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
-[[Website](https://arxiv.org/abs/2302.13153)] 
-[[Project](https://silent-chen.github.io/layout-guidance/)] 
-[[Code](https://github.com/silent-chen/layout-guidance)]
-
-**Grounded Text-to-Image Synthesis with Attention Refocusing** \
-[[Website](https://arxiv.org/abs/2306.05427)] 
-[[Project](https://attention-refocusing.github.io/)] 
-[[Code](https://github.com/Attention-Refocusing/attention-refocusing)]
-
-**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2304.03373)] 
-[[Project](https://layoutllm-t2i.github.io/)] 
-[[Code](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)]
-
-**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
-[[Website](https://arxiv.org/abs/2305.13655)] 
-[[Project](https://llm-grounded-diffusion.github.io/)] 
-[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
-[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
-[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
-
-**Training-Free Layout Control with Cross-Attention Guidance** \
-[[Website](https://arxiv.org/abs/2304.03373)] 
-[[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
-[[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
-
-**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis** \
-[[Arxiv](https://arxiv.org/abs/2212.05032)] 
-[[ICLR 2023 openreview](https://openreview.net/forum?id=PUIqjT4rzq7)] 
-[[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
-[[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
-
-**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2304.03869)] 
-[[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
-
-**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
-[[Website](https://arxiv.org/abs/2306.14544)] 
-
-**Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.13921)] 
-
-**Controllable Text-to-Image Generation with GPT-4** \
-[[Website](https://arxiv.org/abs/2305.18583)] 
-
-**Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
-[[Website](https://arxiv.org/abs/2305.03382)] 
-
-**Localized Text-to-Image Generation for Free via Cross Attention Control** \
-[[Website](https://arxiv.org/abs/2306.14636)] 
-
-**Training-Free Location-Aware Text-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2304.13427)] 
 
 
 <!-- # Watermark
