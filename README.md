@@ -93,18 +93,10 @@
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
 
-**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints** \
-[[Website](https://arxiv.org/abs/2308.10648)]
-
 **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** \
 [[ICCV 2023](https://arxiv.org/abs/2212.11565)]
 [[Code](https://github.com/showlab/Tune-A-Video)]
 [[Project](https://tuneavideo.github.io/)]
-
-**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing** \
-[[Website](https://arxiv.org/abs/2308.07926)]
-[[Code](https://github.com/qiuyu96/CoDeF)]
-[[Project](https://qiuyu96.github.io/CoDeF/)]
 
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
 [[Website](https://arxiv.org/abs/2307.10373)]
