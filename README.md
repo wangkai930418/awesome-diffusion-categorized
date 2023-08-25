@@ -861,11 +861,12 @@
 [[Website](https://arxiv.org/abs/2304.03869)] 
 [[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
 
-**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
-[[Website](https://arxiv.org/abs/2306.14544)] 
-
 **Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.13921)] 
+[[Code](https://github.com/OPPO-Mente-Lab/attention-mask-control)]
+
+**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
+[[Website](https://arxiv.org/abs/2306.14544)] 
 
 **Controllable Text-to-Image Generation with GPT-4** \
 [[Website](https://arxiv.org/abs/2305.18583)] 
