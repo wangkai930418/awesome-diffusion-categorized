@@ -1047,18 +1047,12 @@
 [[ICCV 2023](https://arxiv.org/abs/2303.17559)]
 [[Code](https://github.com/JiYuanFeng/DDP)]
 
-
-
-**DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
-[[Website](https://arxiv.org/abs/2303.09813)] 
-
-
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.11681)] 
 [[Project](https://weijiawu.github.io/DiffusionMask/)] 
 
-**MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model for Few-Shot Instance Segmentation** \
-[[Website](https://arxiv.org/abs/2303.05105)] 
+**Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation** \
+[[ICCV 2023](https://arxiv.org/abs/2308.12350)] 
 
 **DiffusionDet: Diffusion Model for Object Detection** \
 [[ICCV 2023](https://arxiv.org/abs/2211.09788)] 
@@ -1069,6 +1063,12 @@
 
 **DiffusionTrack: Diffusion Model For Multi-Object Tracking** \
 [[Website](https://arxiv.org/abs/2308.09905)] 
+
+**MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model for Few-Shot Instance Segmentation** \
+[[Website](https://arxiv.org/abs/2303.05105)] 
+
+**DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
+[[Website](https://arxiv.org/abs/2303.09813)] 
 
 
 # Few-Shot 
