@@ -1042,9 +1042,14 @@
 [[Website](https://arxiv.org/abs/2305.03048)] 
 [[Code](https://github.com/ZrrSkywalker/Personalize-SAM)]
 
+⭐**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2308.12469)] 
+
 **DDP: Diffusion Model for Dense Visual Prediction**\
 [[ICCV 2023](https://arxiv.org/abs/2303.17559)]
 [[Code](https://github.com/JiYuanFeng/DDP)]
+
+
 
 **DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
 [[Website](https://arxiv.org/abs/2303.09813)] 
