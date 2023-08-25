@@ -1043,7 +1043,7 @@
 [[Code](https://github.com/ZrrSkywalker/Personalize-SAM)]
 
 **DDP: Diffusion Model for Dense Visual Prediction**\
-[[ICCV 2023](https://arxiv.org/abs/2303.17559)]    
+[[ICCV 2023](https://arxiv.org/abs/2303.17559)]
 [[Code](https://github.com/JiYuanFeng/DDP)]
 
 **DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
