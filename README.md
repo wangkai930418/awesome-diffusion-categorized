@@ -53,6 +53,12 @@
 [[Code](https://github.com/Weifeng-Chen/control-a-video)]
 [[Project](https://controlavideo.github.io/)] 
 
+**VideoComposer: Compositional Video Synthesis with Motion Controllability** \
+[[Website](https://arxiv.org/abs/2306.02018)]
+[[Project](https://videocomposer.github.io/)] 
+[[Code](https://github.com/damo-vilab/videocomposer)]
+
+
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2210.02303)]
 [[Project](https://imagen.research.google/video/)] 
