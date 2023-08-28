@@ -861,6 +861,23 @@
 [[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
 [[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
 
+**ReCo: Region-Controlled Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2211.15518)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)] 
+[[Code](https://github.com/microsoft/ReCo)]
+
+**Visual Programming for Text-to-Image Generation and Evaluation** \
+[[Website](https://arxiv.org/abs/2305.15328)] 
+[[Project](https://vp-t2i.github.io/)] 
+[[Code](https://github.com/j-min/VPGen)]
+
+**SceneComposer: Any-Level Semantic Image Synthesis** \
+[[Website](https://arxiv.org/abs/2211.11742)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_SceneComposer_Any-Level_Semantic_Image_Synthesis_CVPR_2023_paper.pdf)] 
+[[Code](https://github.com/zengxianyu/scenec)]
+[[Project](https://zengyu.me/scenec/)] 
+
+
 **Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2304.03869)] 
 [[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
@@ -942,6 +959,10 @@
 [[ECCV 2022](https://arxiv.org/abs/2206.01714)] 
 [[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
 [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] 
+
+**Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment** \
+[[Website](https://arxiv.org/abs/2306.08877)] 
+[[Code](https://github.com/RoyiRa/Syntax-Guided-Generation)]
 
 **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness** \
 [[Website](https://arxiv.org/abs/2302.10893)] 
