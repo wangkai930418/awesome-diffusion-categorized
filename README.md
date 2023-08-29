@@ -964,6 +964,10 @@
 [[Website](https://arxiv.org/abs/2306.08877)] 
 [[Code](https://github.com/RoyiRa/Syntax-Guided-Generation)]
 
+**ORES: Open-vocabulary Responsible Visual Synthesis** \
+[[Website](https://arxiv.org/abs/2308.13785)] 
+[[Code](https://github.com/kodenii/ores)]
+
 **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness** \
 [[Website](https://arxiv.org/abs/2302.10893)] 
 [[Code](https://github.com/ml-research/fair-diffusion)]
