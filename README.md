@@ -650,6 +650,10 @@
 [[Website](https://arxiv.org/abs/2302.10167)] 
 [[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
 
+**Total Selfie: Generating Full-Body Selfies** \
+[[Website](https://arxiv.org/abs/2308.14740)] 
+[[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
+
 **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09319)] 
 
@@ -670,6 +674,7 @@
 
 **Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
 [[Website](https://arxiv.org/abs/2306.06638v1)] 
+
 
 
 
@@ -1218,6 +1223,10 @@
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
+
+**360-Degree Panorama Generation from Few Unregistered NFoV Images** \
+[[ACM MM 2023](https://arxiv.org/abs/2308.14686)] 
+[[Code](https://github.com/shanemankiw/Panodiff)] 
 
 **SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2212.05034)] 
