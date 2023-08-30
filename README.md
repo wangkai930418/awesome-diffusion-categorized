@@ -1274,6 +1274,10 @@
 [[Website](https://arxiv.org/abs/2307.12348)] 
 [[Code](https://github.com/zsyoaoa/resshift)] 
 
+**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** \
+[[Website](https://arxiv.org/abs/2308.14469)] 
+[[Code](https://github.com/yangxy/PASD)] 
+
 **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2305.15357)] 
 
