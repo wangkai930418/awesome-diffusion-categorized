@@ -33,6 +33,13 @@
 [[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] 
 [[Code](https://github.com/srpkdyy/VideoLDM)]
 
+⭐**Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2204.03458)]
+[[ICLR 2022 workshop](https://openreview.net/forum?id=BBelR2NdDZ5)]
+[[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
+[[Project](https://video-diffusion.github.io/)] 
+
+
 **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
 [[Website](https://arxiv.org/abs/2306.00943)]
 [[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
@@ -57,6 +64,7 @@
 [[Website](https://arxiv.org/abs/2306.02018)]
 [[Project](https://videocomposer.github.io/)] 
 [[Code](https://github.com/damo-vilab/videocomposer)]
+
 
 
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
