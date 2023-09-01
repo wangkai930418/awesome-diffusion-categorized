@@ -104,6 +104,13 @@
 [[Code](https://github.com/qiuyu96/CoDeF)]
 [[Project](https://qiuyu96.github.io/CoDeF/)]
 
+⭐**MagicEdit: High-Fidelity and Temporally Coherent Video Editing**\
+[[Website](https://arxiv.org/abs/2308.14749)]
+[[Project](https://magic-edit.github.io/)] 
+[[Code](https://github.com/magic-research/magic-edit)] 
+
+
+
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
 
