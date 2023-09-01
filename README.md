@@ -158,6 +158,10 @@
 [[CVPR 2023](https://arxiv.org/abs/2301.13173)]
 [[Project](https://text-video-edit.github.io/#)] 
 
+**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
+[[Website](https://arxiv.org/abs/2308.10079)]
+[[Project](https://medm2023.github.io)]
+
 **Pix2video: Video Editing Using Image Diffusion** \
 [[Website](https://arxiv.org/abs/2303.12688)]
 
@@ -170,9 +174,7 @@
 **EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints** \
 [[Website](https://arxiv.org/abs/2308.10648)]
 
-**MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
-[[Website](https://arxiv.org/abs/2308.10079)]
-[[Project](https://medm2023.github.io)]
+
 
 
 
