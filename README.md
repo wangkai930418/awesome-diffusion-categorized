@@ -1035,6 +1035,9 @@
 [[Website](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 
+**Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** \
+[[Website](https://arxiv.org/abs/2308.16582)] 
+
 **Text2Layer: Layered Image Generation using Latent Diffusion Model** \
 [[Website](https://arxiv.org/abs/2307.09781)] 
 
@@ -1116,6 +1119,9 @@
 
 **DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery** \
 [[Website](https://arxiv.org/abs/2303.09813)] 
+
+**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models** \
+[[Website](https://arxiv.org/abs/2308.16777)] 
 
 
 # Few-Shot 
