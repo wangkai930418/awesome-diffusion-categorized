@@ -33,11 +33,17 @@
 [[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] 
 [[Code](https://github.com/srpkdyy/VideoLDM)]
 
+⭐**MagicAvatar: Multimodal Avatar Generation and Animation** \
+[[Website](https://arxiv.org/abs/2308.14748)]
+[[Project](https://magic-avatar.github.io/)] 
+[[Code](https://github.com/magic-research/magic-avatar)]
+
 ⭐**Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2204.03458)]
 [[ICLR 2022 workshop](https://openreview.net/forum?id=BBelR2NdDZ5)]
 [[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
 [[Project](https://video-diffusion.github.io/)] 
+
 
 
 **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
