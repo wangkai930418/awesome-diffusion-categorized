@@ -172,6 +172,7 @@
 
 **MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
 [[Website](https://arxiv.org/abs/2308.10079)]
+[[Project](https://medm2023.github.io)]
 
 
 
