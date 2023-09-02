@@ -88,6 +88,9 @@
 **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2305.10874)]
 
+**Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** \
+[[Website](https://arxiv.org/abs/2308.13812)]
+
 
 ## Video Editing 
 
