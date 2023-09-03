@@ -71,6 +71,10 @@
 [[Project](https://videocomposer.github.io/)] 
 [[Code](https://github.com/damo-vilab/videocomposer)]
 
+**DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2304.06025)]
+[[Project](https://grail.cs.washington.edu/projects/dreampose/)] 
+[[Code](https://github.com/johannakarras/DreamPose)]
 
 
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
