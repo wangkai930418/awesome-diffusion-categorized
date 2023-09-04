@@ -333,7 +333,7 @@
 
 
 **Localizing Object-level Shape Variations with Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.11306)] 
+[[ICCV 2023](https://arxiv.org/abs/2303.11306)] 
 [[Project](https://orpatashnik.github.io/local-prompt-mixing/)] 
 [[Code](https://github.com/orpatashnik/local-prompt-mixing)]
 
@@ -921,7 +921,7 @@
 
 
 **Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2304.03869)] 
+[[ICCV 2023](https://arxiv.org/abs/2304.03869)] 
 [[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
 
 **Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
