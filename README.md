@@ -44,6 +44,10 @@
 [[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
 [[Project](https://video-diffusion.github.io/)] 
 
+**Latent Video Diffusion Models for High-Fidelity Long Video Generation** \
+[[Website](https://arxiv.org/abs/2211.13221)]
+[[Project](https://yingqinghe.github.io/LVDM/)] 
+[[Code](https://github.com/YingqingHe/LVDM)]
 
 
 **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
