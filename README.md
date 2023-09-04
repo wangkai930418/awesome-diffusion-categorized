@@ -1290,7 +1290,8 @@
 [[ICML 2023](https://arxiv.org/abs/2301.11529)]
 
 **DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
-[[Website](https://arxiv.org/abs/2303.03755)]
+[[ICCV 2023](https://arxiv.org/abs/2303.03755)]
+[[Code](https://github.com/wix-incubator/DLT)]
 
 **Diffusion-based Document Layout Generation** \
 [[Website](https://arxiv.org/abs/2303.10787)]
