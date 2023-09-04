@@ -1283,15 +1283,17 @@
 [[Code](https://github.com/CyberAgentAILab/layout-dm)]
 [[Project](https://cyberagentailab.github.io/layout-dm/)] 
 
+**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
+[[ICCV 2023](https://arxiv.org/abs/2303.03755)]
+[[Code](https://github.com/wix-incubator/DLT)]
+
 **Unifying Layout Generation with a Decoupled Diffusion Model** \
 [[CVPR 2023](https://arxiv.org/abs/2303.05049)]
 
 **PLay: Parametrically Conditioned Layout Generation using Latent Diffusion** \
 [[ICML 2023](https://arxiv.org/abs/2301.11529)]
 
-**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
-[[ICCV 2023](https://arxiv.org/abs/2303.03755)]
-[[Code](https://github.com/wix-incubator/DLT)]
+
 
 **Diffusion-based Document Layout Generation** \
 [[Website](https://arxiv.org/abs/2303.10787)]
