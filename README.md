@@ -369,6 +369,8 @@
 [[Website](https://arxiv.org/abs/2306.09869)] 
 [[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
+**Iterative Multi-granular Image Editing using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.00613)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2305.18007)] 
