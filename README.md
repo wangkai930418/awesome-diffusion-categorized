@@ -62,7 +62,7 @@
 [[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
 [[Code](https://github.com/VideoCrafter/Make-Your-Video)]
 
-**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models Songwei** \
+**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.10474)]
 [[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
 [[Code](https://github.com/VideoCrafter/Make-Your-Video)]
