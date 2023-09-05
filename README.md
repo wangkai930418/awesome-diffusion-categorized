@@ -44,6 +44,13 @@
 [[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
 [[Project](https://video-diffusion.github.io/)] 
 
+**SinFusion: Training Diffusion Models on a Single Image or Video** \
+[[Website](https://arxiv.org/abs/2211.11743)]
+[[ICML 2023](https://icml.cc/virtual/2023/poster/24630)]
+[[Project](http://yaniv.nikankin.com/sinfusion/)] 
+[[Code](https://github.com/yanivnik/sinfusion-code)]
+
+
 **Latent Video Diffusion Models for High-Fidelity Long Video Generation** \
 [[Website](https://arxiv.org/abs/2211.13221)]
 [[Project](https://yingqinghe.github.io/LVDM/)] 
