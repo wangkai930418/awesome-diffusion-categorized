@@ -87,6 +87,9 @@
 [[Project](https://grail.cs.washington.edu/projects/dreampose/)] 
 [[Code](https://github.com/johannakarras/DreamPose)]
 
+**Diffusion Probabilistic Modeling for Video Generation** \
+[[Website](https://arxiv.org/abs/2203.09481)]
+[[Code](https://github.com/buggyyang/RVD)]
 
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2210.02303)]
