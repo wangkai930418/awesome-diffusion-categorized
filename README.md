@@ -50,6 +50,13 @@
 [[Project](http://yaniv.nikankin.com/sinfusion/)] 
 [[Code](https://github.com/yanivnik/sinfusion-code)]
 
+**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
+[[Website](https://arxiv.org/abs/2205.09853)]
+[[openreview](https://openreview.net/forum?id=hX5Ia-ION8Y)]
+[[Neurips 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/944618542d80a63bbec16dfbd2bd689a-Abstract-Conference.html)]
+[[Project](https://mask-cond-video-diffusion.github.io/)] 
+[[Code](https://github.com/voletiv/mcvd-pytorch)]
+
 
 **Latent Video Diffusion Models for High-Fidelity Long Video Generation** \
 [[Website](https://arxiv.org/abs/2211.13221)]
