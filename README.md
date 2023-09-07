@@ -186,6 +186,8 @@
 [[Website](https://arxiv.org/abs/2305.05464)]
 [[Code](https://github.com/haha-lisa/style-a-video)] 
 
+**MagicProp: Diffusion-based Video Editing via Motion-aware Appearance Propagation** \
+[[Website](https://arxiv.org/abs/2309.00908)]
 
 **VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
 [[Website](https://arxiv.org/abs//2306.08707)]
@@ -1150,6 +1152,9 @@
 **DiffusionDet: Diffusion Model for Object Detection** \
 [[ICCV 2023](https://arxiv.org/abs/2211.09788)] 
 [[Code](https://github.com/shoufachen/diffusiondet)]
+
+**SLiMe: Segment Like Me** \
+[[Website](https://arxiv.org/abs/2309.03179)] 
 
 **OVTrack: Open-Vocabulary Multiple Object Tracking** \
 [[CVPR 2023](https://arxiv.org/abs/2304.08408)] 
