@@ -1171,6 +1171,8 @@
 **Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models** \
 [[Website](https://arxiv.org/abs/2308.16777)] 
 
+**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter** \
+[[Website](https://arxiv.org/abs/2309.02773)] 
 
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
