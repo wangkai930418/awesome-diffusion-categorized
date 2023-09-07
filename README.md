@@ -57,6 +57,9 @@
 [[Project](https://mask-cond-video-diffusion.github.io/)] 
 [[Code](https://github.com/voletiv/mcvd-pytorch)]
 
+**Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
+[[CVPR 2023](https://arxiv.org/abs/2303.13744)]
+[[Code](https://github.com/nihaomiao/CVPR23_LFDM)]
 
 **Latent Video Diffusion Models for High-Fidelity Long Video Generation** \
 [[Website](https://arxiv.org/abs/2211.13221)]
