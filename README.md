@@ -101,6 +101,10 @@
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
 
+**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2309.03549)]
+[[Project](https://anonymous0x233.github.io/ReuseAndDiffuse/)] 
+
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2210.02303)]
 [[Project](https://imagen.research.google/video/)] 
@@ -443,6 +447,9 @@
 
 **PRedItOR: Text Guided Image Editing with Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2302.07979v2)]
+
+**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks** \
+[[Website](https://arxiv.org/abs/2309.03895)]
 
 # Continual Learning
 
