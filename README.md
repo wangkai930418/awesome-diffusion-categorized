@@ -1184,6 +1184,11 @@
 **Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter** \
 [[Website](https://arxiv.org/abs/2309.02773)] 
 
+**Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervised Semantic Segmentation with Diffusion** \
+[[Website](https://arxiv.org/abs/2309.01369v1)] 
+
+
+
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
 [[Website](https://arxiv.org/abs/2305.10722)] 
