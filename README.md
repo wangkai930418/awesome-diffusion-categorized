@@ -44,6 +44,10 @@
 [[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
 [[Project](https://video-diffusion.github.io/)] 
 
+⭐**VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** \
+[[CVPR 2023](https://arxiv.org/abs/2303.08320)]
+[[Code](https://github.com/modelscope/modelscope)]
+
 **SinFusion: Training Diffusion Models on a Single Image or Video** \
 [[Website](https://arxiv.org/abs/2211.11743)]
 [[ICML 2023](https://icml.cc/virtual/2023/poster/24630)]
