@@ -455,11 +455,18 @@
 **InstructDiffusion: A Generalist Modeling Interface for Vision Tasks** \
 [[Website](https://arxiv.org/abs/2309.03895)]
 
+**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers** \
+[[Website](https://arxiv.org/abs/2309.04372)]
+
+
 # Continual Learning
 
 ⭐**Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
 [[Website](https://arxiv.org/abs/2304.06027)] 
 [[Project](https://jamessealesmith.github.io/continual-diffusion/)]
+
+**Create Your World: Lifelong Text-to-Image Diffusion** \
+[[Website](https://arxiv.org/abs/2309.04430)] 
 
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
 [[Website](https://arxiv.org/abs/2305.10120)] 
@@ -1094,6 +1101,9 @@
 [[Website](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 
+**MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask** \
+[[Website](https://arxiv.org/abs/2309.04399)] 
+
 **Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** \
 [[Website](https://arxiv.org/abs/2308.16582)] 
 
@@ -1191,6 +1201,8 @@
 **Attention as Annotation: Generating Images and Pseudo-masks for Weakly Supervised Semantic Segmentation with Diffusion** \
 [[Website](https://arxiv.org/abs/2309.01369v1)] 
 
+**From Text to Mask: Localizing Entities Using the Attention of Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.04109)] 
 
 
 # Few-Shot 
