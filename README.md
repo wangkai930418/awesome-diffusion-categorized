@@ -424,6 +424,9 @@
 [[Website](https://arxiv.org/abs/2308.08947)]
 [[Project](https://ashmrz.github.io/WatchYourSteps/)] 
 
+**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
+[[ICCV 2023 Oral](https://arxiv.org/abs/2309.04907)]
+
 
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
