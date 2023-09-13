@@ -581,6 +581,7 @@
 ⭐**Break-A-Scene: Extracting Multiple Concepts from a Single Image** \
 [[Website](https://arxiv.org/abs/2305.16311)] 
 [[Project](https://omriavrahami.com/break-a-scene/)]
+[[Code](https://github.com/google/break-a-scene)]
 
 ⭐**Concept Decomposition for Visual Exploration and Inspiration** \
 [[Website](https://arxiv.org/abs/2305.18203)] 
