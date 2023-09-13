@@ -722,6 +722,10 @@
 **Identity Encoder for Personalized Diffusion** \
 [[Website](https://arxiv.org/abs/2304.07429)] 
 
+**PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.05793)] 
+[[Project](https://photoverse2d.github.io/)] 
+
 **InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning** \
 [[Website](https://arxiv.org/abs/2304.03411)] 
 [[Project](https://jshi31.github.io/InstantBooth/)] 
@@ -1179,6 +1183,10 @@
 **DiffusionDet: Diffusion Model for Object Detection** \
 [[ICCV 2023](https://arxiv.org/abs/2211.09788)] 
 [[Code](https://github.com/shoufachen/diffusiondet)]
+
+**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation** \
+[[Website](https://arxiv.org/abs/2309.05956)] 
+[[Code](https://github.com/gyhandy/Text2Image-for-Detection)]
 
 **SLiMe: Segment Like Me** \
 [[Website](https://arxiv.org/abs/2309.03179)] 
