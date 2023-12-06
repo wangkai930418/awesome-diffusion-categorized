@@ -44,6 +44,11 @@
 [[Website](https://arxiv.org/abs/2211.13203)] 
 [[Code](https://github.com/zyxElsa/InST)] 
 
+⭐**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2211.12446)] 
+[[Code](https://github.com/salesforce/edict)] 
+
 ⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
 [[Website](https://arxiv.org/abs/2306.05414)] 
 [[Code](https://github.com/phymhan/prompt-to-prompt)] 
@@ -55,10 +60,7 @@
 [[NeuripsW on Diffusion Models](https://neurips.cc/virtual/2023/workshop/66539#wse-detail-74859)]
 [[Code](https://github.com/Tchuanm/IterInv)] 
 
-**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2211.12446)] 
-[[Code](https://github.com/salesforce/edict)] 
+
 
 **Object-aware Inversion and Reassembly for Image Editing** \
 [[Website](https://arxiv.org/abs/2310.12149)] 
@@ -102,6 +104,15 @@
 [[Project](https://null-text-inversion.github.io/)] 
 [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
+⭐⭐**InstructPix2Pix: Learning to Follow Image Editing Instructions** \
+[[CVPR 2023 (Highlight)](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2211.09800)] 
+[[Project](https://www.timothybrooks.com/instruct-pix2pix/)] 
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/v0.13.0/en/api/pipelines/stable_diffusion/pix2pix)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_instruct_pix2pix.py)] 
+[[Official Code](https://github.com/timothybrooks/instruct-pix2pix)]
+[[Dataset](http://instruct-pix2pix.eecs.berkeley.edu/)]
+
 ⭐⭐**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Tumanyan_Plug-and-Play_Diffusion_Features_for_Text-Driven_Image-to-Image_Translation_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2211.12572)]
@@ -111,6 +122,12 @@
 [[Replicate Demo](https://replicate.com/daanelson/plug_and_play_image_translation)] 
 [[Demo](https://huggingface.co/spaces/hysts/PnP-diffusion-features)] 
 
+⭐**DiffEdit: Diffusion-based semantic image editing with mask guidance** \
+[[ICLR 2023](https://openreview.net/forum?id=3lge0p5o-M-)] 
+[[Website](https://arxiv.org/abs/2210.11427)] 
+[[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/diffedit)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
 
 ⭐**Imagic: Text-Based Real Image Editing with Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)] 
@@ -118,38 +135,10 @@
 [[Project](https://imagic-editing.github.io/)] 
 [[Diffusers](https://github.com/huggingface/diffusers/tree/main/examples/community#imagic-stable-diffusion)]
 
-⭐**InstructPix2Pix: Learning to Follow Image Editing Instructions** \
-[[CVPR 2023 (Highlight)](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2211.09800)] 
-[[Project](https://www.timothybrooks.com/instruct-pix2pix/)] 
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/v0.13.0/en/api/pipelines/stable_diffusion/pix2pix)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_instruct_pix2pix.py)] 
-[[Official Code](https://github.com/timothybrooks/instruct-pix2pix)]
-[[Dataset](http://instruct-pix2pix.eecs.berkeley.edu/)]
-
-⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2212.04489)] 
-[[Project](https://zhang-zx.github.io/SINE/)] 
-[[Code](https://github.com/zhang-zx/SINE)] 
-
 ⭐**Inpaint Anything: Segment Anything Meets Image Inpainting** \
 [[Website](https://arxiv.org/abs/2304.06790)] 
 [[Code 1](https://github.com/geekyutao/Inpaint-Anything)] 
 [[Code 2](https://github.com/sail-sg/EditAnything)] 
-
-⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
-[[ICLR 2022](https://openreview.net/forum?id=aBsCjcPu_tE)] 
-[[Website](https://arxiv.org/abs/2108.01073)] 
-[[Project](https://sde-image-editing.github.io/)] 
-[[Code](https://github.com/ermongroup/SDEdit)] 
-
-⭐**DiffEdit: Diffusion-based semantic image editing with mask guidance** \
-[[ICLR 2023](https://openreview.net/forum?id=3lge0p5o-M-)] 
-[[Website](https://arxiv.org/abs/2210.11427)] 
-[[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/diffedit)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
 
 ⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
 [[Website](https://arxiv.org/abs/2310.01506)] 
@@ -163,24 +152,24 @@
 [[Demo](https://huggingface.co/spaces/TencentARC/MasaCtrl)]
 
 **Collaborative Score Distillation for Consistent Visual Synthesis** \
-[[NeurIPS 2023](https://openreview.net/forum?id=0tEjORCGFD)] 
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/73044)] 
 [[Website](https://arxiv.org/abs/2307.04787)] 
 [[Project](https://subin-kim-cv.github.io/CSD/)] 
 [[Code](https://github.com/subin-kim-cv/CSD)]
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=0tEjORCGFD)]  -->
 
 **Visual Instruction Inversion: Image Editing via Visual Prompting** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70612)] 
-[[NeurIPS 2023](https://openreview.net/forum?id=l9BsCh8ikK)] 
 [[Website](https://arxiv.org/abs/2307.14331)] 
 [[Project](https://thaoshibe.github.io/visii/)] 
 [[Code](https://github.com/thaoshibe/visii)] 
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=l9BsCh8ikK)]  -->
 
 **Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/72801)] 
-[[NeurIPS 2023](https://openreview.net/forum?id=5UXXhVI08r)] 
 [[Website](https://arxiv.org/abs/2309.15664)] 
 [[Code](https://github.com/wangkai930418/DPL)] 
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=5UXXhVI08r)]  -->
 
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
 [[NeurIPS 2023](https://openreview.net/forum?id=lOCHMGO6ow)] 
@@ -194,18 +183,17 @@
 [[Project](https://orpatashnik.github.io/local-prompt-mixing/)] 
 [[Code](https://github.com/orpatashnik/local-prompt-mixing)]
 
-**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.17546)] 
-[[Project](https://vidit98.github.io/publication/conference-paper/pair_diff.html)] 
-[[Code](https://github.com/Picsart-AI-Research/PAIR-Diffusion)] 
-[[Demo](https://huggingface.co/spaces/PAIR/PAIR-Diffusion)]
-
 **Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance** \
 [[Website](https://arxiv.org/abs/2210.05559)] 
 [[Code1](https://github.com/chenwu98/unified-generative-zoo)] 
 [[Code2](https://github.com/chenwu98/cycle-diffusion)] 
 [[Diffusers Code](https://huggingface.co/docs/diffusers/main/en/api/pipelines/cycle_diffusion)] 
 
+**PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models** \
+[[Website](https://arxiv.org/abs/2303.17546)] 
+[[Project](https://vidit98.github.io/publication/conference-paper/pair_diff.html)] 
+[[Code](https://github.com/Picsart-AI-Research/PAIR-Diffusion)] 
+[[Demo](https://huggingface.co/spaces/PAIR/PAIR-Diffusion)]
 
 **An Edit Friendly DDPM Noise Space: Inversion and Manipulations** \
 [[Website](https://arxiv.org/abs/2304.06140)] 
@@ -248,7 +236,6 @@
 [[Project](https://icoz69.github.io/facestudio/)] 
 [[Code](https://github.com/xyynafc/FaceStudio)] 
 
-
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -256,7 +243,6 @@
 **Learning to Follow Object-Centric Image Editing Instructions Faithfully** \
 [[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
 [[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
-
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
@@ -274,14 +260,10 @@
 [[Website](https://arxiv.org/abs/2309.10556)] 
 [[Code](https://github.com/witcherofresearch/Forgedit)] 
 
-
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
-[[NeurIPS 2023](https://openreview.net/forum?id=cBS5CU96Jq)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
-
-
-
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=cBS5CU96Jq)]  -->
 
 **Watch Your Steps: Local Image and Scene Editing by Text Instructions** \
 [[Website](https://arxiv.org/abs/2308.08947)]
@@ -310,7 +292,6 @@
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
-
 **Text-to-image Editing by Image Information Removal** \
 [[WACV 2024](https://arxiv.org/abs/2305.17489)]
 
@@ -320,13 +301,11 @@
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
 
-
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
 
 **LayerDiffusion: Layered Controlled Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.18676)]
-
 
 **iEdit: Localised Text-guided Image Editing with Weak Supervision** \
 [[Website](https://arxiv.org/abs/2305.05947)]
@@ -354,7 +333,6 @@
 
 **InstructDiffusion: A Generalist Modeling Interface for Vision Tasks** \
 [[Website](https://arxiv.org/abs/2309.03895)]
-
 
 **FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2309.14934)]
@@ -503,7 +481,8 @@
 
 
 ⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
-[[CVPR 2023](https://arxiv.org/abs/2212.04489)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2212.04489)] 
 [[Project](https://zhang-zx.github.io/SINE/)] 
 [[Code](https://github.com/zhang-zx/SINE)] 
 
@@ -613,15 +592,22 @@
 [[Project](https://photoswap.github.io/)] 
 [[Code](https://github.com/eric-ai-lab/photoswap)]
 
+**Material Palette: Extraction of Materials from a Single Image** \
+[[Website](https://arxiv.org/abs/2311.17060)] 
+[[Project](https://astra-vision.github.io/MaterialPalette/)] 
+[[Code](https://github.com/astra-vision/MaterialPalette)]
+
+
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
 [[Code](https://github.com/zideliu/StyleDrop-PyTorch)]
 
-**Material Palette: Extraction of Materials from a Single Image** \
-[[Website](https://arxiv.org/abs/2311.17060)] 
-[[Project](https://astra-vision.github.io/MaterialPalette/)] 
-[[Code](https://github.com/astra-vision/MaterialPalette)]
+**Style Aligned Image Generation via Shared Attention** \
+[[Website](https://arxiv.org/abs/2312.02133)] 
+[[Project](https://style-aligned-gen.github.io/)] 
+[[Code](https://github.com/google/style-aligned/)]
+
 
 **ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** \
 [[Website](https://arxiv.org/abs/2311.13600)] 
@@ -807,23 +793,52 @@
 [[Replicate Demo](https://replicate.com/omerbt/multidiffusion)]
 
 **GLIGEN: Open-Set Grounded Text-to-Image Generation** \
-[[CVPR 2023](https://arxiv.org/abs/2301.07093)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_GLIGEN_Open-Set_Grounded_Text-to-Image_Generation_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2301.07093)] 
 [[Code](https://github.com/gligen/GLIGEN)]
 [[Demo](https://huggingface.co/spaces/gligen/demo)]
 
-**TextDiffuser: Diffusion Models as Text Painters** \
-[[Website](https://arxiv.org/abs/2305.10855)] 
-[[Project](https://jingyechen.github.io/textdiffuser/)] 
-[[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)]
-[[Demo](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)]
 
-**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
-[[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
-[[Code](https://github.com/Sierkinhane/BoxDiff)]
+**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
+[[Website](https://arxiv.org/abs/2305.13655)] 
+[[Project](https://llm-grounded-diffusion.github.io/)] 
+[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
+[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
+[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
 
-**Dense Text-to-Image Generation with Attention Modulation** \
-[[ICCV 2023](https://arxiv.org/abs/2308.12964)] 
-[[Code](https://github.com/naver-ai/densediffusion)]
+**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis** \
+[[ICLR 2023](https://openreview.net/forum?id=PUIqjT4rzq7)] 
+[[Website](https://arxiv.org/abs/2212.05032)] 
+[[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
+[[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
+
+**SceneComposer: Any-Level Semantic Image Synthesis** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_SceneComposer_Any-Level_Semantic_Image_Synthesis_CVPR_2023_paper.pdf)] 
+[[Website](https://arxiv.org/abs/2211.11742)] 
+[[Project](https://zengyu.me/scenec/)] 
+[[Code](https://github.com/zengxianyu/scenec)]
+
+**ReCo: Region-Controlled Text-to-Image Generation** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)] 
+[[Website](https://arxiv.org/abs/2211.15518)] 
+[[Code](https://github.com/microsoft/ReCo)]
+
+
+**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Harnessing_the_Spatial-Temporal_Attention_of_Diffusion_Models_for_High-Fidelity_Text-to-Image_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2304.03869)] 
+[[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
+
+**Visual Programming for Text-to-Image Generation and Evaluation** \
+[[Website](https://arxiv.org/abs/2305.15328)] 
+[[Project](https://vp-t2i.github.io/)] 
+[[Code](https://github.com/j-min/VPGen)]
+
+**Training-Free Layout Control with Cross-Attention Guidance** \
+[[Website](https://arxiv.org/abs/2304.03373)] 
+[[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
+[[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
+
 
 **Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
 [[Website](https://arxiv.org/abs/2302.13153)] 
@@ -840,44 +855,13 @@
 [[Project](https://layoutllm-t2i.github.io/)] 
 [[Code](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)]
 
-**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
-[[Website](https://arxiv.org/abs/2305.13655)] 
-[[Project](https://llm-grounded-diffusion.github.io/)] 
-[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
-[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
-[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
+[[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
+[[Code](https://github.com/Sierkinhane/BoxDiff)]
 
-**Training-Free Layout Control with Cross-Attention Guidance** \
-[[Website](https://arxiv.org/abs/2304.03373)] 
-[[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
-[[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
-
-**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis** \
-[[Arxiv](https://arxiv.org/abs/2212.05032)] 
-[[ICLR 2023 openreview](https://openreview.net/forum?id=PUIqjT4rzq7)] 
-[[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
-[[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
-
-**ReCo: Region-Controlled Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2211.15518)] 
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)] 
-[[Code](https://github.com/microsoft/ReCo)]
-
-**Visual Programming for Text-to-Image Generation and Evaluation** \
-[[Website](https://arxiv.org/abs/2305.15328)] 
-[[Project](https://vp-t2i.github.io/)] 
-[[Code](https://github.com/j-min/VPGen)]
-
-**SceneComposer: Any-Level Semantic Image Synthesis** \
-[[Website](https://arxiv.org/abs/2211.11742)] 
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_SceneComposer_Any-Level_Semantic_Image_Synthesis_CVPR_2023_paper.pdf)] 
-[[Code](https://github.com/zengxianyu/scenec)]
-[[Project](https://zengyu.me/scenec/)] 
-
-
-**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
-[[ICCV 2023](https://arxiv.org/abs/2304.03869)] 
-[[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
+**Dense Text-to-Image Generation with Attention Modulation** \
+[[ICCV 2023](https://arxiv.org/abs/2308.12964)] 
+[[Code](https://github.com/naver-ai/densediffusion)]
 
 **Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.13921)] 
@@ -936,55 +920,125 @@
 
 ⭐⭐⭐**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2301.13826)] 
+[[Project](https://yuval-alaluf.github.io/Attend-and-Excite/)] 
 [[Official Code](https://github.com/yuval-alaluf/Attend-and-Excite)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_attend_and_excite.py)] 
-[[Diffusers doc](https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/attend_and_excite)] 
-[[Project](https://yuval-alaluf.github.io/Attend-and-Excite/)] 
+[[Diffusers doc](https://huggingface.co/docs/diffusers/api/pipelines/attend_and_excite)] 
 [[Replicate Demo](https://replicate.com/daanelson/attend-and-excite)]
 
-⭐**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
-[[ICCV 2023](https://arxiv.org/abs/2210.00939)] 
-[[Project](https://ku-cvlab.github.io/Self-Attention-Guidance/)] 
-[[Code Official](https://github.com/KU-CVLAB/Self-Attention-Guidance)]
-[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_sag.py)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/stable_diffusion/self_attention_guidance)] 
-[[Demo](https://huggingface.co/spaces/susunghong/Self-Attention-Guidance)]
-
-⭐**Expressive Text-to-Image Generation with Rich Text** \
-[[ICCV 2023](https://arxiv.org/abs/2304.06720)] 
-[[Project](https://rich-text-to-image.github.io/)] 
-[[Code](https://github.com/SongweiGe/rich-text-to-image)]
-[[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
-
 **SEGA: Instructing Diffusion using Semantic Dimensions** \
-[[Website](https://arxiv.org/abs/2301.12247)] 
 [[NeurIPS 2023](https://openreview.net/forum?id=KIPAIy329j&referrer=%5Bthe%20profile%20of%20Patrick%20Schramowski%5D(%2Fprofile%3Fid%3D~Patrick_Schramowski1))] 
+[[Website](https://arxiv.org/abs/2301.12247)] 
 [[Code](https://github.com/ml-research/semantic-image-editing)]
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/semantic_stable_diffusion/pipeline_semantic_stable_diffusion.py)]
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/semantic_stable_diffusion)] 
 
+**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Hong_Improving_Sample_Quality_of_Diffusion_Models_Using_Self-Attention_Guidance_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2210.00939)] 
+[[Project](https://ku-cvlab.github.io/Self-Attention-Guidance/)] 
+[[Code Official](https://github.com/KU-CVLAB/Self-Attention-Guidance)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/self_attention_guidance)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_sag.py)]
+<!-- [[Demo](https://huggingface.co/spaces/susunghong/Self-Attention-Guidance)] -->
+
+**Expressive Text-to-Image Generation with Rich Text** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Ge_Expressive_Text-to-Image_Generation_with_Rich_Text_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2304.06720)] 
+[[Project](https://rich-text-to-image.github.io/)] 
+[[Code](https://github.com/SongweiGe/rich-text-to-image)]
+[[Demo](https://huggingface.co/spaces/songweig/rich-text-to-image)]
+
+**Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Orgad_Editing_Implicit_Assumptions_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2303.08084)] 
+[[Project](https://time-diffusion.github.io/)] 
+[[Code](https://github.com/bahjat-kawar/time-diffusion)]
+[[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
+
 **MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models** \
-[[ICCV 2023](https://arxiv.org/abs/2303.13126)] 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_MagicFusion_Boosting_Text-to-Image_Generation_Performance_by_Fusing_Diffusion_Models_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2303.13126)] 
 [[Project](https://magicfusion.github.io/)]
 [[Code](https://github.com/MagicFusion/MagicFusion.github.io)]
 
 **Discriminative Class Tokens for Text-to-Image Diffusion Models** \
-[[ICCV 2023](https://arxiv.org/abs/2303.17155)] 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Schwartz_Discriminative_Class_Tokens_for_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2303.17155)] 
 [[Project](https://vesteinn.github.io/disco/)]
 [[Code](https://github.com/idansc/discriminative_class_tokens)]
 
 **Compositional Visual Generation with Composable Diffusion Models** \
-[[ECCV 2022](https://arxiv.org/abs/2206.01714)] 
-[[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
+[[ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/6940_ECCV_2022_paper.php)] 
+[[Website](https://arxiv.org/abs/2206.01714)] 
 [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] 
+[[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
 
 **ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation** \
-[[NeurIPS 2023](https://arxiv.org/abs/2304.05977)] 
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72054)] 
+[[Website](https://arxiv.org/abs/2304.05977)] 
 [[Code](https://github.com/THUDM/ImageReward)]
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=JVzeOYEx6d)]  -->
+
+**Diffusion Self-Guidance for Controllable Image Generation** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70344)] 
+[[Website](https://arxiv.org/abs/2306.00986)] 
+[[Project](https://dave.ml/selfguidance/)] 
+[[Code](https://github.com/Sainzerjj/Free-Guidance-Diffusion)]
+
+**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72425)] 
+[[Website](https://arxiv.org/abs/2306.14685)] 
+[[Code](https://github.com/ximinng/DiffSketcher)]
 
 **Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment** \
-[[NeurIPS 2023](https://arxiv.org/abs/2306.08877)] 
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72543)] 
+[[Website](https://arxiv.org/abs/2306.08877)] 
 [[Code](https://github.com/RoyiRa/Syntax-Guided-Generation)]
+
+**Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
+[[BMVC 2023 Oral](https://arxiv.org/abs/2307.10864)] 
+[[Project](https://sites.google.com/view/divide-and-bind)] 
+[[Code](https://github.com/boschresearch/Divide-and-Bind)] 
+
+**Real-World Image Variation by Aligning Diffusion Inversion Chain** \
+[[Website](https://arxiv.org/abs/2305.18729)] 
+[[Project](https://rival-diff.github.io/)] 
+[[Code](https://github.com/julianjuaner/RIVAL/)]
+
+**FreeU: Free Lunch in Diffusion U-Net** \
+[[Website](https://arxiv.org/abs/2309.11497)] 
+[[Project](https://chenyangsi.top/FreeU/)] 
+[[Code](https://github.com/ChenyangSi/FreeU)]
+
+**ConceptLab: Creative Generation using Diffusion Prior Constraints** \
+[[Website](https://arxiv.org/abs/2308.02669)] 
+[[Project](https://kfirgoldberg.github.io/ConceptLab/)] 
+[[Code](https://github.com/kfirgoldberg/ConceptLab)]
+
+**Aligning Text-to-Image Diffusion Models with Reward Backpropagationn** \
+[[Website](https://arxiv.org/abs/2310.03739)] 
+[[Project](https://align-prop.github.io/)] 
+[[Code](https://github.com/mihirp1998/AlignProp/)]
+
+**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** \
+[[Website](https://arxiv.org/abs/2310.07653)] 
+[[Project](https://minidalle3.github.io/)] 
+[[Code](https://github.com/Zeqiang-Lai/Mini-DALLE3)]
+
+**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.07702)] 
+[[Project](https://yingqinghe.github.io/scalecrafter/)] 
+[[Code](https://github.com/YingqingHe/ScaleCrafter)]
+
+**One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls** \
+[[Website](https://arxiv.org/abs/2311.15744)] 
+[[Project](https://jabir-zheng.github.io/OneMoreStep/)] 
+[[Code](https://github.com/mhh0318/OneMoreStep)]
+
+**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
+[[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
+[[Code](https://github.com/Qrange-group/SUR-adapter)]
 
 **ORES: Open-vocabulary Responsible Visual Synthesis** \
 [[Website](https://arxiv.org/abs/2308.13785)] 
@@ -993,20 +1047,6 @@
 **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness** \
 [[Website](https://arxiv.org/abs/2302.10893)] 
 [[Code](https://github.com/ml-research/fair-diffusion)]
-
-**Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
-[[ICCV 2023](https://arxiv.org/abs/2303.08084)] 
-[[Project](https://time-diffusion.github.io/)] 
-[[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
-
-**Real-World Image Variation by Aligning Diffusion Inversion Chain** \
-[[Website](https://arxiv.org/abs/2305.18729)] 
-[[Project](https://rival-diff.github.io/)] 
-[[Code](https://github.com/julianjuaner/RIVAL/)]
-
-**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
-[[Website](https://arxiv.org/abs/2305.05189)] 
-[[Code](https://github.com/Qrange-group/SUR-adapter)]
 
 **Detector Guidance for Multi-Object Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2306.02236)] 
@@ -1020,45 +1060,6 @@
 [[Website](https://arxiv.org/abs/2307.10159)] 
 [[Code](https://github.com/sd-fabric/fabric)]
 
-**FreeU: Free Lunch in Diffusion U-Net** \
-[[Website](https://arxiv.org/abs/2309.11497)] 
-[[Code](https://github.com/ChenyangSi/FreeU)]
-[[Project](https://chenyangsi.top/FreeU/)] 
-
-**ConceptLab: Creative Generation using Diffusion Prior Constraints** \
-[[Website](https://arxiv.org/abs/2308.02669)] 
-[[Code](https://github.com/kfirgoldberg/ConceptLab)]
-[[Project](https://kfirgoldberg.github.io/ConceptLab/)] 
-
-**Aligning Text-to-Image Diffusion Models with Reward Backpropagationn** \
-[[Website](https://arxiv.org/abs/2310.03739)] 
-[[Code](https://github.com/mihirp1998/AlignProp/)]
-[[Project](https://align-prop.github.io/)] 
-
-**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** \
-[[Website](https://arxiv.org/abs/2310.07653)] 
-[[Code](https://github.com/Zeqiang-Lai/Mini-DALLE3)]
-[[Project](https://minidalle3.github.io/)] 
-
-**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2310.07702)] 
-[[Code](https://github.com/YingqingHe/ScaleCrafter)]
-[[Project](https://yingqinghe.github.io/scalecrafter/)] 
-
-**One More Step: A Versatile Plug-and-Play Module for Rectifying Diffusion Schedule Flaws and Enhancing Low-Frequency Controls** \
-[[Website](https://arxiv.org/abs/2311.15744)] 
-[[Code](https://github.com/mhh0318/OneMoreStep)]
-[[Project](https://jabir-zheng.github.io/OneMoreStep/)] 
-
-**Style Aligned Image Generation via Shared Attention** \
-[[Website](https://arxiv.org/abs/2312.02133)] 
-[[Project](https://style-aligned-gen.github.io/)] 
-[[Code](https://github.com/google/style-aligned/)]
-
-
-**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.09869)] 
-[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
 
 **Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16223)] 
@@ -1088,17 +1089,26 @@
 [[Website](https://arxiv.org/abs/2311.15657)] 
 [[Code](https://github.com/chaofengc/texforce)]
 
-**Diffusion Self-Guidance for Controllable Image Generation** \
-[[Website](https://arxiv.org/abs/2306.00986)] 
-[[Project](https://dave.ml/selfguidance/)] 
+**AltDiffusion: A Multilingual Text-to-Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2308.09991)] 
+[[Code](https://github.com/superhero-7/AltDiffusion)]
+
+**It is all about where you start: Text-to-image generation with seed selection** \
+[[Website](https://arxiv.org/abs/2304.14530)] 
+[[Code](https://github.com/dvirsamuel/SeedSelect)]
+
+**End-to-End Diffusion Latent Optimization Improves Classifier Guidance** \
+[[Website](https://arxiv.org/abs/2303.13703)] 
+[[Code](https://github.com/salesforce/doodl)]
+
 
 **Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2310.01819)] 
 [[Project](https://asst2i.github.io/anon/)] 
 
-**Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
-[[Website](https://arxiv.org/abs/2307.10864)] 
-[[Project](https://sites.google.com/view/divide-and-bind)] 
+**Norm-guided latent space exploration for text-to-image generation** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
+[[Website](https://arxiv.org/abs/2306.08687)] 
 
 
 **MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask** \
@@ -1110,27 +1120,12 @@
 **Text2Layer: Layered Image Generation using Latent Diffusion Model** \
 [[Website](https://arxiv.org/abs/2307.09781)] 
 
-**AltDiffusion: A Multilingual Text-to-Image Diffusion Model** \
-[[Website](https://arxiv.org/abs/2308.09991)] 
-
-**It is all about where you start: Text-to-image generation with seed selection** \
-[[Website](https://arxiv.org/abs/2304.14530)] 
-
-**End-to-End Diffusion Latent Optimization Improves Classifier Guidance** \
-[[Website](https://arxiv.org/abs/2303.13703)] 
-
 **Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling** \
 [[Website](https://arxiv.org/abs/2307.03992)] 
 
 **A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation** \
 [[Website](https://arxiv.org/abs/2310.16656)] 
 
-
-**Norm-guided latent space exploration for text-to-image generation** \
-[[Website](https://arxiv.org/abs/2306.08687)] 
-
-**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.14685)] 
 
 **Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.14408)] 
@@ -1171,10 +1166,10 @@
 
 **CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/69913)]
-[[NeurIPS 2023](https://openreview.net/forum?id=z9d9DsjAPH)]
 [[Website](https://arxiv.org/abs/2310.13165)]
 [[Project](https://cyclenetweb.github.io/)] 
 [[Code](https://github.com/sled-group/cyclenet)]
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=z9d9DsjAPH)] -->
 
 **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** \
 [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)]
@@ -1565,10 +1560,6 @@
 [[Website](https://arxiv.org/abs/2308.10040)] 
 [[Code]](https://github.com/bcmi/ControlCom-Image-Composition) 
 
-**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.09869)] 
-[[Code](https://github.com/EnergyAttention/Energy-Based-CrossAttention)] 
-
 **Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2310.07222)] 
 [[Code](https://github.com/ysy31415/unipaint)] 
@@ -1629,10 +1620,10 @@
 
 **TextDiffuser: Diffusion Models as Text Painters** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70636)]
-[[NeurIPS 2023](https://openreview.net/forum?id=ke3RgcDmfO)]
 [[Website](https://arxiv.org/abs/2305.10855)]
 [[Project](https://jingyechen.github.io/textdiffuser/)] 
 [[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)] 
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=ke3RgcDmfO)] -->
 
 **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** \
 [[Website](https://arxiv.org/abs/2311.16465)]
@@ -1640,15 +1631,15 @@
 
 **GlyphControl: Glyph Conditional Control for Visual Text Generation** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70191)]
-[[NeurIPS 2023](https://openreview.net/forum?id=thPI8hrA4V)]
 [[Website](https://arxiv.org/abs/2305.18259)]
 [[Code](https://github.com/AIGText/GlyphControl-release)] 
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=thPI8hrA4V)] -->
 
 **DiffUTE: Universal Text Editing Diffusion Model** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/71364)]
-[[NeurIPS 2023](https://openreview.net/forum?id=XKeSauhUdJ)]
 [[Website](https://arxiv.org/abs/2305.10825)]
 [[Code](https://github.com/chenhaoxing/DiffUTE)] 
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=XKeSauhUdJ)] -->
 
 **Word-As-Image for Semantic Typography** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2303.01818)]
@@ -1796,26 +1787,6 @@
 
 
 
-**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
-[[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/944618542d80a63bbec16dfbd2bd689a-Abstract-Conference.html)]
-[[NeurIPS 2022](https://openreview.net/forum?id=hX5Ia-ION8Y)]
-[[Website](https://arxiv.org/abs/2205.09853)]
-[[Project](https://mask-cond-video-diffusion.github.io/)] 
-[[Code](https://github.com/voletiv/mcvd-pytorch)]
-
-
-**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71560)]
-[[NeurIPS 2023](https://openreview.net/forum?id=TRbklCR2ZW)]
-[[Website](https://arxiv.org/abs/2309.13274)]
-[[Code](https://github.com/iva-mzsun/glober)]
-
-**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70404)]
-[[NeurIPS 2023](https://openreview.net/forum?id=paa2OU5jN8)]
-[[Website](https://arxiv.org/abs/2309.14494)]
-[[Code](https://github.com/SooLab/Free-Bloom)]
-
 **SinFusion: Training Diffusion Models on a Single Image or Video** \
 [[ICML 2023](https://icml.cc/virtual/2023/poster/24630)]
 [[Website](https://arxiv.org/abs/2211.11743)]
@@ -1831,6 +1802,26 @@
 
 
 
+
+**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
+[[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/944618542d80a63bbec16dfbd2bd689a-Abstract-Conference.html)]
+[[Website](https://arxiv.org/abs/2205.09853)]
+[[Project](https://mask-cond-video-diffusion.github.io/)] 
+[[Code](https://github.com/voletiv/mcvd-pytorch)]
+<!-- [[NeurIPS 2022](https://openreview.net/forum?id=hX5Ia-ION8Y)] -->
+
+
+**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71560)]
+[[Website](https://arxiv.org/abs/2309.13274)]
+[[Code](https://github.com/iva-mzsun/glober)]
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=TRbklCR2ZW)] -->
+
+**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70404)]
+[[Website](https://arxiv.org/abs/2309.14494)]
+[[Code](https://github.com/SooLab/Free-Bloom)]
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=paa2OU5jN8)] -->
 
 **Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.html)]
