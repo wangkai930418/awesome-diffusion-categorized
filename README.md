@@ -442,43 +442,36 @@
 [[Project](https://intrinsic-lora.github.io/)]  -->
 
 ## New Concept Learning
-⭐⭐⭐**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
-[[Website](https://arxiv.org/abs/2208.01618)] 
-[[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)] 
-[[Code](https://github.com/rinongal/textual_inversion)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/text_inversion)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion)] 
 
 ⭐⭐⭐**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation** \
-[[CVPR 2023](https://arxiv.org/abs/2208.12242)] 
+[[CVPR 2023 Honorable Mention](https://openaccess.thecvf.com/content/CVPR2023/html/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2208.12242)] 
+[[Project](https://dreambooth.github.io/)] 
 [[Official Dataset](https://github.com/google/dreambooth)]
 [[Unofficial Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
-[[Project](https://dreambooth.github.io/)] 
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/training/dreambooth)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)] 
 
+⭐⭐⭐**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
+[[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)] 
+[[Website](https://arxiv.org/abs/2208.01618)] 
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/text_inversion)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion)] 
+[[Code](https://github.com/rinongal/textual_inversion)]
+
+
 ⭐⭐**Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion** \
-[[CVPR 2023](https://arxiv.org/abs/2212.04488)] 
-[[Code](https://github.com/adobe-research/custom-diffusion)]
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2212.04488)] 
 [[Project](https://www.cs.cmu.edu/~custom-diffusion/)] 
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/training/custom_diffusion)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion)] 
+[[Code](https://github.com/adobe-research/custom-diffusion)]
 
 ⭐⭐**ReVersion: Diffusion-Based Relation Inversion from Images** \
 [[Website](https://arxiv.org/abs/2303.13495)] 
-[[Code](https://github.com/ziqihuangg/ReVersion)]
 [[Project](https://ziqihuangg.github.io/projects/reversion.html)]
-
-⭐**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
-[[Website](https://arxiv.org/abs/2305.10431)] 
-[[Code](https://github.com/mit-han-lab/fastcomposer)]
-[[Demo](https://2acfe10ec96df6f2b0.gradio.live/)]
-[[Project](https://fastcomposer.mit.edu/)] 
-
-⭐**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
-[[Website](https://arxiv.org/abs/2305.13579)] 
-[[Code](https://github.com/drboog/profusion)]
-
+[[Code](https://github.com/ziqihuangg/ReVersion)]
 
 ⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.html)] 
@@ -486,26 +479,28 @@
 [[Project](https://zhang-zx.github.io/SINE/)] 
 [[Code](https://github.com/zhang-zx/SINE)] 
 
-⭐**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning** \
-[[Website](https://arxiv.org/abs/2303.11305)] 
-[[Code](https://github.com/mkshing/svdiff-pytorch)]
-
-⭐**A Neural Space-Time Representation for Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2305.15391)] 
-[[Code](https://github.com/NeuralTextualInversion/NeTI)]
-[[Project](https://neuraltextualinversion.github.io/NeTI/)] 
-
 ⭐**Break-A-Scene: Extracting Multiple Concepts from a Single Image** \
-[[Website](https://arxiv.org/abs/2305.16311)] 
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16311)] 
 [[Project](https://omriavrahami.com/break-a-scene/)]
 [[Code](https://github.com/google/break-a-scene)]
 
 ⭐**Concept Decomposition for Visual Exploration and Inspiration** \
-[[Website](https://arxiv.org/abs/2305.18203)] 
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.18203)] 
 [[Project](https://inspirationtree.github.io/inspirationtree/)] 
 [[Code](https://github.com/google/inspiration_tree)]
 
-⭐**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \
+**A Neural Space-Time Representation for Text-to-Image Personalization** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.15391)] 
+[[Project](https://neuraltextualinversion.github.io/NeTI/)] 
+[[Code](https://github.com/NeuralTextualInversion/NeTI)]
+
+**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
+[[Website](https://arxiv.org/abs/2305.10431)] 
+[[Code](https://github.com/mit-han-lab/fastcomposer)]
+[[Project](https://fastcomposer.mit.edu/)] 
+<!-- [[Demo](https://2acfe10ec96df6f2b0.gradio.live/)] -->
+
+**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \
 [[Website](https://arxiv.org/abs/2307.04725)] 
 [[Project](https://animatediff.github.io/)] 
 [[Code](https://github.com/guoyww/animatediff/)]
@@ -514,10 +509,6 @@
 [[Website](https://arxiv.org/abs/2307.11410)] 
 [[Project](https://oppo-mente-lab.github.io/subject_diffusion/)] 
 [[Code](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)]
-
-**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2307.06949)] 
-[[Project](https://hyperdreambooth.github.io/)] 
 
 **Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2303.08767)] 
@@ -608,6 +599,19 @@
 [[Project](https://style-aligned-gen.github.io/)] 
 [[Code](https://github.com/google/style-aligned/)]
 
+
+**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
+[[Website](https://arxiv.org/abs/2305.13579)] 
+[[Code](https://github.com/drboog/profusion)]
+
+**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2303.11305)] 
+[[Code](https://github.com/mkshing/svdiff-pytorch)]
+
+
+**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2307.06949)] 
+[[Project](https://hyperdreambooth.github.io/)] 
 
 **ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** \
 [[Website](https://arxiv.org/abs/2311.13600)] 
