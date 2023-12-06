@@ -501,6 +501,24 @@
 [[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
 [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
+**Inserting Anybody in Diffusion Models via Celeb Basis** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71823)] 
+[[Website](https://arxiv.org/abs/2306.00926)] 
+[[Project](https://celeb-basis.github.io/)] 
+[[Code](https://github.com/ygtxr1997/celebbasis)]
+
+**Controlling Text-to-Image Diffusion by Orthogonal Finetuning** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72033)] 
+[[Website](https://arxiv.org/abs/2306.07280)] 
+[[Project](https://oft.wyliu.com/)] 
+[[Code](https://github.com/Zeju1997/oft)]
+
+**Photoswap: Personalized Subject Swapping in Images** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70336)] 
+[[Website](https://arxiv.org/abs/2305.18286)] 
+[[Project](https://photoswap.github.io/)] 
+[[Code](https://github.com/eric-ai-lab/photoswap)]
+
 **Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Unsupervised_Compositional_Concepts_Discovery_with_Text-to-Image_Generative_Models_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2306.05357)] 
@@ -527,6 +545,22 @@
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
 [[Project](https://tuning-encoder.github.io/)] 
 [[Code](https://github.com/mkshing/e4t-diffusion)]
+
+**Material Palette: Extraction of Materials from a Single Image** \
+[[Website](https://arxiv.org/abs/2311.17060)] 
+[[Project](https://astra-vision.github.io/MaterialPalette/)] 
+[[Code](https://github.com/astra-vision/MaterialPalette)]
+
+
+**StyleDrop: Text-to-Image Generation in Any Style** \
+[[Website](https://arxiv.org/abs/2306.00983)] 
+[[Project](https://styledrop.github.io/)] 
+[[Code](https://github.com/zideliu/StyleDrop-PyTorch)]
+
+**Style Aligned Image Generation via Shared Attention** \
+[[Website](https://arxiv.org/abs/2312.02133)] 
+[[Project](https://style-aligned-gen.github.io/)] 
+[[Code](https://github.com/google/style-aligned/)]
 
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
 [[Website](https://arxiv.org/abs/2305.10431)] 
@@ -564,46 +598,17 @@
 [[Code](https://github.com/hila-chefer/Conceptor)]
 [[Project](https://hila-chefer.github.io/Conceptor/)] 
 
-**Inserting Anybody in Diffusion Models via Celeb Basis** \
-[[Website](https://arxiv.org/abs/2306.00926)] 
-[[Code](https://github.com/ygtxr1997/celebbasis)]
-[[Project](https://celeb-basis.github.io/)] 
-
 **ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.04695)] 
-[[Code](https://github.com/conceptbed/evaluations)]
 [[Project](https://conceptbed.github.io/)] 
+[[Code](https://github.com/conceptbed/evaluations)]
 
-**Controlling Text-to-Image Diffusion by Orthogonal Finetuning** \
-[[Website](https://arxiv.org/abs/2306.07280)] 
-[[Code](https://github.com/Zeju1997/oft)]
-[[Project](https://oft.wyliu.com/)] 
 
 **SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing** \
 [[Website](https://arxiv.org/abs/2310.08094)] 
 [[Project](https://jarrentwu1031.github.io/SingleInsert-web/)] 
 [[Code](https://github.com/JarrentWu1031/SingleInsert)]
 
-**Photoswap: Personalized Subject Swapping in Images** \
-[[Website](https://arxiv.org/abs/2305.18286)] 
-[[Project](https://photoswap.github.io/)] 
-[[Code](https://github.com/eric-ai-lab/photoswap)]
-
-**Material Palette: Extraction of Materials from a Single Image** \
-[[Website](https://arxiv.org/abs/2311.17060)] 
-[[Project](https://astra-vision.github.io/MaterialPalette/)] 
-[[Code](https://github.com/astra-vision/MaterialPalette)]
-
-
-**StyleDrop: Text-to-Image Generation in Any Style** \
-[[Website](https://arxiv.org/abs/2306.00983)] 
-[[Project](https://styledrop.github.io/)] 
-[[Code](https://github.com/zideliu/StyleDrop-PyTorch)]
-
-**Style Aligned Image Generation via Shared Attention** \
-[[Website](https://arxiv.org/abs/2312.02133)] 
-[[Project](https://style-aligned-gen.github.io/)] 
-[[Code](https://github.com/google/style-aligned/)]
 
 
 **Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
