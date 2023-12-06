@@ -9,8 +9,8 @@
 - [Continual Learning](#continual-learning)
 - [Remove Concept](#remove-concept)
 - [New Concept Learning](#new-concept-learning)
-- [Spatial Control](#spatial-control)
 - [T2I augmentation](#t2i-diffusion-model-augmentation)
+- [Spatial Control](#spatial-control)
 - [Image Translation](#i2i-translation)
 - [Seg & Detect & Track](#segmentation-detection-tracking)
 - [Adding Conditions](#additional-conditions)
@@ -780,142 +780,6 @@
 
 
 
-## Spatial Control
-
-**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
-[[ICML 2023](https://icml.cc/virtual/2023/poster/23809)] 
-[[ICML 2023](https://dl.acm.org/doi/10.5555/3618408.3618482)] 
-[[Website](https://arxiv.org/abs/2302.08113)] 
-[[Project](https://multidiffusion.github.io/)] 
-[[Code](https://github.com/omerbt/MultiDiffusion)]
-[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_panorama.py)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/panorama)] 
-[[Replicate Demo](https://replicate.com/omerbt/multidiffusion)]
-
-**GLIGEN: Open-Set Grounded Text-to-Image Generation** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_GLIGEN_Open-Set_Grounded_Text-to-Image_Generation_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2301.07093)] 
-[[Code](https://github.com/gligen/GLIGEN)]
-[[Demo](https://huggingface.co/spaces/gligen/demo)]
-
-
-**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
-[[Website](https://arxiv.org/abs/2305.13655)] 
-[[Project](https://llm-grounded-diffusion.github.io/)] 
-[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
-[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
-[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
-
-**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis** \
-[[ICLR 2023](https://openreview.net/forum?id=PUIqjT4rzq7)] 
-[[Website](https://arxiv.org/abs/2212.05032)] 
-[[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
-[[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
-
-**SceneComposer: Any-Level Semantic Image Synthesis** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_SceneComposer_Any-Level_Semantic_Image_Synthesis_CVPR_2023_paper.pdf)] 
-[[Website](https://arxiv.org/abs/2211.11742)] 
-[[Project](https://zengyu.me/scenec/)] 
-[[Code](https://github.com/zengxianyu/scenec)]
-
-**ReCo: Region-Controlled Text-to-Image Generation** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)] 
-[[Website](https://arxiv.org/abs/2211.15518)] 
-[[Code](https://github.com/microsoft/ReCo)]
-
-
-**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Harnessing_the_Spatial-Temporal_Attention_of_Diffusion_Models_for_High-Fidelity_Text-to-Image_ICCV_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2304.03869)] 
-[[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
-
-**Visual Programming for Text-to-Image Generation and Evaluation** \
-[[Website](https://arxiv.org/abs/2305.15328)] 
-[[Project](https://vp-t2i.github.io/)] 
-[[Code](https://github.com/j-min/VPGen)]
-
-**Training-Free Layout Control with Cross-Attention Guidance** \
-[[Website](https://arxiv.org/abs/2304.03373)] 
-[[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
-[[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
-
-
-**Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
-[[Website](https://arxiv.org/abs/2302.13153)] 
-[[Project](https://silent-chen.github.io/layout-guidance/)] 
-[[Code](https://github.com/silent-chen/layout-guidance)]
-
-**Grounded Text-to-Image Synthesis with Attention Refocusing** \
-[[Website](https://arxiv.org/abs/2306.05427)] 
-[[Project](https://attention-refocusing.github.io/)] 
-[[Code](https://github.com/Attention-Refocusing/attention-refocusing)]
-
-**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2304.03373)] 
-[[Project](https://layoutllm-t2i.github.io/)] 
-[[Code](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)]
-
-**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
-[[ICCV 2023](https://arxiv.org/abs/2307.10816)] 
-[[Code](https://github.com/Sierkinhane/BoxDiff)]
-
-**Dense Text-to-Image Generation with Attention Modulation** \
-[[ICCV 2023](https://arxiv.org/abs/2308.12964)] 
-[[Code](https://github.com/naver-ai/densediffusion)]
-
-**Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.13921)] 
-[[Code](https://github.com/OPPO-Mente-Lab/attention-mask-control)]
-
-**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following** \
-[[Website](https://arxiv.org/abs/2311.17002)] 
-
-**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
-[[Website](https://arxiv.org/abs/2306.14544)] 
-
-**Controllable Text-to-Image Generation with GPT-4** \
-[[Website](https://arxiv.org/abs/2305.18583)] 
-
-**Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
-[[Website](https://arxiv.org/abs/2305.03382)] 
-
-**Localized Text-to-Image Generation for Free via Cross Attention Control** \
-[[Website](https://arxiv.org/abs/2306.14636)] 
-
-**Training-Free Location-Aware Text-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2304.13427)] 
-
-**Composite Diffusion | whole >= \Sigma parts** \
-[[Website](https://arxiv.org/abs/2307.13720)] 
-
-**Continuous Layout Editing of Single Images with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.13078)] 
-
-**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2308.06027)] 
-
-**Zero-shot spatial layout conditioning for text-to-image diffusion models** \
-[[Website](https://arxiv.org/abs/2306.13754)] 
-
-**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation** \
-[[Website](https://arxiv.org/abs/2310.08872)] 
-
-**Enhancing Object Coherence in Layout-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2311.10522)] 
-
-**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**\
-[[Website](https://arxiv.org/abs/2311.12342)] 
-
-**Self-correcting LLM-controlled Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.16090)] 
-
-**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2311.15773)] 
-
-**Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis** \
-[[Website](https://arxiv.org/abs/2311.18435)] 
-
-
 ## T2I Diffusion Model augmentation
 
 ⭐⭐⭐**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
@@ -1151,6 +1015,150 @@
 [[Website](https://arxiv.org/abs/2303.10137)] 
 [[Code](https://github.com/yunqing-me/watermarkdm)] -->
 
+
+
+## Spatial Control
+
+**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
+[[ICML 2023](https://icml.cc/virtual/2023/poster/23809)] 
+[[ICML 2023](https://dl.acm.org/doi/10.5555/3618408.3618482)] 
+[[Website](https://arxiv.org/abs/2302.08113)] 
+[[Project](https://multidiffusion.github.io/)] 
+[[Code](https://github.com/omerbt/MultiDiffusion)]
+[[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_panorama.py)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/panorama)] 
+[[Replicate Demo](https://replicate.com/omerbt/multidiffusion)]
+
+**SceneComposer: Any-Level Semantic Image Synthesis** \
+[[CVPR 2023 Highlight](https://openaccess.thecvf.com/content/CVPR2023/papers/Zeng_SceneComposer_Any-Level_Semantic_Image_Synthesis_CVPR_2023_paper.pdf)] 
+[[Website](https://arxiv.org/abs/2211.11742)] 
+[[Project](https://zengyu.me/scenec/)] 
+[[Code](https://github.com/zengxianyu/scenec)]
+
+**GLIGEN: Open-Set Grounded Text-to-Image Generation** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_GLIGEN_Open-Set_Grounded_Text-to-Image_Generation_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2301.07093)] 
+[[Code](https://github.com/gligen/GLIGEN)]
+[[Demo](https://huggingface.co/spaces/gligen/demo)]
+
+**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis** \
+[[ICLR 2023](https://openreview.net/forum?id=PUIqjT4rzq7)] 
+[[Website](https://arxiv.org/abs/2212.05032)] 
+[[Project](https://weixi-feng.github.io/structure-diffusion-guidance/)] 
+[[Code](https://github.com/shunk031/training-free-structured-diffusion-guidance)]
+
+**Visual Programming for Text-to-Image Generation and Evaluation** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/69940)] 
+[[Website](https://arxiv.org/abs/2305.15328)] 
+[[Project](https://vp-t2i.github.io/)] 
+[[Code](https://github.com/j-min/VPGen)]
+
+**ReCo: Region-Controlled Text-to-Image Generation** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)] 
+[[Website](https://arxiv.org/abs/2211.15518)] 
+[[Code](https://github.com/microsoft/ReCo)]
+
+**Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Harnessing_the_Spatial-Temporal_Attention_of_Diffusion_Models_for_High-Fidelity_Text-to-Image_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2304.03869)] 
+[[Code](https://github.com/UCSB-NLP-Chang/Diffusion-SpaceTime-Attn)]
+
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Xie_BoxDiff_Text-to-Image_Synthesis_with_Training-Free_Box-Constrained_Diffusion_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2307.10816)] 
+[[Code](https://github.com/Sierkinhane/BoxDiff)]
+
+**Dense Text-to-Image Generation with Attention Modulation** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Dense_Text-to-Image_Generation_with_Attention_Modulation_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2308.12964)] 
+[[Code](https://github.com/naver-ai/densediffusion)]
+
+**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models** \
+[[Website](https://arxiv.org/abs/2305.13655)] 
+[[Project](https://llm-grounded-diffusion.github.io/)] 
+[[Code](https://github.com/TonyLianLong/LLM-groundedDiffusion)]
+[[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
+[[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
+
+**Training-Free Layout Control with Cross-Attention Guidance** \
+[[Website](https://arxiv.org/abs/2304.03373)] 
+[[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
+[[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
+
+
+**Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
+[[Website](https://arxiv.org/abs/2302.13153)] 
+[[Project](https://silent-chen.github.io/layout-guidance/)] 
+[[Code](https://github.com/silent-chen/layout-guidance)]
+
+**Grounded Text-to-Image Synthesis with Attention Refocusing** \
+[[Website](https://arxiv.org/abs/2306.05427)] 
+[[Project](https://attention-refocusing.github.io/)] 
+[[Code](https://github.com/Attention-Refocusing/attention-refocusing)]
+
+**LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2304.03373)] 
+[[Project](https://layoutllm-t2i.github.io/)] 
+[[Code](https://github.com/LayoutLLM-T2I/LayoutLLM-T2I)]
+
+**Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.13921)] 
+[[Project](https://oppo-mente-lab.github.io/compositional_t2i/)] 
+[[Code](https://github.com/OPPO-Mente-Lab/attention-mask-control)]
+
+**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation** \
+[[Website](https://arxiv.org/abs/2310.08872)] 
+[[Project](https://sagileo.github.io/Region-and-Boundary/)] 
+[[Code](https://github.com/StevenShaw1999/RnB)]
+
+**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2308.06027)] 
+[[Code](https://github.com/endo-yuki-t/MAG)]
+
+**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following** \
+[[Website](https://arxiv.org/abs/2311.17002)] 
+[[Project](https://ranni-t2i.github.io/Ranni/)] 
+
+**Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2311.15773)] 
+[[Project](https://simm-t2i.github.io/SimM/)] 
+
+**Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
+[[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
+
+**A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
+[[Website](https://arxiv.org/abs/2306.14544)] 
+
+**Controllable Text-to-Image Generation with GPT-4** \
+[[Website](https://arxiv.org/abs/2305.18583)] 
+
+**Localized Text-to-Image Generation for Free via Cross Attention Control** \
+[[Website](https://arxiv.org/abs/2306.14636)] 
+
+**Training-Free Location-Aware Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2304.13427)] 
+
+**Composite Diffusion | whole >= \Sigma parts** \
+[[Website](https://arxiv.org/abs/2307.13720)] 
+
+**Continuous Layout Editing of Single Images with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.13078)] 
+
+**Zero-shot spatial layout conditioning for text-to-image diffusion models** \
+[[Website](https://arxiv.org/abs/2306.13754)] 
+
+
+**Enhancing Object Coherence in Layout-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2311.10522)] 
+
+**LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**\
+[[Website](https://arxiv.org/abs/2311.12342)] 
+
+**Self-correcting LLM-controlled Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.16090)] 
+
+**Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis** \
+[[Website](https://arxiv.org/abs/2311.18435)] 
 
 
 <!-- # Restoration -->
