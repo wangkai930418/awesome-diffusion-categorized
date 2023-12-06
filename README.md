@@ -708,12 +708,15 @@
 [[Website](https://arxiv.org/abs/2308.14740)] 
 [[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
 
+**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2311.14631)] 
+[[Project](https://royzhao926.github.io/CatVersion-page/)] 
+
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
 
 **InstaStyle: Inversion Noise of a Stylized Image is Secretly a Style Adviser** \
 [[Website](https://arxiv.org/abs/2311.15040)] 
-
 
 **DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2305.03374)] 
@@ -721,14 +724,11 @@
 **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2304.02642)] 
 
-
-
 **Gradient-Free Textual Inversion** \
 [[Website](https://arxiv.org/abs/2304.05818)] 
 
 **Identity Encoder for Personalized Diffusion** \
 [[Website](https://arxiv.org/abs/2304.07429)] 
-
 
 **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09319)] 
@@ -769,12 +769,8 @@
 **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.11919)] 
 
-**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2311.14631)] 
-
 **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.13833)] 
-
 
 <!-- ## Representation Learning
 
