@@ -546,6 +546,11 @@
 [[Project](https://tuning-encoder.github.io/)] 
 [[Code](https://github.com/mkshing/e4t-diffusion)]
 
+**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71329)] 
+[[Website](https://arxiv.org/abs/2302.04841)] 
+[[Code](https://github.com/yandex-research/DVAR)]
+
 **Material Palette: Extraction of Materials from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.17060)] 
 [[Project](https://astra-vision.github.io/MaterialPalette/)] 
@@ -603,13 +608,19 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
-
 **SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing** \
 [[Website](https://arxiv.org/abs/2310.08094)] 
 [[Project](https://jarrentwu1031.github.io/SingleInsert-web/)] 
 [[Code](https://github.com/JarrentWu1031/SingleInsert)]
 
+**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs//2310.19784)] 
+[[Project](https://jiangyzy.github.io/CustomNet/)] 
+[[Code](https://github.com/TencentARC/CustomNet)]
 
+**Multiresolution Textual Inversion** \
+[[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
+[[Code](https://github.com/giannisdaras/multires_textual_inversion)]
 
 **Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
 [[Website](https://arxiv.org/abs/2305.13579)] 
@@ -619,28 +630,13 @@
 [[Website](https://arxiv.org/abs/2303.11305)] 
 [[Code](https://github.com/mkshing/svdiff-pytorch)]
 
-
-**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2307.06949)] 
-[[Project](https://hyperdreambooth.github.io/)] 
-
-**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** \
-[[Website](https://arxiv.org/abs/2311.13600)] 
-[[Project](https://arxiv.org/abs/2311.13600)] 
-
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[Website](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
 
-**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation** \
-[[Website](https://arxiv.org/abs/2306.08247)] 
-[[Project](https://bigaandsmallq.github.io/COW/)] 
-
 **ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2306.00971)] 
 [[Code](https://github.com/haoosz/vico)]
-
-
 
 **AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.15040)] 
@@ -659,13 +655,9 @@
 [[Website](https://arxiv.org/abs/2304.05265)] 
 [[Code](https://github.com/jnzju/COTI)]
 
-**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation** \
-[[Website](https://arxiv.org/abs/2302.04841)] 
-[[Code](https://github.com/yandex-research/DVAR)]
-
-**Multiresolution Textual Inversion** \
-[[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
-[[Code](https://github.com/giannisdaras/multires_textual_inversion)]
+**Cross-domain Compositing with Pretrained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.10167)] 
+[[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
 
 **Key-Locked Rank One Editing for Text-to-Image Personalization** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
@@ -679,6 +671,42 @@
 [[Website](https://arxiv.org/abs/2312.02432)] 
 [[Project](https://ryanpo.com/ortha/)] 
 
+**Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation** \
+[[Website](https://arxiv.org/abs/2306.08247)] 
+[[Project](https://bigaandsmallq.github.io/COW/)] 
+
+
+**HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2307.06949)] 
+[[Project](https://hyperdreambooth.github.io/)] 
+
+**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** \
+[[Website](https://arxiv.org/abs/2311.13600)] 
+[[Project](https://ziplora.github.io/)] 
+
+**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.10093)] 
+[[Project](https://omriavrahami.com/the-chosen-one/)] 
+
+**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
+[[Website](https://arxiv.org/abs/2307.06925)] 
+[[Project](https://datencoder.github.io/)] 
+
+**$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2303.09522)] 
+[[Project](https://prompt-plus.github.io/)] 
+
+**PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.05793)] 
+[[Project](https://photoverse2d.github.io/)] 
+
+**InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning** \
+[[Website](https://arxiv.org/abs/2304.03411)] 
+[[Project](https://jshi31.github.io/InstantBooth/)] 
+
+**Total Selfie: Generating Full-Body Selfies** \
+[[Website](https://arxiv.org/abs/2308.14740)] 
+[[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
 
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
@@ -693,22 +721,6 @@
 **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2304.02642)] 
 
-**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.10093)] 
-[[Project](https://omriavrahami.com/the-chosen-one/)] 
-
-**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
-[[Website](https://arxiv.org/abs/2307.06925)] 
-[[Project](https://datencoder.github.io/)] 
-
-**$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2303.09522)] 
-[[Project](https://prompt-plus.github.io/)] 
-
-
-**CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs//2310.19784)] 
-[[Project](https://jiangyzy.github.io/CustomNet/)] 
 
 
 **Gradient-Free Textual Inversion** \
@@ -717,21 +729,6 @@
 **Identity Encoder for Personalized Diffusion** \
 [[Website](https://arxiv.org/abs/2304.07429)] 
 
-**PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2309.05793)] 
-[[Project](https://photoverse2d.github.io/)] 
-
-**InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning** \
-[[Website](https://arxiv.org/abs/2304.03411)] 
-[[Project](https://jshi31.github.io/InstantBooth/)] 
-
-**Cross-domain Compositing with Pretrained Diffusion Models** \
-[[Website](https://arxiv.org/abs/2302.10167)] 
-[[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
-
-**Total Selfie: Generating Full-Body Selfies** \
-[[Website](https://arxiv.org/abs/2308.14740)] 
-[[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
 
 **Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09319)] 
