@@ -489,10 +489,44 @@
 [[Project](https://inspirationtree.github.io/inspirationtree/)] 
 [[Code](https://github.com/google/inspiration_tree)]
 
+**Cones: Concept Neurons in Diffusion Models for Customized Generation** \
+[[ICML 2023 Oral](https://icml.cc/virtual/2023/oral/25582)] 
+[[ICML 2023 Oral](https://dl.acm.org/doi/10.5555/3618408.3619298)] 
+[[Website](https://arxiv.org/abs/2303.05125)] 
+[[Code](https://github.com/Johanan528/Cones)]
+
+**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70870)] 
+[[Website](https://arxiv.org/abs/2305.14720)] 
+[[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
+
+**Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Unsupervised_Compositional_Concepts_Discovery_with_Text-to-Image_Generative_Models_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2306.05357)] 
+[[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
+[[Project](https://energy-based-model.github.io/unsupervised-concept-discovery/)]
+
+**ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
+[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_ELITE_Encoding_Visual_Concepts_into_Textual_Embeddings_for_Customized_Text-to-Image_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2302.13848)] 
+[[Code](https://github.com/csyxwei/ELITE)]
+<!-- [[Demo](https://huggingface.co/spaces/ELITE-library/ELITE)] -->
+
 **A Neural Space-Time Representation for Text-to-Image Personalization** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.15391)] 
 [[Project](https://neuraltextualinversion.github.io/NeTI/)] 
 [[Code](https://github.com/NeuralTextualInversion/NeTI)]
+
+**ITI-GEN: Inclusive Text-to-Image Generation** \
+[[ICCV 2023 Oral](https://arxiv.org/abs/2309.05569)] 
+[[Website](https://arxiv.org/abs/2309.05569)] 
+[[Project](https://czhang0528.github.io/iti-gen)] 
+
+**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
+[[Project](https://tuning-encoder.github.io/)] 
+[[Code](https://github.com/mkshing/e4t-diffusion)]
 
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
 [[Website](https://arxiv.org/abs/2305.10431)] 
@@ -515,43 +549,15 @@
 [[Code](https://github.com/HiPer0/HiPer)]
 [[Project](https://hiper0.github.io/)] 
 
-**BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
-[[NeurIPS 2023](https://arxiv.org/abs/2305.14720)] 
-[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
-[[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
-
-**Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models** \
-[[ICCV 2023](https://arxiv.org/abs/2306.05357)] 
-[[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
-[[Project](https://energy-based-model.github.io/unsupervised-concept-discovery/)]
-
-**ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
-[[ICCV 2023](https://arxiv.org/abs/2302.13848)] 
-[[Code](https://github.com/csyxwei/ELITE)]
-[[Demo](https://huggingface.co/spaces/ELITE-library/ELITE)]
-
-**Cones: Concept Neurons in Diffusion Models for Customized Generation** \
-[[ICML 2023 oral](https://arxiv.org/abs/2303.05125)] 
-[[Code](https://github.com/Johanan528/Cones)]
-
-**ITI-GEN: Inclusive Text-to-Image Generation** \
-[[ICCV 2023](https://arxiv.org/abs/2309.05569)] 
-[[Project](https://czhang0528.github.io/iti-gen)] 
-
-**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
+<!-- **Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2303.15433)] 
 [[Code](https://github.com/VinAIResearch/Anti-DreamBooth)]
-[[Project](https://anti-dreambooth.github.io/)] 
+[[Project](https://anti-dreambooth.github.io/)]  -->
 
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
 [[Website](https://arxiv.org/abs/2211.11337)] 
-[[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
 [[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
-
-**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
-[[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
-[[Code](https://github.com/mkshing/e4t-diffusion)]
-[[Project](https://tuning-encoder.github.io/)] 
+[[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
 
 **The Hidden Language of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.00966)] 
