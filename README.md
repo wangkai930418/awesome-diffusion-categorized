@@ -1430,6 +1430,10 @@
 [[Project](https://shihaozhaozsh.github.io/unicontrolnet/)] 
 [[Code](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
 
+**LooseControl: Lifting ControlNet for Generalized Depth Conditioning** \
+[[Website](https://arxiv.org/abs/2312.03079)] 
+[[Project](https://shariqfarooq123.github.io/loose-control/)] 
+[[Code](https://github.com/shariqfarooq123/LooseControl)]
 
 
 **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
@@ -1479,6 +1483,8 @@
 **JointNet: Extending Text-to-Image Diffusion for Dense Distribution Modeling** \
 [[Website]](https://arxiv.org/abs/2310.06347) 
 
+**ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet** \
+[[Website]](https://arxiv.org/abs/2312.03154) 
 
 
 
