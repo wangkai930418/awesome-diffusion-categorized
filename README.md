@@ -908,6 +908,11 @@
 [[Project](https://jabir-zheng.github.io/OneMoreStep/)] 
 [[Code](https://github.com/mhh0318/OneMoreStep)]
 
+**TokenCompose: Grounding Diffusion with Token-level Supervision**\
+[[Website](https://arxiv.org/abs/2312.03626)] 
+[[Project](https://mlpc-ucsd.github.io/TokenCompose/)] 
+[[Code](https://github.com/mlpc-ucsd/TokenCompose)]
+
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
 [[Code](https://github.com/Qrange-group/SUR-adapter)]
@@ -1590,6 +1595,9 @@
 [[Website](https://arxiv.org/abs/2310.02848)] 
 [[Code](https://github.com/exisas/Magicremover)] 
 
+**Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**\
+[[Website](https://arxiv.org/abs/2312.03556)] 
+
 
 **SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2212.05034)] 
@@ -2088,6 +2096,9 @@
 **Decouple Content and Motion for Conditional Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2311.14294)]
 
+**F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis** \
+[[Website](https://arxiv.org/abs/2312.03459)]
+
 
 ## Video Editing 
 
@@ -2178,6 +2189,10 @@
 [[Project](https://video-motion-customization.github.io/)]
 [[Code](https://github.com/HyeonHo99/Video-Motion-Customization)] 
 
+**MagicStick: Controllable Video Editing via Control Handle Transformations** \
+[[Website](https://arxiv.org/abs/2312.03047)]
+[[Project](https://magic-stick-edit.github.io/)]
+[[Code](https://github.com/mayuelala/MagicStick)] 
 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
