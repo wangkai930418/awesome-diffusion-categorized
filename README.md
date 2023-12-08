@@ -260,6 +260,11 @@
 [[Website](https://arxiv.org/abs/2309.10556)] 
 [[Code](https://github.com/witcherofresearch/Forgedit)] 
 
+**Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.04410)] 
+[[Code](https://github.com/SHI-Labs/Smooth-Diffusion)] 
+
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -1349,6 +1354,9 @@
 **Towards Granularity-adjusted Pixel-level Semantic Annotation** \
 [[Website](https://arxiv.org/abs/2312.02420)] 
 
+**Gen2Det: Generate to Detect** \
+[[Website](https://arxiv.org/abs/2312.04566)] 
+
 
 ## Additional conditions 
 
@@ -2000,6 +2008,16 @@
 [[Project](https://xavierchen34.github.io/LivePhoto-Page/)] 
 [[Code](https://github.com/XavierCHEN34/LivePhoto)]
 
+**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion**
+[[Website](https://arxiv.org/abs/2312.04433)]
+[[Project](https://dreamvideo-t2v.github.io/)] 
+[[Code](https://github.com/damo-vilab/i2vgen-xl)]
+
+**Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2312.04483)]
+[[Project](https://higen-t2v.github.io/)] 
+[[Code](https://github.com/damo-vilab/i2vgen-xl)]
+
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
@@ -2058,6 +2076,10 @@
 [[Website](https://arxiv.org/abs/2312.01409)]
 [[Project](https://primecai.github.io/generative_rendering/)] 
 
+**GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation** \
+[[Website](https://arxiv.org/abs/2312.04557)]
+[[Project](https://www.shoufachen.com/gentron_website/)] 
+
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
 
@@ -2099,6 +2121,8 @@
 **F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis** \
 [[Website](https://arxiv.org/abs/2312.03459)]
 
+**MTVG : Multi-text Video Generation with Text-to-Video Models** \
+[[Website](https://arxiv.org/abs/2312.04086)]
 
 ## Video Editing 
 
@@ -2172,6 +2196,10 @@
 
 
 
+**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**\
+[[Website](https://arxiv.org/abs/2312.04524)]
+[[Project](https://rave-video.github.io/)] 
+[[Code](https://github.com/rehg-lab/RAVE)]
 
 
 **Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models**\
