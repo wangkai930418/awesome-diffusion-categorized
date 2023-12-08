@@ -1448,6 +1448,11 @@
 [[Project](https://shariqfarooq123.github.io/loose-control/)] 
 [[Code](https://github.com/shariqfarooq123/LooseControl)]
 
+**X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model** \
+[[Website](https://arxiv.org/abs/2312.03079)] 
+[[Project](https://showlab.github.io/X-Adapter/)] 
+[[Code](https://github.com/showlab/X-Adapter)]
+
 
 **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.08453)] 
@@ -1574,6 +1579,10 @@
 [[Project](https://damo-vilab.github.io/AnyDoor-Page/)]
 [[Code](https://github.com/damo-vilab/AnyDoor)] 
 
+**A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting** \
+[[Website](https://arxiv.org/abs/2312.03594)] 
+[[Project](https://powerpaint.github.io/)]
+[[Code](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint)] 
 
 **360-Degree Panorama Generation from Few Unregistered NFoV Images** \
 [[ACM MM 2023](https://arxiv.org/abs/2308.14686)] 
