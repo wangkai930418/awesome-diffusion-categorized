@@ -717,6 +717,10 @@
 [[Website](https://arxiv.org/abs/2311.14631)] 
 [[Project](https://royzhao926.github.io/CatVersion-page/)] 
 
+**PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding** \
+[[Website](https://arxiv.org/abs/2312.04461)] 
+[[Project](https://photo-maker.github.io/)] 
+
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
 
@@ -2017,7 +2021,12 @@
 [[Project](https://xavierchen34.github.io/LivePhoto-Page/)] 
 [[Code](https://github.com/XavierCHEN34/LivePhoto)]
 
-**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion**
+**AnimateZero: Video Diffusion Models are Zero-Shot Image Animators** \
+[[Website](https://arxiv.org/abs/2312.03793)]
+[[Project](https://vvictoryuki.github.io/animatezero.github.io/)] 
+[[Code](https://github.com/vvictoryuki/AnimateZero)]
+
+**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** \
 [[Website](https://arxiv.org/abs/2312.04433)]
 [[Project](https://dreamvideo-t2v.github.io/)] 
 [[Code](https://github.com/damo-vilab/i2vgen-xl)]
