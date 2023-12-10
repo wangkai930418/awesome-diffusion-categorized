@@ -1994,6 +1994,10 @@
 [[Project](https://ai-forever.github.io/kandinsky-video/)] 
 [[Code](https://github.com/ai-forever/KandinskyVideo)]
 
+**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation** \
+[[Website](https://arxiv.org/abs/2312.03641)]
+[[Project](https://wzhouxiff.github.io/projects/MotionCtrl/)] 
+[[Code](https://github.com/TencentARC/MotionCtrl)]
 
 
 **ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models** \
