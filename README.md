@@ -236,6 +236,11 @@
 [[Project](https://icoz69.github.io/facestudio/)] 
 [[Code](https://github.com/xyynafc/FaceStudio)] 
 
+**Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.04410)] 
+[[Project](https://shi-labs.github.io/Smooth-Diffusion/)] 
+[[Code](https://github.com/SHI-Labs/Smooth-Diffusion)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -259,10 +264,6 @@
 **Forgedit: Text Guided Image Editing via Learning and Forgetting** \
 [[Website](https://arxiv.org/abs/2309.10556)] 
 [[Code](https://github.com/witcherofresearch/Forgedit)] 
-
-**Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.04410)] 
-[[Code](https://github.com/SHI-Labs/Smooth-Diffusion)] 
 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
