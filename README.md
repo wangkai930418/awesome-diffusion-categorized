@@ -1617,6 +1617,14 @@
 [[Website](https://arxiv.org/abs/2310.02848)] 
 [[Code](https://github.com/exisas/Magicremover)] 
 
+**SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
+[[Website](https://arxiv.org/abs/2312.05039)] 
+[[Project](https://smartmask-gen.github.io/)]
+
+**Towards Stable and Faithful Inpainting** \
+[[Website](https://arxiv.org/abs/2312.04831)] 
+[[Project](https://yikai-wang.github.io/asuka/)]
+
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**\
 [[Website](https://arxiv.org/abs/2312.03556)] 
 
@@ -1697,6 +1705,11 @@
 [[SIGGRAPH 2023](https://arxiv.org/abs/2303.01818)]
 [[Project](https://wordasimage.github.io/Word-As-Image-Page/)] 
 [[Code](https://github.com/Shiriluz/Word-As-Image)] 
+
+**UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.04884)]
+[[Project](https://udifftext.github.io/)] 
+[[Code](https://github.com/ZYM-PKU/UDiffText?tab=readme-ov-file)] 
 
 **Ambigram generation by a diffusion model** \
 [[ICDAR 2023](https://arxiv.org/abs/2306.12049)]
@@ -2040,6 +2053,11 @@
 [[Website](https://arxiv.org/abs/2312.04483)]
 [[Project](https://higen-t2v.github.io/)] 
 [[Code](https://github.com/damo-vilab/i2vgen-xl)]
+
+**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.05107)]
+[[Project](https://dreamoving.github.io/dreamoving/)] 
+[[Code](https://github.com/dreamoving/dreamoving-project)]
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
