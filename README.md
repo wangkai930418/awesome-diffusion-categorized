@@ -241,6 +241,12 @@
 [[Project](https://shi-labs.github.io/Smooth-Diffusion/)] 
 [[Code](https://github.com/SHI-Labs/Smooth-Diffusion)] 
 
+**Inversion-Free Image Editing with Natural Language** \
+[[Website](https://arxiv.org/abs/2312.04965)] 
+[[Project](https://sled-group.github.io/InfEdit/index.html)] 
+[[Code](https://github.com/sled-group/InfEdit)] 
+
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
