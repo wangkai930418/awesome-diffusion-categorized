@@ -296,7 +296,10 @@
 [[Website](https://arxiv.org/abs/2309.04907)]
 
 **Iterative Multi-granular Image Editing using Diffusion Models** \
-[[WACV 2024](https://arxiv.org/abs/2309.00613)] 
+[[AAAI 2024](https://arxiv.org/abs/2309.00613)] 
+
+**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
+[[WACV 2024](https://arxiv.org/abs/2312.05482)] 
 
 **Text-to-image Editing by Image Information Removal** \
 [[WACV 2024](https://arxiv.org/abs/2305.17489)]
@@ -669,6 +672,10 @@
 [[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
 [[Project](https://research.nvidia.com/labs/par/Perfusion/)] 
 
+**PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
+[[Website](https://arxiv.org/abs/2312.06354)] 
+[[Project](https://portraitbooth.github.io/)] 
+
 **Subject-driven Text-to-Image Generation via Apprenticeship Learning** \
 [[Website](https://arxiv.org/abs/2304.00186)] 
 [[Project](https://open-vision-language.github.io/suti/)] 
@@ -721,6 +728,10 @@
 **PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding** \
 [[Website](https://arxiv.org/abs/2312.04461)] 
 [[Project](https://photo-maker.github.io/)] 
+
+**Photorealistic Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.06662)] 
+[[Project](https://walt-video-diffusion.github.io/)] 
 
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
@@ -988,6 +999,9 @@
 [[Website](https://arxiv.org/abs/2303.13703)] 
 [[Code](https://github.com/salesforce/doodl)]
 
+**Correcting Diffusion Generation through Resampling** \
+[[Website](https://arxiv.org/abs/2312.06038)] 
+[[Code](https://github.com/ucsb-nlp-chang/diffusion_resampling)]
 
 **Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2310.01819)] 
@@ -997,6 +1011,8 @@
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
 
+**CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.06059)] 
 
 **MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask** \
 [[Website](https://arxiv.org/abs/2309.04399)] 
@@ -1137,6 +1153,10 @@
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
+
+**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.05849)] 
+[[Project](https://jiuntian.github.io/interactdiffusion/)] 
 
 **Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following** \
 [[Website](https://arxiv.org/abs/2311.17002)] 
@@ -1458,6 +1478,11 @@
 [[Project](https://showlab.github.io/X-Adapter/)] 
 [[Code](https://github.com/showlab/X-Adapter)]
 
+**ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.06573)] 
+[[Project](https://vislearn.github.io/ControlNet-XS/)] 
+[[Code](https://github.com/vislearn/ControlNet-XS)]
+
 
 **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.08453)] 
@@ -1753,6 +1778,10 @@
 [[Website](https://arxiv.org/abs/2305.07015)] 
 [[Project](https://iceclear.github.io/projects/stablesr/)] 
 [[Code](https://github.com/IceClear/StableSR)] 
+
+**Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
+[[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
+[[Code](https://github.com/chaofengc/ITER)] 
 
 **Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
 [[Website](https://arxiv.org/abs/2310.12004)] 
@@ -2059,6 +2088,11 @@
 [[Project](https://dreamoving.github.io/dreamoving/)] 
 [[Code](https://github.com/dreamoving/dreamoving-project)]
 
+**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2312.06640)]
+[[Project](https://shangchenzhou.com/projects/upscale-a-video/)] 
+[[Code](https://github.com/sczhou/Upscale-A-Video)]
+
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
@@ -2070,6 +2104,10 @@
 **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** \
 [[Website](https://arxiv.org/abs/2303.08320)]
 [[Code](https://github.com/modelscope/modelscope)]
+
+**STDiff: Spatio-temporal Diffusion for Continuous Stochastic Video Prediction** \
+[[Website](https://arxiv.org/abs/2312.06486)]
+[[Code](https://github.com/xiye20/stdiffproject)]
 
 
 **Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation** \
