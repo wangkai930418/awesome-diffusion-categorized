@@ -627,6 +627,11 @@
 [[Project](https://jiangyzy.github.io/CustomNet/)] 
 [[Code](https://github.com/TencentARC/CustomNet)]
 
+**When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2311.17461)] 
+[[Project](https://csxmli2016.github.io/projects/w-plus-adapter/)] 
+[[Code](https://github.com/csxmli2016/w-plus-adapter)]
+
 **Multiresolution Textual Inversion** \
 [[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
 [[Code](https://github.com/giannisdaras/multires_textual_inversion)]
@@ -655,10 +660,6 @@
 [[Website](https://arxiv.org/abs/2311.15478)] 
 [[Code](https://github.com/divyakraman/AerialBooth2023)]
 
-
-**When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation** \
-[[Website](https://arxiv.org/abs/2311.17461)] 
-[[Code](https://github.com/csxmli2016/w-plus-adapter)]
 
 **Controllable Textual Inversion for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2304.05265)] 
