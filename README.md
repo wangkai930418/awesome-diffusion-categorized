@@ -1157,9 +1157,15 @@
 [[Project](https://sagileo.github.io/Region-and-Boundary/)] 
 [[Code](https://github.com/StevenShaw1999/RnB)]
 
+**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition** \
+[[Website](https://arxiv.org/abs/2312.07536)] 
+[[Project](https://genforce.github.io/freecontrol/)] 
+[[Code](https://github.com/genforce/freecontrol)]
+
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
+
 
 **InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.05849)] 
@@ -1514,6 +1520,10 @@
 **SpaText: Spatio-Textual Representation for Controllable Image Generation**\
 [[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
 [[Project]](https://omriavrahami.com/spatext/) 
+
+**CCM: Adding Conditional Controls to Text-to-Image Consistency Models** \
+[[Website](https://arxiv.org/abs/2312.06971)] 
+[[Project](https://swiftforce.github.io/CCM/)] 
 
 
 **Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
@@ -2100,6 +2110,16 @@
 [[Project](https://shangchenzhou.com/projects/upscale-a-video/)] 
 [[Code](https://github.com/sczhou/Upscale-A-Video)]
 
+**FreeInit: Bridging Initialization Gap in Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.07537)]
+[[Project](https://tianxingwu.github.io/pages/FreeInit/)] 
+[[Code](https://github.com/TianxingWu/FreeInit)]
+
+**Text2AC-Zero: Consistent Synthesis of Animated Characters using 2D Diffusion** \
+[[Website](https://arxiv.org/abs/2312.07133)]
+[[Project](https://abdo-eldesokey.github.io/text2ac-zero/)]
+[[Code](https://github.com/abdo-eldesokey/text2ac-zero)]
+
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
@@ -2115,6 +2135,11 @@
 **STDiff: Spatio-temporal Diffusion for Continuous Stochastic Video Prediction** \
 [[Website](https://arxiv.org/abs/2312.06486)]
 [[Code](https://github.com/xiye20/stdiffproject)]
+
+
+**PEEKABOO: Interactive Video Generation via Masked-Diffusion**\
+[[Website](https://arxiv.org/abs/2312.07509)]
+[[Project](https://jinga-lala.github.io/projects/Peekaboo/)]
 
 
 **Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation** \
