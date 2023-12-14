@@ -271,6 +271,10 @@
 [[Website](https://arxiv.org/abs/2309.10556)] 
 [[Code](https://github.com/witcherofresearch/Forgedit)] 
 
+**AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing** \
+[[Website](https://arxiv.org/abs/2312.08019)] 
+[[Code](https://github.com/anonymouspony/adap-edit)] 
+
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -642,6 +646,10 @@
 [[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
 [[Code](https://github.com/giannisdaras/multires_textual_inversion)]
 
+**Compositional Inversion for Stable Diffusion Models** \
+[[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
+[[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
+
 **Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
 [[Website](https://arxiv.org/abs/2305.13579)] 
 [[Code](https://github.com/drboog/profusion)]
@@ -674,6 +682,11 @@
 **Cross-domain Compositing with Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.10167)] 
 [[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
+
+**Concept-centric Personalization with Large-scale Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2312.08195)] 
+[[Code](https://github.com/PRIV-Creation/Concept-centric-Personalization)] 
+
 
 **Key-Locked Rank One Editing for Text-to-Image Personalization** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
