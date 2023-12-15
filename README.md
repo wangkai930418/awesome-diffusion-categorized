@@ -281,6 +281,10 @@
 [[Website](https://arxiv.org/abs/2305.18007)] 
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=cBS5CU96Jq)]  -->
 
+**LIME: Localized Image Editing via Attention Regularization in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.09256)]
+[[Project](https://enis.dev/LIME/)] 
+
 **Watch Your Steps: Local Image and Scene Editing by Text Instructions** \
 [[Website](https://arxiv.org/abs/2308.08947)]
 [[Project](https://ashmrz.github.io/WatchYourSteps/)] 
@@ -1526,6 +1530,10 @@
 [[Website](https://arxiv.org/abs/2312.01255)] 
 [[Code](https://github.com/JunjieYang97/Meta-ControlNet)]
 
+**Local Conditional Controlling for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.08768)] 
+[[Code](https://github.com/YibooZhao/Local-Control)]
+
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
 [[Project](https://mcm-diffusion.github.io/)] 
@@ -1538,6 +1546,9 @@
 [[Website](https://arxiv.org/abs/2312.06971)] 
 [[Project](https://swiftforce.github.io/CCM/)] 
 
+**FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection** \
+[[Website](https://arxiv.org/abs/2312.09252)] 
+[[Project](https://samsunglabs.github.io/FineControlNet-project-page/)] 
 
 **Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor** \
 [[Website](https://arxiv.org/abs/2305.20082)] 
@@ -2247,6 +2258,10 @@
 
 **MTVG : Multi-text Video Generation with Text-to-Video Models** \
 [[Website](https://arxiv.org/abs/2312.04086)]
+
+**VideoLCM: Video Latent Consistency Model** \
+[[Website](https://arxiv.org/abs/2312.09109)]
+
 
 ## Video Editing 
 
