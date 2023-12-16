@@ -2144,6 +2144,12 @@
 [[Project](https://abdo-eldesokey.github.io/text2ac-zero/)]
 [[Code](https://github.com/abdo-eldesokey/text2ac-zero)]
 
+**StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** \
+[[Website](https://arxiv.org/abs/2312.00330)]
+[[Project](https://gongyeliu.github.io/StyleCrafter.github.io/)]
+[[Code](https://github.com/GongyeLiu/StyleCrafter)]
+
+
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
