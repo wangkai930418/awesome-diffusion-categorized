@@ -2221,6 +2221,10 @@
 [[Website](https://arxiv.org/abs/2312.04557)]
 [[Project](https://www.shoufachen.com/gentron_website/)] 
 
+**Customizing Motion in Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.04966)]
+[[Project](https://joaanna.github.io/customizing_motion/)] 
+
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
 
