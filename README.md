@@ -246,6 +246,11 @@
 [[Project](https://sled-group.github.io/InfEdit/index.html)] 
 [[Code](https://github.com/sled-group/InfEdit)] 
 
+**MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance** \
+[[Website](https://arxiv.org/abs/2312.11396)] 
+[[Project](https://mag-edit.github.io/)] 
+[[Code](https://github.com/HelenMao/MAG-Edit)] 
+
 
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
@@ -275,6 +280,9 @@
 [[Website](https://arxiv.org/abs/2312.08019)] 
 [[Code](https://github.com/anonymouspony/adap-edit)] 
 
+**Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation** \
+[[Website](https://arxiv.org/abs/2312.10113)] 
+[[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -1554,6 +1562,10 @@
 [[Website](https://arxiv.org/abs/2305.20082)] 
 [[Project](https://control4darxiv.github.io/)] 
 
+**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing**
+[[Website](https://arxiv.org/abs/2312.11392)] 
+[[Project](https://scedit.github.io/)] 
+
 **SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.10156)] 
 
@@ -1794,6 +1806,9 @@
 
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
+
+**VecFusion: Vector Font Generation with Diffusion** \
+[[Website](https://arxiv.org/abs/2312.10540)]
 
 
 ## Super Resolution
@@ -2370,6 +2385,11 @@
 [[Website](https://arxiv.org/abs/2312.03047)]
 [[Project](https://magic-stick-edit.github.io/)]
 [[Code](https://github.com/mayuelala/MagicStick)] 
+
+**VidToMe: Video Token Merging for Zero-Shot Video Editing** \
+[[Website](https://arxiv.org/abs/2312.10656)]
+[[Project](https://vidtome-diffusion.github.io/)]
+[[Code](https://github.com/lixirui142/VidToMe)] 
 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
