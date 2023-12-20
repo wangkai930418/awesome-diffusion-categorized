@@ -1343,6 +1343,12 @@
 [[Website](https://arxiv.org/abs/2304.08408)] 
 [[Project](https://www.vis.xyz/pub/ovtrack/)] 
 
+**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71719)] 
+[[Website](https://arxiv.org/abs/2312.12425)] 
+[[Code](https://github.com/MengyuWang826/SegRefiner)]
+
+
 **Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2308.12469)] 
 [[Code](https://github.com/PotatoTian/DiffSeg)]
@@ -1788,6 +1794,15 @@
 [[Website](https://arxiv.org/abs/2312.04884)]
 [[Project](https://udifftext.github.io/)] 
 [[Code](https://github.com/ZYM-PKU/UDiffText?tab=readme-ov-file)] 
+
+**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** \
+[[AAAI 2024](https://arxiv.org/abs/2312.12232)]
+[[Code](https://github.com/ecnuljzhang/brush-your-text)] 
+
+**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning** \
+[[AAAI 2024](https://arxiv.org/abs/2312.12142)]
+[[Code](https://github.com/yeungchenwa/FontDiffuser)] 
+
 
 **Ambigram generation by a diffusion model** \
 [[ICDAR 2023](https://arxiv.org/abs/2306.12049)]
