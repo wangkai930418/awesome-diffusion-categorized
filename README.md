@@ -2196,6 +2196,9 @@
 [[Website](https://arxiv.org/abs/2312.06486)]
 [[Code](https://github.com/xiye20/stdiffproject)]
 
+**VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
+[[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
+[[Project](https://sites.research.google/videopoet/)]
 
 **PEEKABOO: Interactive Video Generation via Masked-Diffusion**\
 [[Website](https://arxiv.org/abs/2312.07509)]
