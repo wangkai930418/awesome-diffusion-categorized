@@ -81,6 +81,9 @@
 **Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.07825)] 
 
+**Fixed-point Inversion for Text-to-image diffusion models** \
+[[Website](https://arxiv.org/abs/2312.12540)] 
+
 
 ## Text Guided Image Editing
 ⭐⭐⭐**Prompt-to-Prompt Image Editing with Cross Attention Control** \
@@ -459,6 +462,9 @@
 
 **Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers** \
 [[Website](https://arxiv.org/abs/2311.17717)] 
+
+**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.12807)] 
 
 
 <!-- ## Semantic Intrinsic
@@ -2499,3 +2505,6 @@
 
 **VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.18837)]
+
+**RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing** \
+[[Website](https://arxiv.org/abs/2312.12635)]
