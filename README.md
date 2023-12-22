@@ -1575,7 +1575,7 @@
 [[Website](https://arxiv.org/abs/2305.20082)] 
 [[Project](https://control4darxiv.github.io/)] 
 
-**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing**
+**SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing** \
 [[Website](https://arxiv.org/abs/2312.11392)] 
 [[Project](https://scedit.github.io/)] 
 
