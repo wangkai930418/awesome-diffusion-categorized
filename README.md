@@ -767,9 +767,10 @@
 [[Website](https://arxiv.org/abs/2312.04461)] 
 [[Project](https://photo-maker.github.io/)] 
 
-**Photorealistic Video Generation with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.06662)] 
-[[Project](https://walt-video-diffusion.github.io/)] 
+**DreamTuner: Single Image is Enough for Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2312.13691)] 
+[[Project](https://dreamtuner-diffusion.github.io/)] 
+
 
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
@@ -1707,6 +1708,10 @@
 [[Website](https://arxiv.org/abs/2310.02848)] 
 [[Code](https://github.com/exisas/Magicremover)] 
 
+**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.14091)] 
+[[Code](https://github.com/Picsart-AI-Research/HD-Painter)] 
+
 **SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
 [[Website](https://arxiv.org/abs/2312.05039)] 
 [[Project](https://smartmask-gen.github.io/)]
@@ -2263,6 +2268,11 @@
 **Customizing Motion in Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.04966)]
 [[Project](https://joaanna.github.io/customizing_motion/)] 
+
+**Photorealistic Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.06662)] 
+[[Project](https://walt-video-diffusion.github.io/)] 
+
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
