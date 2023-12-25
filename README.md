@@ -374,6 +374,8 @@
 **The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing** \
 [[Website](https://arxiv.org/abs/2311.01410)]
 
+**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing** \
+[[Website](https://arxiv.org/abs/2312.14611)]
 
 
 
