@@ -445,6 +445,11 @@
 [[Code](https://github.com/abyildirim/inst-inpaint)]
 [[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
 
+**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications** \
+[[Website](https://arxiv.org/abs/2312.16145)] 
+[[Project](https://lyumengyao.github.io/projects/spm)] 
+[[Code](https://github.com/Con6924/SPM)]
+
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
 [[Code](https://github.com/nannullna/safe-diffusion)]
@@ -608,8 +613,8 @@
 
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
 [[Website](https://arxiv.org/abs/2305.10431)] 
-[[Code](https://github.com/mit-han-lab/fastcomposer)]
 [[Project](https://fastcomposer.mit.edu/)] 
+[[Code](https://github.com/mit-han-lab/fastcomposer)]
 <!-- [[Demo](https://2acfe10ec96df6f2b0.gradio.live/)] -->
 
 **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \
@@ -624,8 +629,8 @@
 
 **Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2303.08767)] 
-[[Code](https://github.com/HiPer0/HiPer)]
 [[Project](https://hiper0.github.io/)] 
+[[Code](https://github.com/HiPer0/HiPer)]
 
 <!-- **Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
 [[ICCV 2023](https://arxiv.org/abs/2303.15433)] 
@@ -639,8 +644,8 @@
 
 **The Hidden Language of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.00966)] 
-[[Code](https://github.com/hila-chefer/Conceptor)]
 [[Project](https://hila-chefer.github.io/Conceptor/)] 
+[[Code](https://github.com/hila-chefer/Conceptor)]
 
 **ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.04695)] 
@@ -669,6 +674,10 @@
 **Compositional Inversion for Stable Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
 [[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
+
+**Cross Initialization for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2312.15905)] 
+[[Code](https://github.com/lyupang/crossinitialization)]
 
 **Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
 [[Website](https://arxiv.org/abs/2305.13579)] 
@@ -1044,6 +1053,10 @@
 [[Website](https://arxiv.org/abs/2312.06038)] 
 [[Code](https://github.com/ucsb-nlp-chang/diffusion_resampling)]
 
+**Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.15964)] 
+[[Project](https://korguy.github.io/)] 
+
 **Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2310.01819)] 
 [[Project](https://asst2i.github.io/anon/)] 
@@ -1314,6 +1327,9 @@
 
 **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2311.05463)]
+
+**High-Fidelity Diffusion-based Image Editing** \
+[[Website](https://arxiv.org/abs/2312.15707)]
 
 
 ## Segmentation Detection Tracking
@@ -2191,6 +2207,11 @@
 [[Website](https://arxiv.org/abs/2312.00330)]
 [[Project](https://gongyeliu.github.io/StyleCrafter.github.io/)]
 [[Code](https://github.com/GongyeLiu/StyleCrafter)]
+
+**A Recipe for Scaling up Text-to-Video Generation with Text-free Videos** \
+[[Website](https://arxiv.org/abs/2312.15770)]
+[[Project](https://tf-t2v.github.io/)]
+[[Code](https://github.com/ali-vilab/i2vgen-xl)]
 
 
 **Diffusion Probabilistic Modeling for Video Generation** \
