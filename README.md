@@ -2569,11 +2569,11 @@
 [[Code](https://github.com/rlawjdghek/stableviton?tab=readme-ov-file)] 
 
 **Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**  \
-[[Website](https://arxiv.org/abs/2308.06101)]
+[[ACM MM 2023](https://arxiv.org/abs/2308.06101)]
 [[Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)] 
 
 **LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On** \
-[[Website](https://arxiv.org/abs/2305.13501)]
+[[ACM MM 2023](https://arxiv.org/abs/2305.13501)]
 [[Code](https://github.com/miccunifi/ladi-vton)] 
 
 **DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling** \
