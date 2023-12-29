@@ -378,6 +378,9 @@
 **Tuning-Free Inversion-Enhanced Control for Consistent Image Editing** \
 [[Website](https://arxiv.org/abs/2312.14611)]
 
+**ZONE: Zero-Shot Instruction-Guided Local Editing** \
+[[Website](https://arxiv.org/abs/2312.16794)]
+
 
 
 ## Continual Learning
@@ -843,6 +846,9 @@
 
 **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.13833)] 
+
+**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.14216)] 
 
 <!-- ## Representation Learning
 
@@ -2345,6 +2351,9 @@
 **VideoLCM: Video Latent Consistency Model** \
 [[Website](https://arxiv.org/abs/2312.09109)]
 
+
+**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.16693)]
 
 ## Video Editing 
 
