@@ -2220,6 +2220,11 @@
 [[Project](https://tf-t2v.github.io/)]
 [[Code](https://github.com/ali-vilab/i2vgen-xl)]
 
+**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis** \
+[[Website](https://arxiv.org/abs/2312.17681)]
+[[Project](https://jeff-liangf.github.io/projects/flowvid/)]
+[[Code](https://github.com/Jeff-LiangF/FlowVid)]
+
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
