@@ -1270,6 +1270,8 @@
 **Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.18435)] 
 
+**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.01130)] 
 
 <!-- # Restoration -->
 
@@ -2307,6 +2309,10 @@
 **Photorealistic Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.06662)] 
 [[Project](https://walt-video-diffusion.github.io/)] 
+
+**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM** \
+[[Website](https://arxiv.org/abs/2401.01256)] 
+[[Project](https://videodrafter.github.io/)] 
 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
