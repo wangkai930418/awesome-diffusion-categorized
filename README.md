@@ -2227,6 +2227,10 @@
 [[Project](https://jeff-liangf.github.io/projects/flowvid/)]
 [[Code](https://github.com/Jeff-LiangF/FlowVid)]
 
+**Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions** \
+[[Website](https://arxiv.org/abs/2401.01827)]
+[[Project](https://showlab.github.io/Moonshot/)]
+[[Code](https://github.com/salesforce/LAVIS)]
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
