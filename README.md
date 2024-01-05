@@ -288,6 +288,10 @@
 [[Website](https://arxiv.org/abs/2312.10113)] 
 [[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
 
+**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance** \
+[[Website](https://arxiv.org/abs/2401.02126)] 
+[[Code](https://github.com/kihensarn/ti-guided-edit)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -1071,6 +1075,13 @@
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
+
+**Improving Diffusion-Based Image Synthesis with Context Prediction** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
+[[Website](https://arxiv.org/abs/2401.02015)] 
+
+**Instruct-Imagen: Image Generation with Multi-modal Instruction** \
+[[Website](https://arxiv.org/abs/2401.01952)] 
 
 **CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.06059)] 
