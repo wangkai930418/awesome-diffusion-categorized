@@ -2485,6 +2485,11 @@
 [[Code](https://github.com/lixirui142/VidToMe)] 
 
 
+**VASE: Object-Centric Appearance and Shape Manipulation of Real Videos** \
+[[Website](https://arxiv.org/abs/2401.02473)]
+[[Project](https://helia95.github.io/vase-website/)]
+[[Code](https://github.com/helia95/VASE)] 
+
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
 [[Code](https://github.com/baaivision/vid2vid-zero)]
@@ -2543,6 +2548,7 @@
 **MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
 [[Website](https://arxiv.org/abs/2308.10079)]
 [[Project](https://medm2023.github.io)]
+
 
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
