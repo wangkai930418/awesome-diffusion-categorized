@@ -68,6 +68,10 @@
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
 
+**Generating Non-Stationary Textures using Self-Rectification** \
+[[Website](https://arxiv.org/abs/2401.02847)] 
+[[Code](https://github.com/xiaorongjun000/Self-Rectification)] 
+
 **Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
 [[Website](https://arxiv.org/abs/2305.16965)] 
 [[Code](https://github.com/gongyeliu/ssd)] 
