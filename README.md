@@ -259,6 +259,10 @@
 [[Project](https://mag-edit.github.io/)] 
 [[Code](https://github.com/HelenMao/MAG-Edit)] 
 
+**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** \
+[[Website](https://arxiv.org/abs/2401.03221)] 
+[[Project](https://mirrordiffusion.github.io/)] 
+[[Code](https://github.com/MirrorDiffusion/MirrorDiffusion)] 
 
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
@@ -295,6 +299,10 @@
 **Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance** \
 [[Website](https://arxiv.org/abs/2401.02126)] 
 [[Code](https://github.com/kihensarn/ti-guided-edit)] 
+
+**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing** \
+[[Website](https://arxiv.org/abs/2401.03433)] 
+[[Code](https://github.com/jingjiqinggong/specp2p)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -2246,6 +2254,11 @@
 [[Website](https://arxiv.org/abs/2401.01827)]
 [[Project](https://showlab.github.io/Moonshot/)]
 [[Code](https://github.com/salesforce/LAVIS)]
+
+**Latte: Latent Diffusion Transformer for Video Generation** \
+[[Website](https://arxiv.org/abs/2401.03048)]
+[[Project](https://maxin-cn.github.io/latte_project/)]
+[[Code](https://github.com/maxin-cn/Latte)]
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
