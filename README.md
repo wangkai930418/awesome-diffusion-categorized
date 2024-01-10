@@ -866,6 +866,9 @@
 **DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.14216)] 
 
+**Memory-Efficient Personalization using Quantized Diffusion Model** \
+[[Website](https://arxiv.org/abs/2401.04339)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -2394,6 +2397,8 @@
 **VideoLCM: Video Latent Consistency Model** \
 [[Website](https://arxiv.org/abs/2312.09109)]
 
+**MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation** \
+[[Website](https://arxiv.org/abs/2401.04468)]
 
 **I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.16693)]
