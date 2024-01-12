@@ -493,6 +493,8 @@
 **All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.12807)] 
 
+**EraseDiff: Erasing Data Influence in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.05779)] 
 
 <!-- ## Semantic Intrinsic
 
@@ -1365,6 +1367,9 @@
 
 **High-Fidelity Diffusion-based Image Editing** \
 [[Website](https://arxiv.org/abs/2312.15707)]
+
+**E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation** \
+[[Website](https://arxiv.org/abs/2401.06127)]
 
 
 ## Segmentation Detection Tracking
@@ -2605,6 +2610,9 @@
 
 **RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing** \
 [[Website](https://arxiv.org/abs/2312.12635)]
+
+**Object-Centric Diffusion for Efficient Video Editing** \
+[[Website](https://arxiv.org/abs/2401.05735)]
 
 
 ## Try On
