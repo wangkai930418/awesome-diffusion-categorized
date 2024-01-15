@@ -1134,6 +1134,9 @@
 **AnyLens: A Generative Diffusion Model with Any Rendering Lens** \
 [[Website](https://arxiv.org/abs/2311.17609)] 
 
+**Seek for Incantations: Towards Accurate Text-to-Image Diffusion Synthesis through Prompt Engineering** \
+[[Website](https://arxiv.org/abs/2401.06345)] 
+
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15435)] 
@@ -1985,6 +1988,11 @@
 [[Website](https://arxiv.org/abs/2312.02216)] 
 [[Code](https://github.com/rickyskywalker/dragvideo-official)]
 
+**RotationDrag: Point-based Image Editing with Rotated Diffusion Features** \
+[[Website](https://arxiv.org/abs/2401.06442)] 
+[[Code](https://github.com/Tony-Lowe/RotationDrag)]
+
+
 **Readout Guidance: Learning Control from Diffusion Features** \
 [[Website](https://arxiv.org/abs/2312.02150)] 
 [[Project](https://readout-guidance.github.io/)] 
@@ -1992,6 +2000,7 @@
 **Drag-A-Video: Non-rigid Video Editing with Point-based Interaction** \
 [[Website](https://arxiv.org/abs/2312.02936)] 
 [[Project](https://drag-a-video.github.io/)]
+
 
 
 <!-- ## X2I X2X
@@ -2407,6 +2416,9 @@
 
 **I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.16693)]
+
+**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2401.06578)]
 
 ## Video Editing 
 
