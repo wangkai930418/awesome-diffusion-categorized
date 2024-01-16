@@ -805,6 +805,10 @@
 [[Project](https://dreamtuner-diffusion.github.io/)] 
 
 
+**PALP: Prompt Aligned Personalization of Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2401.06105)] 
+[[Project](https://prompt-aligned.github.io/)] 
+
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
 
