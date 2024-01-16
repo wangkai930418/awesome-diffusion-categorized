@@ -1599,6 +1599,10 @@
 [[Project](https://vislearn.github.io/ControlNet-XS/)] 
 [[Code](https://github.com/vislearn/ControlNet-XS)]
 
+**ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet** \
+[[Website](https://arxiv.org/abs/2312.03154)] 
+[[Project](https://soon-yau.github.io/visconet/)] 
+[[Code](https://github.com/soon-yau/visconet)]
 
 **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.08453)] 
