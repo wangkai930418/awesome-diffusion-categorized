@@ -397,6 +397,8 @@
 **ZONE: Zero-Shot Instruction-Guided Local Editing** \
 [[Website](https://arxiv.org/abs/2312.16794)]
 
+**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** \
+[[AAAI 2024](https://arxiv.org/abs/2401.07709)]
 
 
 ## Continual Learning
@@ -688,6 +690,11 @@
 [[Website](https://arxiv.org/abs/2311.17461)] 
 [[Project](https://csxmli2016.github.io/projects/w-plus-adapter/)] 
 [[Code](https://github.com/csxmli2016/w-plus-adapter)]
+
+**InstantID: Zero-shot Identity-Preserving Generation in Seconds** \
+[[Website](https://arxiv.org/abs/2401.07519)] 
+[[Project](https://instantid.github.io/)] 
+[[Code](https://github.com/InstantID/InstantID)]
 
 **Multiresolution Textual Inversion** \
 [[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
