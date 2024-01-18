@@ -816,6 +816,10 @@
 [[Website](https://arxiv.org/abs/2401.06105)] 
 [[Project](https://prompt-aligned.github.io/)] 
 
+**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion** \
+[[Website](https://arxiv.org/abs/2401.09416)] 
+[[Project](https://texturedreamer.github.io/)] 
+
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
 
@@ -1551,6 +1555,11 @@
 [[Project](https://sketch-guided-diffusion.github.io/)] 
 [[Code]](https://github.com/Mikubill/sketch2img) 
 
+**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive** \
+[[ICLR 2024](https://arxiv.org/abs/2401.08815)] 
+[[Project](https://yumengli007.github.io/ALDM/)] 
+[[Code](https://github.com/boschresearch/ALDM)]
+
 **HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion** \
 [[Website](https://arxiv.org/abs/2310.08579)] 
 [[Project](https://snap-research.github.io/HyperHuman/)] 
@@ -1611,6 +1620,11 @@
 [[Project](https://soon-yau.github.io/visconet/)] 
 [[Code](https://github.com/soon-yau/visconet)]
 
+
+**Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis** \
+[[ICLR 2024](https://arxiv.org/abs/2401.09048)] 
+[[Code](https://github.com/tomtom1103/compose-and-conquer/)]
+
 **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.08453)] 
 [[Code](https://github.com/TencentARC/T2I-Adapter)]
@@ -1630,6 +1644,8 @@
 **Local Conditional Controlling for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.08768)] 
 [[Code](https://github.com/YibooZhao/Local-Control)]
+
+
 
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
@@ -1903,6 +1919,10 @@
 [[Website](https://arxiv.org/abs/2312.02967)]
 [[Project](https://raymond-yeh.com/AmbiGen/)] 
 
+**UniVG: Towards UNIfied-modal Video Generation** \
+[[Website](https://arxiv.org/abs/2401.09084)]
+[[Project](https://univg-baidu.github.io/)] 
+
 **Scene Text Image Super-resolution based on Text-conditional Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09759)]
 
@@ -1911,6 +1931,7 @@
 
 **VecFusion: Vector Font Generation with Diffusion** \
 [[Website](https://arxiv.org/abs/2312.10540)]
+
 
 
 ## Super Resolution
@@ -2126,10 +2147,7 @@
 [[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
 [[Code](https://github.com/VideoCrafter/Make-Your-Video)]
 
-**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.10474)]
-[[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
-[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
+
 
 **Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising** \
 [[Website](https://arxiv.org/abs/2305.18264)]
@@ -2184,6 +2202,11 @@
 **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** \
 [[Website](https://arxiv.org/abs/2310.19512)]
 [[Project](https://ailab-cvc.github.io/videocrafter/)] 
+[[Code](https://github.com/AILab-CVC/VideoCrafter)]
+
+**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.19512)]
+[[Project](https://ailab-cvc.github.io/videocrafter2/)] 
 [[Code](https://github.com/AILab-CVC/VideoCrafter)]
 
 **VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning** \
@@ -2308,6 +2331,10 @@
 [[Website](https://arxiv.org/abs/2312.06486)]
 [[Code](https://github.com/xiye20/stdiffproject)]
 
+**Vlogger: Make Your Dream A Vlog** \
+[[Website](https://arxiv.org/abs/2401.09414)]
+[[Code](https://github.com/zhuangshaobin/Vlogger)]
+
 **VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
 [[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
 [[Project](https://sites.research.google/videopoet/)]
@@ -2378,6 +2405,9 @@
 [[Website](https://arxiv.org/abs/2401.01256)] 
 [[Project](https://videodrafter.github.io/)] 
 
+**Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.10474)]
+[[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
@@ -2434,6 +2464,9 @@
 
 **360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2401.06578)]
+
+**Training-Free Semantic Video Composition via Pre-trained Diffusion Model** \
+[[Website](https://arxiv.org/abs/2401.09195)]
 
 ## Video Editing 
 
