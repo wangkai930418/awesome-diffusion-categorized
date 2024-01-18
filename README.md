@@ -696,6 +696,12 @@
 [[Project](https://instantid.github.io/)] 
 [[Code](https://github.com/InstantID/InstantID)]
 
+**PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding** \
+[[Website](https://arxiv.org/abs/2312.04461)] 
+[[Project](https://photo-maker.github.io/)] 
+[[Code](https://github.com/TencentARC/PhotoMaker)]
+
+
 **Multiresolution Textual Inversion** \
 [[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
 [[Code](https://github.com/giannisdaras/multires_textual_inversion)]
@@ -803,9 +809,6 @@
 [[Website](https://arxiv.org/abs/2311.14631)] 
 [[Project](https://royzhao926.github.io/CatVersion-page/)] 
 
-**PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding** \
-[[Website](https://arxiv.org/abs/2312.04461)] 
-[[Project](https://photo-maker.github.io/)] 
 
 **DreamTuner: Single Image is Enough for Subject-Driven Generation** \
 [[Website](https://arxiv.org/abs/2312.13691)] 
