@@ -2338,6 +2338,11 @@
 [[Project](https://maxin-cn.github.io/latte_project/)]
 [[Code](https://github.com/maxin-cn/Latte)]
 
+**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens** \
+[[Website](https://arxiv.org/abs/2401.09985)]
+[[Project](https://world-dreamer.github.io/)]
+[[Code](https://github.com/JeffWang987/WorldDreamer)]
+
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
