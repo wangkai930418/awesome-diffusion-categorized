@@ -340,6 +340,9 @@
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.00613)] 
 
+**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** \
+[[AAAI 2024](https://arxiv.org/abs/2401.07709)]
+
 **BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
 [[WACV 2024](https://arxiv.org/abs/2312.05482)] 
 
@@ -351,6 +354,9 @@
 
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
+
+**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing** \
+[[ICASSP 2024](https://arxiv.org/abs/2401.09794)]
 
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
@@ -397,9 +403,9 @@
 **ZONE: Zero-Shot Instruction-Guided Local Editing** \
 [[Website](https://arxiv.org/abs/2312.16794)]
 
-**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** \
-[[AAAI 2024](https://arxiv.org/abs/2401.07709)]
 
+**Image Translation as Diffusion Visual Programmers** \
+[[Website](https://arxiv.org/abs/2312.16794)]
 
 ## Continual Learning
 
@@ -1023,6 +1029,11 @@
 [[Project](https://mlpc-ucsd.github.io/TokenCompose/)] 
 [[Code](https://github.com/mlpc-ucsd/TokenCompose)]
 
+**DiffusionGPT: LLM-Driven Text-to-Image Generation System** \
+[[Website](https://arxiv.org/abs/2401.10061)] 
+[[Project](https://diffusiongpt.github.io/)] 
+[[Code](https://github.com/DiffusionGPT/DiffusionGPT)]
+
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
 [[Code](https://github.com/Qrange-group/SUR-adapter)]
@@ -1368,9 +1379,15 @@
 [[Project](https://sliders.baulab.info/)]
 [[Code](https://github.com/rohitgandikota/sliders)]
 
+**Towards Language-Driven Video Inpainting via Multimodal Large Language Models** \
+[[Website](https://arxiv.org/abs/2401.10226)]
+[[Project](https://jianzongwu.github.io/projects/rovi/)]
+[[Code](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)]
+
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
 [[Code](https://github.com/submissionanon18/agg)]
+
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.html)]
@@ -1384,7 +1401,6 @@
 
 **E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2401.06127)]
-
 
 ## Segmentation Detection Tracking
 **odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
@@ -1447,6 +1463,10 @@
 **MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation** \
 [[Website](https://arxiv.org/abs/2309.13042)] 
 [[Code](https://github.com/Jiahao000/MosaicFusion)]
+
+**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting** \
+[[Website](https://arxiv.org/abs/2401.10227)]
+[[Code](https://github.com/segments-ai/latent-diffusion-segmentation)]
 
 **Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation** \
 [[Website](https://arxiv.org/abs/2309.05956)] 
@@ -2434,6 +2454,12 @@
 
 **360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2401.06578)]
+
+**CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects** \
+[[Website](https://arxiv.org/abs/2401.09962)]
+
+**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation** \
+[[Website](https://arxiv.org/abs/2401.10150)]
 
 ## Video Editing 
 
