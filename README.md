@@ -55,10 +55,10 @@
 [[Code](https://github.com/phymhan/prompt-to-prompt)] 
 
 **IterInv: Iterative Inversion for Pixel-Level T2I Models** \
-[[Website](https://arxiv.org/abs/2310.19540)] 
 [[NeurIPS 2023 workshop](https://neurips.cc/virtual/2023/74859)] 
 [[Openreview](https://openreview.net/forum?id=mSGmzVo0aS)] 
 [[NeuripsW on Diffusion Models](https://neurips.cc/virtual/2023/workshop/66539#wse-detail-74859)]
+[[Website](https://arxiv.org/abs/2310.19540)] 
 [[Code](https://github.com/Tchuanm/IterInv)] 
 
 
@@ -1418,10 +1418,6 @@
 [[Project](https://sliders.baulab.info/)]
 [[Code](https://github.com/rohitgandikota/sliders)]
 
-**Towards Language-Driven Video Inpainting via Multimodal Large Language Models** \
-[[Website](https://arxiv.org/abs/2401.10226)]
-[[Project](https://jianzongwu.github.io/projects/rovi/)]
-[[Code](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)]
 
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
@@ -1433,10 +1429,10 @@
 [[Website](https://arxiv.org/abs/2308.07863)]
 
 **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors** \
-[[Website](https://arxiv.org/abs/2311.05463)]
+[[ACM MM 2023](https://arxiv.org/abs/2311.05463)]
 
 **High-Fidelity Diffusion-based Image Editing** \
-[[Website](https://arxiv.org/abs/2312.15707)]
+[[AAAI 2024](https://arxiv.org/abs/2312.15707)]
 
 **E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2401.06127)]
@@ -1826,6 +1822,11 @@
 [[Website](https://arxiv.org/abs/2312.03594)] 
 [[Project](https://powerpaint.github.io/)]
 [[Code](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint)] 
+
+**Towards Language-Driven Video Inpainting via Multimodal Large Language Models** \
+[[Website](https://arxiv.org/abs/2401.10226)]
+[[Project](https://jianzongwu.github.io/projects/rovi/)]
+[[Code](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)]
 
 **360-Degree Panorama Generation from Few Unregistered NFoV Images** \
 [[ACM MM 2023](https://arxiv.org/abs/2308.14686)] 
