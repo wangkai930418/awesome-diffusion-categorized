@@ -734,9 +734,16 @@
 [[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
 [[Code](https://github.com/briannlongzhao/DreamDistribution)]
 
+
+
+**ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
+[[Code](https://github.com/zyxElsa/ProSpect)]
+
 **Multiresolution Textual Inversion** \
 [[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
 [[Code](https://github.com/giannisdaras/multires_textual_inversion)]
+
 
 **Compositional Inversion for Stable Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
@@ -754,9 +761,6 @@
 [[Website](https://arxiv.org/abs/2303.11305)] 
 [[Code](https://github.com/mkshing/svdiff-pytorch)]
 
-**ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
-[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
-[[Code](https://github.com/zyxElsa/ProSpect)]
 
 **ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2306.00971)] 
