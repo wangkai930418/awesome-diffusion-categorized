@@ -2379,8 +2379,12 @@
 **SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.16933)]
 [[Project](https://guoyww.github.io/projects/SparseCtrl/)] 
-[[Code](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl
-)]
+[[Code](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)]
+
+**Towards A Better Metric for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2401.07781)]
+[[Project](https://showlab.github.io/T2VScore/)]
+[[Code](https://github.com/showlab/T2VScore)] 
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
