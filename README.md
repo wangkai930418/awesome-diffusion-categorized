@@ -593,11 +593,23 @@
 [[Project](https://photoswap.github.io/)] 
 [[Code](https://github.com/eric-ai-lab/photoswap)]
 
+**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71844)] 
+[[Website](https://arxiv.org/abs/2305.18292)] 
+[[Project](https://showlab.github.io/Mix-of-Show/)] 
+[[Code](https://github.com/TencentARC/Mix-of-Show?tab=readme-ov-file)]
+
+**ITI-GEN: Inclusive Text-to-Image Generation** \
+[[ICCV 2023 Oral](https://arxiv.org/abs/2309.05569)] 
+[[Website](https://arxiv.org/abs/2309.05569)] 
+[[Project](https://czhang0528.github.io/iti-gen)] 
+[[Code](https://github.com/humansensinglab/ITI-GEN)]
+
 **Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Unsupervised_Compositional_Concepts_Discovery_with_Text-to-Image_Generative_Models_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2306.05357)] 
-[[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
 [[Project](https://energy-based-model.github.io/unsupervised-concept-discovery/)]
+[[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
 
 **ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_ELITE_Encoding_Visual_Concepts_into_Textual_Embeddings_for_Customized_Text-to-Image_ICCV_2023_paper.html)] 
@@ -610,11 +622,6 @@
 [[Project](https://neuraltextualinversion.github.io/NeTI/)] 
 [[Code](https://github.com/NeuralTextualInversion/NeTI)]
 
-**ITI-GEN: Inclusive Text-to-Image Generation** \
-[[ICCV 2023 Oral](https://arxiv.org/abs/2309.05569)] 
-[[Website](https://arxiv.org/abs/2309.05569)] 
-[[Project](https://czhang0528.github.io/iti-gen)] 
-
 **Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
 [[Project](https://tuning-encoder.github.io/)] 
@@ -625,11 +632,19 @@
 [[Website](https://arxiv.org/abs/2302.04841)] 
 [[Code](https://github.com/yandex-research/DVAR)]
 
+
+
+
 **Material Palette: Extraction of Materials from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.17060)] 
 [[Project](https://astra-vision.github.io/MaterialPalette/)] 
 [[Code](https://github.com/astra-vision/MaterialPalette)]
 
+
+**ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
+[[AAAI 2024](https://arxiv.org/abs/2306.04695)] 
+[[Project](https://conceptbed.github.io/)] 
+[[Code](https://github.com/conceptbed/evaluations)]
 
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
@@ -677,11 +692,6 @@
 [[Project](https://hila-chefer.github.io/Conceptor/)] 
 [[Code](https://github.com/hila-chefer/Conceptor)]
 
-**ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.04695)] 
-[[Project](https://conceptbed.github.io/)] 
-[[Code](https://github.com/conceptbed/evaluations)]
-
 **SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing** \
 [[Website](https://arxiv.org/abs/2310.08094)] 
 [[Project](https://jarrentwu1031.github.io/SingleInsert-web/)] 
@@ -708,6 +718,22 @@
 [[Code](https://github.com/TencentARC/PhotoMaker)]
 
 
+**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.10093)] 
+[[Project](https://omriavrahami.com/the-chosen-one/)] 
+[[Code](https://github.com/ZichengDuan/TheChosenOne)]
+
+
+**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2311.14631)] 
+[[Project](https://royzhao926.github.io/CatVersion-page/)] 
+[[Code](https://github.com/RoyZhao926/CatVersion)]
+
+**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.14216)] 
+[[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
+[[Code](https://github.com/briannlongzhao/DreamDistribution)]
+
 **Multiresolution Textual Inversion** \
 [[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
 [[Code](https://github.com/giannisdaras/multires_textual_inversion)]
@@ -729,7 +755,7 @@
 [[Code](https://github.com/mkshing/svdiff-pytorch)]
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
-[[Website](https://arxiv.org/abs/2305.16225)] 
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
 
 **ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation** \
@@ -756,6 +782,19 @@
 **Concept-centric Personalization with Large-scale Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2312.08195)] 
 [[Code](https://github.com/PRIV-Creation/Concept-centric-Personalization)] 
+
+**Customization Assistant for Text-to-image Generation** \
+[[Website](https://arxiv.org/abs/2312.03045)] 
+[[Code](https://github.com/drboog/profusion?tab=readme-ov-file)] 
+
+**Cross Initialization for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2312.15905)] 
+[[Code](https://github.com/lyupang/crossinitialization)] 
+
+
+**High-fidelity Person-centric Subject-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2311.10329)] 
+[[Code](https://github.com/codegoat24/face-diffuser)] 
 
 
 **Key-Locked Rank One Editing for Text-to-Image Personalization** \
@@ -787,10 +826,6 @@
 [[Website](https://arxiv.org/abs/2311.13600)] 
 [[Project](https://ziplora.github.io/)] 
 
-**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.10093)] 
-[[Project](https://omriavrahami.com/the-chosen-one/)] 
-
 **Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
 [[Website](https://arxiv.org/abs/2307.06925)] 
 [[Project](https://datencoder.github.io/)] 
@@ -811,10 +846,6 @@
 [[Website](https://arxiv.org/abs/2308.14740)] 
 [[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
 
-**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2311.14631)] 
-[[Project](https://royzhao926.github.io/CatVersion-page/)] 
-
 
 **DreamTuner: Single Image is Enough for Subject-Driven Generation** \
 [[Website](https://arxiv.org/abs/2312.13691)] 
@@ -828,6 +859,13 @@
 **TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion** \
 [[Website](https://arxiv.org/abs/2401.09416)] 
 [[Project](https://texturedreamer.github.io/)] 
+
+**Language-Informed Visual Concept Learning** \
+[[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
+[[Project](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)] 
+
+**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
+[[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
 
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
@@ -853,8 +891,6 @@
 **ELODIN: Naming Concepts in Embedding Spaces** \
 [[Website](https://arxiv.org/abs/2303.04001)] 
 
-**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.18292)] 
 
 **Cones 2: Customizable Image Synthesis with Multiple Subjects** \
 [[Website](https://arxiv.org/abs/2305.19327v1)] 
@@ -871,17 +907,11 @@
 **MagiCapture: High-Resolution Multi-Concept Portrait Customization** \
 [[Website](https://arxiv.org/abs/2309.06895)] 
 
-**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2309.06933)] 
-
 **A Data Perspective on Enhanced Identity Preservation for Diffusion Personalization** \
 [[Website](https://arxiv.org/abs/2311.04315)] 
 
 **DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics** \
 [[Website](https://arxiv.org/abs/2311.09753)] 
-
-**High-fidelity Person-centric Subject-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2311.10329)] 
 
 **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.11919)] 
@@ -889,11 +919,9 @@
 **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.13833)] 
 
-**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.14216)] 
-
 **Memory-Efficient Personalization using Quantized Diffusion Model** \
 [[Website](https://arxiv.org/abs/2401.04339)] 
+
 
 <!-- ## Representation Learning
 
@@ -2343,6 +2371,12 @@
 [[Project](https://world-dreamer.github.io/)]
 [[Code](https://github.com/JeffWang987/WorldDreamer)]
 
+**SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.16933)]
+[[Project](https://guoyww.github.io/projects/SparseCtrl/)] 
+[[Code](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl
+)]
+
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
@@ -2393,9 +2427,6 @@
 [[Website](https://arxiv.org/abs/2311.11325)]
 [[Project](https://jingyunliang.github.io/MoVideo/)] 
 
-**SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.16933)]
-[[Project](https://guoyww.github.io/projects/SparseCtrl/)] 
 
 **Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer** \
 [[Website](https://arxiv.org/abs/2311.17009)]
