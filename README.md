@@ -1073,6 +1073,12 @@
 [[Project](https://diffusiongpt.github.io/)] 
 [[Code](https://github.com/DiffusionGPT/DiffusionGPT)]
 
+**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2306.14408)] 
+[[Project](https://wileewang.github.io/Decompose-and-Realign/)] 
+[[Code](https://github.com/EnVision-Research/Decompose-and-Realign)]
+
+
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
 [[Code](https://github.com/Qrange-group/SUR-adapter)]
@@ -1180,8 +1186,6 @@
 [[Website](https://arxiv.org/abs/2310.16656)] 
 
 
-**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.14408)] 
 
 **Improving Compositional Text-to-image Generation with Large Vision-Language Models** \
 [[Website](https://arxiv.org/abs/2310.06311)] 
