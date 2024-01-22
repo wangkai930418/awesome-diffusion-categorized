@@ -2056,6 +2056,9 @@
 **DREAM: Diffusion Rectification and Estimation-Adaptive Models** \
 [[Website](https://arxiv.org/abs/2312.00210)]
 
+**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2401.10404)]
+
 
 ## Drag Edit
 **Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold** \
@@ -2476,6 +2479,10 @@
 **Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.10474)]
 [[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
+
+**ActAnywhere: Subject-Aware Video Background Generation** \
+[[Website](https://arxiv.org/abs/2401.10822)]
+[[Project](https://actanywhere.github.io/)] 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
