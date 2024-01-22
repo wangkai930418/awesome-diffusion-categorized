@@ -2662,6 +2662,11 @@
 [[Project](https://helia95.github.io/vase-website/)]
 [[Code](https://github.com/helia95/VASE)] 
 
+**Neural Video Fields Editing** \
+[[Website](https://arxiv.org/abs/2312.08882)]
+[[Project](https://nvedit.github.io/)]
+[[Code](https://github.com/Ysz2022/NVEdit)] 
+
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
 [[Code](https://github.com/baaivision/vid2vid-zero)]
