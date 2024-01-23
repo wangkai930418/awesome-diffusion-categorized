@@ -1028,6 +1028,7 @@
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+
 **Real-World Image Variation by Aligning Diffusion Inversion Chain** \
 [[Website](https://arxiv.org/abs/2305.18729)] 
 [[Project](https://rival-diff.github.io/)] 
@@ -1147,6 +1148,10 @@
 **Correcting Diffusion Generation through Resampling** \
 [[Website](https://arxiv.org/abs/2312.06038)] 
 [[Code](https://github.com/ucsb-nlp-chang/diffusion_resampling)]
+
+**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs** \
+[[Website](https://arxiv.org/abs/2401.11708)] 
+[[Code](https://github.com/YangLing0818/RPG-DiffusionMaster)]
 
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
@@ -1449,7 +1454,6 @@
 [[Demo](https://huggingface.co/spaces/xvjiarui/ODISE)]
 
 
-
 **LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.12343)] 
@@ -1514,6 +1518,12 @@
 **UniGS: Unified Representation for Image Generation and Segmentation** \
 [[Website](https://arxiv.org/abs/2312.01985)] 
 [[Code](https://github.com/qqlu/Entity)]
+
+
+**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
+[[ICLR 2024](https://openreview.net/forum?id=YqyTXmF8Y2)]
+[[Website](https://arxiv.org/abs/2401.11739)] 
+[[Project](https://kmcode1.github.io/Projects/EmerDiff/)]
 
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.11681)] 
@@ -2808,3 +2818,5 @@
 **WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2312.03667)]
 
+**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles** \
+[[Website](https://arxiv.org/abs/2401.11239)]
