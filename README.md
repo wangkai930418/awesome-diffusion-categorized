@@ -2132,7 +2132,7 @@
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.13439)]
 [[Project](https://text2video-zero.github.io/)]
-[[Code](https://text2video-zero.github.io/)]
+[[Code](https://github.com/Picsart-AI-Research/Text2Video-Zero)]
 
 
 
