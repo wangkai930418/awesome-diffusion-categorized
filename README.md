@@ -1446,6 +1446,10 @@
 **E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2401.06127)]
 
+**UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators** \
+[[Website](https://arxiv.org/abs/2401.12596)]
+
+
 ## Segmentation Detection Tracking
 **odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
 [[CVPR 2023 Highlight](https://arxiv.org/abs/2303.04803)] 
@@ -2497,6 +2501,10 @@
 **ActAnywhere: Subject-Aware Video Background Generation** \
 [[Website](https://arxiv.org/abs/2401.10822)]
 [[Project](https://actanywhere.github.io/)] 
+
+**Lumiere: A Space-Time Diffusion Model for Video Generation** \
+[[Website](https://arxiv.org/abs/2401.12945)]
+[[Project](https://lumiere-video.github.io/)] 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
