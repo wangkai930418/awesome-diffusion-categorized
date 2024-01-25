@@ -1190,6 +1190,8 @@
 **A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation** \
 [[Website](https://arxiv.org/abs/2310.16656)] 
 
+**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion** \
+[[Website](https://arxiv.org/abs/2401.13388)] 
 
 
 **Improving Compositional Text-to-image Generation with Large Vision-Language Models** \
