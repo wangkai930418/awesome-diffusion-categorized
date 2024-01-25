@@ -1763,6 +1763,8 @@
 **ViscoNet: Bridging and Harmonizing Visual and Textual Conditioning for ControlNet** \
 [[Website]](https://arxiv.org/abs/2312.03154) 
 
+**Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons** \
+[[Website]](https://arxiv.org/abs/2401.13363) 
 
 
 ## Few-Shot 
