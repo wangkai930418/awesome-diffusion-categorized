@@ -926,6 +926,9 @@
 **Memory-Efficient Personalization using Quantized Diffusion Model** \
 [[Website](https://arxiv.org/abs/2401.04339)] 
 
+**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.13974)] 
+
 
 <!-- ## Representation Learning
 
@@ -1434,6 +1437,9 @@
 [[Website](https://arxiv.org/abs/2306.04396)]
 [[Code](https://github.com/submissionanon18/agg)]
 
+**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion** \
+[[Website](https://arxiv.org/abs/2401.14066)] 
+[[Code](https://github.com/haha-lisa/creativesynth)] 
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.html)]
@@ -2827,8 +2833,13 @@
 [[Website](https://arxiv.org/abs/2311.18405)]
 [[Code](https://github.com/zengjianhao/cat-dm)] 
 
+**Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
+[[Website](https://arxiv.org/abs/2401.13795)]
+[[Project](https://diffuse2choose.github.io/)]
+
 **WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2312.03667)]
 
 **Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles** \
 [[Website](https://arxiv.org/abs/2401.11239)]
+
