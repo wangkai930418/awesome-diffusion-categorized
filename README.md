@@ -2089,6 +2089,12 @@
 
 
 ## Drag Edit
+**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
+[[ICLR 2024](https://openreview.net/forum?id=OEL4FJMg1b)] 
+[[Website](https://arxiv.org/abs/2307.02421)] 
+[[Project](https://mc-e.github.io/project/DragonDiffusion/)] 
+[[Code](https://github.com/MC-E/DragonDiffusion)]
+
 **Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2305.10973)] 
 [[Project](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] 
@@ -2103,9 +2109,6 @@
 [[Website](https://arxiv.org/abs/2306.14435)] 
 [[Code](https://github.com/Yujun-Shi/DragDiffusion)]
 
-**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
-[[Website](https://arxiv.org/abs/2307.02421)] 
-[[Code](https://github.com/MC-E/DragonDiffusion)]
 
 **DragVideo: Interactive Drag-style Video Editing** \
 [[Website](https://arxiv.org/abs/2312.02216)] 
