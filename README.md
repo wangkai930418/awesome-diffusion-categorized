@@ -2526,6 +2526,10 @@
 [[Website](https://arxiv.org/abs/2401.12945)]
 [[Project](https://lumiere-video.github.io/)] 
 
+**InstructVideo: Instructing Video Diffusion Models with Human Feedback** \
+[[Website](https://arxiv.org/abs/2312.12490)]
+[[Project](https://instructvideo.github.io/)] 
+
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
 
