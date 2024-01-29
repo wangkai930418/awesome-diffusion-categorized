@@ -1082,6 +1082,10 @@
 [[Project](https://wileewang.github.io/Decompose-and-Realign/)] 
 [[Code](https://github.com/EnVision-Research/Decompose-and-Realign)]
 
+**Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with Large Vision-Language Model Support** \
+[[Website](https://arxiv.org/abs/2401.14688)] 
+[[Project](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B)] 
+[[Code](https://github.com/IDEA-CCNL/Fooocus-Taiyi-XL)]
 
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
@@ -1990,6 +1994,9 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.12142)]
 [[Code](https://github.com/yeungchenwa/FontDiffuser)] 
 
+**Text Image Inpainting via Global Structure-Guided Diffusion Models** \
+[[AAAI 2024](https://arxiv.org/abs/2401.14832)]
+[[Code](https://github.com/blackprotoss/GSDM)] 
 
 **Ambigram generation by a diffusion model** \
 [[ICDAR 2023](https://arxiv.org/abs/2306.12049)]
