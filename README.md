@@ -1383,7 +1383,8 @@
 **Joint Generative Modeling of Scene Graphs and Images via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.01130)] 
 
-<!-- # Restoration -->
+**Spatial-Aware Latent Initialization for Controllable Image Generation**
+[[Website](https://arxiv.org/abs/2401.16157)] 
 
 
 ## I2I translation
@@ -1440,6 +1441,10 @@
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
 [[Code](https://github.com/submissionanon18/agg)]
+
+**GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis** \
+[[Website](https://arxiv.org/abs/2401.15282)]
+[[Code](https://github.com/isbrycee/GEM-Glass-Segmentor)]
 
 **CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion** \
 [[Website](https://arxiv.org/abs/2401.14066)] 
