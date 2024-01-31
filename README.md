@@ -929,6 +929,14 @@
 **BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.13974)] 
 
+**Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2401.16762)] 
+
+**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding** \
+[[Website](https://arxiv.org/abs/2401.15708)] 
+
+**StableIdentity: Inserting Anybody into Anywhere at First Sight** \
+[[Website](https://arxiv.org/abs/2401.15975)] 
 
 <!-- ## Representation Learning
 
@@ -1450,6 +1458,10 @@
 [[Website](https://arxiv.org/abs/2401.14066)] 
 [[Code](https://github.com/haha-lisa/creativesynth)] 
 
+**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.15636)]
+[[Project](https://freestylefreelunch.github.io/)]
+
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2308.07863)]
@@ -1595,6 +1607,8 @@
 **Gen2Det: Generate to Detect** \
 [[Website](https://arxiv.org/abs/2312.04566)] 
 
+**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2401.16459)] 
 
 ## Additional conditions 
 
@@ -2074,6 +2088,8 @@
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
 
+**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation** \
+[[Website](https://arxiv.org/abs/2401.17258)] 
 
 **Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2305.15357)] 
@@ -2116,6 +2132,11 @@
 [[Website](https://arxiv.org/abs/2308.08089)] 
 [[Project](https://mc-e.github.io/project/DragonDiffusion/)] 
 [[Code](https://github.com/MC-E/DragonDiffusion)]
+
+**Repositioning the Subject within Image** \
+[[Website](https://arxiv.org/abs/2401.16861)] 
+[[Project](https://yikai-wang.github.io/seele/)] 
+[[Code](https://github.com/Yikai-Wang/ReS)]
 
 **DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** \
 [[Website](https://arxiv.org/abs/2306.14435)] 
@@ -2599,6 +2620,13 @@
 
 **Training-Free Semantic Video Composition via Pre-trained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2401.09195)]
+
+**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling** \
+[[Website](https://arxiv.org/abs/2401.15977)]
+
+**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.16224)]
+
 
 ## Video Editing 
 
