@@ -264,6 +264,11 @@
 [[Project](https://mirrordiffusion.github.io/)] 
 [[Code](https://github.com/MirrorDiffusion/MirrorDiffusion)] 
 
+**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
+[[Website](https://arxiv.org/abs/2401.18085)] 
+[[Project](https://dangeng.github.io/motion_guidance/)] 
+[[Code](https://github.com/dangeng/motion_guidance/)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -1175,6 +1180,10 @@
 **Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2310.01819)] 
 [[Project](https://asst2i.github.io/anon/)] 
+
+**Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation** \
+[[Website](https://arxiv.org/abs/2401.17664)] 
+[[Project](https://vlislab22.github.io/ImageAnything/)] 
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
