@@ -739,7 +739,10 @@
 [[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
 [[Code](https://github.com/briannlongzhao/DreamDistribution)]
 
-
+**CapHuman: Capture Your Moments in Parallel Universes** \
+[[Website](https://arxiv.org/abs/2402.00627)] 
+[[Project](https://caphuman.github.io/)] 
+[[Code](https://github.com/VamosC/CapHumanf)]
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
@@ -942,6 +945,9 @@
 
 **StableIdentity: Inserting Anybody into Anywhere at First Sight** \
 [[Website](https://arxiv.org/abs/2401.15975)] 
+
+**SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation** \
+[[Website](https://arxiv.org/abs/2402.00631)] 
 
 <!-- ## Representation Learning
 
