@@ -2468,6 +2468,11 @@
 [[Project](https://showlab.github.io/T2VScore/)]
 [[Code](https://github.com/showlab/T2VScore)] 
 
+**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning** \
+[[Website](https://arxiv.org/abs/2402.00769)]
+[[Project](https://animatelcm.github.io/)]
+[[Code](https://github.com/G-U-N/AnimateLCM)] 
+
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
 [[Code](https://github.com/buggyyang/RVD)]
