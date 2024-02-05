@@ -2576,6 +2576,10 @@
 [[Website](https://arxiv.org/abs/2312.12490)]
 [[Project](https://instructvideo.github.io/)] 
 
+**Boximator: Generating Rich and Controllable Motions for Video Synthesis** \
+[[Website](https://arxiv.org/abs/2402.01566)]
+[[Project](https://boximator.github.io/)] 
+
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
 
