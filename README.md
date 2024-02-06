@@ -1349,6 +1349,11 @@
 [[Project](https://genforce.github.io/freecontrol/)] 
 [[Code](https://github.com/genforce/freecontrol)]
 
+**InstanceDiffusion: Instance-level Control for Image Generation** \
+[[Website](https://arxiv.org/abs/2402.03290)] 
+[[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] 
+[[Code](https://github.com/frank-xwang/InstanceDiffusion)]
+
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
@@ -2914,3 +2919,5 @@
 **Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles** \
 [[Website](https://arxiv.org/abs/2401.11239)]
 
+**Mobile Fitting Room: On-device Virtual Try-on via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.01877)]
