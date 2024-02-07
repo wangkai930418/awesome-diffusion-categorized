@@ -2162,6 +2162,9 @@
 [[Website](https://arxiv.org/abs/2306.14435)] 
 [[Code](https://github.com/Yujun-Shi/DragDiffusion)]
 
+**DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** \
+[[Website](https://arxiv.org/abs/2402.02583)] 
+[[Code](https://github.com/MC-E/DragonDiffusion)]
 
 **DragVideo: Interactive Drag-style Video Editing** \
 [[Website](https://arxiv.org/abs/2312.02216)] 
@@ -2584,6 +2587,10 @@
 **Boximator: Generating Rich and Controllable Motions for Video Synthesis** \
 [[Website](https://arxiv.org/abs/2402.01566)]
 [[Project](https://boximator.github.io/)] 
+
+**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** \
+[[Website](https://arxiv.org/abs/2402.03162)]
+[[Project](https://direct-a-video.github.io/)] 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
