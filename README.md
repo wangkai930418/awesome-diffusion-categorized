@@ -61,12 +61,14 @@
 [[Website](https://arxiv.org/abs/2310.19540)] 
 [[Code](https://github.com/Tchuanm/IterInv)] 
 
-
-
 **Object-aware Inversion and Reassembly for Image Editing** \
 [[Website](https://arxiv.org/abs/2310.12149)] 
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
+
+**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
+[[ICLR 2024](https://arxiv.org/abs/2402.04625)] 
+[[Code](https://github.com/hansam95/nmg)] 
 
 **Generating Non-Stationary Textures using Self-Rectification** \
 [[Website](https://arxiv.org/abs/2401.02847)] 
@@ -1239,6 +1241,9 @@
 **Seek for Incantations: Towards Accurate Text-to-Image Diffusion Synthesis through Prompt Engineering** \
 [[Website](https://arxiv.org/abs/2401.06345)] 
 
+**Text2Street: Controllable Text-to-image Generation for Street Views** \
+[[Website](https://arxiv.org/abs/2402.04504)] 
+
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15435)] 
@@ -1982,6 +1987,9 @@
 [[ICML 2023](https://dl.acm.org/doi/10.5555/3618408.3618624)]
 [[Website](https://arxiv.org/abs/2301.11529)]
 
+**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints** \
+[[ICLR 2024](https://arxiv.org/abs/2402.04754)]
+
 **Diffusion-based Document Layout Generation** \
 [[Website](https://arxiv.org/abs/2303.10787)]
 
@@ -2591,6 +2599,10 @@
 **Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** \
 [[Website](https://arxiv.org/abs/2402.03162)]
 [[Project](https://direct-a-video.github.io/)] 
+
+**ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2402.04324)]
+[[Project](https://tiger-ai-lab.github.io/ConsistI2V/)] 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
