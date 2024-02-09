@@ -746,6 +746,11 @@
 [[Project](https://caphuman.github.io/)] 
 [[Code](https://github.com/VamosC/CapHumanf)]
 
+**λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space** \
+[[Website](https://arxiv.org/abs/2402.05195)] 
+[[Project](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] 
+[[Code](https://github.com/eclipse-t2i/lambda-eclipse-inference)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
@@ -1108,6 +1113,11 @@
 [[Project](https://huggingface.co/IDEA-CCNL/Taiyi-Stable-Diffusion-XL-3.5B)] 
 [[Code](https://github.com/IDEA-CCNL/Fooocus-Taiyi-XL)]
 
+**ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations** \
+[[Website](https://arxiv.org/abs/2312.04655)] 
+[[Project](https://eclipse-t2i.vercel.app/)] 
+[[Code](https://github.com/eclipse-t2i/eclipse-inference)]
+
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
 [[Code](https://github.com/Qrange-group/SUR-adapter)]
@@ -1363,6 +1373,9 @@
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
 
+**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2402.05408)] 
+[[Code](https://github.com/limuloo/MIGC)]
 
 **InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.05849)] 
@@ -1547,10 +1560,13 @@
 
 **Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2308.12469)] 
-[[Code](https://github.com/PotatoTian/DiffSeg)]
 [[Project](https://sites.google.com/view/diffseg/home)] 
+[[Code](https://github.com/PotatoTian/DiffSeg)]
 
-
+**InstaGen: Enhancing Object Detection by Training on Synthetic Dataset** \
+[[Website](https://arxiv.org/abs/2402.05937)] 
+[[Project](https://fcjian.github.io/InstaGen/)] 
+[[Code](https://github.com/fcjian/InstaGen)]
 
 **Personalize Segment Anything Model with One Shot** \
 [[Website](https://arxiv.org/abs/2305.03048)] 
