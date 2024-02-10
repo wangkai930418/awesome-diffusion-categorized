@@ -345,7 +345,7 @@
 [[Website](https://arxiv.org/abs/2309.04907)]
 
 **Iterative Multi-granular Image Editing using Diffusion Models** \
-[[AAAI 2024](https://arxiv.org/abs/2309.00613)] 
+[[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
 **Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** \
 [[AAAI 2024](https://arxiv.org/abs/2401.07709)]
