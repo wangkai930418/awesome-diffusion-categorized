@@ -2288,6 +2288,11 @@
 [[Code](https://github.com/lucidrains/video-diffusion-pytorch)]
 [[Project](https://video-diffusion.github.io/)] 
 
+**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2312.13964)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pia)]
+[[Project](https://pi-animator.github.io/)]
+[[Code](https://github.com/open-mmlab/PIA)] 
 
 **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** \
 [[Website](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)]
@@ -2508,6 +2513,7 @@
 [[Website](https://arxiv.org/abs/2402.00769)]
 [[Project](https://animatelcm.github.io/)]
 [[Code](https://github.com/G-U-N/AnimateLCM)] 
+
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
