@@ -1122,6 +1122,10 @@
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
 [[Code](https://github.com/Qrange-group/SUR-adapter)]
 
+**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models** \
+[[ICLR 2024](https://arxiv.org/abs/2402.05375)] 
+[[Code](https://github.com/sen-mao/SuppressEOT)]
+
 **ORES: Open-vocabulary Responsible Visual Synthesis** \
 [[Website](https://arxiv.org/abs/2308.13785)] 
 [[Code](https://github.com/kodenii/ores)]
