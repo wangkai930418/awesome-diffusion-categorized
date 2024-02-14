@@ -758,6 +758,11 @@
 [[Project](https://ttchengab.github.io/continuous_3d_words/)] 
 [[Code](https://github.com/ttchengab/continuous_3d_words_code/)]
 
+**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.07986)] 
+[[Project](https://jmhb0.github.io/viewneti/)] 
+[[Code](https://github.com/jmhb0/view_neti?tab=readme-ov-file)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
