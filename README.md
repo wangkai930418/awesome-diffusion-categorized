@@ -410,9 +410,11 @@
 **ZONE: Zero-Shot Instruction-Guided Local Editing** \
 [[Website](https://arxiv.org/abs/2312.16794)]
 
-
 **Image Translation as Diffusion Visual Programmers** \
 [[Website](https://arxiv.org/abs/2312.16794)]
+
+**Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing** \
+[[Website](https://arxiv.org/abs/2402.08601)]
 
 ## Continual Learning
 
@@ -750,6 +752,11 @@
 [[Website](https://arxiv.org/abs/2402.05195)] 
 [[Project](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] 
 [[Code](https://github.com/eclipse-t2i/lambda-eclipse-inference)]
+
+**Learning Continuous 3D Words for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2402.08654)] 
+[[Project](https://ttchengab.github.io/continuous_3d_words/)] 
+[[Code](https://github.com/ttchengab/continuous_3d_words_code/)]
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
