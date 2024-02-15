@@ -2547,6 +2547,10 @@
 [[Website](https://arxiv.org/abs/2401.09414)]
 [[Code](https://github.com/zhuangshaobin/Vlogger)]
 
+**Magic-Me: Identity-Specific Video Customized Diffusion** \
+[[Website](https://arxiv.org/abs/2402.09368)]
+[[Code](https://github.com/Zhen-Dong/Magic-Me)]
+
 **VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
 [[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
 [[Project](https://sites.research.google/videopoet/)]
