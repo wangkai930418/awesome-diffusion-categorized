@@ -763,6 +763,11 @@
 [[Project](https://jmhb0.github.io/viewneti/)] 
 [[Code](https://github.com/jmhb0/view_neti?tab=readme-ov-file)]
 
+**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2402.09812)] 
+[[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
+[[Code](https://github.com/KU-CVLAB/DreamMatcher)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
@@ -1269,6 +1274,9 @@
 
 **Text2Street: Controllable Text-to-image Generation for Street Views** \
 [[Website](https://arxiv.org/abs/2402.04504)] 
+
+**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2402.10210)] 
 
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
