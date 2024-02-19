@@ -1224,6 +1224,10 @@
 [[Website](https://arxiv.org/abs/2401.17664)] 
 [[Project](https://vlislab22.github.io/ImageAnything/)] 
 
+**Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** \
+[[Website](https://arxiv.org/abs/2402.10491)] 
+[[Project](https://guolanqing.github.io/Self-Cascade/)] 
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
