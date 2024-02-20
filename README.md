@@ -513,6 +513,9 @@
 **EraseDiff: Erasing Data Influence in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.05779)] 
 
+**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.11846)] 
+
 <!-- ## Semantic Intrinsic
 
 **Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction** \
@@ -832,6 +835,9 @@
 [[Website](https://arxiv.org/abs/2311.10329)] 
 [[Code](https://github.com/codegoat24/face-diffuser)] 
 
+**Language-Informed Visual Concept Learning** \
+[[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
+[[Project](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)] 
 
 **Key-Locked Rank One Editing for Text-to-Image Personalization** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
@@ -896,9 +902,11 @@
 [[Website](https://arxiv.org/abs/2401.09416)] 
 [[Project](https://texturedreamer.github.io/)] 
 
-**Language-Informed Visual Concept Learning** \
-[[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
-[[Project](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)] 
+**Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2402.12004)] 
+[[Project](https://dco-t2i.github.io//)] 
+
+
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
@@ -972,6 +980,12 @@
 
 **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation** \
 [[Website](https://arxiv.org/abs/2402.00631)] 
+
+**Visual Concept-driven Image Generation with Text-to-Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2402.11487)] 
+
+**ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image** \
+[[Website](https://arxiv.org/abs/2402.11849)] 
 
 <!-- ## Representation Learning
 
@@ -2729,6 +2743,8 @@
 **Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.16224)]
 
+**Human Video Translation via Query Warping** \
+[[Website](https://arxiv.org/abs/2402.12099)]
 
 ## Video Editing 
 
