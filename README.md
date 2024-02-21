@@ -904,8 +904,11 @@
 
 **Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
 [[Website](https://arxiv.org/abs/2402.12004)] 
-[[Project](https://dco-t2i.github.io//)] 
+[[Project](https://dco-t2i.github.io/)] 
 
+**Visual Style Prompting with Swapping Self-Attention** \
+[[Website](https://arxiv.org/abs/2402.12974)] 
+[[Project](https://curryjung.github.io/VisualStylePrompt/)] 
 
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
@@ -1148,6 +1151,12 @@
 [[Website](https://arxiv.org/abs/2312.04655)] 
 [[Project](https://eclipse-t2i.vercel.app/)] 
 [[Code](https://github.com/eclipse-t2i/eclipse-inference)]
+
+**MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion** \
+[[Website](https://arxiv.org/abs/2402.12741)] 
+[[Project](https://measure-infinity.github.io/mulan/)] 
+[[Code](https://github.com/measure-infinity/mulan-code)]
+
 
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
@@ -1411,6 +1420,7 @@
 [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] 
 [[Code](https://github.com/frank-xwang/InstanceDiffusion)]
 
+
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
@@ -1418,6 +1428,10 @@
 **MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2402.05408)] 
 [[Code](https://github.com/limuloo/MIGC)]
+
+**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.12908)] 
+[[Code](https://github.com/YangLing0818/RealCompo)]
 
 **InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.05849)] 
