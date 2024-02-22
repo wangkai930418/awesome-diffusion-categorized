@@ -1305,6 +1305,10 @@
 **Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2402.10210)] 
 
+**Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2402.13490)] 
+
+
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15435)] 
@@ -1487,6 +1491,9 @@
 
 **Spatial-Aware Latent Initialization for Controllable Image Generation**
 [[Website](https://arxiv.org/abs/2401.16157)] 
+
+**Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control** \
+[[Website](https://arxiv.org/abs/2402.13404)] 
 
 
 ## I2I translation
@@ -2759,6 +2766,9 @@
 
 **Human Video Translation via Query Warping** \
 [[Website](https://arxiv.org/abs/2402.12099)]
+
+**Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation** \
+[[Website](https://arxiv.org/abs/2402.13729)]
 
 ## Video Editing 
 
