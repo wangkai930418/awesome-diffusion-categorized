@@ -1235,6 +1235,10 @@
 [[Website](https://arxiv.org/abs/2401.11708)] 
 [[Code](https://github.com/YangLing0818/RPG-DiffusionMaster)]
 
+**A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2402.12760)] 
+[[Code](https://github.com/naylenv/uf-fgtg)] 
+
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
 [[Project](https://korguy.github.io/)] 
