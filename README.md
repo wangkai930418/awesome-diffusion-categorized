@@ -843,6 +843,10 @@
 [[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
 [[Project](https://research.nvidia.com/labs/par/Perfusion/)] 
 
+**Diffusion in Style** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Everaert_Diffusion_in_Style_ICCV_2023_paper.pdf)] 
+[[Project](https://ivrl.github.io/diffusion-in-style/)] 
+
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
 [[Website](https://arxiv.org/abs/2312.06354)] 
 [[Project](https://portraitbooth.github.io/)] 
@@ -887,6 +891,7 @@
 **Total Selfie: Generating Full-Body Selfies** \
 [[Website](https://arxiv.org/abs/2308.14740)] 
 [[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
+
 
 
 **DreamTuner: Single Image is Enough for Subject-Driven Generation** \
