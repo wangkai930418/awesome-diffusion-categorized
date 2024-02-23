@@ -1308,6 +1308,9 @@
 **Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2402.13490)] 
 
+**Debiasing Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.14577)] 
+
 
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
@@ -2149,6 +2152,11 @@
 **VecFusion: Vector Font Generation with Diffusion** \
 [[Website](https://arxiv.org/abs/2312.10540)]
 
+**Typographic Text Generation with Off-the-Shelf Diffusion Model** \
+[[Website](https://arxiv.org/abs/2402.14314)]
+
+**Font Style Interpolation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.14311)]
 
 
 ## Super Resolution
@@ -2943,6 +2951,9 @@
 [[Website](https://arxiv.org/abs/2308.10079)]
 [[Project](https://medm2023.github.io)]
 
+**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.14780)]
+[[Project](https://anonymous-314.github.io/)]
 
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
