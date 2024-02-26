@@ -771,6 +771,11 @@
 [[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
 [[Code](https://github.com/KU-CVLAB/DreamMatcher)]
 
+**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition** \
+[[Website](https://arxiv.org/abs/2402.15504)] 
+[[Project](https://danielchyeh.github.io/Gen4Gen/)] 
+[[Code](https://github.com/louisYen/Gen4Gen)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
