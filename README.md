@@ -1325,6 +1325,11 @@
 **Debiasing Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.14577)] 
 
+**Stochastic Conditional Diffusion Models for Semantic Image Synthesis** \
+[[Website](https://arxiv.org/abs/2402.16506)] 
+
+**Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion** \
+[[Website](https://arxiv.org/abs/2402.16305)] 
 
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
@@ -1672,6 +1677,10 @@
 **UniGS: Unified Representation for Image Generation and Segmentation** \
 [[Website](https://arxiv.org/abs/2312.01985)] 
 [[Code](https://github.com/qqlu/Entity)]
+
+**Placing Objects in Context via Inpainting for Out-of-distribution Segmentation**\
+[[Website](https://arxiv.org/abs/2402.16392)] 
+[[Code](https://github.com/naver/poc)]
 
 
 **EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
@@ -2043,6 +2052,8 @@
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**\
 [[Website](https://arxiv.org/abs/2312.03556)] 
 
+**Outline-Guided Object Inpainting with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.16421)] 
 
 **SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2212.05034)] 
