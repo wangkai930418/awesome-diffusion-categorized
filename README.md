@@ -2803,6 +2803,9 @@
 **Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation** \
 [[Website](https://arxiv.org/abs/2402.13729)]
 
+**Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis** \
+[[Website](https://arxiv.org/abs/2402.14797v1)]
+
 ## Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
