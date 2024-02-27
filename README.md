@@ -2606,6 +2606,9 @@
 [[Project](https://animatelcm.github.io/)]
 [[Code](https://github.com/G-U-N/AnimateLCM)] 
 
+**Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
+[[ICLR 2024](https://arxiv.org/abs/2402.16627)]
+[[Code](https://github.com/YangLing0818/ContextDiff)]
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
