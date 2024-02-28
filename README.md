@@ -1331,6 +1331,12 @@
 **Referee Can Play: An Alternative Approach to Conditional Generation via Model Inversion** \
 [[Website](https://arxiv.org/abs/2402.16305)] 
 
+**Transparent Image Layer Diffusion using Latent Transparency** \
+[[Website](https://arxiv.org/abs/2402.17113)] 
+
+**Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2402.17245)] 
+
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15435)] 
@@ -1589,6 +1595,9 @@
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2308.07863)]
 
+**One-Shot Structure-Aware Stylized Image Synthesis** \
+[[CVPR 2024](https://arxiv.org/abs/2402.17275)]
+
 **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors** \
 [[ACM MM 2023](https://arxiv.org/abs/2311.05463)]
 
@@ -1696,6 +1705,9 @@
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Peng_Diffusion-based_Image_Translation_with_Label_Guidance_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html
 )] 
 [[Website](https://arxiv.org/abs/2308.12350)] 
+
+**SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection** \
+[[CVPR 2024](https://arxiv.org/abs/2402.17323)] 
 
 **Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation** \
 [[WACV 2024](https://arxiv.org/abs/2312.01850)] 
@@ -2224,9 +2236,16 @@
 [[Website](https://arxiv.org/abs/2311.09919)] 
 [[Code](https://github.com/shiyuan7/DSR-Diff)] 
 
+**SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2402.17133)] 
+[[Code](https://github.com/lose4578/SAM-DiffSR)] 
+
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
+
+**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
+[[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
 
 **You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation** \
 [[Website](https://arxiv.org/abs/2401.17258)] 
