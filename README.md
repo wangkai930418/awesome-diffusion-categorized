@@ -776,6 +776,11 @@
 [[Project](https://danielchyeh.github.io/Gen4Gen/)] 
 [[Code](https://github.com/louisYen/Gen4Gen)]
 
+**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model** \
+[[Website](https://arxiv.org/abs/2402.17412)] 
+[[Project](https://diffusekrona.github.io/)] 
+[[Code](https://github.com/IBM/DiffuseKronA)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
@@ -1661,6 +1666,10 @@
 [[Website](https://arxiv.org/abs/2402.05937)] 
 [[Project](https://fcjian.github.io/InstaGen/)] 
 [[Code](https://github.com/fcjian/InstaGen)]
+
+**Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label** \
+[[Website](https://arxiv.org/abs/2402.17555)] 
+[[Code](https://github.com/Zxl19990529/Class-driven-Scribble-Promotion-Network)]
 
 **Personalize Segment Anything Model with One Shot** \
 [[Website](https://arxiv.org/abs/2305.03048)] 
@@ -2653,6 +2662,10 @@
 [[Website](https://arxiv.org/abs/2402.09368)]
 [[Code](https://github.com/Zhen-Dong/Magic-Me)]
 
+**Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
+[[CVPR 2024](https://arxiv.org/abs/2402.17723)]
+[[Project](https://yzxing87.github.io/Seeing-and-Hearing/)]
+
 **VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
 [[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
 [[Project](https://sites.research.google/videopoet/)]
@@ -2827,6 +2840,10 @@
 
 **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis** \
 [[Website](https://arxiv.org/abs/2402.14797v1)]
+
+**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** \
+[[Website](https://arxiv.org/abs/2402.17485)]
+
 
 ## Video Editing 
 
