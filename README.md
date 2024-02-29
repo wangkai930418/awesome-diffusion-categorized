@@ -333,7 +333,7 @@
 [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
 
 **Emu Edit: Precise Image Editing via Recognition and Generation Tasks** \
-[[Website](https://arxiv.org/abs/2311.10089)] 
+[[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
 [[Project](https://emu-edit.metademolab.com/)]
 
 **MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers** \
@@ -1101,6 +1101,11 @@
 [[Website](https://arxiv.org/abs/2306.08877)] 
 [[Code](https://github.com/RoyiRa/Syntax-Guided-Generation)]
 
+**DemoFusion: Democratising High-Resolution Image Generation With No $$$** \
+[[CVPR 2024](https://arxiv.org/abs/2311.16973)] 
+[[Project](https://ruoyidu.github.io/demofusion/demofusion.html)] 
+[[Code](https://github.com/PRIS-CV/DemoFusion)] 
+
 **Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
 [[BMVC 2023 Oral](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
@@ -1269,6 +1274,10 @@
 **Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation** \
 [[Website](https://arxiv.org/abs/2402.10491)] 
 [[Project](https://guolanqing.github.io/Self-Cascade/)] 
+
+**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes** \
+[[Website](https://arxiv.org/abs/2402.18331)] 
+[[Project](https://finediffusion.github.io/)] 
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
@@ -1456,6 +1465,10 @@
 [[Website](https://arxiv.org/abs/2402.03290)] 
 [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] 
 [[Code](https://github.com/frank-xwang/InstanceDiffusion)]
+
+**Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis** \
+[[CVPR 2024](https://arxiv.org/abs/2402.18078)] 
+[[Code](https://github.com/YanzuoLu/CFLD)]
 
 
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
@@ -2843,6 +2856,10 @@
 
 **EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** \
 [[Website](https://arxiv.org/abs/2402.17485)]
+
+**Context-aware Talking Face Video Generation** \
+[[Website](https://arxiv.org/abs/2402.18092)]
+
 
 
 ## Video Editing 
