@@ -1061,6 +1061,12 @@
 [[Code](https://github.com/bahjat-kawar/time-diffusion)]
 [[Demo](https://huggingface.co/spaces/bahjat-kawar/time-diffusion)]
 
+**ElasticDiffusion: Training-free Arbitrary Size Image Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2311.18822)] 
+[[Project](https://elasticdiffusion.github.io/)] 
+[[Code](https://github.com/moayedhajiali/elasticdiffusion-official?tab=readme-ov-file)]
+[[Demo](https://replicate.com/moayedhajiali/elasticdiffusion)]
+
 **MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Zhao_MagicFusion_Boosting_Text-to-Image_Generation_Performance_by_Fusing_Diffusion_Models_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2303.13126)] 
@@ -2248,6 +2254,10 @@
 [[Website](https://arxiv.org/abs/2305.07015)] 
 [[Project](https://iceclear.github.io/projects/stablesr/)] 
 [[Code](https://github.com/IceClear/StableSR)] 
+
+**SinSR: Diffusion-Based Image Super-Resolution in a Single Step** \
+[[CVPR 2024](https://arxiv.org/abs/2311.14760)] 
+[[Code](https://github.com/wyf0912/SinSR)] 
 
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
