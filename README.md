@@ -1079,6 +1079,13 @@
 [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] 
 [[Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)]
 
+**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models** \
+[[ICCV 2023](https://arxiv.org/abs/2402.19481)] 
+[[Project](https://hanlab.mit.edu/projects/distrifusion)]
+[[Code](https://github.com/mit-han-lab/distrifuser)]
+[[Blog](https://hanlab.mit.edu/blog/distrifusion)] 
+
+
 **ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72054)] 
 [[Website](https://arxiv.org/abs/2304.05977)] 
