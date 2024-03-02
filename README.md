@@ -211,6 +211,11 @@
 [[Code](https://github.com/inbarhub/DDPM_inversion)]
 [[Demo](https://huggingface.co/spaces/LinoyTsaban/edit_friendly_ddpm_inversion)]
 
+**SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** \
+[[CVPR 2024](https://arxiv.org/abs/2312.06739)] 
+[[Project](https://yuzhou914.github.io/SmartEdit/)] 
+[[Code](https://github.com/TencentARC/SmartEdit?tab=readme-ov-file)] 
+
 **EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods** \
 [[Website](https://arxiv.org/abs/2310.02426)] 
 [[Project](https://deep-ml-research.github.io/editval/#home)] 
@@ -767,7 +772,7 @@
 [[Code](https://github.com/jmhb0/view_neti?tab=readme-ov-file)]
 
 **DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2402.09812)] 
+[[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
 [[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
 [[Code](https://github.com/KU-CVLAB/DreamMatcher)]
 
