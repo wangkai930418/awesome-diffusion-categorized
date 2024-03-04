@@ -421,6 +421,11 @@
 **Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing** \
 [[Website](https://arxiv.org/abs/2402.08601)]
 
+**LoMOE: Localized Multi-Object Editing via Multi-Diffusion** \
+[[Website](https://arxiv.org/abs/2403.00437)]
+
+
+
 ## Continual Learning
 
 **RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
