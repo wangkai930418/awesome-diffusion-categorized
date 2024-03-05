@@ -1374,6 +1374,9 @@
 **Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2402.17245)] 
 
+**HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances** \
+[[Website](https://arxiv.org/abs/2403.01693)] 
+
 <!-- # Watermark
 **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15435)] 
