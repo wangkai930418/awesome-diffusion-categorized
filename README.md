@@ -1200,6 +1200,10 @@
 [[Project](https://measure-infinity.github.io/mulan/)] 
 [[Code](https://github.com/measure-infinity/mulan-code)]
 
+**ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.02084)] 
+[[Project](https://res-adapter.github.io/)] 
+[[Code](https://github.com/bytedance/res-adapter)]
 
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
@@ -1694,6 +1698,11 @@
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71719)] 
 [[Website](https://arxiv.org/abs/2312.12425)] 
 [[Code](https://github.com/MengyuWang826/SegRefiner)]
+
+**DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction** \
+[[CVPR 2024](https://arxiv.org/abs/2403.02075)] 
+[[Project](https://diffmot.github.io/)] 
+[[Code](https://github.com/Kroery/DiffMOT)]
 
 
 **Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
@@ -2296,6 +2305,9 @@
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
 
+**Text-guided Explorable Image Super-resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2403.01124)] 
+
 **Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
 [[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
 
@@ -2676,6 +2688,12 @@
 [[Website](https://arxiv.org/abs/2402.00769)]
 [[Project](https://animatelcm.github.io/)]
 [[Code](https://github.com/G-U-N/AnimateLCM)] 
+
+**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control** \
+[[Website](https://arxiv.org/abs/2403.02332)]
+[[Project](https://unified-attention-control.github.io/)]
+[[Code](https://github.com/XuweiyiChen/UniCtrl?tab=readme-ov-file)] 
+
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
@@ -3138,6 +3156,10 @@
 **LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.13501)]
 [[Code](https://github.com/miccunifi/ladi-vton)] 
+
+**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2403.01779)]
+[[Code](https://github.com/levihsu/OOTDiffusion)] 
 
 **DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling** \
 [[Website](https://arxiv.org/abs/2305.01257)]
