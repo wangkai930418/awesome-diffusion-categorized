@@ -867,6 +867,10 @@
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Everaert_Diffusion_in_Style_ICCV_2023_paper.pdf)] 
 [[Project](https://ivrl.github.io/diffusion-in-style/)] 
 
+**RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization** \
+[[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
+[[Project](https://corleone-huang.github.io/realcustom/)] 
+
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
 [[Website](https://arxiv.org/abs/2312.06354)] 
 [[Project](https://portraitbooth.github.io/)] 
