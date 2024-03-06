@@ -2822,6 +2822,11 @@
 [[Website](https://arxiv.org/abs/2402.04324)]
 [[Project](https://tiger-ai-lab.github.io/ConsistI2V/)] 
 
+**Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2403.02827)]
+[[Project](https://noise-rectification.github.io/)] 
+
+
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
 
