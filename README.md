@@ -424,6 +424,9 @@
 **LoMOE: Localized Multi-Object Editing via Multi-Diffusion** \
 [[Website](https://arxiv.org/abs/2403.00437)]
 
+**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2403.03431)]
+
 
 
 ## Continual Learning
@@ -1504,6 +1507,9 @@
 [[CVPR 2024](https://arxiv.org/abs/2402.18078)] 
 [[Code](https://github.com/YanzuoLu/CFLD)]
 
+**NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging** \
+[[CVPR 2024](https://arxiv.org/abs/2403.03485)] 
+[[Code](https://github.com/univ-esuty/noisecollage)]
 
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
