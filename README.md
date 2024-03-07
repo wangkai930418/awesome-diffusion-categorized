@@ -2371,6 +2371,10 @@
 [[Project](https://yikai-wang.github.io/seele/)] 
 [[Code](https://github.com/Yikai-Wang/ReS)]
 
+**FreeDrag: Feature Dragging for Reliable Point-based Image Editing** \
+[[CVPR 2024](https://arxiv.org/abs/2307.04684)] 
+[[Code](https://github.com/LPengYang/FreeDrag)]
+
 **DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** \
 [[Website](https://arxiv.org/abs/2306.14435)] 
 [[Code](https://github.com/Yujun-Shi/DragDiffusion)]
@@ -2736,6 +2740,10 @@
 **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17723)]
 [[Project](https://yzxing87.github.io/Seeing-and-Hearing/)]
+
+**AtomoVideo: High Fidelity Image-to-Video Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2403.01800)]
+[[Project](https://atomo-video.github.io/)]
 
 **VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
 [[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
