@@ -1293,6 +1293,10 @@
 [[Website](https://arxiv.org/abs/2402.12760)] 
 [[Code](https://github.com/naylenv/uf-fgtg)] 
 
+**PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refinement** \
+[[Website](https://arxiv.org/abs/2403.04014)] 
+[[Code](https://github.com/ma-labo/promptcharm)] 
+
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
 [[Project](https://korguy.github.io/)] 
@@ -1724,6 +1728,10 @@
 [[Website](https://arxiv.org/abs/2402.05937)] 
 [[Project](https://fcjian.github.io/InstaGen/)] 
 [[Code](https://github.com/fcjian/InstaGen)]
+
+**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking** \
+[[Website](https://arxiv.org/abs/2403.04700)] 
+[[Code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)]
 
 **Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label** \
 [[Website](https://arxiv.org/abs/2402.17555)] 
@@ -2400,6 +2408,10 @@
 [[Website](https://arxiv.org/abs/2312.02936)] 
 [[Project](https://drag-a-video.github.io/)]
 
+**StableDrag: Stable Dragging for Point-based Image Editing** \
+[[Website](https://arxiv.org/abs/2403.04437)] 
+[[Project](https://stabledrag.github.io/)]
+
 
 
 <!-- ## X2I X2X
@@ -2931,6 +2943,8 @@
 **Context-aware Talking Face Video Generation** \
 [[Website](https://arxiv.org/abs/2402.18092)]
 
+**Pix2Gif: Motion-Guided Diffusion for GIF Generation** \
+[[Website](https://arxiv.org/abs/2403.04634)]
 
 
 ## Video Editing 
