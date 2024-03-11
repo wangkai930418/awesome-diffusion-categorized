@@ -427,6 +427,15 @@
 **Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing** \
 [[Website](https://arxiv.org/abs/2403.03431)]
 
+**An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control** \
+[[Website](https://arxiv.org/abs/2403.04880)]
+
+**DiffChat: Learning to Chat with Text-to-Image Synthesis Models for Interactive Image Creation** \
+[[Website](https://arxiv.org/abs/2403.04997)]
+
+**InstructGIE: Towards Generalizable Image Editing** \
+[[Website](https://arxiv.org/abs/2403.05018)]
+
 
 
 ## Continual Learning
@@ -658,18 +667,25 @@
 [[Code](https://github.com/yandex-research/DVAR)]
 
 
+**Face2Diffusion for Fast and Editable Face Personalization** \
+[[CVPR 2024](https://arxiv.org/abs/2403.05094)] 
+[[Project](https://mapooon.github.io/Face2DiffusionPage/)] 
+[[Code](https://github.com/mapooon/Face2Diffusion)]
 
-
-**Material Palette: Extraction of Materials from a Single Image** \
-[[Website](https://arxiv.org/abs/2311.17060)] 
-[[Project](https://astra-vision.github.io/MaterialPalette/)] 
-[[Code](https://github.com/astra-vision/MaterialPalette)]
-
+**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
+[[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
+[[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
+[[Code](https://github.com/KU-CVLAB/DreamMatcher)]
 
 **ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2306.04695)] 
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
+
+**Material Palette: Extraction of Materials from a Single Image** \
+[[Website](https://arxiv.org/abs/2311.17060)] 
+[[Project](https://astra-vision.github.io/MaterialPalette/)] 
+[[Code](https://github.com/astra-vision/MaterialPalette)]
 
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
@@ -778,11 +794,6 @@
 [[Website](https://arxiv.org/abs/2309.07986)] 
 [[Project](https://jmhb0.github.io/viewneti/)] 
 [[Code](https://github.com/jmhb0/view_neti?tab=readme-ov-file)]
-
-**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
-[[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
-[[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
-[[Code](https://github.com/KU-CVLAB/DreamMatcher)]
 
 **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition** \
 [[Website](https://arxiv.org/abs/2402.15504)] 
@@ -1136,6 +1147,11 @@
 [[Project](https://ruoyidu.github.io/demofusion/demofusion.html)] 
 [[Code](https://github.com/PRIS-CV/DemoFusion)] 
 
+**Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2403.05239)] 
+[[Project](https://hcplayercvpr2024.github.io/)] 
+[[Code](https://github.com/hcplayercvpr2024/hcplayer)] 
+
 **Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
 [[BMVC 2023 Oral](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
@@ -1211,6 +1227,12 @@
 [[Website](https://arxiv.org/abs/2403.02084)] 
 [[Project](https://res-adapter.github.io/)] 
 [[Code](https://github.com/bytedance/res-adapter)]
+
+**ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment** \
+[[Website](https://arxiv.org/abs/2403.05135)] 
+[[Project](https://ella-diffusion.github.io/)] 
+[[Code](https://github.com/ELLA-Diffusion/ELLA)]
+
 
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
@@ -1392,14 +1414,9 @@
 **HanDiffuser: Text-to-Image Generation With Realistic Hand Appearances** \
 [[Website](https://arxiv.org/abs/2403.01693)] 
 
-<!-- # Watermark
-**The Stable Signature: Rooting Watermarks in Latent Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.15435)] 
-[[Project](https://pierrefdz.github.io/publications/stablesignature/)] 
+**StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.04965)] 
 
-**A Recipe for Watermarking Diffusion Models** \
-[[Website](https://arxiv.org/abs/2303.10137)] 
-[[Code](https://github.com/yunqing-me/watermarkdm)] -->
 
 
 
@@ -1649,6 +1666,10 @@
 [[Website](https://arxiv.org/abs/2401.14066)] 
 [[Code](https://github.com/haha-lisa/creativesynth)] 
 
+**PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering** \
+[[Website](https://arxiv.org/abs/2403.05053)] 
+[[Code](https://github.com/CodeGoat24/PrimeComposer)] 
+
 **FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.15636)]
 [[Project](https://freestylefreelunch.github.io/)]
@@ -1665,6 +1686,9 @@
 
 **High-Fidelity Diffusion-based Image Editing** \
 [[AAAI 2024](https://arxiv.org/abs/2312.15707)]
+
+**Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile** \
+[[AAAI 2024](https://arxiv.org/abs/2403.05093)]
 
 **E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2401.06127)]
@@ -2319,6 +2343,10 @@
 [[Website](https://arxiv.org/abs/2402.17133)] 
 [[Code](https://github.com/lose4578/SAM-DiffSR)] 
 
+**XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.05049)] 
+[[Code](https://github.com/qyp2000/XPSR)] 
+
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
@@ -2720,6 +2748,10 @@
 [[Project](https://unified-attention-control.github.io/)]
 [[Code](https://github.com/XuweiyiChen/UniCtrl?tab=readme-ov-file)] 
 
+**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.05438)]
+[[Project](https://videoelevator.github.io/)]
+[[Code](https://github.com/YBYBZhang/VideoElevator)] 
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
@@ -3218,3 +3250,6 @@
 
 **Mobile Fitting Room: On-device Virtual Try-on via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.01877)]
+
+**Improving Diffusion Models for Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2403.05139)]
