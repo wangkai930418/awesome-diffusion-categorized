@@ -178,6 +178,20 @@
 [[Website](https://arxiv.org/abs/2306.05414)] 
 [[Code](https://github.com/phymhan/prompt-to-prompt)] 
 
+
+
+**An Edit Friendly DDPM Noise Space: Inversion and Manipulations** \
+[[CVPR 2024](https://arxiv.org/abs/2304.06140)] 
+[[Project](https://inbarhub.github.io/DDPM_inversion/)] 
+[[Code](https://github.com/inbarhub/DDPM_inversion)]
+[[Demo](https://huggingface.co/spaces/LinoyTsaban/edit_friendly_ddpm_inversion)]
+
+**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing** \
+[[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/72801)] 
+[[Website](https://arxiv.org/abs/2309.15664)] 
+[[Code](https://github.com/wangkai930418/DPL)] 
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=5UXXhVI08r)]  -->
+
 **Inversion-Free Image Editing with Natural Language** \
 [[CVPR 2024](https://arxiv.org/abs/2312.04965)] 
 [[Project](https://sled-group.github.io/InfEdit/index.html)] 
@@ -200,6 +214,11 @@
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
 
+
+**StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
+[[Website](https://arxiv.org/abs/2303.15649)] 
+[[Code](https://github.com/sen-mao/StyleDiffusion)] 
+
 **Generating Non-Stationary Textures using Self-Rectification** \
 [[Website](https://arxiv.org/abs/2401.02847)] 
 [[Code](https://github.com/xiaorongjun000/Self-Rectification)] 
@@ -217,6 +236,12 @@
 [[Website](https://arxiv.org/abs/2304.11751)] 
 
 
+**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
+[[WACV 2024](https://arxiv.org/abs/2312.05482)] 
+
+**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing** \
+[[ICASSP 2024](https://arxiv.org/abs/2401.09794)]
+
 **Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
@@ -225,6 +250,22 @@
 
 **Fixed-point Inversion for Text-to-image diffusion models** \
 [[Website](https://arxiv.org/abs/2312.12540)] 
+
+
+**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.04441)]
+
+**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing** \
+[[Website](https://arxiv.org/abs/2309.16608)]
+
+**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing** \
+[[Website](https://arxiv.org/abs/2312.14611)]
+
+**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
+[[Website](https://arxiv.org/abs/2307.00522)]
+
+**LEDITS++: Limitless Image Editing using Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2311.16711)]
 
 
 ## Text Guided Image Editing
@@ -300,12 +341,6 @@
 [[Code](https://github.com/thaoshibe/visii)] 
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=l9BsCh8ikK)]  -->
 
-**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing** \
-[[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/72801)] 
-[[Website](https://arxiv.org/abs/2309.15664)] 
-[[Code](https://github.com/wangkai930418/DPL)] 
-<!-- [[NeurIPS 2023](https://openreview.net/forum?id=5UXXhVI08r)]  -->
-
 **Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models** \
 [[NeurIPS 2023](https://openreview.net/forum?id=lOCHMGO6ow)] 
 [[Website](https://arxiv.org/abs/2306.09869)] 
@@ -329,12 +364,6 @@
 [[Project](https://vidit98.github.io/publication/conference-paper/pair_diff.html)] 
 [[Code](https://github.com/Picsart-AI-Research/PAIR-Diffusion)] 
 [[Demo](https://huggingface.co/spaces/PAIR/PAIR-Diffusion)]
-
-**An Edit Friendly DDPM Noise Space: Inversion and Manipulations** \
-[[Website](https://arxiv.org/abs/2304.06140)] 
-[[Project](https://inbarhub.github.io/DDPM_inversion/)] 
-[[Code](https://github.com/inbarhub/DDPM_inversion)]
-[[Demo](https://huggingface.co/spaces/LinoyTsaban/edit_friendly_ddpm_inversion)]
 
 **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** \
 [[CVPR 2024](https://arxiv.org/abs/2312.06739)] 
@@ -405,10 +434,6 @@
 [[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
 [[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
 
-**StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
-[[Website](https://arxiv.org/abs/2303.15649)] 
-[[Code](https://github.com/sen-mao/StyleDiffusion)] 
-
 **Differential Diffusion: Giving Each Pixel Its Strength** \
 [[Website](https://arxiv.org/abs/2306.00950)] 
 [[Code](https://github.com/exx8/differential-diffusion)] 
@@ -472,9 +497,6 @@
 **Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** \
 [[AAAI 2024](https://arxiv.org/abs/2401.07709)]
 
-**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
-[[WACV 2024](https://arxiv.org/abs/2312.05482)] 
-
 **Text-to-image Editing by Image Information Removal** \
 [[WACV 2024](https://arxiv.org/abs/2305.17489)]
 
@@ -483,9 +505,6 @@
 
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
-
-**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing** \
-[[ICASSP 2024](https://arxiv.org/abs/2401.09794)]
 
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
@@ -496,23 +515,11 @@
 **iEdit: Localised Text-guided Image Editing with Weak Supervision** \
 [[Website](https://arxiv.org/abs/2305.05947)]
 
-**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.04441)]
-
-**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing** \
-[[Website](https://arxiv.org/abs/2309.16608)]
-
 **User-friendly Image Editing with Minimal Text Input: Leveraging Captioning and Injection Techniques** \
 [[Website](https://arxiv.org/abs/2306.02717)]
 
 **PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing** \
 [[Website](https://arxiv.org/abs/2306.16894)]
-
-**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
-[[Website](https://arxiv.org/abs/2307.00522)]
-
-**LEDITS++: Limitless Image Editing using Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2311.16711)]
 
 **PRedItOR: Text Guided Image Editing with Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2302.07979v2)]
@@ -525,9 +532,6 @@
 
 **The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing** \
 [[Website](https://arxiv.org/abs/2311.01410)]
-
-**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing** \
-[[Website](https://arxiv.org/abs/2312.14611)]
 
 **ZONE: Zero-Shot Instruction-Guided Local Editing** \
 [[Website](https://arxiv.org/abs/2312.16794)]
