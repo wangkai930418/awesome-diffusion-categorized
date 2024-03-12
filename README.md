@@ -159,7 +159,9 @@
 [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
 ⭐⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
+[[ICLR 2024](https://openreview.net/forum?id=FoMZ4ljhVw)] 
 [[Website](https://arxiv.org/abs/2310.01506)] 
+[[Project](https://cure-lab.github.io/PnPInversion/)] 
 [[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
 
 ⭐**Inversion-Based Creativity Transfer with Diffusion Models** \
@@ -176,10 +178,15 @@
 [[Website](https://arxiv.org/abs/2306.05414)] 
 [[Code](https://github.com/phymhan/prompt-to-prompt)] 
 
+**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
+[[ICLR 2024](https://openreview.net/forum?id=mhgm0IXtHw)] 
+[[Website](https://arxiv.org/abs/2402.04625)] 
+[[Code](https://github.com/hansam95/nmg)] 
+
 **IterInv: Iterative Inversion for Pixel-Level T2I Models** \
-[[NeurIPS 2023 workshop](https://neurips.cc/virtual/2023/74859)] 
+[[NeurIPS-W 2023](https://neurips.cc/virtual/2023/74859)] 
 [[Openreview](https://openreview.net/forum?id=mSGmzVo0aS)] 
-[[NeuripsW on Diffusion Models](https://neurips.cc/virtual/2023/workshop/66539#wse-detail-74859)]
+[[NeuripsW](https://neurips.cc/virtual/2023/workshop/66539#wse-detail-74859)]
 [[Website](https://arxiv.org/abs/2310.19540)] 
 [[Code](https://github.com/Tchuanm/IterInv)] 
 
@@ -187,10 +194,6 @@
 [[Website](https://arxiv.org/abs/2310.12149)] 
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
-
-**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
-[[ICLR 2024](https://arxiv.org/abs/2402.04625)] 
-[[Code](https://github.com/hansam95/nmg)] 
 
 **Generating Non-Stationary Textures using Self-Rectification** \
 [[Website](https://arxiv.org/abs/2401.02847)] 
