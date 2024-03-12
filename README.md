@@ -227,6 +227,10 @@
 [[Website](https://arxiv.org/abs/2305.16965)] 
 [[Code](https://github.com/gongyeliu/ssd)] 
 
+**Exact Diffusion Inversion via Bi-directional Integration Approximation** \
+[[Website](https://arxiv.org/abs/2307.10829)] 
+[[Code](https://github.com/guoqiang-zhang-x/BDIA)] 
+
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2309.04907)]
