@@ -85,6 +85,8 @@
 [[Website](https://arxiv.org/abs/2403.04437)] 
 [[Project](https://stabledrag.github.io/)]
 
+**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
+[[Website](https://arxiv.org/abs/2401.18085)] 
 
 
 ## Diffusion Models Inversion
@@ -3124,6 +3126,11 @@
 [[Website](https://arxiv.org/abs/2312.08882)]
 [[Project](https://nvedit.github.io/)]
 [[Code](https://github.com/Ysz2022/NVEdit)] 
+
+**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing** \
+[[Website](https://arxiv.org/abs/2402.13185v1)]
+[[Project](https://jianhongbai.github.io/UniEdit/)]
+[[Code](https://github.com/JianhongBai/UniEdit)] 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
