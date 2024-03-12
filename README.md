@@ -208,9 +208,14 @@
 [[Website](https://arxiv.org/abs/2305.16965)] 
 [[Code](https://github.com/gongyeliu/ssd)] 
 
+**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
+[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
+[[Website](https://arxiv.org/abs/2309.04907)]
+
 **Score-Based Diffusion Models as Principled Priors for Inverse Imaging** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Score-Based_Diffusion_Models_as_Principled_Priors_for_Inverse_Imaging_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2304.11751)] 
+
 
 **Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
@@ -237,12 +242,6 @@
 [[Replicate Demo](https://replicate.com/cjwbw/pix2pix-zero)] 
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/v0.16.0/api/pipelines/stable_diffusion/pix2pix_zero)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_pix2pix_zero.py)]
-
-⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2211.09794)] 
-[[Project](https://null-text-inversion.github.io/)] 
-[[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
 ⭐⭐**InstructPix2Pix: Learning to Follow Image Editing Instructions** \
 [[CVPR 2023 (Highlight)](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html)] 
@@ -279,10 +278,6 @@
 [[Website](https://arxiv.org/abs/2304.06790)] 
 [[Code 1](https://github.com/geekyutao/Inpaint-Anything)] 
 [[Code 2](https://github.com/sail-sg/EditAnything)] 
-
-⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
-[[Website](https://arxiv.org/abs/2310.01506)] 
-[[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
 
 **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Cao_MasaCtrl_Tuning-Free_Mutual_Self-Attention_Control_for_Consistent_Image_Synthesis_and_ICCV_2023_paper.html)] 
@@ -470,10 +465,6 @@
 **MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers** \
 [[Website](https://arxiv.org/abs/2309.04372)]
 [[Project](https://oppo-mente-lab.github.io/moe_controller/)]
-
-**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
-[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
-[[Website](https://arxiv.org/abs/2309.04907)]
 
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
