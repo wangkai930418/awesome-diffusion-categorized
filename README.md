@@ -522,6 +522,8 @@
 [[Website](https://arxiv.org/abs/2305.10120)] 
 [[Code](https://github.com/clear-nus/selective-amnesia)]
 
+**MACE: Mass Concept Erasure in Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2403.06135)] 
 
 **Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2310.05873)] 
@@ -1319,6 +1321,10 @@
 [[Website](https://arxiv.org/abs/2403.04014)] 
 [[Code](https://github.com/ma-labo/promptcharm)] 
 
+**Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.06381)] 
+[[Code](https://github.com/YaNgZhAnG-V5/attention_regulation)] 
+
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
 [[Project](https://korguy.github.io/)] 
@@ -1540,6 +1546,10 @@
 [[Website](https://arxiv.org/abs/2402.05408)] 
 [[Code](https://github.com/limuloo/MIGC)]
 
+**DivCon: Divide and Conquer for Progressive Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2403.06400)] 
+[[Code](https://github.com/DivCon-gen/DivCon)]
+
 **RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.12908)] 
 [[Code](https://github.com/YangLing0818/RealCompo)]
@@ -1617,6 +1627,11 @@
 [[Project](https://cyclenetweb.github.io/)] 
 [[Code](https://github.com/sled-group/cyclenet)]
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=z9d9DsjAPH)] -->
+
+**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations** \
+[[CVPR 2024](https://arxiv.org/abs/2403.06951)]
+[[Project](https://tianhao-qi.github.io/DEADiff/)]
+[[Code](https://github.com/Tianhao-Qi/DEADiff_code)]
 
 **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** \
 [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)]
@@ -2152,6 +2167,10 @@
 [[Website](https://arxiv.org/abs/2312.14091)] 
 [[Code](https://github.com/Picsart-AI-Research/HD-Painter)] 
 
+**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion** \
+[[Website](https://arxiv.org/abs/2403.06976)] 
+[[Code](https://github.com/TencentARC/BrushNet)] 
+
 **SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
 [[Website](https://arxiv.org/abs/2312.05039)] 
 [[Project](https://smartmask-gen.github.io/)]
@@ -2383,6 +2402,9 @@
 
 **Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2401.10404)]
+
+**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.05808)]
 
 
 ## Drag Edit
@@ -2781,6 +2803,10 @@
 [[Website](https://arxiv.org/abs/2402.09368)]
 [[Code](https://github.com/Zhen-Dong/Magic-Me)]
 
+**VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.06098)]
+[[Code](https://github.com/WangWenhao0716/VidProM)]
+
 **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17723)]
 [[Project](https://yzxing87.github.io/Seeing-and-Hearing/)]
@@ -2888,6 +2914,9 @@
 [[Website](https://arxiv.org/abs/2403.02827)]
 [[Project](https://noise-rectification.github.io/)] 
 
+**Audio-Synchronized Visual Animation** \
+[[Website](https://arxiv.org/abs/2403.05659)]
+[[Project](https://lzhangbj.github.io/projects/asva/asva.html)] 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
@@ -3193,6 +3222,8 @@
 **Object-Centric Diffusion for Efficient Video Editing** \
 [[Website](https://arxiv.org/abs/2401.05735)]
 
+**FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing** \
+[[Website](https://arxiv.org/abs/2403.06269)]
 
 ## Try On
 
