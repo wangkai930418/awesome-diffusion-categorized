@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Virtual Try On](#try-on)
 - [Drag Edit](#drag-edit)
 - [Diffusion Inversion](#diffusion-models-inversion)
 - [Text-Guided Editing](#text-guided-image-editing)
@@ -22,10 +23,70 @@
 - [Super Resolution](#super-resolution)
 - [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
-- [Virtual Try On](#try-on)
 <!-- - [Representation Learning](#representation-learning) -->
 <!-- - [X2I/X2X](#x2i-x2x) -->
 <!-- - [Semantic Intrinsic](#semantic-intrinsic) -->
+
+
+## Try On
+
+**TryOnDiffusion: A Tale of Two UNets** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.html)]
+[[Website](https://arxiv.org/abs/2306.08276)]
+[[Project](https://tryondiffusion.github.io/)]
+[[Code](https://github.com/huggingface/diffusers/issues/5008)] 
+
+**StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On** \
+[[CVPR 2024](https://arxiv.org/abs/2312.01725)]
+[[Project](https://rlawjdghek.github.io/StableVITON/)]
+[[Code](https://github.com/rlawjdghek/stableviton?tab=readme-ov-file)] 
+
+**Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images** \
+[[Website](https://arxiv.org/abs/2311.16094)]
+[[Project](https://cuiaiyu.github.io/StreetTryOn/)]
+[[Code](https://github.com/cuiaiyu/street-tryon-benchmark)] 
+
+
+**PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns** \
+[[Website](https://arxiv.org/abs/2312.04534)]
+[[Project](https://ningshuliang.github.io/2023/Arxiv/index.html)]
+[[Code](https://github.com/ningshuliang/PICTURE)] 
+
+**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**  \
+[[ACM MM 2023](https://arxiv.org/abs/2308.06101)]
+[[Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)] 
+
+**LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On** \
+[[ACM MM 2023](https://arxiv.org/abs/2305.13501)]
+[[Code](https://github.com/miccunifi/ladi-vton)] 
+
+**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2403.01779)]
+[[Code](https://github.com/levihsu/OOTDiffusion)] 
+
+**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling** \
+[[Website](https://arxiv.org/abs/2305.01257)]
+[[Code](https://github.com/EmergingUnicorns/DeepPaint)] 
+
+**CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2311.18405)]
+[[Code](https://github.com/zengjianhao/cat-dm)] 
+
+**Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
+[[Website](https://arxiv.org/abs/2401.13795)]
+[[Project](https://diffuse2choose.github.io/)]
+
+**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2312.03667)]
+
+**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles** \
+[[Website](https://arxiv.org/abs/2401.11239)]
+
+**Mobile Fitting Room: On-device Virtual Try-on via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.01877)]
+
+**Improving Diffusion Models for Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2403.05139)]
 
 
 ## Drag Edit
@@ -3234,63 +3295,3 @@
 
 **FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing** \
 [[Website](https://arxiv.org/abs/2403.06269)]
-
-## Try On
-
-**TryOnDiffusion: A Tale of Two UNets** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.html)]
-[[Website](https://arxiv.org/abs/2306.08276)]
-[[Project](https://tryondiffusion.github.io/)]
-[[Code](https://github.com/huggingface/diffusers/issues/5008)] 
-
-**Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images** \
-[[Website](https://arxiv.org/abs/2311.16094)]
-[[Project](https://cuiaiyu.github.io/StreetTryOn/)]
-[[Code](https://github.com/cuiaiyu/street-tryon-benchmark)] 
-
-
-**PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns** \
-[[Website](https://arxiv.org/abs/2312.04534)]
-[[Project](https://ningshuliang.github.io/2023/Arxiv/index.html)]
-[[Code](https://github.com/ningshuliang/PICTURE)] 
-
-**StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On** \
-[[Website](https://arxiv.org/abs/2312.01725)]
-[[Project](https://rlawjdghek.github.io/StableVITON/)]
-[[Code](https://github.com/rlawjdghek/stableviton?tab=readme-ov-file)] 
-
-**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**  \
-[[ACM MM 2023](https://arxiv.org/abs/2308.06101)]
-[[Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)] 
-
-**LaDI-VTON: Latent Diffusion Textual-Inversion Enhanced Virtual Try-On** \
-[[ACM MM 2023](https://arxiv.org/abs/2305.13501)]
-[[Code](https://github.com/miccunifi/ladi-vton)] 
-
-**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on** \
-[[Website](https://arxiv.org/abs/2403.01779)]
-[[Code](https://github.com/levihsu/OOTDiffusion)] 
-
-**DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling** \
-[[Website](https://arxiv.org/abs/2305.01257)]
-[[Code](https://github.com/EmergingUnicorns/DeepPaint)] 
-
-**CAT-DM: Controllable Accelerated Virtual Try-on with Diffusion Model** \
-[[Website](https://arxiv.org/abs/2311.18405)]
-[[Code](https://github.com/zengjianhao/cat-dm)] 
-
-**Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
-[[Website](https://arxiv.org/abs/2401.13795)]
-[[Project](https://diffuse2choose.github.io/)]
-
-**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
-[[Website](https://arxiv.org/abs/2312.03667)]
-
-**Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles** \
-[[Website](https://arxiv.org/abs/2401.11239)]
-
-**Mobile Fitting Room: On-device Virtual Try-on via Diffusion Models** \
-[[Website](https://arxiv.org/abs/2402.01877)]
-
-**Improving Diffusion Models for Virtual Try-on** \
-[[Website](https://arxiv.org/abs/2403.05139)]
