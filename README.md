@@ -178,6 +178,11 @@
 [[Website](https://arxiv.org/abs/2306.05414)] 
 [[Code](https://github.com/phymhan/prompt-to-prompt)] 
 
+**Inversion-Free Image Editing with Natural Language** \
+[[CVPR 2024](https://arxiv.org/abs/2312.04965)] 
+[[Project](https://sled-group.github.io/InfEdit/index.html)] 
+[[Code](https://github.com/sled-group/InfEdit)] 
+
 **Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
 [[ICLR 2024](https://openreview.net/forum?id=mhgm0IXtHw)] 
 [[Website](https://arxiv.org/abs/2402.04625)] 
@@ -381,10 +386,6 @@
 [[Project](https://shi-labs.github.io/Smooth-Diffusion/)] 
 [[Code](https://github.com/SHI-Labs/Smooth-Diffusion)] 
 
-**Inversion-Free Image Editing with Natural Language** \
-[[Website](https://arxiv.org/abs/2312.04965)] 
-[[Project](https://sled-group.github.io/InfEdit/index.html)] 
-[[Code](https://github.com/sled-group/InfEdit)] 
 
 **MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance** \
 [[Website](https://arxiv.org/abs/2312.11396)] 
