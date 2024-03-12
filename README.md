@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Drag Edit](#drag-edit)
 - [Diffusion Inversion](#diffusion-models-inversion)
 - [Text-Guided Editing](#text-guided-image-editing)
 - [Continual Learning](#continual-learning)
@@ -19,13 +20,71 @@
 - [Doc Layout](#document-layout-generation)
 - [Text Generation](#text-generation)
 - [Super Resolution](#super-resolution)
-- [Drag Edit](#drag-edit)
 - [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
 - [Virtual Try On](#try-on)
 <!-- - [Representation Learning](#representation-learning) -->
 <!-- - [X2I/X2X](#x2i-x2x) -->
 <!-- - [Semantic Intrinsic](#semantic-intrinsic) -->
+
+
+## Drag Edit
+**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
+[[ICLR 2024](https://openreview.net/forum?id=OEL4FJMg1b)] 
+[[Website](https://arxiv.org/abs/2307.02421)] 
+[[Project](https://mc-e.github.io/project/DragonDiffusion/)] 
+[[Code](https://github.com/MC-E/DragonDiffusion)]
+
+**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2305.10973)] 
+[[Project](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] 
+[[Code](https://github.com/XingangPan/DragGAN)]
+
+
+**FreeDrag: Feature Dragging for Reliable Point-based Image Editing** \
+[[CVPR 2024](https://arxiv.org/abs/2307.04684)] 
+[[Project](https://lin-chen.site/projects/freedrag/)] 
+[[Code](https://github.com/LPengYang/FreeDrag)]
+
+**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** \
+[[CVPR 2024](https://arxiv.org/abs/2306.14435)] 
+[[Project](https://yujun-shi.github.io/projects/dragdiffusion.html)] 
+[[Code](https://github.com/Yujun-Shi/DragDiffusion)]
+
+**Repositioning the Subject within Image** \
+[[Website](https://arxiv.org/abs/2401.16861)] 
+[[Project](https://yikai-wang.github.io/seele/)] 
+[[Code](https://github.com/Yikai-Wang/ReS)]
+
+**Drag-A-Video: Non-rigid Video Editing with Point-based Interaction** \
+[[Website](https://arxiv.org/abs/2312.02936)] 
+[[Project](https://drag-a-video.github.io/)]
+[[Code](https://github.com/tyshiwo1/drag-a-video)]
+
+**DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** \
+[[CVPR 2024](https://arxiv.org/abs/2402.02583)] 
+[[Code](https://github.com/MC-E/DragonDiffusion)]
+
+**DragVideo: Interactive Drag-style Video Editing** \
+[[Website](https://arxiv.org/abs/2312.02216)] 
+[[Code](https://github.com/rickyskywalker/dragvideo-official)]
+
+**RotationDrag: Point-based Image Editing with Rotated Diffusion Features** \
+[[Website](https://arxiv.org/abs/2401.06442)] 
+[[Code](https://github.com/Tony-Lowe/RotationDrag)]
+
+**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory** \
+[[Website](https://arxiv.org/abs/2308.08089)] 
+[[Project](https://www.microsoft.com/en-us/research/project/dragnuwa/)] 
+
+**Readout Guidance: Learning Control from Diffusion Features** \
+[[Website](https://arxiv.org/abs/2312.02150)] 
+[[Project](https://readout-guidance.github.io/)] 
+
+**StableDrag: Stable Dragging for Point-based Image Editing** \
+[[Website](https://arxiv.org/abs/2403.04437)] 
+[[Project](https://stabledrag.github.io/)]
+
 
 
 ## Diffusion Models Inversion
@@ -2405,62 +2464,6 @@
 
 **Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2403.05808)]
-
-
-## Drag Edit
-**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
-[[ICLR 2024](https://openreview.net/forum?id=OEL4FJMg1b)] 
-[[Website](https://arxiv.org/abs/2307.02421)] 
-[[Project](https://mc-e.github.io/project/DragonDiffusion/)] 
-[[Code](https://github.com/MC-E/DragonDiffusion)]
-
-**Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold** \
-[[SIGGRAPH 2023](https://arxiv.org/abs/2305.10973)] 
-[[Project](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] 
-[[Code](https://github.com/XingangPan/DragGAN)]
-
-**DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory** \
-[[Website](https://arxiv.org/abs/2308.08089)] 
-[[Project](https://mc-e.github.io/project/DragonDiffusion/)] 
-[[Code](https://github.com/MC-E/DragonDiffusion)]
-
-**Repositioning the Subject within Image** \
-[[Website](https://arxiv.org/abs/2401.16861)] 
-[[Project](https://yikai-wang.github.io/seele/)] 
-[[Code](https://github.com/Yikai-Wang/ReS)]
-
-**FreeDrag: Feature Dragging for Reliable Point-based Image Editing** \
-[[CVPR 2024](https://arxiv.org/abs/2307.04684)] 
-[[Code](https://github.com/LPengYang/FreeDrag)]
-
-**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing** \
-[[Website](https://arxiv.org/abs/2306.14435)] 
-[[Code](https://github.com/Yujun-Shi/DragDiffusion)]
-
-**DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** \
-[[Website](https://arxiv.org/abs/2402.02583)] 
-[[Code](https://github.com/MC-E/DragonDiffusion)]
-
-**DragVideo: Interactive Drag-style Video Editing** \
-[[Website](https://arxiv.org/abs/2312.02216)] 
-[[Code](https://github.com/rickyskywalker/dragvideo-official)]
-
-**RotationDrag: Point-based Image Editing with Rotated Diffusion Features** \
-[[Website](https://arxiv.org/abs/2401.06442)] 
-[[Code](https://github.com/Tony-Lowe/RotationDrag)]
-
-
-**Readout Guidance: Learning Control from Diffusion Features** \
-[[Website](https://arxiv.org/abs/2312.02150)] 
-[[Project](https://readout-guidance.github.io/)] 
-
-**Drag-A-Video: Non-rigid Video Editing with Point-based Interaction** \
-[[Website](https://arxiv.org/abs/2312.02936)] 
-[[Project](https://drag-a-video.github.io/)]
-
-**StableDrag: Stable Dragging for Point-based Image Editing** \
-[[Website](https://arxiv.org/abs/2403.04437)] 
-[[Project](https://stabledrag.github.io/)]
 
 
 
