@@ -126,6 +126,11 @@
 [[Project](https://drag-a-video.github.io/)]
 [[Code](https://github.com/tyshiwo1/drag-a-video)]
 
+**DragAnything: Motion Control for Anything using Entity Representation** \
+[[Website](https://arxiv.org/abs/2403.07420)] 
+[[Project](https://weijiawu.github.io/draganything_page/)]
+[[Code](https://github.com/showlab/DragAnything)]
+
 **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2402.02583)] 
 [[Code](https://github.com/MC-E/DragonDiffusion)]
