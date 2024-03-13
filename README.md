@@ -88,6 +88,10 @@
 **Improving Diffusion Models for Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2403.05139)]
 
+**Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.07371)]
+
+
 
 ## Drag Edit
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
@@ -607,6 +611,8 @@
 **Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters** \
 [[Website](https://arxiv.org/abs/2311.18763)] 
 
+**Premonition: Using Generative Models to Preempt Future Data Changes in Continual Learning** \
+[[Website](https://arxiv.org/abs/2403.07356)] 
 
 
 ## Remove Concept
@@ -1450,6 +1456,10 @@
 [[Website](https://arxiv.org/abs/2403.06381)] 
 [[Code](https://github.com/YaNgZhAnG-V5/attention_regulation)] 
 
+**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2403.07860)] 
+[[Code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)] 
+
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
 [[Project](https://korguy.github.io/)] 
@@ -2105,6 +2115,10 @@
 **Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis** \
 [[ICLR 2024](https://arxiv.org/abs/2401.09048)] 
 [[Code](https://github.com/tomtom1103/compose-and-conquer/)]
+
+**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2403.07234)] 
+[[Code](https://github.com/subhadeepkoley/DemoSketch2RGB)]
 
 **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.08453)] 
@@ -2847,6 +2861,10 @@
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
 [[Code](https://github.com/YangLing0818/ContextDiff)]
+
+**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces** \
+[[ICLR 2024](https://arxiv.org/abs/2403.07711)]
+[[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
