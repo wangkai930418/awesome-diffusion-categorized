@@ -1380,6 +1380,10 @@
 [[ICLR 2024](https://arxiv.org/abs/2402.05375)] 
 [[Code](https://github.com/sen-mao/SuppressEOT)]
 
+**Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2403.08381)] 
+[[Code](https://github.com/PangzeCheung/SingDiffusion)]
+
 **ORES: Open-vocabulary Responsible Visual Synthesis** \
 [[Website](https://arxiv.org/abs/2308.13785)] 
 [[Code](https://github.com/kodenii/ores)]
