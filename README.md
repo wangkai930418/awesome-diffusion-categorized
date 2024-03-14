@@ -1563,6 +1563,8 @@
 **StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.04965)] 
 
+**Make Me Happier: Evoking Emotions Through Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.08255)] 
 
 
 
