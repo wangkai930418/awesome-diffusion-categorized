@@ -18,7 +18,7 @@
 - [Adding Conditions](#additional-conditions)
 - [Few-Shot](#few-shot)
 - [Inpainting](#sd-inpaint)
-- [Doc Layout](#document-layout-generation)
+- [Layout](#layout-generation)
 - [Text Generation](#text-generation)
 - [Super Resolution](#super-resolution)
 - [Video Generation](#video-generation)
@@ -239,6 +239,12 @@
 **Exact Diffusion Inversion via Bi-directional Integration Approximation** \
 [[Website](https://arxiv.org/abs/2307.10829)] 
 [[Code](https://github.com/guoqiang-zhang-x/BDIA)] 
+
+
+**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing** \
+[[Website](https://arxiv.org/abs/2403.09468)] 
+[[Code](https://github.com/furiosa-ai/eta-inversion)] 
+
 
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
@@ -1684,6 +1690,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.03485)] 
 [[Code](https://github.com/univ-esuty/noisecollage)]
 
+**StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control** \
+[[CVPR 2024](https://arxiv.org/abs/2403.09055)] 
+[[Code](https://github.com/ironjr/StreamMultiDiffusion)]
+
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
@@ -1699,6 +1709,10 @@
 **RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.12908)] 
 [[Code](https://github.com/YangLing0818/RealCompo)]
+
+**StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control** \
+[[Website](https://arxiv.org/abs/2403.09055)] 
+[[Code](https://github.com/ironjr/StreamMultiDiffusion?tab=readme-ov-file)]
 
 **InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.05849)] 
@@ -2122,6 +2136,11 @@
 [[Project](https://soon-yau.github.io/visconet/)] 
 [[Code](https://github.com/soon-yau/visconet)]
 
+**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior** \
+[[Website](https://arxiv.org/abs/2403.09638)] 
+[[Project](https://air-discover.github.io/SCP-Diff/)] 
+[[Code](https://github.com/AIR-DISCOVER/SCP-Diff-Toolkit)]
+
 
 **Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis** \
 [[ICLR 2024](https://arxiv.org/abs/2401.09048)] 
@@ -2344,13 +2363,21 @@
 **Infusion: Internal Diffusion for Video Inpainting** \
 [[Website](https://arxiv.org/abs/2311.01090)] 
 
-## Document Layout Generation
+**Rethinking Referring Object Removal** \
+[[Website](https://arxiv.org/abs/2403.09128)] 
+
+## Layout Generation
 
 **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Inoue_LayoutDM_Discrete_Diffusion_Model_for_Controllable_Layout_Generation_CVPR_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.08137)]
 [[Project](https://cyberagentailab.github.io/layout-dm/)] 
 [[Code](https://github.com/CyberAgentAILab/layout-dm)]
+
+**Desigen: A Pipeline for Controllable Design Template Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2403.09093)]
+[[Project](https://whaohan.github.io/desigen/)]
+[[Code](https://github.com/whaohan/desigen)]
 
 **DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Levi_DLT_Conditioned_layout_generation_with_Joint_Discrete-Continuous_Diffusion_Layout_Transformer_ICCV_2023_paper.html)]
@@ -2361,6 +2388,10 @@
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_LayoutDiffusion_Improving_Graphic_Layout_Generation_by_Discrete_Diffusion_Probabilistic_Models_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.11589)]
 [[Code](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutDiffusion)]
+
+**Desigen: A Pipeline for Controllable Design Template Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2403.09093)] 
+[[Code](https://github.com/whaohan/desigen)] 
 
 **LayoutDM: Transformer-based Diffusion Model for Layout Generation** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Chai_LayoutDM_Transformer-Based_Diffusion_Model_for_Layout_Generation_CVPR_2023_paper.html)] 
@@ -3105,6 +3136,9 @@
 **Pix2Gif: Motion-Guided Diffusion for GIF Generation** \
 [[Website](https://arxiv.org/abs/2403.04634)]
 
+**Intention-driven Ego-to-Exo Video Generation** \
+[[Website](https://arxiv.org/abs/2403.09194)]
+
 
 ## Video Editing 
 
@@ -3327,3 +3361,7 @@
 
 **FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing** \
 [[Website](https://arxiv.org/abs/2403.06269)]
+
+**Video Editing via Factorized Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2403.06269)]
+
