@@ -640,12 +640,6 @@
 [[Project](https://erasing.baulab.info/)] 
 [[Code](https://github.com/rohitgandikota/erasing)]
 
-**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2304.03246)] 
-[[Project](http://instinpaint.abyildirim.com/)] 
-[[Code](https://github.com/abyildirim/inst-inpaint)]
-[[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
-
 **One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications** \
 [[Website](https://arxiv.org/abs/2312.16145)] 
 [[Project](https://lyumengyao.github.io/projects/spm)] 
@@ -2288,6 +2282,12 @@
 [[ICML 2023](https://icml.cc/virtual/2023/poster/24127)] 
 [[Website](https://arxiv.org/abs/2304.03322)] 
 [[Code](https://github.com/ucsb-nlp-chang/copaint)]
+
+**Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2304.03246)] 
+[[Project](http://instinpaint.abyildirim.com/)] 
+[[Code](https://github.com/abyildirim/inst-inpaint)]
+[[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
 
 **AnyDoor: Zero-shot Object-level Image Customization** \
 [[Website](https://arxiv.org/abs/2307.09481)] 
