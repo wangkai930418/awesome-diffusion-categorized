@@ -2467,6 +2467,10 @@
 [[ICDAR 2023](https://arxiv.org/abs/2306.12049)]
 [[Code](https://github.com/univ-esuty/ambifusion)] 
 
+**Scene Text Image Super-resolution based on Text-conditional Diffusion Models** \
+[[WACV 2024](https://arxiv.org/abs/2311.09759)]
+[[Code](https://github.com/toyotainfotech/stisr-tcdm)] 
+
 **AnyText: Multilingual Visual Text Generation And Editing** \
 [[Website](https://arxiv.org/abs/2311.03054)]
 [[Code](https://github.com/tyxsspa/AnyText)] 
@@ -2478,9 +2482,6 @@
 **UniVG: Towards UNIfied-modal Video Generation** \
 [[Website](https://arxiv.org/abs/2401.09084)]
 [[Project](https://univg-baidu.github.io/)] 
-
-**Scene Text Image Super-resolution based on Text-conditional Diffusion Models** \
-[[WACV 2024](https://arxiv.org/abs/2311.09759)]
 
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
