@@ -2548,12 +2548,19 @@
 [[Website](https://arxiv.org/abs/2403.05049)] 
 [[Code](https://github.com/qyp2000/XPSR)] 
 
+**BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.10211)] 
+[[Code](https://github.com/lifengcs/BlindDiff)] 
+
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
 
 **Text-guided Explorable Image Super-resolution** \
 [[CVPR 2024](https://arxiv.org/abs/2403.01124)] 
+
+**Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder** \
+[[CVPR 2024](https://arxiv.org/abs/2403.10255)] 
 
 **Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
 [[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
