@@ -72,6 +72,12 @@
 [[Website](https://arxiv.org/abs/2311.18405)]
 [[Code](https://github.com/zengjianhao/cat-dm)] 
 
+**StableGarment: Garment-Centric Generation via Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2403.10783)]
+[[[[Project](https://diffuse2choose.github.io/)]
+](https://raywang335.github.io/stablegarment.github.io/)] 
+
+
 **Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
 [[Website](https://arxiv.org/abs/2401.13795)]
 [[Project](https://diffuse2choose.github.io/)]
@@ -245,6 +251,9 @@
 [[Website](https://arxiv.org/abs/2403.09468)] 
 [[Code](https://github.com/furiosa-ai/eta-inversion)] 
 
+**Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.11105)] 
+[[Code](https://github.com/leeruibin/SPDInv)] 
 
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
@@ -576,6 +585,8 @@
 **InstructGIE: Towards Generalizable Image Editing** \
 [[Website](https://arxiv.org/abs/2403.05018)]
 
+**DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation** \
+[[Website](https://arxiv.org/abs/2403.11415)]
 
 
 ## Continual Learning
@@ -943,6 +954,11 @@
 [[Project](https://diffusekrona.github.io/)] 
 [[Code](https://github.com/IBM/DiffuseKronA)]
 
+**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.10983)] 
+[[Project](https://kongzhecn.github.io/omg-project/)] 
+[[Code](https://github.com/kongzhecn/OMG/)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
@@ -1006,6 +1022,10 @@
 **High-fidelity Person-centric Subject-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.10329)] 
 [[Code](https://github.com/codegoat24/face-diffuser)] 
+
+**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.11627)] 
+[[Code](https://github.com/Young98CN/LoRA_Composer)] 
 
 **Language-Informed Visual Concept Learning** \
 [[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
@@ -1090,6 +1110,10 @@
 **Visual Style Prompting with Swapping Self-Attention** \
 [[Website](https://arxiv.org/abs/2402.12974)] 
 [[Project](https://curryjung.github.io/VisualStylePrompt/)] 
+
+**Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
+[[Website](https://arxiv.org/abs/2403.11781)] 
+[[Project](https://infinite-id.github.io/)] 
 
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
@@ -1469,6 +1493,10 @@
 [[Website](https://arxiv.org/abs/2403.07860)] 
 [[Code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)] 
 
+**LightIt: Illumination Modeling and Control for Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
+[[Project](https://peter-kocsis.github.io/LightIt/)] 
+
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
 [[Project](https://korguy.github.io/)] 
@@ -1569,6 +1597,12 @@
 
 **Make Me Happier: Evoking Emotions Through Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.08255)] 
+
+**Zippo: Zipping Color and Transparency Distributions into a Single Diffusion Model** \
+[[Website](https://arxiv.org/abs/2403.11077)] 
+
+**LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model** \
+[[Website](https://arxiv.org/abs/2403.11929)] 
 
 
 
@@ -1839,6 +1873,10 @@
 [[Website](https://arxiv.org/abs/2403.05053)] 
 [[Code](https://github.com/CodeGoat24/PrimeComposer)] 
 
+**One-Step Image Translation with Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2403.12036)] 
+[[Code](https://github.com/GaParmar/img2img-turbo)] 
+
 **FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.15636)]
 [[Project](https://freestylefreelunch.github.io/)]
@@ -1959,6 +1997,13 @@
 [[Website](https://arxiv.org/abs/2402.16392)] 
 [[Code](https://github.com/naver/poc)]
 
+**MaskDiffusion: Exploiting Pre-trained Diffusion Models for Semantic Segmentation** \
+[[Website](https://arxiv.org/abs/2403.11194)] 
+[[Code](https://github.com/Valkyrja3607/MaskDiffusion)]
+
+**Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation** \
+[[Website](https://arxiv.org/abs/2403.12042)] 
+[[Code](https://github.com/buxiangzhiren/VD-IT)]
 
 **EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=YqyTXmF8Y2)]
@@ -2340,6 +2385,10 @@
 [[Website](https://arxiv.org/abs/2403.06976)] 
 [[Code](https://github.com/TencentARC/BrushNet)] 
 
+**IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation** \
+[[CVPR 2024](https://arxiv.org/abs/2403.10701)] 
+[[Project](https://song630.github.io/IMPRINT-Project-Page/)]
+
 **SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
 [[Website](https://arxiv.org/abs/2312.05039)] 
 [[Project](https://smartmask-gen.github.io/)]
@@ -2595,6 +2644,8 @@
 **Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2403.05808)]
 
+**CasSR: Activating Image Power for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.11451)]
 
 
 <!-- ## X2I X2X
@@ -2943,6 +2994,10 @@
 **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.06098)]
 [[Code](https://github.com/WangWenhao0716/VidProM)]
+
+**EchoReel: Enhancing Action Generation of Existing Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.11535)]
+[[Code](https://github.com/liujianzhi/echoreel)]
 
 **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17723)]
@@ -3330,6 +3385,10 @@
 [[Website](https://arxiv.org/abs/2402.14780)]
 [[Project](https://anonymous-314.github.io/)]
 
+**DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing** \
+[[Website](https://arxiv.org/abs/2403.12002)]
+[[Project](https://hyeonho99.github.io/dreammotion/)]
+
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
 
@@ -3373,3 +3432,5 @@
 **Video Editing via Factorized Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2403.06269)]
 
+**EffiVED:Efficient Video Editing via Text-instruction Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.11568)]
