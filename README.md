@@ -588,6 +588,9 @@
 **DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation** \
 [[Website](https://arxiv.org/abs/2403.11415)]
 
+**LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing** \
+[[Website](https://arxiv.org/abs/2403.12585)]
+
 
 ## Continual Learning
 
@@ -685,6 +688,9 @@
 [[Website](https://arxiv.org/abs/2401.05779)] 
 
 **UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.11846)] 
+
+**Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts** \
 [[Website](https://arxiv.org/abs/2402.11846)] 
 
 <!-- ## Semantic Intrinsic
@@ -1407,6 +1413,10 @@
 **Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.08381)] 
 [[Code](https://github.com/PangzeCheung/SingDiffusion)]
+
+**FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis** \
+[[Website](https://arxiv.org/abs/2403.12963)] 
+[[Code](https://github.com/LeonHLJ/FouriScale)]
 
 **ORES: Open-vocabulary Responsible Visual Synthesis** \
 [[Website](https://arxiv.org/abs/2308.13785)] 
@@ -2415,6 +2425,10 @@
 **Rethinking Referring Object Removal** \
 [[Website](https://arxiv.org/abs/2403.09128)] 
 
+**Tuning-Free Image Customization with Image and Text Guidance** \
+[[Website](https://arxiv.org/abs/2403.12658)] 
+
+
 ## Layout Generation
 
 **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
@@ -2715,6 +2729,11 @@
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.13744)]
 [[Code](https://github.com/nihaomiao/CVPR23_LFDM)]
+
+**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** \
+[[CVPR 2023](https://arxiv.org/abs/2403.12962)]
+[[Project](https://www.mmlab-ntu.com/project/fresco/)]
+[[Code](https://github.com/williamyang1991/FRESCO)]
 
 
 **Video Diffusion Models** \
