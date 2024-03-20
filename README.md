@@ -2758,6 +2758,10 @@
 [[Project](https://magic-avatar.github.io/)] 
 [[Code](https://github.com/magic-research/magic-avatar)]
 
+**TrailBlazer: Trajectory Control for Diffusion-Based Video Generation** \
+[[Website](https://arxiv.org/abs/2401.00896)]
+[[Project](https://hohonu-vicml.github.io/Trailblazer.Page/)] 
+[[Code](https://github.com/hohonu-vicml/Trailblazer)]
 
 **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** \
 [[Website](https://arxiv.org/abs/2304.01186)]
