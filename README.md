@@ -3202,6 +3202,8 @@
 **Intention-driven Ego-to-Exo Video Generation** \
 [[Website](https://arxiv.org/abs/2403.09194)]
 
+**AnimateDiff-Lightning: Cross-Model Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2403.12706)]
 
 ## Video Editing 
 
