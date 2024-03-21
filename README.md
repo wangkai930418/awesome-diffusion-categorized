@@ -591,6 +591,8 @@
 **LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing** \
 [[Website](https://arxiv.org/abs/2403.12585)]
 
+**Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing** \
+[[Website](https://arxiv.org/abs/2403.13551)]
 
 ## Continual Learning
 
@@ -658,6 +660,11 @@
 [[Website](https://arxiv.org/abs/2312.16145)] 
 [[Project](https://lyumengyao.github.io/projects/spm)] 
 [[Code](https://github.com/Con6924/SPM)]
+
+**Editing Massive Concepts in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.13807)] 
+[[Project](https://silentview.github.io/EMCID/)] 
+[[Code](https://github.com/SilentView/EMCID)]
 
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
@@ -1201,6 +1208,9 @@
 **ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image** \
 [[Website](https://arxiv.org/abs/2402.11849)] 
 
+**IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2403.13535)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -1614,6 +1624,8 @@
 **LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model** \
 [[Website](https://arxiv.org/abs/2403.11929)] 
 
+**AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2403.13352)] 
 
 
 ## Spatial Control
@@ -1763,6 +1775,13 @@
 **Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2311.15773)] 
 [[Project](https://simm-t2i.github.io/SimM/)] 
+
+**ReGround: Improving Textual and Spatial Grounding at No Cost** \
+[[Website](https://arxiv.org/abs/2403.13589)] 
+[[Project](https://re-ground.github.io/)] 
+
+**DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception** \
+[[CVPR 2024](https://arxiv.org/abs/2403.13304)] 
 
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
@@ -2407,6 +2426,10 @@
 [[Website](https://arxiv.org/abs/2312.04831)] 
 [[Project](https://yikai-wang.github.io/asuka/)]
 
+**Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos** \
+[[Website](https://arxiv.org/abs/2403.13044)] 
+[[Project](https://magic-fixup.github.io/)]
+
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**\
 [[Website](https://arxiv.org/abs/2312.03556)] 
 
@@ -2972,6 +2995,11 @@
 [[Project](https://animatelcm.github.io/)]
 [[Code](https://github.com/G-U-N/AnimateLCM)] 
 
+**Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation** \
+[[Website](https://arxiv.org/abs/2403.13745)]
+[[Project](https://be-your-outpainter.github.io/)]
+[[Code](https://github.com/G-U-N/Be-Your-Outpainter)]
+
 **UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control** \
 [[Website](https://arxiv.org/abs/2403.02332)]
 [[Project](https://unified-attention-control.github.io/)]
@@ -3029,6 +3057,10 @@
 **AtomoVideo: High Fidelity Image-to-Video Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2403.01800)]
 [[Project](https://atomo-video.github.io/)]
+
+**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion** \
+[[Website](https://arxiv.org/abs/2403.13800)]
+[[Project](https://timerewind.github.io/)]
 
 **VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
 [[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
@@ -3132,6 +3164,14 @@
 **Audio-Synchronized Visual Animation** \
 [[Website](https://arxiv.org/abs/2403.05659)]
 [[Project](https://lzhangbj.github.io/projects/asva/asva.html)] 
+
+**VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis** \
+[[Website](https://arxiv.org/abs/2403.13501)]
+[[Project](https://yumengli007.github.io/VSTAR/)] 
+
+**S2DM: Sector-Shaped Diffusion Models for Video Generation** \
+[[Website](https://arxiv.org/abs/2403.13408)]
+[[Project](https://s2dm.github.io/S2DM/)] 
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
