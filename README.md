@@ -230,6 +230,10 @@
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
 
+**ReNoise: Real Image Inversion Through Iterative Noising** \
+[[Website](https://arxiv.org/abs/2403.14602)] 
+[[Project](https://garibida.github.io/ReNoise-Inversion/)] 
+[[Code](https://github.com/garibida/ReNoise-Inversion)] 
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
@@ -844,6 +848,11 @@
 [[AAAI 2024](https://arxiv.org/abs/2306.04695)] 
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
+
+**Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2403.14155)] 
+[[Project](https://ldynx.github.io/harmony-zero-t2i/)] 
+[[Code](https://github.com/ldynx/harmony-zero-t2i)]
 
 **Material Palette: Extraction of Materials from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.17060)] 
