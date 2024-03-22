@@ -97,7 +97,8 @@
 **Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.07371)]
 
-
+**ACDG-VTON: Accurate and Contained Diffusion Generation for Virtual Try-On** \
+[[Website](https://arxiv.org/abs/2403.13951)]
 
 ## Drag Edit
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
@@ -2034,6 +2035,10 @@
 [[Website](https://arxiv.org/abs/2403.12042)] 
 [[Code](https://github.com/buxiangzhiren/VD-IT)]
 
+**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.14291)] 
+[[Code](https://github.com/vpulab/ovam)]
+
 **EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=YqyTXmF8Y2)]
 [[Website](https://arxiv.org/abs/2401.11739)] 
@@ -3058,6 +3063,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.01800)]
 [[Project](https://atomo-video.github.io/)]
 
+**Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition** \
+[[ICLR 2024](https://arxiv.org/abs/2403.14148)]
+[[Project](https://sihyun.me/CMD/)] 
+
 **TimeRewind: Rewinding Time with Image-and-Events Video Diffusion** \
 [[Website](https://arxiv.org/abs/2403.13800)]
 [[Project](https://timerewind.github.io/)]
@@ -3172,6 +3181,7 @@
 **S2DM: Sector-Shaped Diffusion Models for Video Generation** \
 [[Website](https://arxiv.org/abs/2403.13408)]
 [[Project](https://s2dm.github.io/S2DM/)] 
+
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
@@ -3499,3 +3509,6 @@
 
 **EffiVED:Efficient Video Editing via Text-instruction Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.11568)]
+
+**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion** \
+[[Website](https://arxiv.org/abs/2403.14617)]
