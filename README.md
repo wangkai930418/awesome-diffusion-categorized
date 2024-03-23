@@ -74,13 +74,16 @@
 
 **StableGarment: Garment-Centric Generation via Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2403.10783)]
-[[[[Project](https://diffuse2choose.github.io/)]
-](https://raywang335.github.io/stablegarment.github.io/)] 
+[[Project](https://raywang335.github.io/stablegarment.github.io/)] 
 
 
 **Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
 [[Website](https://arxiv.org/abs/2401.13795)]
 [[Project](https://diffuse2choose.github.io/)]
+
+**Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment** \
+[[Website](https://arxiv.org/abs/2403.12965)]
+[[Project](https://mengtingchen.github.io/wear-any-way-page/)]
 
 **WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2312.03667)]
@@ -1895,6 +1898,9 @@
 [[Project](https://sliders.baulab.info/)]
 [[Code](https://github.com/rohitgandikota/sliders)]
 
+**BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models** \
+[[CVPR 2023](https://arxiv.org/abs/2205.07680)]
+[[Code](https://github.com/xuekt98/BBDM)]
 
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
