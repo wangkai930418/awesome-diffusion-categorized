@@ -1224,6 +1224,9 @@
 **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2403.13535)] 
 
+**MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration** \
+[[Website](https://arxiv.org/abs/2403.15059)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -3070,6 +3073,10 @@
 [[Website](https://arxiv.org/abs/2403.11535)]
 [[Code](https://github.com/liujianzhi/echoreel)]
 
+**StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text** \
+[[Website](https://arxiv.org/abs/2403.14773)]
+[[Code](https://github.com/Picsart-AI-Research/StreamingT2V)]
+
 **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17723)]
 [[Project](https://yzxing87.github.io/Seeing-and-Hearing/)]
@@ -3081,6 +3088,10 @@
 **Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition** \
 [[ICLR 2024](https://arxiv.org/abs/2403.14148)]
 [[Project](https://sihyun.me/CMD/)] 
+
+**Spectral Motion Alignment for Video Motion Transfer using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.15249)]
+[[Project](https://geonyeong-park.github.io/spectral-motion-alignment/)]
 
 **TimeRewind: Rewinding Time with Image-and-Events Video Diffusion** \
 [[Website](https://arxiv.org/abs/2403.13800)]
