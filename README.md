@@ -1533,6 +1533,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
 
+**Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2403.16990)] 
+[[Project](https://omer11a.github.io/bounded-attention/)] 
+
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
 [[Project](https://korguy.github.io/)] 
@@ -2604,6 +2608,8 @@
 **Font Style Interpolation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.14311)]
 
+**Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation** \
+[[Website](https://arxiv.org/abs/2403.16422)]
 
 ## Super Resolution
 
@@ -2657,6 +2663,10 @@
 [[Website](https://arxiv.org/abs/2403.05049)] 
 [[Code](https://github.com/qyp2000/XPSR)] 
 
+**Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.16643)] 
+[[Code](https://github.com/ProAirVerse/Self-Adaptive-Guidance-Diffusion)] 
+
 **BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2403.10211)] 
 [[Code](https://github.com/lifengcs/BlindDiff)] 
@@ -2706,6 +2716,9 @@
 
 **CasSR: Activating Image Power for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2403.11451)]
+
+**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.17000)]
 
 
 <!-- ## X2I X2X
@@ -3089,6 +3102,10 @@
 [[ICLR 2024](https://arxiv.org/abs/2403.14148)]
 [[Project](https://sihyun.me/CMD/)] 
 
+**TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2403.17005)]
+[[Project](https://trip-i2v.github.io/TRIP/)]
+
 **Spectral Motion Alignment for Video Motion Transfer using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.15249)]
 [[Project](https://geonyeong-park.github.io/spectral-motion-alignment/)]
@@ -3247,6 +3264,9 @@
 **Decouple Content and Motion for Conditional Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2311.14294)]
 
+**X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention** \
+[[Website](https://arxiv.org/abs/2403.15931)]
+
 **F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis** \
 [[Website](https://arxiv.org/abs/2312.03459)]
 
@@ -3373,6 +3393,11 @@
 [[Website](https://arxiv.org/abs/2310.08465)]
 [[Project](https://showlab.github.io/MotionDirector/)] 
 [[Code](https://github.com/showlab/MotionDirector)]
+
+**EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing** \
+[[Website](https://arxiv.org/abs/2403.16111)]
+[[Project](https://knightyxp.github.io/EVA/)] 
+[[Code](https://github.com/knightyxp/EVA_Video_Edit)]
 
 
 
