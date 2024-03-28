@@ -2194,6 +2194,11 @@
 [[Project](https://yumengli007.github.io/ALDM/)] 
 [[Code](https://github.com/boschresearch/ALDM)]
 
+**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2308.06721)] 
+[[Project](https://ip-adapter.github.io/)] 
+[[Code](https://github.com/tencent-ailab/ip-adapter)]
+
 **HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion** \
 [[Website](https://arxiv.org/abs/2310.08579)] 
 [[Project](https://snap-research.github.io/HyperHuman/)] 
