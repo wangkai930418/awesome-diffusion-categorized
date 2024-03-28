@@ -1351,6 +1351,15 @@
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+**Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions** \
+[[Website](https://arxiv.org/abs/2403.17064)] 
+[[Project](https://compvis.github.io/attribute-control/)] 
+[[Code](https://github.com/CompVis/attribute-control)]
+
+**Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance** \
+[[Website](https://arxiv.org/abs/2403.17377)] 
+[[Project](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/)] 
+[[Code](https://github.com/KU-CVLAB/Perturbed-Attention-Guidance)]
 
 **Real-World Image Variation by Aligning Diffusion Inversion Chain** \
 [[Website](https://arxiv.org/abs/2305.18729)] 
@@ -1439,6 +1448,10 @@
 **Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.08381)] 
 [[Code](https://github.com/PangzeCheung/SingDiffusion)]
+
+**AID: Attention Interpolation of Text-to-Image Diffusion** \
+[[Website](https://arxiv.org/abs/2403.17924)] 
+[[Code](https://github.com/QY-H00/attention-interpolation-diffusion)]
 
 **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis** \
 [[Website](https://arxiv.org/abs/2403.12963)] 
