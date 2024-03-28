@@ -527,6 +527,10 @@
 [[Website](https://arxiv.org/abs/2309.04372)]
 [[Project](https://oppo-mente-lab.github.io/moe_controller/)]
 
+**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing** \
+[[Website](https://arxiv.org/abs/2403.18605)]
+[[Project](https://flex-edit.github.io/)]
+
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
@@ -1660,6 +1664,12 @@
 **AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2403.13352)] 
 
+**U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.18425)] 
+
+**ECNet: Effective Controllable Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.18417)] 
+
 
 ## Spatial Control
 
@@ -2470,6 +2480,10 @@
 [[Website](https://arxiv.org/abs/2403.13044)] 
 [[Project](https://magic-fixup.github.io/)]
 
+**ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion** \
+[[Website](https://arxiv.org/abs/2403.18818)] 
+[[Project](https://objectdrop.github.io/)]
+
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**\
 [[Website](https://arxiv.org/abs/2312.03556)] 
 
@@ -2540,6 +2554,8 @@
 **Dolfin: Diffusion Layout Transformers without Autoencoder** \
 [[Website](https://arxiv.org/abs/2310.16305)]
 
+**LayoutFlow: Flow Matching for Layout Generation** \
+[[Website](https://arxiv.org/abs/2403.18187)]
 
 
 ## Text Generation
