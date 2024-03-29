@@ -523,6 +523,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
 [[Project](https://emu-edit.metademolab.com/)]
 
+**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.19645)]
+[[Project](https://gantastic.github.io/)]
+
 **MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers** \
 [[Website](https://arxiv.org/abs/2309.04372)]
 [[Project](https://oppo-mente-lab.github.io/moe_controller/)]
@@ -1231,6 +1235,9 @@
 **MM-Diff: High-Fidelity Image Personalization via Multi-Modal Condition Integration** \
 [[Website](https://arxiv.org/abs/2403.15059)] 
 
+**DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation** \
+[[Website](https://arxiv.org/abs/2403.19235)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -1670,6 +1677,8 @@
 **ECNet: Effective Controllable Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.18417)] 
 
+**TextCraftor: Your Text Encoder Can be Image Quality Controller** \
+[[Website](https://arxiv.org/abs/2403.18978)] 
 
 ## Spatial Control
 
@@ -3357,6 +3366,10 @@
 
 **AnimateDiff-Lightning: Cross-Model Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2403.12706)]
+
+**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.19593)]
+
 
 ## Video Editing 
 
