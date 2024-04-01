@@ -2098,6 +2098,12 @@
 [[Website](https://arxiv.org/abs/2401.11739)] 
 [[Project](https://kmcode1.github.io/Projects/EmerDiff/)]
 
+
+**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.20105)] 
+[[Project](https://bcorrad.github.io/freesegdiff/)]
+
+
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.11681)] 
 [[Project](https://weijiawu.github.io/DiffusionMask/)] 
@@ -2449,6 +2455,10 @@
 **Delving Globally into Texture and Structure for Image Inpainting**\
 [[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
 [[Code](https://github.com/htyjers/DGTS-Inpainting)]
+
+**Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting** \
+[[Website](https://arxiv.org/abs/2403.19898)] 
+[[Code](https://github.com/htyjers/StrDiffusion)]
 
 **Reference-based Image Composition with Sketch via Structure-aware Diffusion Model** \
 [[Website](https://arxiv.org/abs/2304.09748)] 
@@ -2854,6 +2864,11 @@
 [[Website](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)]
 [[Project](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)]
 [[Code](https://github.com/Stability-AI/generative-models)]
+
+**Motion Inversion for Video Customization** \
+[[Website](https://arxiv.org/abs/2403.20193)]
+[[Project](https://wileewang.github.io/MotionInversion/)] 
+[[Code](https://github.com/EnVision-Research/MotionInversion)]
 
 **MagicAvatar: Multimodal Avatar Generation and Animation** \
 [[Website](https://arxiv.org/abs/2308.14748)]
