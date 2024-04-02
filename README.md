@@ -103,6 +103,10 @@
 **ACDG-VTON: Accurate and Contained Diffusion Generation for Virtual Try-On** \
 [[Website](https://arxiv.org/abs/2403.13951)]
 
+**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On** \
+[[Website](https://arxiv.org/abs/2404.01089)]
+
+
 ## Drag Edit
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=OEL4FJMg1b)] 
@@ -144,6 +148,10 @@
 **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2402.02583)] 
 [[Code](https://github.com/MC-E/DragonDiffusion)]
+
+**Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation** \
+[[CVPR 2024](https://arxiv.org/abs/2404.01050)] 
+[[Code](https://github.com/haofengl/DragNoise)]
 
 **DragVideo: Interactive Drag-style Video Editing** \
 [[Website](https://arxiv.org/abs/2312.02216)] 
@@ -609,6 +617,10 @@
 
 **Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing** \
 [[Website](https://arxiv.org/abs/2403.13551)]
+
+**Uncovering the Text Embedding in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.01154)]
+
 
 ## Continual Learning
 
@@ -2696,6 +2708,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
 
+**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2404.00661)] 
+[[Code](https://github.com/bichunyang419/DeeDSR)] 
+
 **Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
 [[Website](https://arxiv.org/abs/2310.12004)] 
 [[Code](https://github.com/amandaluof/moe_sr)] 
@@ -3283,6 +3299,8 @@
 [[Website](https://arxiv.org/abs/2403.13408)]
 [[Project](https://s2dm.github.io/S2DM/)] 
 
+**Grid Diffusion Models for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2404.00234)]
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
