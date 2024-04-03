@@ -2695,6 +2695,11 @@
 [[Website](https://arxiv.org/abs/2303.09472)] 
 [[Code](https://github.com/Zj-BinXia/DiffIR)]
 
+**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2404.01717)] 
+[[Project](https://nju-pcalab.github.io/projects/AddSR/)] 
+[[Code](https://github.com/NJU-PCALab/AddSR)] 
+
 **Exploiting Diffusion Prior for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2305.07015)] 
 [[Project](https://iceclear.github.io/projects/stablesr/)] 
@@ -3127,6 +3132,10 @@
 **SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces** \
 [[ICLR 2024](https://arxiv.org/abs/2403.07711)]
 [[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
+
+**Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model** \
+[[Website](https://arxiv.org/abs/2404.01862)]
+[[Code](https://github.com/thuhcsi/S2G-MDDiffusion)]
 
 **Diffusion Probabilistic Modeling for Video Generation** \
 [[Website](https://arxiv.org/abs/2203.09481)]
