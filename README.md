@@ -1374,6 +1374,11 @@
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching** \
+[[Website](https://arxiv.org/abs/2404.03653)] 
+[[Project](https://caraj7.github.io/comat/)] 
+[[Code](https://github.com/CaraJ7/CoMat)]
+
 **Continuous, Subject-Specific Attribute Control in T2I Models by Identifying Semantic Directions** \
 [[Website](https://arxiv.org/abs/2403.17064)] 
 [[Project](https://compvis.github.io/attribute-control/)] 
