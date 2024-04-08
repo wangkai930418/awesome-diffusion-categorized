@@ -862,6 +862,11 @@
 [[Project](https://mapooon.github.io/Face2DiffusionPage/)] 
 [[Code](https://github.com/mapooon/Face2Diffusion)]
 
+**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models** \
+[[CVPR 2024](https://arxiv.org/abs/2404.04243)] 
+[[Project](https://mudi-t2i.github.io/)] 
+[[Code](https://github.com/agwmon/MuDI)]
+
 **DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
 [[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
 [[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
@@ -1161,6 +1166,8 @@
 [[Website](https://arxiv.org/abs/2403.11781)] 
 [[Project](https://infinite-id.github.io/)] 
 
+**Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models** \
+[[CVPR 2024](https://arxiv.org/abs/2404.03913)] 
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
@@ -1472,6 +1479,10 @@
 **Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models** \
 [[ICLR 2024](https://arxiv.org/abs/2402.05375)] 
 [[Code](https://github.com/sen-mao/SuppressEOT)]
+
+**Dynamic Prompt Optimizing for Text-to-Image Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2404.04095)] 
+[[Code](https://github.com/Mowenyii/PAE)]
 
 **Tackling the Singularities at the Endpoints of Time Intervals in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.08381)] 
