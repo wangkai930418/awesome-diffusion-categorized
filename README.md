@@ -106,6 +106,9 @@
 **Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On** \
 [[Website](https://arxiv.org/abs/2404.01089)]
 
+**ShoeModel: Learning to Wear on the User-specified Shoes via Diffusion Model** \
+[[Website](https://arxiv.org/abs/2404.04833)]
+
 
 ## Drag Edit
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
@@ -477,6 +480,10 @@
 **Learning to Follow Object-Centric Image Editing Instructions Faithfully** \
 [[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
 [[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
+
+**ClickDiffusion: Harnessing LLMs for Interactive Precise Image Editing** \
+[[Website](https://arxiv.org/abs/2404.04376)] 
+[[Code](https://github.com/poloclub/clickdiffusion)] 
 
 **Differential Diffusion: Giving Each Pixel Its Strength** \
 [[Website](https://arxiv.org/abs/2306.00950)] 
@@ -1094,6 +1101,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
 [[Project](https://corleone-huang.github.io/realcustom/)] 
 
+**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2404.05674)] 
+[[Project](https://moma-adapter.github.io/)] 
+
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
 [[Website](https://arxiv.org/abs/2312.06354)] 
 [[Project](https://portraitbooth.github.io/)] 
@@ -1488,6 +1499,14 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.08381)] 
 [[Code](https://github.com/PangzeCheung/SingDiffusion)]
 
+**Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance** \
+[[CVPR 2024](https://arxiv.org/abs/2404.05384)] 
+[[Code](https://github.com/SmilesDZgk/S-CFG)]
+
+**InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization** \
+[[CVPR 2024](https://arxiv.org/abs/2404.04650)] 
+[[Code](https://github.com/xiefan-guo/initno)]
+
 **AID: Attention Interpolation of Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2403.17924)] 
 [[Code](https://github.com/QY-H00/attention-interpolation-diffusion)]
@@ -1584,6 +1603,10 @@
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
+
+**UniFL: Improve Stable Diffusion via Unified Feedback Learning** \
+[[Website](https://arxiv.org/abs/2404.05595)] 
+[[Project](https://uni-fl.github.io/)] 
 
 **Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2403.16990)] 
@@ -2346,6 +2369,10 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
 [[Project]](https://omriavrahami.com/spatext/) 
 
+**BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion** \
+[[Website](https://arxiv.org/abs/2404.04544)] 
+[[Project](https://janeyeon.github.io/beyond-scene//)] 
+
 **CCM: Adding Conditional Controls to Text-to-Image Consistency Models** \
 [[Website](https://arxiv.org/abs/2312.06971)] 
 [[Project](https://swiftforce.github.io/CCM/)] 
@@ -2385,6 +2412,9 @@
 
 **Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons** \
 [[Website]](https://arxiv.org/abs/2401.13363) 
+
+**Mask-ControlNet: Higher-Quality Image Generation with An Additional Mask Prompt** \
+[[Website]](https://arxiv.org/abs/2404.05331) 
 
 
 ## Few-Shot 
@@ -2691,6 +2721,9 @@
 
 **Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation** \
 [[Website](https://arxiv.org/abs/2403.16422)]
+
+**DiffCJK: Conditional Diffusion Model for High-Quality and Wide-coverage CJK Character Generation** \
+[[Website](https://arxiv.org/abs/2404.05212)]
 
 ## Super Resolution
 
@@ -3324,6 +3357,10 @@
 [[Website](https://arxiv.org/abs/2403.13408)]
 [[Project](https://s2dm.github.io/S2DM/)] 
 
+**AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via Subject Alignment** \
+[[Website](https://arxiv.org/abs/2404.04946)]
+[[Project](https://justinxu0.github.io/AnimateZoo/)] 
+
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
 
@@ -3427,7 +3464,6 @@
 
 **Frame by Familiar Frame: Understanding Replication in Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.19593)]
-
 
 ## Video Editing 
 
@@ -3579,6 +3615,10 @@
 **Flow-Guided Diffusion for Video Inpainting** \
 [[Website](https://arxiv.org/abs/2311.15368)]
 [[Code](https://github.com/nevsnev/fgdvi)] 
+
+**Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.05519)]
+[[Code](https://github.com/sam-motamed/Video-Editing-X-Attention/)]
 
 **Shape-Aware Text-Driven Layered Video Editing** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Shape-Aware_Text-Driven_Layered_Video_Editing_CVPR_2023_paper.html
