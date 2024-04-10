@@ -889,6 +889,11 @@
 [[Project](https://ldynx.github.io/harmony-zero-t2i/)] 
 [[Code](https://github.com/ldynx/harmony-zero-t2i)]
 
+**ZeST: Zero-Shot Material Transfer from a Single Image** \
+[[Website](https://arxiv.org/abs/2404.06425)] 
+[[Project](https://ttchengab.github.io/zest/)] 
+[[Code](https://github.com/ttchengab/zest_code)]
+
 **Material Palette: Extraction of Materials from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.17060)] 
 [[Project](https://astra-vision.github.io/MaterialPalette/)] 
