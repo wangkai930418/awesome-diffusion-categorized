@@ -133,6 +133,11 @@
 [[Project](https://yujun-shi.github.io/projects/dragdiffusion.html)] 
 [[Code](https://github.com/Yujun-Shi/DragDiffusion)]
 
+**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.07206)] 
+[[Project](https://gooddrag.github.io/)] 
+[[Code](https://github.com/zewei-Zhang/GoodDrag)]
+
 **Repositioning the Subject within Image** \
 [[Website](https://arxiv.org/abs/2401.16861)] 
 [[Project](https://yikai-wang.github.io/seele/)] 
@@ -627,6 +632,9 @@
 
 **Uncovering the Text Embedding in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.01154)]
+
+**Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer** \
+[[Website](https://arxiv.org/abs/2404.06835)]
 
 
 ## Continual Learning
@@ -2089,7 +2097,6 @@
 [[Project](https://diffmot.github.io/)] 
 [[Code](https://github.com/Kroery/DiffMOT)]
 
-
 **Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2308.12469)] 
 [[Project](https://sites.google.com/view/diffseg/home)] 
@@ -2154,6 +2161,10 @@
 [[Website](https://arxiv.org/abs/2401.11739)] 
 [[Project](https://kmcode1.github.io/Projects/EmerDiff/)]
 
+
+**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2404.06542)] 
+[[Project](https://aimagelab.github.io/freeda/)] 
 
 **FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.20105)] 
