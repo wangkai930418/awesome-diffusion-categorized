@@ -1744,6 +1744,9 @@
 **TextCraftor: Your Text Encoder Can be Image Quality Controller** \
 [[Website](https://arxiv.org/abs/2403.18978)] 
 
+**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.07389)] 
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -1945,6 +1948,8 @@
 **Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control** \
 [[Website](https://arxiv.org/abs/2402.13404)] 
 
+**ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2404.075644)] 
 
 ## I2I translation
 
@@ -2226,6 +2231,9 @@
 **Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2401.16459)] 
 
+**ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model** \
+[[Website](https://arxiv.org/abs/2404.07773)] 
+
 ## Additional conditions 
 
 ⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
@@ -2385,9 +2393,13 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
 [[Project]](https://omriavrahami.com/spatext/) 
 
+**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback** \
+[[Website](https://arxiv.org/abs/2404.07987)] 
+[[Project](https://liming-ai.github.io/ControlNet_Plus_Plus/)] 
+
 **BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion** \
 [[Website](https://arxiv.org/abs/2404.04544)] 
-[[Project](https://janeyeon.github.io/beyond-scene//)] 
+[[Project](https://janeyeon.github.io/beyond-scene/)] 
 
 **CCM: Adding Conditional Controls to Text-to-Image Consistency Models** \
 [[Website](https://arxiv.org/abs/2312.06971)] 
