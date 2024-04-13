@@ -518,6 +518,10 @@
 [[Website](https://arxiv.org/abs/2305.18007)] 
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=cBS5CU96Jq)]  -->
 
+**Emu Edit: Precise Image Editing via Recognition and Generation Tasks** \
+[[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
+[[Project](https://emu-edit.metademolab.com/)]
+
 **LIME: Localized Image Editing via Attention Regularization in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.09256)]
 [[Project](https://enis.dev/LIME/)] 
@@ -534,9 +538,9 @@
 [[Website](https://arxiv.org/abs/2305.04651)] 
 [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
 
-**Emu Edit: Precise Image Editing via Recognition and Generation Tasks** \
-[[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
-[[Project](https://emu-edit.metademolab.com/)]
+**ByteEdit: Boost, Comply and Accelerate Generative Image Editing** \
+[[Website](https://arxiv.org/abs/2404.04860)] 
+[[Project](https://byte-edit.github.io/)]
 
 **GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.19645)]
