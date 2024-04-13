@@ -422,6 +422,11 @@
 [[Project](https://yuzhou914.github.io/SmartEdit/)] 
 [[Code](https://github.com/TencentARC/SmartEdit?tab=readme-ov-file)] 
 
+**SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing** \
+[[Website](https://arxiv.org/abs/2404.05717)] 
+[[Project](https://swap-anything.github.io/)] 
+[[Code](https://github.com/eric-ai-lab/swap-anything)] 
+
 **EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods** \
 [[Website](https://arxiv.org/abs/2310.02426)] 
 [[Project](https://deep-ml-research.github.io/editval/#home)] 
