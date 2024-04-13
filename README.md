@@ -133,6 +133,11 @@
 [[Project](https://yujun-shi.github.io/projects/dragdiffusion.html)] 
 [[Code](https://github.com/Yujun-Shi/DragDiffusion)]
 
+**GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.07206)] 
+[[Project](https://gooddrag.github.io/)] 
+[[Code](https://github.com/zewei-Zhang/GoodDrag)]
+
 **Repositioning the Subject within Image** \
 [[Website](https://arxiv.org/abs/2401.16861)] 
 [[Project](https://yikai-wang.github.io/seele/)] 
@@ -632,6 +637,9 @@
 **Uncovering the Text Embedding in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.01154)]
 
+**Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer** \
+[[Website](https://arxiv.org/abs/2404.06835)]
+
 
 ## Continual Learning
 
@@ -892,6 +900,11 @@
 [[Website](https://arxiv.org/abs/2403.14155)] 
 [[Project](https://ldynx.github.io/harmony-zero-t2i/)] 
 [[Code](https://github.com/ldynx/harmony-zero-t2i)]
+
+**ZeST: Zero-Shot Material Transfer from a Single Image** \
+[[Website](https://arxiv.org/abs/2404.06425)] 
+[[Project](https://ttchengab.github.io/zest/)] 
+[[Code](https://github.com/ttchengab/zest_code)]
 
 **Material Palette: Extraction of Materials from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.17060)] 
@@ -1735,6 +1748,9 @@
 **TextCraftor: Your Text Encoder Can be Image Quality Controller** \
 [[Website](https://arxiv.org/abs/2403.18978)] 
 
+**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.07389)] 
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -1936,6 +1952,8 @@
 **Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control** \
 [[Website](https://arxiv.org/abs/2402.13404)] 
 
+**ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2404.075644)] 
 
 ## I2I translation
 
@@ -2088,7 +2106,6 @@
 [[Project](https://diffmot.github.io/)] 
 [[Code](https://github.com/Kroery/DiffMOT)]
 
-
 **Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2308.12469)] 
 [[Project](https://sites.google.com/view/diffseg/home)] 
@@ -2154,6 +2171,10 @@
 [[Project](https://kmcode1.github.io/Projects/EmerDiff/)]
 
 
+**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2404.06542)] 
+[[Project](https://aimagelab.github.io/freeda/)] 
+
 **FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.20105)] 
 [[Project](https://bcorrad.github.io/freesegdiff/)]
@@ -2213,6 +2234,9 @@
 
 **Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2401.16459)] 
+
+**ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model** \
+[[Website](https://arxiv.org/abs/2404.07773)] 
 
 ## Additional conditions 
 
@@ -2373,9 +2397,13 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
 [[Project]](https://omriavrahami.com/spatext/) 
 
+**ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback** \
+[[Website](https://arxiv.org/abs/2404.07987)] 
+[[Project](https://liming-ai.github.io/ControlNet_Plus_Plus/)] 
+
 **BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion** \
 [[Website](https://arxiv.org/abs/2404.04544)] 
-[[Project](https://janeyeon.github.io/beyond-scene//)] 
+[[Project](https://janeyeon.github.io/beyond-scene/)] 
 
 **CCM: Adding Conditional Controls to Text-to-Image Consistency Models** \
 [[Website](https://arxiv.org/abs/2312.06971)] 
