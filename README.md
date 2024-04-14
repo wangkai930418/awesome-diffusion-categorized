@@ -1662,6 +1662,9 @@
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
 [[Website](https://arxiv.org/abs/2401.02015)] 
 
+**Aligning Diffusion Models by Optimizing Human Utility** \
+[[Website](https://arxiv.org/abs/2404.04465)] 
+
 **Instruct-Imagen: Image Generation with Multi-modal Instruction** \
 [[Website](https://arxiv.org/abs/2401.01952)] 
 
