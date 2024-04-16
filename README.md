@@ -1499,6 +1499,14 @@
 [[Project](https://res-adapter.github.io/)] 
 [[Code](https://github.com/bytedance/res-adapter)]
 
+**MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.09977)] 
+[[Project](https://nithin-gk.github.io/maxfusion.github.io/)] 
+[[Code](https://github.com/Nithin-GK/MaxFusion)]
+
+**Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2404.09976)] 
+
 **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment** \
 [[Website](https://arxiv.org/abs/2403.05135)] 
 [[Project](https://ella-diffusion.github.io/)] 
@@ -2296,6 +2304,11 @@
 [[Project](https://yumengli007.github.io/ALDM/)] 
 [[Code](https://github.com/boschresearch/ALDM)]
 
+**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model** \
+[[Website](https://arxiv.org/abs/2404.09967)] 
+[[Project](https://ctrl-adapter.github.io/)] 
+[[Code](https://github.com/HL-hanlin/Ctrl-Adapter)]
+
 **IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2308.06721)] 
 [[Project](https://ip-adapter.github.io/)] 
@@ -2589,6 +2602,10 @@
 **IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10701)] 
 [[Project](https://song630.github.io/IMPRINT-Project-Page/)]
+
+**Taming Latent Diffusion Model for Neural Radiance Field Inpainting** \
+[[Website](https://arxiv.org/abs/2404.09995)] 
+[[Project](https://hubert0527.github.io/MALD-NeRF/)]
 
 **SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
 [[Website](https://arxiv.org/abs/2312.05039)] 
