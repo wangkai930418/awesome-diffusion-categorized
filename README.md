@@ -1290,6 +1290,9 @@
 **DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation** \
 [[Website](https://arxiv.org/abs/2403.19235)] 
 
+**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance** \
+[[Website](https://arxiv.org/abs/2404.10267)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
