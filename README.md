@@ -491,6 +491,10 @@
 [[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
 [[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
 
+**TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing** \
+[[CVPR 2024](https://arxiv.org/abs/2404.11120)] 
+[[Code](https://github.com/SherryXTChen/TiNO-Edit)] 
+
 **ClickDiffusion: Harnessing LLMs for Interactive Precise Image Editing** \
 [[Website](https://arxiv.org/abs/2404.04376)] 
 [[Code](https://github.com/poloclub/clickdiffusion)] 
@@ -1122,6 +1126,10 @@
 **RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization** \
 [[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
 [[Project](https://corleone-huang.github.io/realcustom/)] 
+
+**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2404.11565)] 
+[[Project](https://snap-research.github.io/mixture-of-attention/)] 
 
 **MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2404.05674)] 
@@ -1769,6 +1777,9 @@
 
 **Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.07389)] 
+
+**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding** \
+[[Website](https://arxiv.org/abs/2404.11589)] 
 
 ## Spatial Control
 
