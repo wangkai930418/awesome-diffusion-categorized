@@ -2293,6 +2293,12 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/using-diffusers/controlnet)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/controlnet)] 
 
+
+⭐⭐**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.08453)] 
+[[Code](https://github.com/TencentARC/T2I-Adapter)]
+
+
 **SketchKnitter: Vectorized Sketch Generation with Diffusion Models** \
 [[ICLR 2023 Spotlight](https://openreview.net/forum?id=4eJ43EN2g6l&noteId=fxpTz_vCdO)]
 [[ICLR 2023 Spotlight](https://iclr.cc/virtual/2023/poster/11832)]
@@ -2417,10 +2423,6 @@
 **It's All About Your Sketch: Democratising Sketch Control in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.07234)] 
 [[Code](https://github.com/subhadeepkoley/DemoSketch2RGB)]
-
-**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2302.08453)] 
-[[Code](https://github.com/TencentARC/T2I-Adapter)]
 
 **Universal Guidance for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.07121)] 
