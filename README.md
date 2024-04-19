@@ -2360,10 +2360,6 @@
 [[Project](https://alonzoleeeooo.github.io/LCDG/)] 
 [[Code](https://github.com/AlonzoLeeeooo/LCDG)]
 
-**IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2308.06721)] 
-[[Project](https://ip-adapter.github.io/)] 
-[[Code](https://github.com/tencent-ailab/IP-Adapter)]
 
 **Composer: Creative and controllable image synthesis with composable conditions** \
 [[Website](https://arxiv.org/abs/2302.09778)] 
