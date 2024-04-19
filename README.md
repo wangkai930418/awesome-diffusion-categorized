@@ -422,6 +422,11 @@
 [[Project](https://yuzhou914.github.io/SmartEdit/)] 
 [[Code](https://github.com/TencentARC/SmartEdit?tab=readme-ov-file)] 
 
+**StyleBooth: Image Style Editing with Multimodal Instruction** \
+[[Website](https://arxiv.org/abs/2404.12154)] 
+[[Project](https://ali-vilab.github.io/stylebooth-page/)] 
+[[Code](https://github.com/modelscope/scepter)] 
+
 **SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing** \
 [[Website](https://arxiv.org/abs/2404.05717)] 
 [[Project](https://swap-anything.github.io/)] 
@@ -649,6 +654,8 @@
 **Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer** \
 [[Website](https://arxiv.org/abs/2404.06835)]
 
+**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.11895)]
 
 ## Continual Learning
 
@@ -904,6 +911,11 @@
 [[AAAI 2024](https://arxiv.org/abs/2306.04695)] 
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
+
+**Customizing Text-to-Image Diffusion with Camera Viewpoint Control** \
+[[Website](https://arxiv.org/abs/2404.12333)] 
+[[Project](https://customdiffusion360.github.io/)] 
+[[Code](https://github.com/customdiffusion360/custom-diffusion360)]
 
 **Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2403.14155)] 
@@ -1672,6 +1684,10 @@
 **FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes** \
 [[Website](https://arxiv.org/abs/2402.18331)] 
 [[Project](https://finediffusion.github.io/)] 
+
+**Lazy Diffusion Transformer for Interactive Image Editing** \
+[[Website](https://arxiv.org/abs/2404.12382)] 
+[[Project](https://lazydiffusion.github.io/)] 
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
@@ -2613,6 +2629,10 @@
 [[Website](https://arxiv.org/abs/2403.06976)] 
 [[Code](https://github.com/TencentARC/BrushNet)] 
 
+**Sketch-guided Image Inpainting with Partial Discrete Diffusion Process** \
+[[Website](https://arxiv.org/abs/2404.11949)] 
+[[Code](https://github.com/vl2g/Sketch-Inpainting)] 
+
 **IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10701)] 
 [[Project](https://song630.github.io/IMPRINT-Project-Page/)]
@@ -3308,6 +3328,10 @@
 **TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.17005)]
 [[Project](https://trip-i2v.github.io/TRIP/)]
+
+**AniClipart: Clipart Animation with Text-to-Video Priors** \
+[[Website](https://arxiv.org/abs/2404.12347)]
+[[Project](https://aniclipart.github.io/#top)]
 
 **Spectral Motion Alignment for Video Motion Transfer using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.15249)]
