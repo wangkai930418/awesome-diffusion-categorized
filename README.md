@@ -1437,6 +1437,11 @@
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+**Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2403.07860)] 
+[[Project](https://shihaozhaozsh.github.io/LaVi-Bridge/)] 
+[[Code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)]
+
 **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching** \
 [[Website](https://arxiv.org/abs/2404.03653)] 
 [[Project](https://caraj7.github.io/comat/)] 
