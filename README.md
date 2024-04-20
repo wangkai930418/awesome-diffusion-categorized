@@ -2296,7 +2296,8 @@
 
 ⭐⭐**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.08453)] 
-[[Code](https://github.com/TencentARC/T2I-Adapter)]
+[[Official Code](https://github.com/TencentARC/T2I-Adapter)]
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/t2i_adapter)] 
 
 
 **SketchKnitter: Vectorized Sketch Generation with Diffusion Models** \
