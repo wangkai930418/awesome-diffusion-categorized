@@ -2601,6 +2601,10 @@
 [[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
 [[Code](https://github.com/htyjers/DGTS-Inpainting)]
 
+**Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing** \
+[[Website](https://arxiv.org/abs/2404.12900)] 
+[[Code](https://github.com/BlueDyee/TF-GPH)]
+
 **Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting** \
 [[Website](https://arxiv.org/abs/2403.19898)] 
 [[Code](https://github.com/htyjers/StrDiffusion)]
@@ -3807,3 +3811,6 @@
 
 **Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion** \
 [[Website](https://arxiv.org/abs/2403.14617)]
+
+**GenVideo: One-shot Target-image and Shape Aware Video Editing using T2I Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.12541)]
