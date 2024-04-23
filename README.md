@@ -88,6 +88,9 @@
 **WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2312.03667)]
 
+**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2404.14162)]
+
 **Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles** \
 [[Website](https://arxiv.org/abs/2401.11239)]
 
@@ -422,6 +425,16 @@
 [[Project](https://yuzhou914.github.io/SmartEdit/)] 
 [[Code](https://github.com/TencentARC/SmartEdit?tab=readme-ov-file)] 
 
+**MultiBooth: Towards Generating All Your Concepts in an Image from Text** \
+[[Website](https://arxiv.org/abs/2404.14239)] 
+[[Project](https://multibooth.github.io/)] 
+[[Code](https://github.com/chenyangzhu1/MultiBooth)] 
+
+**Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting** \
+[[Website](https://arxiv.org/abs/2404.14007)] 
+[[Project](https://zwl666666.github.io/infusion/)] 
+[[Code](https://github.com/zwl666666/infusion)] 
+
 **StyleBooth: Image Style Editing with Multimodal Instruction** \
 [[Website](https://arxiv.org/abs/2404.12154)] 
 [[Project](https://ali-vilab.github.io/stylebooth-page/)] 
@@ -572,6 +585,10 @@
 **FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing** \
 [[Website](https://arxiv.org/abs/2403.18605)]
 [[Project](https://flex-edit.github.io/)]
+
+**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.14403)]
+[[Project](https://ivl.cs.brown.edu/research/geodiffuser.html)]
 
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
@@ -1694,6 +1711,14 @@
 [[Website](https://arxiv.org/abs/2404.12382)] 
 [[Project](https://lazydiffusion.github.io/)] 
 
+**Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis** \
+[[Website](https://arxiv.org/abs/2404.13686)] 
+[[Project](https://hyper-sd.github.io/)] 
+
+**Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.13706)] 
+[[Project](https://cs-people.bu.edu/vpetsiuk/arc/)] 
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -1701,6 +1726,9 @@
 **Improving Diffusion-Based Image Synthesis with Context Prediction** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
 [[Website](https://arxiv.org/abs/2401.02015)] 
+
+**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control** \
+[[Website](https://arxiv.org/abs/2404.13766)] 
 
 **Aligning Diffusion Models by Optimizing Human Utility** \
 [[Website](https://arxiv.org/abs/2404.04465)] 
@@ -1801,6 +1829,10 @@
 
 **Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding** \
 [[Website](https://arxiv.org/abs/2404.11589)] 
+
+**Towards Better Text-to-Image Generation Alignment via Attention Modulation** \
+[[Website](https://arxiv.org/abs/2404.13899)] 
+
 
 ## Spatial Control
 
@@ -2110,6 +2142,9 @@
 
 **UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators** \
 [[Website](https://arxiv.org/abs/2401.12596)]
+
+**FilterPrompt: Guiding Image Transfer in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.13263)]
 
 
 ## Segmentation Detection Tracking
@@ -3320,6 +3355,10 @@
 **StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text** \
 [[Website](https://arxiv.org/abs/2403.14773)]
 [[Code](https://github.com/Picsart-AI-Research/StreamingT2V)]
+
+**TAVGBench: Benchmarking Text to Audible-Video Generation** \
+[[Website](https://arxiv.org/abs/2404.14381)]
+[[Code](https://github.com/OpenNLPLab/TAVGBench)]
 
 **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17723)]
