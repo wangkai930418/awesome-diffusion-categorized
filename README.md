@@ -46,6 +46,10 @@
 [[Project](https://cuiaiyu.github.io/StreetTryOn/)]
 [[Code](https://github.com/cuiaiyu/street-tryon-benchmark)] 
 
+**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation** \
+[[Website](https://arxiv.org/abs/2404.15267)]
+[[Project](https://huanngzh.github.io/Parts2Whole/)]
+[[Code](https://github.com/huanngzh/Parts2Whole)] 
 
 **PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns** \
 [[Website](https://arxiv.org/abs/2312.04534)]
@@ -1992,6 +1996,9 @@
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
 
+**Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion** \
+[[Website](https://arxiv.org/abs/2404.14768)] 
+
 **A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
 [[Website](https://arxiv.org/abs/2306.14544)] 
 
@@ -3307,6 +3314,11 @@
 [[Website](https://arxiv.org/abs/2403.05438)]
 [[Project](https://videoelevator.github.io/)]
 [[Code](https://github.com/YBYBZhang/VideoElevator)] 
+
+**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation** \
+[[Website](https://arxiv.org/abs/2404.15275)]
+[[Project](https://id-animator.github.io/)]
+[[Code](https://github.com/ID-Animator/ID-Animator)] 
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
