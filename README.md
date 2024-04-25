@@ -558,6 +558,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
 [[Project](https://emu-edit.metademolab.com/)]
 
+**Editable Image Elements for Controllable Synthesis** \
+[[Website](https://arxiv.org/abs/2404.16029)]
+[[Project](https://jitengmu.github.io/Editable_Image_Elements/)] 
+
 **LIME: Localized Image Editing via Attention Regularization in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.09256)]
 [[Project](https://enis.dev/LIME/)] 
@@ -933,6 +937,16 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning** \
+[[Website](https://arxiv.org/abs/2404.15449)] 
+[[Project](https://idaligner.github.io/)] 
+[[Code](https://github.com/Weifeng-Chen/ID-Aligner)]
+
+**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.15677)] 
+[[Project](https://qinghew.github.io/CharacterFactory/)] 
+[[Code](https://github.com/qinghew/CharacterFactory)]
+
 **Customizing Text-to-Image Diffusion with Camera Viewpoint Control** \
 [[Website](https://arxiv.org/abs/2404.12333)] 
 [[Project](https://customdiffusion360.github.io/)] 
@@ -1088,6 +1102,10 @@
 **Compositional Inversion for Stable Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
 [[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
+
+**PuLID: Pure and Lightning ID Customization via Contrastive Alignment** \
+[[Website](https://arxiv.org/abs/2404.16022)] 
+[[Code](https://github.com/ToTheBeginning/PuLID)]
 
 **Cross Initialization for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.15905)] 
@@ -1995,6 +2013,9 @@
 
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
+
+**GLoD: Composing Global Contexts and Local Details in Image Generation** \
+[[Website](https://arxiv.org/abs/2404.15447)] 
 
 **Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion** \
 [[Website](https://arxiv.org/abs/2404.14768)] 
@@ -3070,6 +3091,11 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pia)]
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
+
+**MotionMaster: Training-free Camera Motion Transfer For Video Generation** \
+[[Website](https://arxiv.org/abs/2404.15789)]
+[[Project](https://sjtuplayer.github.io/projects/MotionMaster/)] 
+[[Code](https://github.com/sjtuplayer/MotionMaster)]
 
 **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** \
 [[Website](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)]
