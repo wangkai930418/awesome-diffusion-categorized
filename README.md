@@ -937,6 +937,11 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving** \
+[[Website](https://arxiv.org/abs/2404.16771)] 
+[[Project](https://ssugarwh.github.io/consistentid.github.io/)] 
+[[Code](https://github.com/JackAILab/ConsistentID)]
+
 **ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning** \
 [[Website](https://arxiv.org/abs/2404.15449)] 
 [[Project](https://idaligner.github.io/)] 
@@ -3540,6 +3545,10 @@
 **AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via Subject Alignment** \
 [[Website](https://arxiv.org/abs/2404.04946)]
 [[Project](https://justinxu0.github.io/AnimateZoo/)] 
+
+**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.16306)]
+[[Project](https://merl.com/research/highlights/TI2V-Zero)] 
 
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
