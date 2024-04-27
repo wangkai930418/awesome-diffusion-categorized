@@ -1948,6 +1948,11 @@
 [[Project](https://attention-refocusing.github.io/)] 
 [[Code](https://github.com/Attention-Refocusing/attention-refocusing)]
 
+**eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers** \
+[[Website](https://arxiv.org/abs/2211.01324)] 
+[[Project](https://research.nvidia.com/labs/dir/eDiff-I/)] 
+[[Code](https://github.com/cloneofsimo/paint-with-words-sd)]
+
 **LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2304.03373)] 
 [[Project](https://layoutllm-t2i.github.io/)] 
