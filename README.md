@@ -1897,6 +1897,14 @@
 [[Project](https://vp-t2i.github.io/)] 
 [[Code](https://github.com/j-min/VPGen)]
 
+
+**GeoDiffusion: Text-Prompted Geometric Control for Object Detection Data Generation** \
+[[ICLR 2024](https://openreview.net/forum?id=xBfQZWeDRH)] 
+[[Website](https://arxiv.org/abs/2306.04607)] 
+[[Project](https://kaichen1998.github.io/projects/geodiffusion/)] 
+[[Code](https://github.com/KaiChen1998/GeoDiffusion/tree/main)]
+
+
 **ReCo: Region-Controlled Text-to-Image Generation** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)] 
 [[Website](https://arxiv.org/abs/2211.15518)] 
