@@ -4,6 +4,7 @@
 
 ## Contents
 
+- [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
 - [Drag Edit](#drag-edit)
 - [Diffusion Inversion](#diffusion-models-inversion)
@@ -26,6 +27,82 @@
 <!-- - [Representation Learning](#representation-learning) -->
 <!-- - [X2I/X2X](#x2i-x2x) -->
 <!-- - [Semantic Intrinsic](#semantic-intrinsic) -->
+
+
+## Storytelling
+
+⭐⭐**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2306.00973)]
+[[Project](https://haoningwu3639.github.io/StoryGen_Webpage/)]
+[[Code](https://github.com/haoningwu3639/StoryGen)] 
+
+⭐⭐**Training-Free Consistent Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2402.03286)]
+[[Project](https://consistory-paper.github.io/)] 
+[[Code](https://github.com/kousw/experimental-consistory)]
+
+**StoryGPT-V: Large Language Models as Consistent Story Visualizers** \
+[[Website](https://arxiv.org/abs/2312.02252)]
+[[Project](https://storygpt-v.s3.amazonaws.com/index.html)]
+[[Code](https://github.com/xiaoqian-shen/StoryGPT-V)] 
+
+**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.10093)] 
+[[Project](https://omriavrahami.com/the-chosen-one/)] 
+[[Code](https://github.com/ZichengDuan/TheChosenOne)]
+
+**Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** \
+[[Website](https://arxiv.org/abs/2307.06940)]
+[[Project](https://ailab-cvc.github.io/Animate-A-Story/)]
+[[Code](https://github.com/AILab-CVC/Animate-A-Story?tab=readme-ov-file)] 
+
+**TaleCrafter: Interactive Story Visualization with Multiple Characters** \
+[[Website](https://arxiv.org/abs/2305.18247)]
+[[Project](https://ailab-cvc.github.io/TaleCrafter/)]
+[[Code](https://github.com/AILab-CVC/TaleCrafter?tab=readme-ov-file)] 
+
+
+**Make-A-Story: Visual Memory Conditioned Consistent Story Generation** \
+[[CVPR 2023](https://arxiv.org/abs/2211.13319)]
+[[Code](https://github.com/ubc-vision/Make-A-Story)]
+
+**Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.10950)]
+[[Code](https://github.com/xichenpan/ARLDM)]
+
+**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
+[[Website](https://arxiv.org/abs/2404.05979)]
+[[Code](https://github.com/tobran/StoryImager)]
+
+**Masked Generative Story Transformer with Character Guidance and Caption Augmentation** \
+[[Website](https://arxiv.org/abs/2403.08502)]
+[[Code](https://github.com/chrispapa2000/maskgst)]
+
+**StoryBench: A Multifaceted Benchmark for Continuous Story Visualization** \
+[[Website](https://arxiv.org/abs/2308.11606)]
+[[Code](https://github.com/google/storybench)]
+
+**MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising** \
+[[Website](https://arxiv.org/abs/2312.10899)]
+[[Project](https://magicscroll.github.io/)]
+
+**Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
+[[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
+
+**CogCartoon: Towards Practical Story Visualization** \
+[[Website](https://arxiv.org/abs/2312.10718)]
+
+**Generating coherent comic with rich story using ChatGPT and Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2305.11067)]
+
+**Improved Visual Story Generation with Adaptive Context Modeling** \
+[[Website](https://arxiv.org/abs/2305.16811)]
+
+**Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control** \
+[[Website](https://arxiv.org/abs/2312.07549)]
+
+**Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2302.03900)]
 
 
 ## Try On
@@ -1044,10 +1121,6 @@
 [[Code](https://github.com/TencentARC/PhotoMaker)]
 
 
-**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.10093)] 
-[[Project](https://omriavrahami.com/the-chosen-one/)] 
-[[Code](https://github.com/ZichengDuan/TheChosenOne)]
 
 
 **CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
