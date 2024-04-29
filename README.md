@@ -153,10 +153,17 @@
 [[Website](https://arxiv.org/abs/2311.18405)]
 [[Code](https://github.com/zengjianhao/cat-dm)] 
 
+**MV-VTON: Multi-View Virtual Try-On with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.17364)]
+[[Code](https://github.com/hywang2002/MV-VTON)]
+
 **StableGarment: Garment-Centric Generation via Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2403.10783)]
 [[Project](https://raywang335.github.io/stablegarment.github.io/)] 
 
+**Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos** \
+[[Website](https://arxiv.org/abs/2404.17571)]
+[[Project](https://mengtingchen.github.io/tunnel-try-on-page/)]
 
 **Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
 [[Website](https://arxiv.org/abs/2401.13795)]
@@ -834,6 +841,10 @@
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
 [[Code](https://github.com/nannullna/safe-diffusion)]
+
+**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion** \
+[[Website](https://arxiv.org/abs/2404.17230)] 
+[[Code](https://github.com/potato-kitty/objectadd)]
 
 **Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17591)] 
@@ -2951,6 +2962,10 @@
 **AnyText: Multilingual Visual Text Generation And Editing** \
 [[Website](https://arxiv.org/abs/2311.03054)]
 [[Code](https://github.com/tyxsspa/AnyText)] 
+
+**Few-shot Calligraphy Style Learning** \
+[[Website](https://arxiv.org/abs/2404.17199)]
+[[Code](https://github.com/kono-dada/xysffusion)] 
 
 **AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2312.02967)]
