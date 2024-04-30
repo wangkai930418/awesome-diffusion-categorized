@@ -4,6 +4,7 @@
 
 ## Contents
 
+<!-- - [Accelerate](#accelerate) -->
 - [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
 - [Drag Edit](#drag-edit)
@@ -27,6 +28,31 @@
 <!-- - [Representation Learning](#representation-learning) -->
 <!-- - [X2I/X2X](#x2i-x2x) -->
 <!-- - [Semantic Intrinsic](#semantic-intrinsic) -->
+
+
+<!-- ## Accelerate -->
+
+<!-- ⭐⭐**Adversarial Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2311.17042)]
+[[Project](https://stability.ai/research/adversarial-diffusion-distillation)]
+[[Diffusers Code](https://huggingface.co/docs/diffusers/en/using-diffusers/sdxl_turbo)] 
+[[Official Code](https://github.com/stability-ai/generative-models)] 
+
+**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2309.06380)]
+[[Code](https://github.com/gnobitab/InstaFlow?tab=readme-ov-file)] 
+
+**BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2305.15798v3)]
+[[Code 1](https://github.com/segmind/distill-sd)] 
+[[Code 2](https://github.com/Nota-NetsPresso/BK-SDM)] 
+
+**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
+[[Website](https://arxiv.org/abs/2309.10438)]
+[[Code](https://github.com/lilijiangg/autodiffusion)] 
+
+**Accelerating Image Generation with Sub-path Linear Approximation Model** \
+[[Website](https://arxiv.org/abs/2404.13903)] -->
 
 
 ## Storytelling
