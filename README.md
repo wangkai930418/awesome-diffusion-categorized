@@ -816,6 +816,9 @@
 **Premonition: Using Generative Models to Preempt Future Data Changes in Continual Learning** \
 [[Website](https://arxiv.org/abs/2403.07356)] 
 
+**MuseumMaker: Continual Style Customization without Catastrophic Forgetting** \
+[[Website](https://arxiv.org/abs/2404.16612)] 
+
 
 ## Remove Concept
 
