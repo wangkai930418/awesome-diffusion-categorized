@@ -697,6 +697,9 @@
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
 
+**DM-Align: Leveraging the Power of Natural Language Instructions to Make Changes to Images** \
+[[Website](https://arxiv.org/abs/2404.18020)]
+
 **FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
 [[Website](https://arxiv.org/abs/2305.17423)]
 
@@ -827,6 +830,11 @@
 [[Website](https://arxiv.org/abs/2303.07345)] 
 [[Project](https://erasing.baulab.info/)] 
 [[Code](https://github.com/rohitgandikota/erasing)]
+
+**Paint by Inpaint: Learning to Add Image Objects by Removing Them First** \
+[[Website](https://arxiv.org/abs/2404.18212)] 
+[[Project](https://rotsteinnoam.github.io/Paint-by-Inpaint/)] 
+[[Code](https://github.com/RotsteinNoam/Paint-by-Inpaint)]
 
 **One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications** \
 [[Website](https://arxiv.org/abs/2312.16145)] 
@@ -1655,19 +1663,26 @@
 [[Project](https://res-adapter.github.io/)] 
 [[Code](https://github.com/bytedance/res-adapter)]
 
+**Stylus: Automatic Adapter Selection for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.18928)] 
+[[Project](https://stylus-diffusion.github.io/)] 
+[[Code](https://github.com/stylus-diffusion/stylus)]
+
 **MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.09977)] 
 [[Project](https://nithin-gk.github.io/maxfusion.github.io/)] 
 [[Code](https://github.com/Nithin-GK/MaxFusion)]
 
-**Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers** \
-[[Website](https://arxiv.org/abs/2404.09976)] 
 
 **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment** \
 [[Website](https://arxiv.org/abs/2403.05135)] 
 [[Project](https://ella-diffusion.github.io/)] 
 [[Code](https://github.com/ELLA-Diffusion/ELLA)]
 
+**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation** \
+[[Website](https://arxiv.org/abs/2404.18919)] 
+[[Project](https://howe140.github.io/theatergen.io/)] 
+[[Code](https://github.com/donahowe/Theatergen)]
 
 **SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
 [[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
@@ -1837,6 +1852,9 @@
 **Improving Diffusion-Based Image Synthesis with Context Prediction** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
 [[Website](https://arxiv.org/abs/2401.02015)] 
+
+**Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2404.09976)] 
 
 **Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control** \
 [[Website](https://arxiv.org/abs/2404.13766)] 
@@ -2743,6 +2761,11 @@
 [[Code](https://github.com/abyildirim/inst-inpaint)]
 [[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
 
+**Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting** \
+[[Website](https://arxiv.org/abs/2404.18598)] 
+[[Project](https://anywheremultiagent.github.io/)]
+[[Code](https://github.com/Sealical/anywhere-multi-agent)] 
+
 **AnyDoor: Zero-shot Object-level Image Customization** \
 [[Website](https://arxiv.org/abs/2307.09481)] 
 [[Project](https://damo-vilab.github.io/AnyDoor-Page/)]
@@ -3451,6 +3474,11 @@
 [[Website](https://arxiv.org/abs/2404.15275)]
 [[Project](https://id-animator.github.io/)]
 [[Code](https://github.com/ID-Animator/ID-Animator)] 
+
+**FlexiFilm: Long Video Generation with Flexible Conditions** \
+[[Website](https://arxiv.org/abs/2404.18620)]
+[[Project](https://y-ichen.github.io/FlexiFilm-Page/)]
+[[Code](https://github.com/Y-ichen/FlexiFilm)] 
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
