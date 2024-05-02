@@ -723,6 +723,9 @@
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
 
+**TexSliders: Diffusion-Based Texture Editing in CLIP Space** \
+[[Website](https://arxiv.org/abs/2405.00672)]
+
 **DM-Align: Leveraging the Power of Natural Language Instructions to Make Changes to Images** \
 [[Website](https://arxiv.org/abs/2404.18020)]
 
@@ -2461,6 +2464,9 @@
 **SLiMe: Segment Like Me** \
 [[Website](https://arxiv.org/abs/2309.03179)] 
 
+**ASAM: Boosting Segment Anything Model with Adversarial Tuning** \
+[[Website](https://arxiv.org/abs/2405.00256)] 
+
 
 **MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model for Few-Shot Instance Segmentation** \
 [[Website](https://arxiv.org/abs/2303.05105)] 
@@ -2882,6 +2888,9 @@
 [[Website](https://arxiv.org/abs/2403.18818)] 
 [[Project](https://objectdrop.github.io/)]
 
+**Semantically Consistent Video Inpainting with Conditional Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.00251)] 
+
 **Personalized Face Inpainting with Diffusion Models by Parallel Visual Attention**\
 [[Website](https://arxiv.org/abs/2312.03556)] 
 
@@ -3126,6 +3135,9 @@
 
 **Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
 [[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
+
+**Detail-Enhancing Framework for Reference-Based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2405.00431)] 
 
 **You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation** \
 [[Website](https://arxiv.org/abs/2401.17258)] 
