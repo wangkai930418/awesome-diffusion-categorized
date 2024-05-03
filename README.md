@@ -67,6 +67,11 @@
 [[Project](https://consistory-paper.github.io/)] 
 [[Code](https://github.com/kousw/experimental-consistory)]
 
+**StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation** \
+[[Website](https://arxiv.org/abs/2405.01434)]
+[[Project](https://storydiffusion.github.io/)]
+[[Code](https://github.com/HVision-NKU/StoryDiffusion] 
+
 **StoryGPT-V: Large Language Models as Consistent Story Visualizers** \
 [[Website](https://arxiv.org/abs/2312.02252)]
 [[Project](https://storygpt-v.s3.amazonaws.com/index.html)]
@@ -370,6 +375,10 @@
 [[Website](https://arxiv.org/abs/2403.14602)] 
 [[Project](https://garibida.github.io/ReNoise-Inversion/)] 
 [[Code](https://github.com/garibida/ReNoise-Inversion)] 
+
+**LocInv: Localization-aware Inversion for Text-Guided Image Editing** \
+[[CVPR 2024 AI4CC workshop](https://arxiv.org/abs/2405.01496)] 
+[[Code](https://github.com/wangkai930418/DPL)] 
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
@@ -1055,6 +1064,11 @@
 [[Project](https://mudi-t2i.github.io/)] 
 [[Code](https://github.com/agwmon/MuDI)]
 
+**Style Aligned Image Generation via Shared Attention** \
+[[CVPR 2024](https://arxiv.org/abs/2312.02133)] 
+[[Project](https://style-aligned-gen.github.io/)] 
+[[Code](https://github.com/google/style-aligned/)]
+
 **DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
 [[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
 [[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
@@ -1064,6 +1078,11 @@
 [[AAAI 2024](https://arxiv.org/abs/2306.04695)] 
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
+
+**Customizing Text-to-Image Models with a Single Image Pair** \
+[[Website](https://arxiv.org/abs/2405.01536)] 
+[[Project](https://paircustomization.github.io/)] 
+[[Code](https://github.com/PairCustomization/PairCustomization)]
 
 **ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving** \
 [[Website](https://arxiv.org/abs/2404.16771)] 
@@ -1105,10 +1124,6 @@
 [[Project](https://styledrop.github.io/)] 
 [[Code](https://github.com/zideliu/StyleDrop-PyTorch)]
 
-**Style Aligned Image Generation via Shared Attention** \
-[[Website](https://arxiv.org/abs/2312.02133)] 
-[[Project](https://style-aligned-gen.github.io/)] 
-[[Code](https://github.com/google/style-aligned/)]
 
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
 [[Website](https://arxiv.org/abs/2305.10431)] 
@@ -1885,6 +1900,11 @@
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
 [[Website](https://arxiv.org/abs/2401.02015)] 
 
+
+**On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
+[[ICML 2024](https://arxiv.org/abs/2405.01008)] 
+
+
 **Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2404.09976)] 
 
@@ -1993,7 +2013,6 @@
 
 **Towards Better Text-to-Image Generation Alignment via Attention Modulation** \
 [[Website](https://arxiv.org/abs/2404.13899)] 
-
 
 ## Spatial Control
 
@@ -2193,6 +2212,8 @@
 **Zero-shot spatial layout conditioning for text-to-image diffusion models** \
 [[Website](https://arxiv.org/abs/2306.13754)] 
 
+**Obtaining Favorable Layouts for Multiple Object Generation** \
+[[Website](https://arxiv.org/abs/2405.00791)] 
 
 **Enhancing Object Coherence in Layout-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.10522)] 
