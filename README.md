@@ -70,7 +70,7 @@
 **StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation** \
 [[Website](https://arxiv.org/abs/2405.01434)]
 [[Project](https://storydiffusion.github.io/)]
-[[Code](https://github.com/HVision-NKU/StoryDiffusion] 
+[[Code](https://github.com/HVision-NKU/StoryDiffusion)]
 
 **StoryGPT-V: Large Language Models as Consistent Story Visualizers** \
 [[Website](https://arxiv.org/abs/2312.02252)]
@@ -2230,7 +2230,7 @@
 **Joint Generative Modeling of Scene Graphs and Images via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.01130)] 
 
-**Spatial-Aware Latent Initialization for Controllable Image Generation**
+**Spatial-Aware Latent Initialization for Controllable Image Generation** \
 [[Website](https://arxiv.org/abs/2401.16157)] 
 
 **Layout-to-Image Generation with Localized Descriptions using ControlNet with Cross-Attention Control** \
