@@ -3845,6 +3845,9 @@
 **Frame by Familiar Frame: Understanding Replication in Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.19593)]
 
+**Matten: Video Generation with Mamba-Attention** \
+[[Website](https://arxiv.org/abs/2405.03025)]
+
 ## Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
