@@ -3848,6 +3848,10 @@
 **Matten: Video Generation with Mamba-Attention** \
 [[Website](https://arxiv.org/abs/2405.03025)]
 
+**Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.04233)]
+
+
 ## Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
@@ -4002,6 +4006,10 @@
 **Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.05519)]
 [[Code](https://github.com/sam-motamed/Video-Editing-X-Attention/)]
+
+**Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing** \
+[[Website](https://arxiv.org/abs/2405.04496)]
+[[Code](https://github.com/yiiizuo/Edit-Your-Motion)]
 
 **Shape-Aware Text-Driven Layered Video Editing** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Shape-Aware_Text-Driven_Layered_Video_Editing_CVPR_2023_paper.html
