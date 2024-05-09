@@ -2742,6 +2742,8 @@
 **Mask-ControlNet: Higher-Quality Image Generation with An Additional Mask Prompt** \
 [[Website]](https://arxiv.org/abs/2404.05331) 
 
+**FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation** \
+[[Website]](https://arxiv.org/abs/2405.04834) 
 
 ## Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
@@ -3541,6 +3543,11 @@
 [[Website](https://arxiv.org/abs/2404.18620)]
 [[Project](https://y-ichen.github.io/FlexiFilm-Page/)]
 [[Code](https://github.com/Y-ichen/FlexiFilm)] 
+
+**TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2405.04682)]
+[[Project](https://talc-mst2v.github.io/)]
+[[Code](https://github.com/Hritikbansal/talc)] 
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
