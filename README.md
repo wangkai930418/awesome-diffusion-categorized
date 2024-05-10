@@ -1079,6 +1079,11 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2405.05806)] 
+[[Project](https://masterweaver.github.io/)] 
+[[Code](https://github.com/csyxwei/MasterWeaver)]
+
 **Customizing Text-to-Image Models with a Single Image Pair** \
 [[Website](https://arxiv.org/abs/2405.01536)] 
 [[Project](https://paircustomization.github.io/)] 
