@@ -149,6 +149,11 @@
 [[Project](https://rlawjdghek.github.io/StableVITON/)]
 [[Code](https://github.com/rlawjdghek/stableviton?tab=readme-ov-file)] 
 
+**GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting** \
+[[Website](https://arxiv.org/abs/2405.07472)]
+[[Project](https://haroldchen19.github.io/gsvton/)]
+[[Code](https://github.com/HaroldChen19/GaussianVTON)] 
+
 **Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Person Images** \
 [[Website](https://arxiv.org/abs/2311.16094)]
 [[Project](https://cuiaiyu.github.io/StreetTryOn/)]
@@ -907,6 +912,9 @@
 **MACE: Mass Concept Erasure in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06135)] 
 
+**Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning** \
+[[Website](https://arxiv.org/abs/2405.07288)] 
+
 **Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2310.05873)] 
 
@@ -1406,6 +1414,10 @@
 **Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
 [[Website](https://arxiv.org/abs/2403.11781)] 
 [[Project](https://infinite-id.github.io/)] 
+
+**Non-confusing Generation of Customized Concepts in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.06914)] 
+[[Project](https://clif-official.github.io/clif/)] 
 
 **Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models** \
 [[CVPR 2024](https://arxiv.org/abs/2404.03913)] 
@@ -2720,6 +2732,10 @@
 [[Website](https://arxiv.org/abs/2312.11392)] 
 [[Project](https://scedit.github.io/)] 
 
+**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models** \
+[[Website](https://arxiv.org/abs/2405.07913)] 
+[[Project](https://compvis.github.io/LoRAdapter/)] 
+
 **SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.10156)] 
 
@@ -3114,6 +3130,10 @@
 **SinSR: Diffusion-Based Image Super-Resolution in a Single Step** \
 [[CVPR 2024](https://arxiv.org/abs/2311.14760)] 
 [[Code](https://github.com/wyf0912/SinSR)] 
+
+**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2405.07648)] 
+[[Code](https://github.com/I2-Multimedia-Lab/CDFormer)] 
 
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
