@@ -2180,6 +2180,10 @@
 [[Website](https://arxiv.org/abs/2403.09055)] 
 [[Code](https://github.com/ironjr/StreamMultiDiffusion?tab=readme-ov-file)]
 
+**Compositional Text-to-Image Generation with Dense Blob Representations** \
+[[Website](https://arxiv.org/abs/2405.08246)] 
+[[Project](https://blobgen-2d.github.io/)] 
+
 **InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.05849)] 
 [[Project](https://jiuntian.github.io/interactdiffusion/)] 
