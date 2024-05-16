@@ -722,6 +722,10 @@
 [[Website](https://arxiv.org/abs/2404.14403)]
 [[Project](https://ivl.cs.brown.edu/research/geodiffuser.html)]
 
+**SOEDiff: Efficient Distillation for Small Object Editing** \
+[[Website](https://arxiv.org/abs/2405.09114)]
+[[Project](https://soediff.github.io/)]
+
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
@@ -3776,6 +3780,10 @@
 **TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.16306)]
 [[Project](https://merl.com/research/highlights/TI2V-Zero)] 
+
+**Dance Any Beat: Blending Beats with Visuals in Dance Video Generation** \
+[[Website](https://arxiv.org/abs/2405.09266)]
+[[Project](https://dabfusion.github.io/)] 
 
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
