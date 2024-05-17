@@ -3231,6 +3231,8 @@
 **Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2403.17000)]
 
+**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution** \
+[[Website](https://arxiv.org/abs/2405.10014)]
 
 <!-- ## X2I X2X
 
