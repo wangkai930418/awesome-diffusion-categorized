@@ -135,6 +135,9 @@
 **Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.03900)]
 
+**Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.11852)]
+
 
 ## Try On
 
@@ -148,6 +151,11 @@
 [[CVPR 2024](https://arxiv.org/abs/2312.01725)]
 [[Project](https://rlawjdghek.github.io/StableVITON/)]
 [[Code](https://github.com/rlawjdghek/stableviton?tab=readme-ov-file)] 
+
+**ViViD: Video Virtual Try-on using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.11794)]
+[[Project](https://becauseimbatman0.github.io/ViViD)]
+[[Code](https://github.com/BecauseImBatman0/ViViD)] 
 
 **GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting** \
 [[Website](https://arxiv.org/abs/2405.07472)]
@@ -3579,6 +3587,11 @@
 [[Project](https://y-ichen.github.io/FlexiFilm-Page/)]
 [[Code](https://github.com/Y-ichen/FlexiFilm)] 
 
+**FIFO-Diffusion: Generating Infinite Videos from Text without Training** \
+[[Website](https://arxiv.org/abs/2405.11473)]
+[[Project](https://jjihwan.github.io/projects/FIFO-Diffusion)]
+[[Code](https://github.com/jjihwan/FIFO-Diffusion_public)] 
+
 **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2405.04682)]
 [[Project](https://talc-mst2v.github.io/)]
@@ -4062,6 +4075,10 @@
 )]
 [[Website](https://arxiv.org/abs/2301.13173)]
 [[Project](https://text-video-edit.github.io/#)] 
+
+**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices** \
+[[Website](https://arxiv.org/abs/2405.12211)]
+[[Project](https://matankleiner.github.io/slicedit/)]
 
 **DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing** \
 [[Website](https://arxiv.org/abs/2310.10624)]
