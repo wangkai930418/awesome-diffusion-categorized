@@ -3817,6 +3817,8 @@
 **Dual-Stream Diffusion Net for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2308.08316)]
 
+**DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control** \
+[[Website](https://arxiv.org/abs/2405.12796)]
 
 **SimDA: Simple Diffusion Adapter for Efficient Video Generation** \
 [[Website](https://arxiv.org/abs/2308.09710)]
