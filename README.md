@@ -3103,6 +3103,9 @@
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
 
+**CustomText: Customized Textual Image Generation using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.12531)]
+
 **VecFusion: Vector Font Generation with Diffusion** \
 [[Website](https://arxiv.org/abs/2312.10540)]
 
