@@ -1351,6 +1351,10 @@
 [[Website](https://arxiv.org/abs/2404.11565)] 
 [[Project](https://snap-research.github.io/mixture-of-attention/)] 
 
+**Personalized Residuals for Concept-Driven Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2405.12978)] 
+[[Project](https://cusuh.github.io/personalized-residuals/)] 
+
 **MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2404.05674)] 
 [[Project](https://moma-adapter.github.io/)] 
