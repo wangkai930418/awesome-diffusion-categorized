@@ -268,6 +268,11 @@
 [[Project](https://yujun-shi.github.io/projects/dragdiffusion.html)] 
 [[Code](https://github.com/Yujun-Shi/DragDiffusion)]
 
+**InstaDrag: Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos** \
+[[Website](https://arxiv.org/abs/2405.13722)] 
+[[Project](https://instadrag.github.io/)] 
+[[Code](https://github.com/magic-research/InstaDrag?tab=readme-ov-file)]
+
 **GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.07206)] 
 [[Project](https://gooddrag.github.io/)] 
@@ -648,6 +653,10 @@
 **TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2404.11120)] 
 [[Code](https://github.com/SherryXTChen/TiNO-Edit)] 
+
+**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing** \
+[[Website](https://arxiv.org/abs/2405.14785)] 
+[[Code](https://github.com/YangLing0818/EditWorld)] 
 
 **ClickDiffusion: Harnessing LLMs for Interactive Precise Image Editing** \
 [[Website](https://arxiv.org/abs/2404.04376)] 
@@ -1272,6 +1281,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
 [[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
 
+**RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance** \
+[[Website](https://arxiv.org/abs/2405.14677)] 
+[[Code](https://github.com/feifeiobama/RectifID)]
+
 **PuLID: Pure and Lightning ID Customization via Contrastive Alignment** \
 [[Website](https://arxiv.org/abs/2404.16022)] 
 [[Code](https://github.com/ToTheBeginning/PuLID)]
@@ -1440,6 +1453,9 @@
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
+
+**FreeTuner: Any Subject in Any Style with Training-free Diffusion** \
+[[Website](https://arxiv.org/abs/2405.14201)] 
 
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
@@ -1937,6 +1953,9 @@
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
 [[ICML 2024](https://arxiv.org/abs/2405.01008)] 
 
+**Exposure Diffusion: HDR Image Generation by Consistent LDR denoising** \
+[[Website](https://arxiv.org/abs/2405.14304)] 
+
 
 **Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2404.09976)] 
@@ -2221,6 +2240,9 @@
 
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
+
+**Enhancing Image Layout Control with Loss-Guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.14101)] 
 
 **GLoD: Composing Global Contexts and Local Details in Image Generation** \
 [[Website](https://arxiv.org/abs/2404.15447)] 
@@ -3084,6 +3106,10 @@
 [[WACV 2024](https://arxiv.org/abs/2311.09759)]
 [[Code](https://github.com/toyotainfotech/stisr-tcdm)] 
 
+**High Fidelity Scene Text Synthesis** \
+[[Website](https://arxiv.org/abs/2405.14701)]
+[[Code](https://github.com/CodeGoat24/DreamText)] 
+
 **AnyText: Multilingual Visual Text Generation And Editing** \
 [[Website](https://arxiv.org/abs/2311.03054)]
 [[Code](https://github.com/tyxsspa/AnyText)] 
@@ -3334,6 +3360,11 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pia)]
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
+
+**MotionCraft: Physics-based Zero-Shot Video Generation** \
+[[Website](https://arxiv.org/abs/2405.13557)]
+[[Project](https://mezzelfo.github.io/MotionCraft/)] 
+[[Code](https://github.com/mezzelfo/MotionCraft)]
 
 **MotionMaster: Training-free Camera Motion Transfer For Video Generation** \
 [[Website](https://arxiv.org/abs/2404.15789)]
@@ -3918,6 +3949,10 @@
 
 **Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.04233)]
+
+**ReVideo: Remake a Video with Motion and Content Control** \
+[[Website](https://arxiv.org/abs/2405.13865)]
+
 
 
 ## Video Editing 
