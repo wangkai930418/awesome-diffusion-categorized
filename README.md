@@ -761,6 +761,9 @@
 **TexSliders: Diffusion-Based Texture Editing in CLIP Space** \
 [[Website](https://arxiv.org/abs/2405.00672)]
 
+**EmoEdit: Evoking Emotions through Image Manipulation** \
+[[Website](https://arxiv.org/abs/2405.12661)]
+
 **DM-Align: Leveraging the Power of Natural Language Instructions to Make Changes to Images** \
 [[Website](https://arxiv.org/abs/2404.18020)]
 
@@ -1097,6 +1100,11 @@
 [[CVPR 2024](https://arxiv.org/abs/2312.02133)] 
 [[Project](https://style-aligned-gen.github.io/)] 
 [[Code](https://github.com/google/style-aligned/)]
+
+**FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition** \
+[[CVPR 2024](https://arxiv.org/abs/2405.13870v1)] 
+[[Project](https://aim-uofa.github.io/FreeCustom/)] 
+[[Code](https://github.com/aim-uofa/FreeCustom?tab=readme-ov-file)]
 
 **DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
 [[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
@@ -3952,6 +3960,9 @@
 
 **ReVideo: Remake a Video with Motion and Content Control** \
 [[Website](https://arxiv.org/abs/2405.13865)]
+
+**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Poses** \
+[[Website](https://arxiv.org/abs/2405.14582)]
 
 
 
