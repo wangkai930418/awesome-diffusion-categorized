@@ -324,6 +324,8 @@
 **Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
 [[Website](https://arxiv.org/abs/2401.18085)] 
 
+**FastDrag: Manipulate Anything in One Step** \
+[[Website](https://arxiv.org/abs/2405.15769)] 
 
 ## Diffusion Models Inversion
 
@@ -642,6 +644,11 @@
 [[Project](https://dangeng.github.io/motion_guidance/)] 
 [[Code](https://github.com/dangeng/motion_guidance/)] 
 
+**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control** \
+[[Website](https://arxiv.org/abs/2405.12970)] 
+[[Project](https://faceadapter.github.io/face-adapter.github.io/)] 
+[[Code](https://github.com/FaceAdapter/Face-Adapter)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -836,6 +843,10 @@
 **FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.11895)]
 
+**Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion**
+[[Website](https://arxiv.org/abs/2405.15313)]
+
+
 ## Continual Learning
 
 **RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
@@ -927,6 +938,10 @@
 **Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17591)] 
 [[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
+
+**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.15234)] 
+[[Code](https://github.com/OPTML-Group/AdvUnlearn)]
 
 
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
@@ -1553,6 +1568,9 @@
 **OneActor: Consistent Character Generation via Cluster-Conditioned Guidance** \
 [[Website](https://arxiv.org/abs/2404.10267)] 
 
+**StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.15287)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -2073,6 +2091,13 @@
 
 **Towards Better Text-to-Image Generation Alignment via Attention Modulation** \
 [[Website](https://arxiv.org/abs/2404.13899)] 
+
+**Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2405.15330)] 
+
+**SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance** \
+[[Website](https://arxiv.org/abs/2405.15321)] 
+
 
 ## Spatial Control
 
