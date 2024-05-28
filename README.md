@@ -3229,6 +3229,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
 
+**PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution** \
+[[Website](https://arxiv.org/abs/2405.17158)] 
+[[Code](https://github.com/yongliuy/PatchScaler)] 
+
 **DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2404.00661)] 
 [[Code](https://github.com/bichunyang419/DeeDSR)] 
