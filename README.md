@@ -710,6 +710,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
 [[Project](https://emu-edit.metademolab.com/)]
 
+**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection** \
+[[Website](https://arxiv.org/abs/2405.16823)]
+[[Project](https://unifyediting.github.io/)] 
+
 **Editable Image Elements for Controllable Synthesis** \
 [[Website](https://arxiv.org/abs/2404.16029)]
 [[Project](https://jitengmu.github.io/Editable_Image_Elements/)] 
