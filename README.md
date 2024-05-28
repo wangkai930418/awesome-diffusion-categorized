@@ -697,6 +697,10 @@
 [[Website](https://arxiv.org/abs/2401.03433)] 
 [[Code](https://github.com/jingjiqinggong/specp2p)] 
 
+**PromptFix: You Prompt and We Fix the Photo** \
+[[Website](https://arxiv.org/abs/2405.16785)] 
+[[Code](https://github.com/yeates/PromptFix)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -843,7 +847,7 @@
 **FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.11895)]
 
-**Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion**
+**Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion** \
 [[Website](https://arxiv.org/abs/2405.15313)]
 
 
@@ -3866,6 +3870,10 @@
 **TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.16306)]
 [[Project](https://merl.com/research/highlights/TI2V-Zero)] 
+
+**Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation** \
+[[Website](https://arxiv.org/abs/2405.16393)]
+[[Project](https://liujl09.github.io/humanvideo_movingbackground/)] 
 
 **Dance Any Beat: Blending Beats with Visuals in Dance Video Generation** \
 [[Website](https://arxiv.org/abs/2405.09266)]
