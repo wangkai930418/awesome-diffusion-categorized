@@ -980,6 +980,12 @@
 **Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts** \
 [[Website](https://arxiv.org/abs/2402.11846)] 
 
+**R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2405.16341)] 
+
+**Pruning for Robust Concept Erasing in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.16534)] 
+
 <!-- ## Semantic Intrinsic
 
 **Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction** \
@@ -2507,6 +2513,10 @@
 [[Website](https://arxiv.org/abs/2403.04700)] 
 [[Code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)]
 
+**Zero-Shot Video Semantic Segmentation based on Pre-Trained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.16947)] 
+[[Code](https://github.com/QianWangX/VidSeg_diffusion)]
+
 **Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label** \
 [[Website](https://arxiv.org/abs/2402.17555)] 
 [[Code](https://github.com/Zxl19990529/Class-driven-Scribble-Promotion-Network)]
@@ -3229,6 +3239,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
 
+**Does Diffusion Beat GAN in Image Super Resolution?** \
+[[Website](https://arxiv.org/abs/2405.17261)] 
+[[Code](https://github.com/yandex-research/gan_vs_diff_sr)] 
+
 **PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution** \
 [[Website](https://arxiv.org/abs/2405.17158)] 
 [[Code](https://github.com/yongliuy/PatchScaler)] 
@@ -3748,9 +3762,17 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.17005)]
 [[Project](https://trip-i2v.github.io/TRIP/)]
 
+**Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control** \
+[[Website](https://arxiv.org/abs/2405.17414)]
+[[Project](https://collaborativevideodiffusion.github.io/)]
+
+**Controllable Longer Image Animation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.17306)]
+[[Project](https://wangqiang9.github.io/Controllable.github.io/)]
+
 **AniClipart: Clipart Animation with Text-to-Video Priors** \
 [[Website](https://arxiv.org/abs/2404.12347)]
-[[Project](https://aniclipart.github.io/#top)]
+[[Project](https://aniclipart.github.io/)]
 
 **Spectral Motion Alignment for Video Motion Transfer using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.15249)]
@@ -4180,6 +4202,9 @@
 [[Website](https://arxiv.org/abs/2310.10624)]
 [[Project](https://showlab.github.io/DynVideo-E/)]
 
+**I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.16537)]
+[[Project](https://i2vedit.github.io/)] 
 
 **FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing** \
 [[Website](https://arxiv.org/abs/2310.05922)]
