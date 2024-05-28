@@ -3909,6 +3909,11 @@
 [[Website](https://arxiv.org/abs/2405.09266)]
 [[Project](https://dabfusion.github.io/)] 
 
+**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control** \
+[[Website](https://arxiv.org/abs/2405.14582)]
+[[Project](https://ml-gsai.github.io/PoseCrafter-demo/)] 
+
+
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
 
@@ -4023,11 +4028,6 @@
 
 **ReVideo: Remake a Video with Motion and Content Control** \
 [[Website](https://arxiv.org/abs/2405.13865)]
-
-**PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Poses** \
-[[Website](https://arxiv.org/abs/2405.14582)]
-
-
 
 ## Video Editing 
 
