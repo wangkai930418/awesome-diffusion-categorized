@@ -217,6 +217,10 @@
 [[Website](https://arxiv.org/abs/2403.12965)]
 [[Project](https://mengtingchen.github.io/wear-any-way-page/)]
 
+**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2405.18326)]
+[[Project](https://zhengjun-ai.github.io/viton-dit-page/)]
+
 **WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2312.03667)]
 
@@ -1145,6 +1149,11 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance** \
+[[Website](https://arxiv.org/abs/2405.17532)] 
+[[Project](https://classdiffusion.github.io/)] 
+[[Code](https://github.com/Rbrq03/ClassDiffusion)]
+
 **MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2405.05806)] 
 [[Project](https://masterweaver.github.io/)] 
@@ -1380,6 +1389,10 @@
 **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.11627)] 
 [[Code](https://github.com/Young98CN/LoRA_Composer)] 
+
+**AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2405.17965)] 
+[[Code](https://github.com/junjie-shentu/AttenCraft)] 
 
 **Language-Informed Visual Concept Learning** \
 [[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
@@ -1940,6 +1953,10 @@
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
+
+**RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance** \
+[[Website](https://arxiv.org/abs/2405.17661)] 
+[[Project](https://sbyebss.github.io/refdrop/)] 
 
 **UniFL: Improve Stable Diffusion via Unified Feedback Learning** \
 [[Website](https://arxiv.org/abs/2404.05595)] 
@@ -2591,6 +2608,9 @@
 
 **Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation** \
 [[WACV 2024](https://arxiv.org/abs/2312.01850)] 
+
+**Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval** \
+[[Website](https://arxiv.org/abs/2405.18025)] 
 
 **SLiMe: Segment Like Me** \
 [[Website](https://arxiv.org/abs/2309.03179)] 
@@ -3746,6 +3766,10 @@
 [[Website](https://arxiv.org/abs/2404.14381)]
 [[Code](https://github.com/OpenNLPLab/TAVGBench)]
 
+**MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling** \
+[[Website](https://arxiv.org/abs/2405.18003)]
+[[Code](https://github.com/18445864529/MAVIN)]
+
 **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17723)]
 [[Project](https://yzxing87.github.io/Seeing-and-Hearing/)]
@@ -3913,6 +3937,9 @@
 [[Website](https://arxiv.org/abs/2405.14582)]
 [[Project](https://ml-gsai.github.io/PoseCrafter-demo/)] 
 
+**Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2405.17405)]
+[[Project](https://human4dit.github.io/)] 
 
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
@@ -4028,6 +4055,9 @@
 
 **ReVideo: Remake a Video with Motion and Content Control** \
 [[Website](https://arxiv.org/abs/2405.13865)]
+
+**VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation** \
+[[Website](https://arxiv.org/abs/2405.18156)]
 
 ## Video Editing 
 
