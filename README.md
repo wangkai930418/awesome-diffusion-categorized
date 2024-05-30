@@ -3440,6 +3440,11 @@
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
 
+**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback** \
+[[Website](https://arxiv.org/abs/2405.18750)]
+[[Project](https://t2v-turbo.github.io/)] 
+[[Code](https://github.com/Ji4chenLi/t2v-turbo)]
+
 **MotionCraft: Physics-based Zero-Shot Video Generation** \
 [[Website](https://arxiv.org/abs/2405.13557)]
 [[Project](https://mezzelfo.github.io/MotionCraft/)] 
