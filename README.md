@@ -958,6 +958,9 @@
 [[Website](https://arxiv.org/abs/2405.15234)] 
 [[Code](https://github.com/OPTML-Group/AdvUnlearn)]
 
+**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning** \
+[[Website](https://arxiv.org/abs/2405.19237)] 
+[[Code](https://github.com/ruchikachavhan/concept-prune)]
 
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
 [[Website](https://arxiv.org/abs/2305.10120)] 
@@ -3451,6 +3454,16 @@
 [[Project](https://t2v-turbo.github.io/)] 
 [[Code](https://github.com/Ji4chenLi/t2v-turbo)]
 
+**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2405.20222)]
+[[Project](https://myniuuu.github.io/MOFA_Video/)] 
+[[Code](https://github.com/MyNiuuu/MOFA-Video)]
+
+**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.20155)]
+[[Project](https://lukas.uzolas.com/MotionDreamer/)] 
+[[Code](https://github.com/lukasuz/MotionDreamer)]
+
 **MotionCraft: Physics-based Zero-Shot Video Generation** \
 [[Website](https://arxiv.org/abs/2405.13557)]
 [[Project](https://mezzelfo.github.io/MotionCraft/)] 
@@ -4194,6 +4207,12 @@
 [[Project](https://jianhongbai.github.io/UniEdit/)]
 [[Code](https://github.com/JianhongBai/UniEdit)] 
 
+**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion** \
+[[Website](https://arxiv.org/abs/2405.20325)]
+[[Project](https://francis-rings.github.io/MotionFollower/)]
+[[Code](https://github.com/Francis-Rings/MotionFollower)] 
+
+
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
 [[Code](https://github.com/baaivision/vid2vid-zero)]
@@ -4279,6 +4298,8 @@
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
 
+**Streaming Video Diffusion: Online Video Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.19726)]
 
 **Cut-and-Paste: Subject-Driven Video Editing with Attention Control** \
 [[Website](https://arxiv.org/abs/2311.11697)]
