@@ -858,6 +858,9 @@
 **Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion** \
 [[Website](https://arxiv.org/abs/2405.15313)]
 
+**Text Guided Image Editing with Automatic Concept Locating and Forgetting** \
+[[Website](https://arxiv.org/abs/2405.19708)]
+
 
 ## Continual Learning
 
@@ -1597,6 +1600,9 @@
 
 **StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.15287)] 
+
+**Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks** \
+[[Website](https://arxiv.org/abs/2405.19931)] 
 
 <!-- ## Representation Learning
 
