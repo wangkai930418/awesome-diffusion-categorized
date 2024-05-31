@@ -2535,6 +2535,10 @@
 [[Project](https://fcjian.github.io/InstaGen/)] 
 [[Code](https://github.com/fcjian/InstaGen)]
 
+**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow** |
+[[Website](https://arxiv.org/abs/2405.20282)] 
+[[Code](https://github.com/wang-chaoyang/SemFlow)]
+
 **Delving into the Trajectory Long-tail Distribution for Muti-object Tracking** \
 [[Website](https://arxiv.org/abs/2403.04700)] 
 [[Code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)]
@@ -3737,6 +3741,11 @@
 [[Website](https://arxiv.org/abs/2405.04682)]
 [[Project](https://talc-mst2v.github.io/)]
 [[Code](https://github.com/Hritikbansal/talc)] 
+
+**CV-VAE: A Compatible Video VAE for Latent Generative Video Models** \
+[[Website](https://arxiv.org/abs/2405.20279)]
+[[Project](https://ailab-cvc.github.io/cvvae/index.html)]
+[[Code](https://github.com/AILab-CVC/CV-VAE?tab=readme-ov-file)] 
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
