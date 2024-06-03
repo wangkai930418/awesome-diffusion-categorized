@@ -40,7 +40,7 @@
 
 **InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2309.06380)]
-[[Code](https://github.com/gnobitab/InstaFlow?tab=readme-ov-file)] 
+[[Code](https://github.com/gnobitab/InstaFlow)] 
 
 **BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2305.15798v3)]
@@ -85,12 +85,12 @@
 **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** \
 [[Website](https://arxiv.org/abs/2307.06940)]
 [[Project](https://ailab-cvc.github.io/Animate-A-Story/)]
-[[Code](https://github.com/AILab-CVC/Animate-A-Story?tab=readme-ov-file)] 
+[[Code](https://github.com/AILab-CVC/Animate-A-Story)] 
 
 **TaleCrafter: Interactive Story Visualization with Multiple Characters** \
 [[Website](https://arxiv.org/abs/2305.18247)]
 [[Project](https://ailab-cvc.github.io/TaleCrafter/)]
-[[Code](https://github.com/AILab-CVC/TaleCrafter?tab=readme-ov-file)] 
+[[Code](https://github.com/AILab-CVC/TaleCrafter)] 
 
 
 **Make-A-Story: Visual Memory Conditioned Consistent Story Generation** \
@@ -145,12 +145,13 @@
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2306.08276)]
 [[Project](https://tryondiffusion.github.io/)]
-[[Code](https://github.com/huggingface/diffusers/issues/5008)] 
+[[Official Code](https://github.com/tryonlabs/tryondiffusion)] 
+[[Unofficial Code](https://github.com/fashn-AI/tryondiffusion)] 
 
 **StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On** \
 [[CVPR 2024](https://arxiv.org/abs/2312.01725)]
 [[Project](https://rlawjdghek.github.io/StableVITON/)]
-[[Code](https://github.com/rlawjdghek/stableviton?tab=readme-ov-file)] 
+[[Code](https://github.com/rlawjdghek/stableviton)] 
 
 **ViViD: Video Virtual Try-on using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.11794)]
@@ -177,6 +178,20 @@
 [[Project](https://ningshuliang.github.io/2023/Arxiv/index.html)]
 [[Code](https://github.com/ningshuliang/PICTURE)] 
 
+**StableGarment: Garment-Centric Generation via Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2403.10783)]
+[[Project](https://raywang335.github.io/stablegarment.github.io/)] 
+[[Code](https://github.com/logn-2024/StableGarment)]
+
+**Improving Diffusion Models for Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2403.05139)]
+[[Project](https://idm-vton.github.io/)] 
+[[Code](https://github.com/yisol/IDM-VTON)]
+
+**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On** \
+[[CVPR 2024](https://arxiv.org/abs/2404.01089)]
+[[Code](https://github.com/gal4way/tpd)]
+
 **Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**  \
 [[ACM MM 2023](https://arxiv.org/abs/2308.06101)]
 [[Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)] 
@@ -201,10 +216,6 @@
 [[Website](https://arxiv.org/abs/2404.17364)]
 [[Code](https://github.com/hywang2002/MV-VTON)]
 
-**StableGarment: Garment-Centric Generation via Stable Diffusion** \
-[[Website](https://arxiv.org/abs/2403.10783)]
-[[Project](https://raywang335.github.io/stablegarment.github.io/)] 
-
 **Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos** \
 [[Website](https://arxiv.org/abs/2404.17571)]
 [[Project](https://mengtingchen.github.io/tunnel-try-on-page/)]
@@ -221,11 +232,11 @@
 [[Website](https://arxiv.org/abs/2405.18326)]
 [[Project](https://zhengjun-ai.github.io/viton-dit-page/)]
 
+**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
+[[IJCAI 2024](https://arxiv.org/abs/2404.14162)]
+
 **WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2312.03667)]
-
-**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
-[[Website](https://arxiv.org/abs/2404.14162)]
 
 **Product-Level Try-on: Characteristics-preserving Try-on with Realistic Clothes Shading and Wrinkles** \
 [[Website](https://arxiv.org/abs/2401.11239)]
@@ -233,17 +244,11 @@
 **Mobile Fitting Room: On-device Virtual Try-on via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.01877)]
 
-**Improving Diffusion Models for Virtual Try-on** \
-[[Website](https://arxiv.org/abs/2403.05139)]
-
 **Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.07371)]
 
 **ACDG-VTON: Accurate and Contained Diffusion Generation for Virtual Try-On** \
 [[Website](https://arxiv.org/abs/2403.13951)]
-
-**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On** \
-[[Website](https://arxiv.org/abs/2404.01089)]
 
 **ShoeModel: Learning to Wear on the User-specified Shoes via Diffusion Model** \
 [[Website](https://arxiv.org/abs/2404.04833)]
@@ -275,7 +280,7 @@
 **InstaDrag: Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos** \
 [[Website](https://arxiv.org/abs/2405.13722)] 
 [[Project](https://instadrag.github.io/)] 
-[[Code](https://github.com/magic-research/InstaDrag?tab=readme-ov-file)]
+[[Code](https://github.com/magic-research/InstaDrag)]
 
 **GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.07206)] 
@@ -570,7 +575,7 @@
 **SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models** \
 [[CVPR 2024](https://arxiv.org/abs/2312.06739)] 
 [[Project](https://yuzhou914.github.io/SmartEdit/)] 
-[[Code](https://github.com/TencentARC/SmartEdit?tab=readme-ov-file)] 
+[[Code](https://github.com/TencentARC/SmartEdit)] 
 
 **MultiBooth: Towards Generating All Your Concepts in an Image from Text** \
 [[Website](https://arxiv.org/abs/2404.14239)] 
@@ -1089,7 +1094,7 @@
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71844)] 
 [[Website](https://arxiv.org/abs/2305.18292)] 
 [[Project](https://showlab.github.io/Mix-of-Show/)] 
-[[Code](https://github.com/TencentARC/Mix-of-Show?tab=readme-ov-file)]
+[[Code](https://github.com/TencentARC/Mix-of-Show)]
 
 **ITI-GEN: Inclusive Text-to-Image Generation** \
 [[ICCV 2023 Oral](https://arxiv.org/abs/2309.05569)] 
@@ -1143,7 +1148,7 @@
 **FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition** \
 [[CVPR 2024](https://arxiv.org/abs/2405.13870v1)] 
 [[Project](https://aim-uofa.github.io/FreeCustom/)] 
-[[Code](https://github.com/aim-uofa/FreeCustom?tab=readme-ov-file)]
+[[Code](https://github.com/aim-uofa/FreeCustom)]
 
 **DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
 [[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
@@ -1303,7 +1308,7 @@
 **Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.07986)] 
 [[Project](https://jmhb0.github.io/viewneti/)] 
-[[Code](https://github.com/jmhb0/view_neti?tab=readme-ov-file)]
+[[Code](https://github.com/jmhb0/view_neti)]
 
 **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition** \
 [[Website](https://arxiv.org/abs/2402.15504)] 
@@ -1381,7 +1386,7 @@
 
 **Customization Assistant for Text-to-image Generation** \
 [[Website](https://arxiv.org/abs/2312.03045)] 
-[[Code](https://github.com/drboog/profusion?tab=readme-ov-file)] 
+[[Code](https://github.com/drboog/profusion)] 
 
 **Cross Initialization for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.15905)] 
@@ -1666,7 +1671,7 @@
 **ElasticDiffusion: Training-free Arbitrary Size Image Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2311.18822)] 
 [[Project](https://elasticdiffusion.github.io/)] 
-[[Code](https://github.com/moayedhajiali/elasticdiffusion-official?tab=readme-ov-file)]
+[[Code](https://github.com/moayedhajiali/elasticdiffusion-official)]
 [[Demo](https://replicate.com/moayedhajiali/elasticdiffusion)]
 
 **MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models** \
@@ -2288,7 +2293,7 @@
 
 **StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control** \
 [[Website](https://arxiv.org/abs/2403.09055)] 
-[[Code](https://github.com/ironjr/StreamMultiDiffusion?tab=readme-ov-file)]
+[[Code](https://github.com/ironjr/StreamMultiDiffusion)]
 
 **Compositional Text-to-Image Generation with Dense Blob Representations** \
 [[Website](https://arxiv.org/abs/2405.08246)] 
@@ -3170,7 +3175,7 @@
 **UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.04884)]
 [[Project](https://udifftext.github.io/)] 
-[[Code](https://github.com/ZYM-PKU/UDiffText?tab=readme-ov-file)] 
+[[Code](https://github.com/ZYM-PKU/UDiffText)] 
 
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** \
 [[AAAI 2024](https://arxiv.org/abs/2312.12232)]
@@ -3717,7 +3722,7 @@
 **UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control** \
 [[Website](https://arxiv.org/abs/2403.02332)]
 [[Project](https://unified-attention-control.github.io/)]
-[[Code](https://github.com/XuweiyiChen/UniCtrl?tab=readme-ov-file)] 
+[[Code](https://github.com/XuweiyiChen/UniCtrl)] 
 
 **VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.05438)]
@@ -3747,7 +3752,7 @@
 **CV-VAE: A Compatible Video VAE for Latent Generative Video Models** \
 [[Website](https://arxiv.org/abs/2405.20279)]
 [[Project](https://ailab-cvc.github.io/cvvae/index.html)]
-[[Code](https://github.com/AILab-CVC/CV-VAE?tab=readme-ov-file)] 
+[[Code](https://github.com/AILab-CVC/CV-VAE)] 
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
