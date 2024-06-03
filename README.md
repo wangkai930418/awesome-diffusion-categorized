@@ -2022,6 +2022,8 @@
 **Exposure Diffusion: HDR Image Generation by Consistent LDR denoising** \
 [[Website](https://arxiv.org/abs/2405.14304)] 
 
+**Information Theoretic Text-to-Image Alignment** \
+[[Website](https://arxiv.org/abs/2405.20759)] 
 
 **Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2404.09976)] 
