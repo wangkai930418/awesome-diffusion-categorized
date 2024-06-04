@@ -67,6 +67,11 @@
 [[Project](https://consistory-paper.github.io/)] 
 [[Code](https://github.com/kousw/experimental-consistory)]
 
+**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation** \
+[[Website](https://arxiv.org/abs/2406.01388)]
+[[Project](https://howe183.github.io/AutoStudio.io/)]
+[[Code](https://github.com/donahowe/AutoStudio)]
+
 **StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation** \
 [[Website](https://arxiv.org/abs/2405.01434)]
 [[Project](https://storydiffusion.github.io/)]
@@ -329,6 +334,10 @@
 **StableDrag: Stable Dragging for Point-based Image Editing** \
 [[Website](https://arxiv.org/abs/2403.04437)] 
 [[Project](https://stabledrag.github.io/)]
+
+**DiffUHaul: A Training-Free Method for Object Dragging in Images** \
+[[Website](https://arxiv.org/abs/2406.01594)] 
+[[Project](https://omriavrahami.com/diffuhaul/)]
 
 **Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
 [[Website](https://arxiv.org/abs/2401.18085)] 
@@ -719,6 +728,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
 [[Project](https://emu-edit.metademolab.com/)]
 
+**MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2406.00985)]
+[[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
+
 **Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection** \
 [[Website](https://arxiv.org/abs/2405.16823)]
 [[Project](https://unifyediting.github.io/)] 
@@ -866,6 +879,8 @@
 **Text Guided Image Editing with Automatic Concept Locating and Forgetting** \
 [[Website](https://arxiv.org/abs/2405.19708)]
 
+**The Curious Case of End Token: A Zero-Shot Disentangled Image Editing using CLIP** \
+[[Website](https://arxiv.org/abs/2406.00457)]
 
 ## Continual Learning
 
@@ -2638,6 +2653,8 @@
 **ASAM: Boosting Segment Anything Model with Adversarial Tuning** \
 [[Website](https://arxiv.org/abs/2405.00256)] 
 
+**Diffusion Features to Bridge Domain Gap for Semantic Segmentation** \
+[[Website](https://arxiv.org/abs/2406.00777)] 
 
 **MaskDiff: Modeling Mask Distribution with Diffusion Probabilistic Model for Few-Shot Instance Segmentation** \
 [[Website](https://arxiv.org/abs/2303.05105)] 
@@ -3089,6 +3106,9 @@
 **Tuning-Free Image Customization with Image and Text Guidance** \
 [[Website](https://arxiv.org/abs/2403.12658)] 
 
+**VIP: Versatile Image Outpainting Empowered by Multimodal Large Language Model** \
+[[Website](https://arxiv.org/abs/2406.01059)] 
+
 
 ## Layout Generation
 
@@ -3197,6 +3217,10 @@
 [[WACV 2024](https://arxiv.org/abs/2311.09759)]
 [[Code](https://github.com/toyotainfotech/stisr-tcdm)] 
 
+**Deciphering Oracle Bone Language with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2406.00684)]
+[[Code](https://github.com/guanhaisu/OBSD)] 
+
 **High Fidelity Scene Text Synthesis** \
 [[Website](https://arxiv.org/abs/2405.14701)]
 [[Code](https://github.com/CodeGoat24/DreamText)] 
@@ -3219,6 +3243,12 @@
 
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
+
+**SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2406.01062)]
+
+**Improving Text Generation on Images with Synthetic Captions** \
+[[Website](https://arxiv.org/abs/2406.00505)]
 
 **CustomText: Customized Textual Image Generation using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.12531)]
@@ -3464,6 +3494,11 @@
 [[Website](https://arxiv.org/abs/2405.18750)]
 [[Project](https://t2v-turbo.github.io/)] 
 [[Code](https://github.com/Ji4chenLi/t2v-turbo)]
+
+**ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation** \
+[[Website](https://arxiv.org/abs/2406.00908)]
+[[Project](https://ssyang2020.github.io/zerosmooth.github.io/)] 
+[[Code](https://github.com/ssyang2020/ZeroSmooth)]
 
 **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2405.20222)]
@@ -3826,6 +3861,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.17005)]
 [[Project](https://trip-i2v.github.io/TRIP/)]
 
+**UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation** \
+[[Website](https://arxiv.org/abs/2406.01188)]
+[[Project](https://unianimate.github.io/)]
+
 **Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control** \
 [[Website](https://arxiv.org/abs/2405.17414)]
 [[Project](https://collaborativevideodiffusion.github.io/)]
@@ -4099,6 +4138,9 @@
 **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation** \
 [[Website](https://arxiv.org/abs/2405.18156)]
 
+**SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2406.00195)]
+
 ## Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
@@ -4364,3 +4406,6 @@
 
 **GenVideo: One-shot Target-image and Shape Aware Video Editing using T2I Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.12541)]
+
+**Temporally Consistent Object Editing in Videos using Extended Attention** \
+[[Website](https://arxiv.org/abs/2406.00272)]
