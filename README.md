@@ -240,6 +240,9 @@
 **FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
 [[IJCAI 2024](https://arxiv.org/abs/2404.14162)]
 
+**GraVITON: Graph based garment warping with attention guided inversion for Virtual-tryon** \
+[[Website](https://arxiv.org/abs/2406.02184)]
+
 **WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2312.03667)]
 
@@ -2862,6 +2865,10 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
 [[Project]](https://omriavrahami.com/spatext/) 
 
+**Dreamguider: Improved Training free Diffusion-based Conditional Generation** \
+[[Website](https://arxiv.org/abs/2406.02549)] 
+[[Project](https://nithin-gk.github.io/dreamguider.github.io/)] 
+
 **ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback** \
 [[Website](https://arxiv.org/abs/2404.07987)] 
 [[Project](https://liming-ai.github.io/ControlNet_Plus_Plus/)] 
@@ -2919,6 +2926,9 @@
 
 **FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation** \
 [[Website]](https://arxiv.org/abs/2405.04834) 
+
+**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation** \
+[[Website]](https://arxiv.org/abs/2406.02485) 
 
 ## Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
@@ -3865,6 +3875,14 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.17005)]
 [[Project](https://trip-i2v.github.io/TRIP/)]
 
+**CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2406.02509)]
+[[Project](https://ir1d.github.io/CamCo/)]
+
+**I4VGen: Image as Stepping Stone for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2406.02230)]
+[[Project](https://xiefan-guo.github.io/i4vgen/)]
+
 **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation** \
 [[Website](https://arxiv.org/abs/2406.01188)]
 [[Project](https://unianimate.github.io/)]
@@ -4023,6 +4041,10 @@
 **Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2405.17405)]
 [[Project](https://human4dit.github.io/)] 
+
+**Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation** \
+[[Website](https://arxiv.org/abs/2406.01900)]
+[[Project](https://follow-your-emoji.github.io/)] 
 
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
@@ -4413,3 +4435,6 @@
 
 **Temporally Consistent Object Editing in Videos using Extended Attention** \
 [[Website](https://arxiv.org/abs/2406.00272)]
+
+**Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting** \
+[[Website](https://arxiv.org/abs/2406.02541)]
