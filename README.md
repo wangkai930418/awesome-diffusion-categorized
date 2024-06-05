@@ -2393,6 +2393,10 @@
 **ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2404.075644)] 
 
+**The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise** \
+[[Website](https://arxiv.org/abs/2406.01970)] 
+
+
 ## I2I translation
 
 ⭐⭐⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
