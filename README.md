@@ -143,6 +143,9 @@
 **Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.11852)]
 
+**ORACLE: Leveraging Mutual Information for Consistent Character Generation with LoRAs in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2406.02820)]
+
 
 ## Try On
 
@@ -2554,6 +2557,11 @@
 [[Project](https://diffmot.github.io/)] 
 [[Code](https://github.com/Kroery/DiffMOT)]
 
+**Zero-Shot Image Segmentation via Recursive Normalized Cut on Diffusion Features** \
+[[Website](https://arxiv.org/abs/2406.02842)] 
+[[Project](https://diffcut-segmentation.github.io/)] 
+[[Code](https://github.com/PaulCouairon/DiffCut)]
+
 **Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2308.12469)] 
 [[Project](https://sites.google.com/view/diffseg/home)] 
@@ -3915,6 +3923,9 @@
 [[Website](https://arxiv.org/abs/2312.07509)]
 [[Project](https://jinga-lala.github.io/projects/Peekaboo/)]
 
+**Searching Priors Makes Text-to-Video Synthesis Better** \
+[[Website](https://arxiv.org/abs/2406.03215)]
+[[Project](https://hrcheng98.github.io/Search_T2V/)] 
 
 **Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2309.03549)]
