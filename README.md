@@ -1633,6 +1633,9 @@
 **Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks** \
 [[Website](https://arxiv.org/abs/2405.19931)] 
 
+**Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter** \
+[[Website](https://arxiv.org/abs/2406.02881)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
