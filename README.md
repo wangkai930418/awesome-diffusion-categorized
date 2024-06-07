@@ -2241,6 +2241,16 @@
 [[Demo](https://huggingface.co/spaces/longlian/llm-grounded-diffusion)]
 [[Blog](https://bair.berkeley.edu/blog/2023/05/23/lmd/)] 
 
+**StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control** \
+[[CVPR 2024](https://arxiv.org/abs/2403.09055)] 
+[[Code](https://github.com/ironjr/StreamMultiDiffusion)]
+[[Project](https://jaerinlee.com/research/streammultidiffusion)] 
+
+**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis** \
+[[CVPR 2024](https://arxiv.org/abs/2402.05408)] 
+[[Project](https://migcproject.github.io/)] 
+[[Code](https://github.com/limuloo/MIGC)]
+
 **Training-Free Layout Control with Cross-Attention Guidance** \
 [[Website](https://arxiv.org/abs/2304.03373)] 
 [[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
@@ -2282,6 +2292,16 @@
 [[Project](https://genforce.github.io/freecontrol/)] 
 [[Code](https://github.com/genforce/freecontrol)]
 
+**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.05849)] 
+[[Project](https://jiuntian.github.io/interactdiffusion/)] 
+[[Code](https://github.com/jiuntian/interactdiffusion)]
+
+**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following** \
+[[Website](https://arxiv.org/abs/2311.17002)] 
+[[Project](https://ranni-t2i.github.io/Ranni/)] 
+[[Code](https://github.com/ali-vilab/Ranni)]
+
 **InstanceDiffusion: Instance-level Control for Image Generation** \
 [[Website](https://arxiv.org/abs/2402.03290)] 
 [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] 
@@ -2295,17 +2315,14 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.03485)] 
 [[Code](https://github.com/univ-esuty/noisecollage)]
 
-**StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control** \
-[[CVPR 2024](https://arxiv.org/abs/2403.09055)] 
-[[Code](https://github.com/ironjr/StreamMultiDiffusion)]
-
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
 
-**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2402.05408)] 
-[[Code](https://github.com/limuloo/MIGC)]
+
+**Enhancing Object Coherence in Layout-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2311.10522)] 
+[[Code](https://github.com/CodeGoat24/EOCNet)]
 
 **DivCon: Divide and Conquer for Progressive Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2403.06400)] 
@@ -2323,14 +2340,6 @@
 [[Website](https://arxiv.org/abs/2405.08246)] 
 [[Project](https://blobgen-2d.github.io/)] 
 
-**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.05849)] 
-[[Project](https://jiuntian.github.io/interactdiffusion/)] 
-
-**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following** \
-[[Website](https://arxiv.org/abs/2311.17002)] 
-[[Project](https://ranni-t2i.github.io/Ranni/)] 
-
 **Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2311.15773)] 
 [[Project](https://simm-t2i.github.io/SimM/)] 
@@ -2345,14 +2354,14 @@
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
 
+**Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion** \
+[[Website](https://arxiv.org/abs/2404.14768)] 
+
 **Enhancing Image Layout Control with Loss-Guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.14101)] 
 
 **GLoD: Composing Global Contexts and Local Details in Image Generation** \
 [[Website](https://arxiv.org/abs/2404.15447)] 
-
-**Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion** \
-[[Website](https://arxiv.org/abs/2404.14768)] 
 
 **A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis** \
 [[Website](https://arxiv.org/abs/2306.14544)] 
@@ -2378,9 +2387,6 @@
 **Obtaining Favorable Layouts for Multiple Object Generation** \
 [[Website](https://arxiv.org/abs/2405.00791)] 
 
-**Enhancing Object Coherence in Layout-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2311.10522)] 
-
 **LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**\
 [[Website](https://arxiv.org/abs/2311.12342)] 
 
@@ -2400,7 +2406,7 @@
 [[Website](https://arxiv.org/abs/2402.13404)] 
 
 **ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2404.075644)] 
+[[Website](https://arxiv.org/abs/2404.07564)] 
 
 **The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise** \
 [[Website](https://arxiv.org/abs/2406.01970)] 
