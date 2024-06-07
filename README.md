@@ -2417,6 +2417,11 @@
 [[Project](https://sde-image-editing.github.io/)] 
 [[Code](https://github.com/ermongroup/SDEdit)] 
 
+⭐⭐⭐**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** \
+[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)]
+[[Website](https://arxiv.org/abs/2110.02711)]
+[[Code](https://github.com/gwang-kim/DiffusionCLIP)]
+
 **CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/69913)]
 [[Website](https://arxiv.org/abs/2310.13165)]
@@ -2428,11 +2433,6 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.06951)]
 [[Project](https://tianhao-qi.github.io/DEADiff/)]
 [[Code](https://github.com/Tianhao-Qi/DEADiff_code)]
-
-**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** \
-[[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)]
-[[Website](https://arxiv.org/abs/2110.02711)]
-[[Code](https://github.com/gwang-kim/DiffusionCLIP)]
 
 **Diffusion-based Image Translation using Disentangled Style and Content Representation** \
 [[ICLR 2023](https://openreview.net/forum?id=Nayau9fwXU)]
