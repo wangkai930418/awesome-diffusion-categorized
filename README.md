@@ -2449,6 +2449,12 @@
 [[Website](https://arxiv.org/abs/2303.08622)]
 [[Code](https://github.com/YSerin/ZeCon)]
 
+
+**E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation** \
+[[ICML 2024](https://arxiv.org/abs/2401.06127)]
+[[Project](https://yifanfanfanfan.github.io/e2gan/)]
+[[Code](https://github.com/Yifanfanfanfan/Yifanfanfanfan.github.io/tree/main/e2gan)]
+
 **Cross-Image Attention for Zero-Shot Appearance Transfer** \
 [[Website](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)]
@@ -2464,9 +2470,27 @@
 [[Project](https://sliders.baulab.info/)]
 [[Code](https://github.com/rohitgandikota/sliders)]
 
+**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.15636)]
+[[Project](https://freestylefreelunch.github.io/)]
+[[Code](https://github.com/FreeStyleFreeLunch/FreeStyle)] 
+
+**FilterPrompt: Guiding Image Transfer in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.13263)]
+[[Project](https://meaoxixi.github.io/FilterPrompt/)]
+[[Code](https://github.com/Meaoxixi/FilterPrompt)] 
+
+**One-Shot Structure-Aware Stylized Image Synthesis** \
+[[CVPR 2024](https://arxiv.org/abs/2402.17275)]
+[[Code](https://github.com/hansam95/osasis)] 
+
 **BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models** \
 [[CVPR 2023](https://arxiv.org/abs/2205.07680)]
 [[Code](https://github.com/xuekt98/BBDM)]
+
+**Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile** \
+[[AAAI 2024](https://arxiv.org/abs/2403.05093)]
+[[Code](https://github.com/ykykyk112/STIG)] 
 
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
@@ -2488,16 +2512,9 @@
 [[Website](https://arxiv.org/abs/2403.12036)] 
 [[Code](https://github.com/GaParmar/img2img-turbo)] 
 
-**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models** \
-[[Website](https://arxiv.org/abs/2401.15636)]
-[[Project](https://freestylefreelunch.github.io/)]
-
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2308.07863)]
-
-**One-Shot Structure-Aware Stylized Image Synthesis** \
-[[CVPR 2024](https://arxiv.org/abs/2402.17275)]
 
 **ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors** \
 [[ACM MM 2023](https://arxiv.org/abs/2311.05463)]
@@ -2505,17 +2522,8 @@
 **High-Fidelity Diffusion-based Image Editing** \
 [[AAAI 2024](https://arxiv.org/abs/2312.15707)]
 
-**Spectrum Translation for Refinement of Image Generation (STIG) Based on Contrastive Learning and Spectral Filter Profile** \
-[[AAAI 2024](https://arxiv.org/abs/2403.05093)]
-
-**E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation** \
-[[Website](https://arxiv.org/abs/2401.06127)]
-
 **UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators** \
 [[Website](https://arxiv.org/abs/2401.12596)]
-
-**FilterPrompt: Guiding Image Transfer in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2404.13263)]
 
 
 ## Segmentation Detection Tracking
