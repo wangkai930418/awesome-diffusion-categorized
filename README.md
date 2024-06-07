@@ -2405,6 +2405,9 @@
 **The Crystal Ball Hypothesis in diffusion models: Anticipating object positions from initial noise** \
 [[Website](https://arxiv.org/abs/2406.01970)] 
 
+**Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2406.04032)] 
+
 
 ## I2I translation
 
@@ -3514,6 +3517,11 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pia)]
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
+
+**VideoTetris: Towards Compositional Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2406.04277)]
+[[Project](https://videotetris.github.io/)] 
+[[Code](https://github.com/YangLing0818/VideoTetris)]
 
 **T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback** \
 [[Website](https://arxiv.org/abs/2405.18750)]
