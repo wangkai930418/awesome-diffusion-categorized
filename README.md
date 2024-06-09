@@ -3532,6 +3532,11 @@
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
 
+**Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** \
+[[Website](https://arxiv.org/abs/2311.17117)]
+[[Project](https://humanaigc.github.io/animate-anyone/)] 
+[[Code](https://github.com/HumanAIGC/AnimateAnyone)]
+
 **VideoTetris: Towards Compositional Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.04277)]
 [[Project](https://videotetris.github.io/)] 
