@@ -224,6 +224,10 @@
 [[Website](https://arxiv.org/abs/2404.17364)]
 [[Code](https://github.com/hywang2002/MV-VTON)]
 
+**M&M VTO: Multi-Garment Virtual Try-On and Editing** \
+[[CVPR 2024 Highlight](https://arxiv.org/abs/2406.04542)]
+[[Project](https://mmvto.github.io/)]
+
 **Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos** \
 [[Website](https://arxiv.org/abs/2404.17571)]
 [[Project](https://mengtingchen.github.io/tunnel-try-on-page/)]
@@ -896,6 +900,9 @@
 [[Project](https://jblei.site/proj/rgbd-diffusion)] 
 [[Code](https://github.com/Karbo123/RGBD-Diffusion)]
 
+**CLoG: Benchmarking Continual Learning of Image Generation Models** \
+[[Website](https://arxiv.org/abs/2406.04584)] 
+[[Code](https://github.com/linhaowei1/CLoG)]
 
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
 [[Website](https://arxiv.org/abs/2305.10120)] 
@@ -919,6 +926,8 @@
 **Create Your World: Lifelong Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2309.04430)] 
 
+**Online Continual Learning of Video Diffusion Models From a Single Video Stream** \
+[[Website](https://arxiv.org/abs/2406.04814)] 
 
 **Exploring Continual Learning of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.15342)] 
@@ -1442,6 +1451,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
 [[Project](https://corleone-huang.github.io/realcustom/)] 
 
+**AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2406.05000)] 
+[[Project](https://attndreambooth.github.io/)] 
+
 **MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2404.11565)] 
 [[Project](https://snap-research.github.io/mixture-of-attention/)] 
@@ -1759,6 +1772,11 @@
 [[BMVC 2023 Oral](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
+
+**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step** \
+[[Website](https://arxiv.org/abs/2406.04314)] 
+[[Project](https://rockeycoss.github.io/spo.github.io/)] 
+[[Code](https://github.com/RockeyCoss/SPO)]
 
 **Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2403.07860)] 
@@ -2168,6 +2186,9 @@
 
 **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance** \
 [[Website](https://arxiv.org/abs/2405.15321)] 
+
+**Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance** \
+[[Website](https://arxiv.org/abs/2406.04551)] 
 
 
 ## Spatial Control
@@ -3531,6 +3552,16 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pia)]
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
+
+**SF-V: Single Forward Video Generation Model** \
+[[Website](https://arxiv.org/abs/2406.04324)]
+[[Project](https://snap-research.github.io/SF-V/)] 
+[[Code](https://github.com/snap-research/SF-V)]
+
+**CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion** \
+[[Website](https://arxiv.org/abs/2406.05082)]
+[[Project](https://wxrui182.github.io/CoNo.github.io/)] 
+[[Code](https://github.com/wxrui182/CoNo)]
 
 **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** \
 [[Website](https://arxiv.org/abs/2311.17117)]
