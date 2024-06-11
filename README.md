@@ -1649,6 +1649,8 @@
 **Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter** \
 [[Website](https://arxiv.org/abs/2406.02881)] 
 
+**PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction** \
+[[Website](https://arxiv.org/abs/2406.05641)] 
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -1772,6 +1774,11 @@
 [[BMVC 2023 Oral](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
+
+**Margin-aware Preference Optimization for Aligning Diffusion Models without Reference** \
+[[Website](https://arxiv.org/abs/2406.06424)] 
+[[Project](https://mapo-t2i.github.io/)] 
+[[Code](https://github.com/mapo-t2i/mapo)]
 
 **Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step** \
 [[Website](https://arxiv.org/abs/2406.04314)] 
@@ -1912,6 +1919,10 @@
 **InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization** \
 [[CVPR 2024](https://arxiv.org/abs/2404.04650)] 
 [[Code](https://github.com/xiefan-guo/initno)]
+
+**Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization** \
+[[Website](https://arxiv.org/abs/2406.06382)] 
+[[Code](https://github.com/yigu1008/Diffusion-RPO)]
 
 **AID: Attention Interpolation of Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2403.17924)] 
@@ -3372,6 +3383,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
 
+**Binarized Diffusion Model for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2406.05723)] 
+[[Code](https://github.com/zhengchen1999/BI-DiffSR)] 
+
 **Does Diffusion Beat GAN in Image Super Resolution?** \
 [[Website](https://arxiv.org/abs/2405.17261)] 
 [[Code](https://github.com/yandex-research/gan_vs_diff_sr)] 
@@ -4415,6 +4430,10 @@
 [[Website](https://arxiv.org/abs/2301.13173)]
 [[Project](https://text-video-edit.github.io/#)] 
 
+**NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing** \
+[[Website](https://arxiv.org/abs/2406.06523)]
+[[Project](https://koi953215.github.io/NaRCan_page/)]
+
 **Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices** \
 [[Website](https://arxiv.org/abs/2405.12211)]
 [[Project](https://matankleiner.github.io/slicedit/)]
@@ -4515,3 +4534,6 @@
 
 **Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting** \
 [[Website](https://arxiv.org/abs/2406.02541)]
+
+**FRAG: Frequency Adapting Group for Diffusion Video Editing** \
+[[Website](https://arxiv.org/abs/2406.06044)]
