@@ -3553,6 +3553,11 @@
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
 
+**MotionClone: Training-Free Motion Cloning for Controllable Video Generation** \
+[[Website](https://arxiv.org/abs/2406.05338)]
+[[Project](https://bujiazi.github.io/motionclone.github.io/)] 
+[[Code](https://github.com/Bujiazi/MotionClone)]
+
 **SF-V: Single Forward Video Generation Model** \
 [[Website](https://arxiv.org/abs/2406.04324)]
 [[Project](https://snap-research.github.io/SF-V/)] 
