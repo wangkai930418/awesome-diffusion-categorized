@@ -596,6 +596,11 @@
 [[Project](https://yuzhou914.github.io/SmartEdit/)] 
 [[Code](https://github.com/TencentARC/SmartEdit)] 
 
+**Zero-shot Image Editing with Reference Imitation** \
+[[Website](https://arxiv.org/abs/2406.07547)] 
+[[Project](https://xavierchen34.github.io/MimicBrush-Page/)] 
+[[Code](https://github.com/ali-vilab/MimicBrush)] 
+
 **MultiBooth: Towards Generating All Your Concepts in an Image from Text** \
 [[Website](https://arxiv.org/abs/2404.14239)] 
 [[Project](https://multibooth.github.io/)] 
