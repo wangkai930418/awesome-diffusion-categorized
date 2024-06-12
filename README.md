@@ -1195,6 +1195,11 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance** \
+[[Website](https://arxiv.org/abs/2406.07209)] 
+[[Project](https://ms-diffusion.github.io/)] 
+[[Code](https://github.com/MS-Diffusion/MS-Diffusion)]
+
 **ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance** \
 [[Website](https://arxiv.org/abs/2405.17532)] 
 [[Project](https://classdiffusion.github.io/)] 
