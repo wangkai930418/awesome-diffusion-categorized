@@ -2503,6 +2503,11 @@
 [[Project](https://yifanfanfanfan.github.io/e2gan/)]
 [[Code](https://github.com/Yifanfanfanfan/Yifanfanfanfan.github.io/tree/main/e2gan)]
 
+**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2406.07008)]
+[[Project](https://sooyeon-go.github.io/eye_for_an_eye/)] 
+[[Code](https://github.com/sooyeon-go/eye_for_an_eye)]
+
 **Cross-Image Attention for Zero-Shot Appearance Transfer** \
 [[Website](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)]
@@ -2828,6 +2833,11 @@
 [[ICLR 2024](https://arxiv.org/abs/2401.08815)] 
 [[Project](https://yumengli007.github.io/ALDM/)] 
 [[Code](https://github.com/boschresearch/ALDM)]
+
+**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance** \
+[[Website](https://arxiv.org/abs/2406.07540)] 
+[[Project](https://genforce.github.io/ctrl-x/)] 
+[[Code](https://github.com/genforce/ctrl-x)]
 
 **Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model** \
 [[Website](https://arxiv.org/abs/2404.09967)] 
