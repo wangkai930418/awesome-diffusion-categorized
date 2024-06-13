@@ -3335,6 +3335,10 @@
 [[Website](https://arxiv.org/abs/2401.09084)]
 [[Project](https://univg-baidu.github.io/)] 
 
+**FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation** \
+[[Website](https://arxiv.org/abs/2406.08392)]
+[[Project](https://font-studio.github.io/)] 
+
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
 
