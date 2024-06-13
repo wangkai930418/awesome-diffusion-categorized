@@ -1950,6 +1950,10 @@
 [[Website](https://arxiv.org/abs/2302.10893)] 
 [[Code](https://github.com/ml-research/fair-diffusion)]
 
+**Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models** \
+[[Website](https://arxiv.org/abs/2406.07844)] 
+[[Code](https://github.com/ArmanZarei/Mitigating-T2I-Comp-Issues)]
+
 **Detector Guidance for Multi-Object Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2306.02236)] 
 [[Code](https://github.com/luping-liu/Detector-Guidance)]
@@ -3203,6 +3207,9 @@
 **VIP: Versatile Image Outpainting Empowered by Multimodal Large Language Model** \
 [[Website](https://arxiv.org/abs/2406.01059)] 
 
+**FaithFill: Faithful Inpainting for Object Completion Using a Single Reference Image** \
+[[Website](https://arxiv.org/abs/2406.07865)] 
+
 
 ## Layout Generation
 
@@ -3406,6 +3413,10 @@
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
+
+**One-Step Effective Diffusion Network for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2406.08177)] 
+[[Code](https://github.com/cswry/OSEDiff)] 
 
 **Binarized Diffusion Model for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2406.05723)] 
@@ -3991,6 +4002,10 @@
 **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02509)]
 [[Project](https://ir1d.github.io/CamCo/)]
+
+**Hierarchical Patch Diffusion Models for High-Resolution Video Generation** \
+[[Website](https://arxiv.org/abs/2406.07792)]
+[[Project](https://snap-research.github.io/hpdm/)]
 
 **I4VGen: Image as Stepping Stone for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02230)]
