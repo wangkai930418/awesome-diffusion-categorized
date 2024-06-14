@@ -3093,6 +3093,11 @@
 [[Project](https://anywheremultiagent.github.io/)]
 [[Code](https://github.com/Sealical/anywhere-multi-agent)] 
 
+**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2406.09368)] 
+[[Project](https://yigitekin.github.io/CLIPAway/)]
+[[Code](https://github.com/YigitEkin/CLIPAway)] 
+
 **AnyDoor: Zero-shot Object-level Image Customization** \
 [[Website](https://arxiv.org/abs/2307.09481)] 
 [[Project](https://damo-vilab.github.io/AnyDoor-Page/)]
