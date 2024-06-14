@@ -4468,6 +4468,10 @@
 [[Website](https://arxiv.org/abs/2405.04496)]
 [[Code](https://github.com/yiiizuo/Edit-Your-Motion)]
 
+**COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing** \
+[[Website](https://arxiv.org/abs/2406.08850)]
+[[Code](https://github.com/wangjiangshan0725/COVE)]
+
 **Shape-Aware Text-Driven Layered Video Editing** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Shape-Aware_Text-Driven_Layered_Video_Editing_CVPR_2023_paper.html
 )]
