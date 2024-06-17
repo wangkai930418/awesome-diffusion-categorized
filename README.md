@@ -1785,6 +1785,11 @@
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+**Make It Count: Text-to-Image Generation with an Accurate Number of Objects** \
+[[Website](https://arxiv.org/abs/2406.10210)] 
+[[Project](https://make-it-count-paper.github.io//)] 
+[[Code](https://github.com/Litalby1/make-it-count)]
+
 **Margin-aware Preference Optimization for Aligning Diffusion Models without Reference** \
 [[Website](https://arxiv.org/abs/2406.06424)] 
 [[Project](https://mapo-t2i.github.io/)] 
