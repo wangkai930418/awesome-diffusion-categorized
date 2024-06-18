@@ -3362,6 +3362,9 @@
 **SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.01062)]
 
+**AnyTrans: Translate AnyText in the Image with Large Scale Models** \
+[[Website](https://arxiv.org/abs/2406.11432)]
+
 **Improving Text Generation on Images with Synthetic Captions** \
 [[Website](https://arxiv.org/abs/2406.00505)]
 
