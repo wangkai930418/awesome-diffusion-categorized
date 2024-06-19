@@ -3365,6 +3365,9 @@
 **AnyTrans: Translate AnyText in the Image with Large Scale Models** \
 [[Website](https://arxiv.org/abs/2406.11432)]
 
+**ARTIST: Improving the Generation of Text-rich Images by Disentanglement** \
+[[Website](https://arxiv.org/abs/2406.12044)]
+
 **Improving Text Generation on Images with Synthetic Captions** \
 [[Website](https://arxiv.org/abs/2406.00505)]
 
