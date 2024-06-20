@@ -244,6 +244,10 @@
 [[Website](https://arxiv.org/abs/2405.18326)]
 [[Project](https://zhengjun-ai.github.io/viton-dit-page/)]
 
+**AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario** \
+[[Website](https://arxiv.org/abs/2405.18172)]
+[[Project](https://colorful-liyu.github.io/anyfit-page/)]
+
 **FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
 [[IJCAI 2024](https://arxiv.org/abs/2404.14162)]
 
