@@ -1199,6 +1199,11 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2406.12805)] 
+[[Project](https://itsmag11.github.io/AITTI/)] 
+[[Code](https://github.com/itsmag11/AITTI)]
+
 **MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance** \
 [[Website](https://arxiv.org/abs/2406.07209)] 
 [[Project](https://ms-diffusion.github.io/)] 
