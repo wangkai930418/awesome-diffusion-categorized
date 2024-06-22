@@ -1451,6 +1451,9 @@
 [[Website](https://arxiv.org/abs/2312.15905)] 
 [[Code](https://github.com/lyupang/crossinitialization)] 
 
+**Cones 2: Customizable Image Synthesis with Multiple Subjects** \
+[[Website](https://arxiv.org/abs/2305.19327v1)] 
+[[Code](https://github.com/ali-vilab/cones-v2)] 
 
 **High-fidelity Person-centric Subject-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.10329)] 
@@ -1597,10 +1600,6 @@
 
 **ELODIN: Naming Concepts in Embedding Spaces** \
 [[Website](https://arxiv.org/abs/2303.04001)] 
-
-
-**Cones 2: Customizable Image Synthesis with Multiple Subjects** \
-[[Website](https://arxiv.org/abs/2305.19327v1)] 
 
 **Generate Anything Anywhere in Any Scene** \
 [[Website](https://arxiv.org/abs/2306.17154)] 
