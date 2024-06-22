@@ -1374,6 +1374,11 @@
 [[Project](https://kongzhecn.github.io/omg-project/)] 
 [[Code](https://github.com/kongzhecn/OMG/)]
 
+**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2404.05674)] 
+[[Project](https://moma-adapter.github.io/)] 
+[[Code](https://github.com/bytedance/MoMA/tree/main)]
+
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
@@ -1482,9 +1487,6 @@
 [[Website](https://arxiv.org/abs/2405.12978)] 
 [[Project](https://cusuh.github.io/personalized-residuals/)] 
 
-**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation** \
-[[Website](https://arxiv.org/abs/2404.05674)] 
-[[Project](https://moma-adapter.github.io/)] 
 
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
 [[Website](https://arxiv.org/abs/2312.06354)] 
