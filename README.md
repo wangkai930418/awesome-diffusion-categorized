@@ -1365,6 +1365,11 @@
 [[Project](https://danielchyeh.github.io/Gen4Gen/)] 
 [[Code](https://github.com/louisYen/Gen4Gen)]
 
+**StableIdentity: Inserting Anybody into Anywhere at First Sight** \
+[[Website](https://arxiv.org/abs/2401.15975)] 
+[[Project](https://qinghew.github.io/StableIdentity/)] 
+[[Code](https://github.com/qinghew/StableIdentity)]
+
 **DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model** \
 [[Website](https://arxiv.org/abs/2402.17412)] 
 [[Project](https://diffusekrona.github.io/)] 
@@ -1637,9 +1642,6 @@
 
 **Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding** \
 [[Website](https://arxiv.org/abs/2401.15708)] 
-
-**StableIdentity: Inserting Anybody into Anywhere at First Sight** \
-[[Website](https://arxiv.org/abs/2401.15975)] 
 
 **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation** \
 [[Website](https://arxiv.org/abs/2402.00631)] 
