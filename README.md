@@ -2611,6 +2611,12 @@
 [[Project](https://koutilya-pnvr.github.io/LD-ZNet/)]
 [[Code](https://github.com/koutilya-pnvr/LD-ZNet)]
 
+**Text-Image Alignment for Diffusion-Based Perception** \
+[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Kondapaneni_Text-Image_Alignment_for_Diffusion-Based_Perception_CVPR_2024_paper.html)] 
+[[Website](https://arxiv.org/abs/2310.00031)] 
+[[Project](https://www.vision.caltech.edu/tadp/)] 
+[[Code](https://github.com/damaggu/TADP)]
+
 **Stochastic Segmentation with Conditional Categorical Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Zbinden_Stochastic_Segmentation_with_Conditional_Categorical_Diffusion_Models_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.08888)] 
