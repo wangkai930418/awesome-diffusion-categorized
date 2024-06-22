@@ -1369,6 +1369,11 @@
 [[Project](https://diffusekrona.github.io/)] 
 [[Code](https://github.com/IBM/DiffuseKronA)]
 
+**Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2402.12004)] 
+[[Project](https://dco-t2i.github.io/)] 
+[[Code](https://github.com/kyungmnlee/dco)]
+
 **OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.10983)] 
 [[Project](https://kongzhecn.github.io/omg-project/)] 
@@ -1547,10 +1552,6 @@
 **TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion** \
 [[Website](https://arxiv.org/abs/2401.09416)] 
 [[Project](https://texturedreamer.github.io/)] 
-
-**Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2402.12004)] 
-[[Project](https://dco-t2i.github.io/)] 
 
 **Visual Style Prompting with Swapping Self-Attention** \
 [[Website](https://arxiv.org/abs/2402.12974)] 
