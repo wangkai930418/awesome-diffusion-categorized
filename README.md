@@ -1179,6 +1179,11 @@
 [[Project](https://mudi-t2i.github.io/)] 
 [[Code](https://github.com/agwmon/MuDI)]
 
+**CapHuman: Capture Your Moments in Parallel Universes** \
+[[CVPR 2024](https://arxiv.org/abs/2402.00627)] 
+[[Project](https://caphuman.github.io/)] 
+[[Code](https://github.com/VamosC/CapHumanf)]
+
 **Style Aligned Image Generation via Shared Attention** \
 [[CVPR 2024](https://arxiv.org/abs/2312.02133)] 
 [[Project](https://style-aligned-gen.github.io/)] 
@@ -1339,10 +1344,6 @@
 [[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
 [[Code](https://github.com/briannlongzhao/DreamDistribution)]
 
-**CapHuman: Capture Your Moments in Parallel Universes** \
-[[Website](https://arxiv.org/abs/2402.00627)] 
-[[Project](https://caphuman.github.io/)] 
-[[Code](https://github.com/VamosC/CapHumanf)]
 
 **λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space** \
 [[Website](https://arxiv.org/abs/2402.05195)] 
