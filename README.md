@@ -605,6 +605,12 @@
 [[Project](https://xavierchen34.github.io/MimicBrush-Page/)] 
 [[Code](https://github.com/ali-vilab/MimicBrush)] 
 
+**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps** \
+[[Website](https://arxiv.org/abs/2406.14539)] 
+[[Project](https://yandex-research.github.io/invertible-cd/)] 
+[[Code](https://github.com/yandex-research/invertible-cd)] 
+
+
 **MultiBooth: Towards Generating All Your Concepts in an Image from Text** \
 [[Website](https://arxiv.org/abs/2404.14239)] 
 [[Project](https://multibooth.github.io/)] 
