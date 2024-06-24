@@ -232,6 +232,10 @@
 [[Website](https://arxiv.org/abs/2404.17571)]
 [[Project](https://mengtingchen.github.io/tunnel-try-on-page/)]
 
+**Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild** \
+[[Website](https://arxiv.org/abs/2406.15331)]
+[[Project](https://nadavorzech.github.io/max4zero.github.io/)]
+
 **Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
 [[Website](https://arxiv.org/abs/2401.13795)]
 [[Project](https://diffuse2choose.github.io/)]
@@ -2607,6 +2611,8 @@
 **UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators** \
 [[Website](https://arxiv.org/abs/2401.12596)]
 
+**Regularized Distribution Matching Distillation for One-step Unpaired Image-to-Image Translation** \
+[[Website](https://arxiv.org/abs/2406.14762)]
 
 ## Segmentation Detection Tracking
 **odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
