@@ -1959,6 +1959,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2404.04650)] 
 [[Code](https://github.com/xiefan-guo/initno)]
 
+**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
+[[Website](https://arxiv.org/abs/2406.16333)] 
+[[Code](https://github.com/TruthAI-Lab/PCIG)]
+
 **Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization** \
 [[Website](https://arxiv.org/abs/2406.06382)] 
 [[Code](https://github.com/yigu1008/Diffusion-RPO)]
@@ -3975,6 +3979,21 @@
 [[Project](https://ailab-cvc.github.io/cvvae/index.html)]
 [[Code](https://github.com/AILab-CVC/CV-VAE)] 
 
+**MVOC: a training-free multiple video object composition method with diffusion models** \
+[[Website](https://arxiv.org/abs/2406.15829)]
+[[Project](https://sobeymil.github.io/mvoc.com/)]
+[[Code](https://github.com/SobeyMIL/MVOC)] 
+
+**Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2406.15735)]
+[[Project](https://cond-image-leak.github.io/)]
+[[Code](https://github.com/thu-ml/cond-image-leakage/)] 
+
+**Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2406.16863)]
+[[Project](http://haonanqiu.com/projects/FreeTraj.html)]
+[[Code](https://github.com/arthur-qiu/FreeTraj)] 
+
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
 [[Code](https://github.com/YangLing0818/ContextDiff)]
@@ -4258,6 +4277,9 @@
 
 **Make Pixels Dance: High-Dynamic Video Generation** \
 [[Website](https://arxiv.org/abs/2311.10982)]
+
+**Video-Infinity: Distributed Long Video Generation** \
+[[Website](https://arxiv.org/abs/2406.16260)]
 
 **GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning** \
 [[Website](https://arxiv.org/abs/2311.12631)]
