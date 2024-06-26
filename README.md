@@ -911,6 +911,10 @@
 **The Curious Case of End Token: A Zero-Shot Disentangled Image Editing using CLIP** \
 [[Website](https://arxiv.org/abs/2406.00457)]
 
+**LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing** \
+[[Website](https://arxiv.org/abs/2406.17236)]
+
+
 ## Continual Learning
 
 **RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
