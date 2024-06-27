@@ -3699,6 +3699,12 @@
 [[Project](https://ssyang2020.github.io/zerosmooth.github.io/)] 
 [[Code](https://github.com/ssyang2020/ZeroSmooth)]
 
+**MotionBooth: Motion-Aware Customized Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2406.17758)]
+[[Project](https://jianzongwu.github.io/projects/motionbooth/)] 
+[[Code](https://github.com/jianzongwu/MotionBooth)]
+
+
 **MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2405.20222)]
 [[Project](https://myniuuu.github.io/MOFA_Video/)] 
