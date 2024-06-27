@@ -3647,6 +3647,11 @@
 [[Code](https://github.com/williamyang1991/FRESCO)]
 
 
+**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2404.16306)]
+[[Project](https://merl.com/research/highlights/TI2V-Zero)] 
+[[Code](https://github.com/merlresearch/TI2V-Zero)]
+
 **Video Diffusion Models** \
 [[ICLR 2022 workshop](https://openreview.net/forum?id=BBelR2NdDZ5)]
 [[Website](https://arxiv.org/abs/2204.03458)]
@@ -4223,10 +4228,6 @@
 **AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via Subject Alignment** \
 [[Website](https://arxiv.org/abs/2404.04946)]
 [[Project](https://justinxu0.github.io/AnimateZoo/)] 
-
-**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2404.16306)]
-[[Project](https://merl.com/research/highlights/TI2V-Zero)] 
 
 **Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation** \
 [[Website](https://arxiv.org/abs/2405.16393)]
