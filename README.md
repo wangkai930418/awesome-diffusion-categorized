@@ -1689,6 +1689,10 @@
 
 **PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction** \
 [[Website](https://arxiv.org/abs/2406.05641)] 
+
+**AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2406.18893)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -2251,6 +2255,7 @@
 
 **Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance** \
 [[Website](https://arxiv.org/abs/2406.04551)] 
+
 
 
 ## Spatial Control
