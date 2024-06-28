@@ -3031,6 +3031,10 @@
 [[Website](https://arxiv.org/abs/2405.07913)] 
 [[Project](https://compvis.github.io/LoRAdapter/)] 
 
+**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2406.18958)] 
+[[Project](https://any-control.github.io/)] 
+
 **SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.10156)] 
 
