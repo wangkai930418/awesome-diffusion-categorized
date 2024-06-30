@@ -63,7 +63,7 @@
 [[Code](https://github.com/haoningwu3639/StoryGen)] 
 
 ⭐⭐**Training-Free Consistent Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2402.03286)]
+[[SIGGRAPH 2024](https://arxiv.org/abs/2402.03286)]
 [[Project](https://consistory-paper.github.io/)] 
 [[Code](https://github.com/kousw/experimental-consistory)]
 
