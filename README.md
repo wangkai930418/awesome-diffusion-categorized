@@ -2132,6 +2132,9 @@
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
 [[ICML 2024](https://arxiv.org/abs/2405.01008)] 
 
+**Diffusion Model Alignment Using Direct Preference Optimization** \
+[[Website](https://arxiv.org/abs/2311.12908)] 
+
 **Exposure Diffusion: HDR Image Generation by Consistent LDR denoising** \
 [[Website](https://arxiv.org/abs/2405.14304)] 
 
@@ -3011,6 +3014,10 @@
 **ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback** \
 [[Website](https://arxiv.org/abs/2404.07987)] 
 [[Project](https://liming-ai.github.io/ControlNet_Plus_Plus/)] 
+
+**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2406.18958)] 
+[[Project](https://any-control.github.io/)] 
 
 **BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion** \
 [[Website](https://arxiv.org/abs/2404.04544)] 
