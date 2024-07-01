@@ -2339,6 +2339,11 @@
 [[Project](https://migcproject.github.io/)] 
 [[Code](https://github.com/limuloo/MIGC)]
 
+**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language** \
+[[Website](https://arxiv.org/abs/2406.20085)] 
+[[Project](https://yichengchen24.github.io/projects/autocherrypicker/)] 
+[[Code](https://github.com/yichengchen24/ACP)]
+
 **Training-Free Layout Control with Cross-Attention Guidance** \
 [[Website](https://arxiv.org/abs/2304.03373)] 
 [[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
