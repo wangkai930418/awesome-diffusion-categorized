@@ -2076,6 +2076,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
 
+**LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2407.00737)] 
+[[Project](https://xiaobul.github.io/LLM4GEN/)] 
+
 **RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance** \
 [[Website](https://arxiv.org/abs/2405.17661)] 
 [[Project](https://sbyebss.github.io/refdrop/)] 
