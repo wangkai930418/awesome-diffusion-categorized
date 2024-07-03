@@ -118,6 +118,10 @@
 [[Website](https://arxiv.org/abs/2308.11606)]
 [[Code](https://github.com/google/storybench)]
 
+**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models** \
+[[Website](https://arxiv.org/abs/2407.02482)]
+[[Code](https://github.com/muzishen/RCDMs)]
+
 **MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising** \
 [[Website](https://arxiv.org/abs/2312.10899)]
 [[Project](https://magicscroll.github.io/)]
@@ -3409,6 +3413,10 @@
 [[Website](https://arxiv.org/abs/2404.17199)]
 [[Code](https://github.com/kono-dada/xysffusion)] 
 
+**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models** \
+[[Website](https://arxiv.org/abs/2407.02252)]
+[[Code](https://github.com/OPPO-Mente-Lab/GlyphDraw2)] 
+
 **AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2312.02967)]
 [[Project](https://raymond-yeh.com/AmbiGen/)] 
@@ -4403,6 +4411,10 @@
 
 **SNED: Superposition Network Architecture Search for Efficient Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2406.00195)]
+
+**GVDIFF: Grounded Text-to-Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2407.01921)]
+
 
 ## Video Editing 
 
