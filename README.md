@@ -1421,6 +1421,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
 [[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
 
+**Decoupled Textual Embeddings for Customized Image Generation** \
+[[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
+[[Code](https://github.com/PrototypeNx/DETEX)]
+
 **RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance** \
 [[Website](https://arxiv.org/abs/2405.14677)] 
 [[Code](https://github.com/feifeiobama/RectifID)]
