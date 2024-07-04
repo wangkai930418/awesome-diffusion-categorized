@@ -2607,6 +2607,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2403.05093)]
 [[Code](https://github.com/ykykyk112/STIG)] 
 
+**Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation** \
+[[AAAI 2024](https://arxiv.org/abs/2407.03006)]
+[[Code](https://github.com/XiangGao1102/FCDiffusion)] 
+
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
 [[Code](https://github.com/submissionanon18/agg)]
@@ -3087,6 +3091,9 @@
 
 **Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation** \
 [[Website]](https://arxiv.org/abs/2406.02485) 
+
+**Label-free Neural Semantic Image Synthesis** \
+[[Website]](https://arxiv.org/abs/2407.01790) 
 
 ## Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
