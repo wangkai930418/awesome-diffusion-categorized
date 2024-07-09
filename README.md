@@ -1701,6 +1701,9 @@
 **AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2406.18893)] 
 
+**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2407.06187)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -2599,6 +2602,10 @@
 [[Project](https://meaoxixi.github.io/FilterPrompt/)]
 [[Code](https://github.com/Meaoxixi/FilterPrompt)] 
 
+**Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization** \
+[[ECCV 2024](https://arxiv.org/abs/2407.04245)]
+[[Code](https://github.com/Kaminyou/Dense-Normalization)] 
+
 **One-Shot Structure-Aware Stylized Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17275)]
 [[Code](https://github.com/hansam95/osasis)] 
@@ -2717,7 +2724,11 @@
 [[Project](https://fcjian.github.io/InstaGen/)] 
 [[Code](https://github.com/fcjian/InstaGen)]
 
-**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow** |
+**Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model** \
+[[ECCV 2024](https://arxiv.org/abs/2407.05352)] 
+[[Code](https://github.com/nini0919/DiffPNG)]
+
+**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow** \
 [[Website](https://arxiv.org/abs/2405.20282)] 
 [[Code](https://github.com/wang-chaoyang/SemFlow)]
 
@@ -3197,6 +3208,10 @@
 [[Website](https://arxiv.org/abs/2401.10226)]
 [[Project](https://jianzongwu.github.io/projects/rovi/)]
 [[Code](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)]
+
+**FreeCompose: Generic Zero-Shot Image Composition with Diffusion Prior** \
+[[ECCV 2024](https://arxiv.org/abs/2407.04947)] 
+[[Code](https://github.com/aim-uofa/FreeCompose)] 
 
 **360-Degree Panorama Generation from Few Unregistered NFoV Images** \
 [[ACM MM 2023](https://arxiv.org/abs/2308.14686)] 
