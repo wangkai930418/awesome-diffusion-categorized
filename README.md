@@ -4452,6 +4452,9 @@
 **GVDIFF: Grounded Text-to-Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.01921)]
 
+**Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task** \
+[[Website](https://arxiv.org/abs/2407.06617)]
+
 
 ## Video Editing 
 
