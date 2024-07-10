@@ -3409,6 +3409,11 @@
 [[Project](https://wordasimage.github.io/Word-As-Image-Page/)] 
 [[Code](https://github.com/Shiriluz/Word-As-Image)] 
 
+**Dynamic Typography: Bringing Text to Life via Video Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2404.11614)]
+[[Project](https://animate-your-word.github.io/demo/)] 
+[[Code](https://github.com/zliucz/animate-your-word)] 
+
 **UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.04884)]
 [[Project](https://udifftext.github.io/)] 
