@@ -1186,6 +1186,10 @@
 [[Website](https://arxiv.org/abs/2302.04841)] 
 [[Code](https://github.com/yandex-research/DVAR)]
 
+**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction** \
+[[ECCV 2024](https://arxiv.org/abs/2407.07077)] 
+[[Project](https://haoosz.github.io/ConceptExpress/)] 
+[[Code](https://github.com/haoosz/ConceptExpress)]
 
 **Face2Diffusion for Fast and Editable Face Personalization** \
 [[CVPR 2024](https://arxiv.org/abs/2403.05094)] 
@@ -1407,6 +1411,10 @@
 [[Website](https://arxiv.org/abs/2404.05674)] 
 [[Project](https://moma-adapter.github.io/)] 
 [[Code](https://github.com/bytedance/MoMA/tree/main)]
+
+**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning** \
+[[ECCV 2024](https://arxiv.org/abs/2407.06642)] 
+[[Code](https://github.com/wfanyue/DPG-T2I-Personalization)]
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
@@ -3073,6 +3081,9 @@
 **AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.18958)] 
 [[Project](https://any-control.github.io/)] 
+
+**Sketch-Guided Scene Image Generation** \
+[[Website](https://arxiv.org/abs/2407.06469)] 
 
 **SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.10156)] 
