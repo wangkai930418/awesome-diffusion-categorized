@@ -1097,7 +1097,7 @@
 [[Code](https://github.com/adobe-research/custom-diffusion)]
 
 ⭐⭐**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement** \
-[[Website](https://arxiv.org/abs/2407.07197)] 
+[[ECCV 2024](https://arxiv.org/abs/2407.07197)] 
 [[Project](https://moatifbutt.github.io/colorpeel/)]
 [[Code](https://github.com/moatifbutt/color-peel)]
 
