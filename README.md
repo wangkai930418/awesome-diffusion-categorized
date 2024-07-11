@@ -3749,6 +3749,11 @@
 [[Project](https://bujiazi.github.io/motionclone.github.io/)] 
 [[Code](https://github.com/Bujiazi/MotionClone)]
 
+**VEnhancer: Generative Space-Time Enhancement for Video Generation** \
+[[Website](https://arxiv.org/abs/2407.07667)]
+[[Project](https://vchitect.github.io/VEnhancer-project/)] 
+[[Code](https://github.com/Vchitect/VEnhancer)]
+
 **SF-V: Single Forward Video Generation Model** \
 [[Website](https://arxiv.org/abs/2406.04324)]
 [[Project](https://snap-research.github.io/SF-V/)] 
