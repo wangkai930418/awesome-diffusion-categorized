@@ -1524,6 +1524,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
 [[Project](https://corleone-huang.github.io/realcustom/)] 
 
+**InstructBooth: Instruction-following Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2312.03011)] 
+[[Project](https://sites.google.com/view/instructbooth)] 
+
 **AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.05000)] 
 [[Project](https://attndreambooth.github.io/)] 
