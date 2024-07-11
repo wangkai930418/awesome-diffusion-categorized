@@ -1096,6 +1096,11 @@
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion)] 
 [[Code](https://github.com/adobe-research/custom-diffusion)]
 
+⭐⭐**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement** \
+[[Website](https://arxiv.org/abs/2407.07197)] 
+[[Project](https://moatifbutt.github.io/colorpeel/)]
+[[Code](https://github.com/moatifbutt/color-peel)]
+
 ⭐⭐**ReVersion: Diffusion-Based Relation Inversion from Images** \
 [[Website](https://arxiv.org/abs/2303.13495)] 
 [[Project](https://ziqihuangg.github.io/projects/reversion.html)]
