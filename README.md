@@ -2829,6 +2829,9 @@
 **SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17323)] 
 
+**Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers** \
+[[ECCV 2024](https://arxiv.org/abs/2407.08394)] 
+
 **Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation** \
 [[WACV 2024](https://arxiv.org/abs/2312.01850)] 
 
@@ -3752,6 +3755,16 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pia)]
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
+
+**Video Diffusion Alignment via Reward Gradients** \
+[[Website](https://arxiv.org/abs/2407.08737)]
+[[Project](https://vader-vid.github.io/)] 
+[[Code](https://github.com/mihirp1998/VADER)]
+
+**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2407.08701)]
+[[Project](https://live2diff.github.io/)] 
+[[Code](https://github.com/open-mmlab/Live2Diff)]
 
 **MotionClone: Training-Free Motion Cloning for Controllable Video Generation** \
 [[Website](https://arxiv.org/abs/2406.05338)]
