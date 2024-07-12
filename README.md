@@ -3198,6 +3198,11 @@
 [[Website](https://arxiv.org/abs/2304.03322)] 
 [[Code](https://github.com/ucsb-nlp-chang/copaint)]
 
+**Coherent and Multi-modality Image Inpainting via Latent Space Optimization** \
+[[Website](https://arxiv.org/abs/2407.08019)] 
+[[Project](https://pilot-page.github.io/)] 
+[[Code](https://github.com/Lingzhi-Pan/PILOT)]
+
 **Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2304.03246)] 
 [[Project](http://instinpaint.abyildirim.com/)] 
