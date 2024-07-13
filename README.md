@@ -286,6 +286,7 @@
 
 
 ## Drag Edit
+
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=OEL4FJMg1b)] 
 [[Website](https://arxiv.org/abs/2307.02421)] 
@@ -297,6 +298,11 @@
 [[Project](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] 
 [[Code](https://github.com/XingangPan/DragGAN)]
 
+
+**Readout Guidance: Learning Control from Diffusion Features** \
+[[CVPR 2024 Highlight](https://arxiv.org/abs/2312.02150)] 
+[[Project](https://readout-guidance.github.io/)] 
+[[Code](https://github.com/google-research/readout_guidance)]
 
 **FreeDrag: Feature Dragging for Reliable Point-based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2307.04684)] 
@@ -349,13 +355,13 @@
 [[Website](https://arxiv.org/abs/2401.06442)] 
 [[Code](https://github.com/Tony-Lowe/RotationDrag)]
 
+**FastDrag: Manipulate Anything in One Step** \
+[[Website](https://arxiv.org/abs/2405.15769)] 
+[[Project](https://fastdrag-site.github.io/)] 
+
 **DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory** \
 [[Website](https://arxiv.org/abs/2308.08089)] 
 [[Project](https://www.microsoft.com/en-us/research/project/dragnuwa/)] 
-
-**Readout Guidance: Learning Control from Diffusion Features** \
-[[Website](https://arxiv.org/abs/2312.02150)] 
-[[Project](https://readout-guidance.github.io/)] 
 
 **StableDrag: Stable Dragging for Point-based Image Editing** \
 [[Website](https://arxiv.org/abs/2403.04437)] 
@@ -367,9 +373,6 @@
 
 **Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
 [[Website](https://arxiv.org/abs/2401.18085)] 
-
-**FastDrag: Manipulate Anything in One Step** \
-[[Website](https://arxiv.org/abs/2405.15769)] 
 
 ## Diffusion Models Inversion
 
