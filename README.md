@@ -618,6 +618,21 @@
 [[Project](https://yuzhou914.github.io/SmartEdit/)] 
 [[Code](https://github.com/TencentARC/SmartEdit)] 
 
+**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing** \
+[[CVPR 2024](https://arxiv.org/abs/2311.18608)] 
+[[Project](https://hyelinnam.github.io/CDS/)] 
+[[Code](https://github.com/HyelinNAM/CDS)] 
+
+**Text-Driven Image Editing via Learnable Regions** \
+[[CVPR 2024](https://arxiv.org/abs/2311.16432)] 
+[[Project](https://yuanze-lin.me/LearnableRegions_page/)] 
+[[Code](https://github.com/yuanze-lin/Learnable_Regions)] 
+
+**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
+[[ICLR 2024](https://arxiv.org/abs/2401.18085)] 
+[[Project](https://dangeng.github.io/motion_guidance/)] 
+[[Code](https://github.com/dangeng/motion_guidance/)] 
+
 **Zero-shot Image Editing with Reference Imitation** \
 [[Website](https://arxiv.org/abs/2406.07547)] 
 [[Project](https://xavierchen34.github.io/MimicBrush-Page/)] 
@@ -659,16 +674,6 @@
 [[Project](https://qianwangx.github.io/InstructEdit/)] 
 [[Code](https://github.com/QianWangX/InstructEdit)] 
 
-**Text-Driven Image Editing via Learnable Regions** \
-[[Website](https://arxiv.org/abs/2311.16432)] 
-[[Project](https://yuanze-lin.me/LearnableRegions_page/)] 
-[[Code](https://github.com/yuanze-lin/Learnable_Regions)] 
-
-**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing** \
-[[Website](https://arxiv.org/abs/2311.18608)] 
-[[Project](https://hyelinnam.github.io/CDS/)] 
-[[Code](https://github.com/HyelinNAM/CDS)] 
-
 **MDP: A Generalized Framework for Text-Guided Image Editing by Manipulating the Diffusion Path** \
 [[Website](https://arxiv.org/abs/2303.16765)] 
 [[Project](https://qianwangx.github.io/MDP-Diffusion/)] 
@@ -695,15 +700,15 @@
 [[Project](https://mag-edit.github.io/)] 
 [[Code](https://github.com/HelenMao/MAG-Edit)] 
 
+**LIME: Localized Image Editing via Attention Regularization in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.09256)]
+[[Project](https://enis.dev/LIME/)] 
+[[Code](https://github.com/enisimsar/LIME)] 
+
 **MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond** \
 [[Website](https://arxiv.org/abs/2401.03221)] 
 [[Project](https://mirrordiffusion.github.io/)] 
 [[Code](https://github.com/MirrorDiffusion/MirrorDiffusion)] 
-
-**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
-[[Website](https://arxiv.org/abs/2401.18085)] 
-[[Project](https://dangeng.github.io/motion_guidance/)] 
-[[Code](https://github.com/dangeng/motion_guidance/)] 
 
 **Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control** \
 [[Website](https://arxiv.org/abs/2405.12970)] 
@@ -721,6 +726,14 @@
 **TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2404.11120)] 
 [[Code](https://github.com/SherryXTChen/TiNO-Edit)] 
+
+**ZONE: Zero-Shot Instruction-Guided Local Editing** \
+[[CVPR 2024](https://arxiv.org/abs/2312.16794)]
+[[Code](https://github.com/lsl001006/ZONE)] 
+
+**Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation** \
+[[CVPR 2024](https://arxiv.org/abs/2312.10113)] 
+[[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
 
 **EditWorld: Simulating World Dynamics for Instruction-Following Image Editing** \
 [[Website](https://arxiv.org/abs/2405.14785)] 
@@ -746,10 +759,6 @@
 [[Website](https://arxiv.org/abs/2312.08019)] 
 [[Code](https://github.com/anonymouspony/adap-edit)] 
 
-**Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation** \
-[[Website](https://arxiv.org/abs/2312.10113)] 
-[[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
-
 **Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance** \
 [[Website](https://arxiv.org/abs/2401.02126)] 
 [[Code](https://github.com/kihensarn/ti-guided-edit)] 
@@ -771,6 +780,14 @@
 [[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
 [[Project](https://emu-edit.metademolab.com/)]
 
+**ByteEdit: Boost, Comply and Accelerate Generative Image Editing** \
+[[ECCV 2024](https://arxiv.org/abs/2404.04860)] 
+[[Project](https://byte-edit.github.io/)]
+
+**Watch Your Steps: Local Image and Scene Editing by Text Instructions** \
+[[ECCV 2024](https://arxiv.org/abs/2308.08947)]
+[[Project](https://ashmrz.github.io/WatchYourSteps/)] 
+
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
 [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
@@ -783,13 +800,6 @@
 [[Website](https://arxiv.org/abs/2404.16029)]
 [[Project](https://jitengmu.github.io/Editable_Image_Elements/)] 
 
-**LIME: Localized Image Editing via Attention Regularization in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.09256)]
-[[Project](https://enis.dev/LIME/)] 
-
-**Watch Your Steps: Local Image and Scene Editing by Text Instructions** \
-[[Website](https://arxiv.org/abs/2308.08947)]
-[[Project](https://ashmrz.github.io/WatchYourSteps/)] 
 
 **Delta Denoising Score** \
 [[Website](https://arxiv.org/abs/2304.07090)] 
@@ -798,10 +808,6 @@
 **ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation** \
 [[Website](https://arxiv.org/abs/2305.04651)] 
 [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
-
-**ByteEdit: Boost, Comply and Accelerate Generative Image Editing** \
-[[Website](https://arxiv.org/abs/2404.04860)] 
-[[Project](https://byte-edit.github.io/)]
 
 **GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.19645)]
@@ -835,20 +841,20 @@
 **Face Aging via Diffusion-based Editing**\
 [[BMVC 2023](https://arxiv.org/abs/2309.11321)]
 
-**Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
-[[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
+**FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
+[[AAAI 2024](https://arxiv.org/abs/2305.17423)]
 
 **TexSliders: Diffusion-Based Texture Editing in CLIP Space** \
-[[Website](https://arxiv.org/abs/2405.00672)]
+[[SIGGRAPH 2024](https://arxiv.org/abs/2405.00672)]
+
+**Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
+[[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
 
 **EmoEdit: Evoking Emotions through Image Manipulation** \
 [[Website](https://arxiv.org/abs/2405.12661)]
 
 **DM-Align: Leveraging the Power of Natural Language Instructions to Make Changes to Images** \
 [[Website](https://arxiv.org/abs/2404.18020)]
-
-**FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
-[[Website](https://arxiv.org/abs/2305.17423)]
 
 **LayerDiffusion: Layered Controlled Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.18676)]
@@ -873,9 +879,6 @@
 
 **The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing** \
 [[Website](https://arxiv.org/abs/2311.01410)]
-
-**ZONE: Zero-Shot Instruction-Guided Local Editing** \
-[[Website](https://arxiv.org/abs/2312.16794)]
 
 **Image Translation as Diffusion Visual Programmers** \
 [[Website](https://arxiv.org/abs/2312.16794)]
