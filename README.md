@@ -421,10 +421,21 @@
 [[Project](https://sled-group.github.io/InfEdit/index.html)] 
 [[Code](https://github.com/sled-group/InfEdit)] 
 
+**LEDITS++: Limitless Image Editing using Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2311.16711)]
+[[Project](https://leditsplusplus-project.static.hf.space/index.html)] 
+[[Code](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/ledits_pp)] 
+
 **Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
 [[ICLR 2024](https://openreview.net/forum?id=mhgm0IXtHw)] 
 [[Website](https://arxiv.org/abs/2402.04625)] 
 [[Code](https://github.com/hansam95/nmg)] 
+
+
+**ReNoise: Real Image Inversion Through Iterative Noising** \
+[[ECCV 2024](https://arxiv.org/abs/2403.14602)] 
+[[Project](https://garibida.github.io/ReNoise-Inversion/)] 
+[[Code](https://github.com/garibida/ReNoise-Inversion)] 
 
 **IterInv: Iterative Inversion for Pixel-Level T2I Models** \
 [[NeurIPS-W 2023](https://neurips.cc/virtual/2023/74859)] 
@@ -438,14 +449,17 @@
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
 
-**ReNoise: Real Image Inversion Through Iterative Noising** \
-[[Website](https://arxiv.org/abs/2403.14602)] 
-[[Project](https://garibida.github.io/ReNoise-Inversion/)] 
-[[Code](https://github.com/garibida/ReNoise-Inversion)] 
+**Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2403.11105)] 
+[[Code](https://github.com/leeruibin/SPDInv)] 
 
 **LocInv: Localization-aware Inversion for Text-Guided Image Editing** \
 [[CVPR 2024 AI4CC workshop](https://arxiv.org/abs/2405.01496)] 
 [[Code](https://github.com/wangkai930418/DPL)] 
+
+**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
+[[IJCAI 2024](https://arxiv.org/abs/2305.16965)] 
+[[Code](https://github.com/gongyeliu/ssd)] 
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
 [[Website](https://arxiv.org/abs/2303.15649)] 
@@ -455,10 +469,6 @@
 [[Website](https://arxiv.org/abs/2401.02847)] 
 [[Code](https://github.com/xiaorongjun000/Self-Rectification)] 
 
-**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
-[[Website](https://arxiv.org/abs/2305.16965)] 
-[[Code](https://github.com/gongyeliu/ssd)] 
-
 **Exact Diffusion Inversion via Bi-directional Integration Approximation** \
 [[Website](https://arxiv.org/abs/2307.10829)] 
 [[Code](https://github.com/guoqiang-zhang-x/BDIA)] 
@@ -467,10 +477,6 @@
 **Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing** \
 [[Website](https://arxiv.org/abs/2403.09468)] 
 [[Code](https://github.com/furiosa-ai/eta-inversion)] 
-
-**Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2403.11105)] 
-[[Code](https://github.com/leeruibin/SPDInv)] 
 
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
@@ -508,9 +514,6 @@
 
 **LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
 [[Website](https://arxiv.org/abs/2307.00522)]
-
-**LEDITS++: Limitless Image Editing using Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2311.16711)]
 
 
 ## Text Guided Image Editing
