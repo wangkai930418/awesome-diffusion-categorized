@@ -67,6 +67,11 @@
 [[Project](https://consistory-paper.github.io/)] 
 [[Code](https://github.com/kousw/experimental-consistory)]
 
+**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
+[[SIGGRAPH 2024](https://arxiv.org/abs/2311.10093)] 
+[[Project](https://omriavrahami.com/the-chosen-one/)] 
+[[Code](https://github.com/ZichengDuan/TheChosenOne)]
+
 **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation** \
 [[Website](https://arxiv.org/abs/2406.01388)]
 [[Project](https://howe183.github.io/AutoStudio.io/)]
@@ -82,11 +87,6 @@
 [[Project](https://storygpt-v.s3.amazonaws.com/index.html)]
 [[Code](https://github.com/xiaoqian-shen/StoryGPT-V)] 
 
-**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.10093)] 
-[[Project](https://omriavrahami.com/the-chosen-one/)] 
-[[Code](https://github.com/ZichengDuan/TheChosenOne)]
-
 **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** \
 [[Website](https://arxiv.org/abs/2307.06940)]
 [[Project](https://ailab-cvc.github.io/Animate-A-Story/)]
@@ -97,6 +97,10 @@
 [[Project](https://ailab-cvc.github.io/TaleCrafter/)]
 [[Code](https://github.com/AILab-CVC/TaleCrafter)] 
 
+
+**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
+[[ECCV 2024](https://arxiv.org/abs/2404.05979)]
+[[Code](https://github.com/tobran/StoryImager)]
 
 **Make-A-Story: Visual Memory Conditioned Consistent Story Generation** \
 [[CVPR 2023](https://arxiv.org/abs/2211.13319)]
@@ -109,10 +113,6 @@
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.10950)]
 [[Code](https://github.com/xichenpan/ARLDM)]
-
-**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
-[[Website](https://arxiv.org/abs/2404.05979)]
-[[Code](https://github.com/tobran/StoryImager)]
 
 **Masked Generative Story Transformer with Character Guidance and Caption Augmentation** \
 [[Website](https://arxiv.org/abs/2403.08502)]
