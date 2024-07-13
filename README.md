@@ -957,7 +957,7 @@
 [[Code](https://github.com/KerryDRX/ESCORT)]
 
 **Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
-[[Website](https://arxiv.org/abs/2304.06027)] 
+[[TMLR](https://arxiv.org/abs/2304.06027)] 
 [[Project](https://jamessealesmith.github.io/continual-diffusion/)]
 
 **Class-Incremental Learning using Diffusion Model for Distillation and Replay** \
