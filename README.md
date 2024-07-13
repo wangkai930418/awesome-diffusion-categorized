@@ -102,6 +102,10 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.13319)]
 [[Code](https://github.com/ubc-vision/Make-A-Story)]
 
+**SEED-Story: Multimodal Long Story Generation with Large Language Model** \
+[[Website](https://arxiv.org/abs/2407.08683)]
+[[Code](https://github.com/TencentARC/SEED-Story)]
+
 **Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.10950)]
 [[Code](https://github.com/xichenpan/ARLDM)]
