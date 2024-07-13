@@ -1239,10 +1239,30 @@
 [[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
 [[Code](https://github.com/KU-CVLAB/DreamMatcher)]
 
+**Material Palette: Extraction of Materials from a Single Image** \
+[[CVPR 2024](https://arxiv.org/abs/2311.17060)] 
+[[Project](https://astra-vision.github.io/MaterialPalette/)] 
+[[Code](https://github.com/astra-vision/MaterialPalette)]
+
+**Learning Continuous 3D Words for Text-to-Image Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2402.08654)] 
+[[Project](https://ttchengab.github.io/continuous_3d_words/)] 
+[[Code](https://github.com/ttchengab/continuous_3d_words_code/)]
+
 **ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2306.04695)] 
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
+
+**The Hidden Language of Diffusion Models** \
+[[ICLR 2024](https://arxiv.org/abs/2306.00966)] 
+[[Project](https://hila-chefer.github.io/Conceptor/)] 
+[[Code](https://github.com/hila-chefer/Conceptor)]
+
+**ZeST: Zero-Shot Material Transfer from a Single Image** \
+[[ECCV 2024](https://arxiv.org/abs/2404.06425)] 
+[[Project](https://ttchengab.github.io/zest/)] 
+[[Code](https://github.com/ttchengab/zest_code)]
 
 **AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.12805)] 
@@ -1294,16 +1314,6 @@
 [[Project](https://ldynx.github.io/harmony-zero-t2i/)] 
 [[Code](https://github.com/ldynx/harmony-zero-t2i)]
 
-**ZeST: Zero-Shot Material Transfer from a Single Image** \
-[[Website](https://arxiv.org/abs/2404.06425)] 
-[[Project](https://ttchengab.github.io/zest/)] 
-[[Code](https://github.com/ttchengab/zest_code)]
-
-**Material Palette: Extraction of Materials from a Single Image** \
-[[Website](https://arxiv.org/abs/2311.17060)] 
-[[Project](https://astra-vision.github.io/MaterialPalette/)] 
-[[Code](https://github.com/astra-vision/MaterialPalette)]
-
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
 [[Project](https://styledrop.github.io/)] 
@@ -1340,11 +1350,6 @@
 [[Website](https://arxiv.org/abs/2211.11337)] 
 [[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
 [[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
-
-**The Hidden Language of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2306.00966)] 
-[[Project](https://hila-chefer.github.io/Conceptor/)] 
-[[Code](https://github.com/hila-chefer/Conceptor)]
 
 **SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing** \
 [[Website](https://arxiv.org/abs/2310.08094)] 
@@ -1390,11 +1395,6 @@
 [[Project](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] 
 [[Code](https://github.com/eclipse-t2i/lambda-eclipse-inference)]
 
-**Learning Continuous 3D Words for Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2402.08654)] 
-[[Project](https://ttchengab.github.io/continuous_3d_words/)] 
-[[Code](https://github.com/ttchengab/continuous_3d_words_code/)]
-
 **Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.07986)] 
 [[Project](https://jmhb0.github.io/viewneti/)] 
@@ -1433,6 +1433,10 @@
 **Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning** \
 [[ECCV 2024](https://arxiv.org/abs/2407.06642)] 
 [[Code](https://github.com/wfanyue/DPG-T2I-Personalization)]
+
+**High-fidelity Person-centric Subject-to-Image Synthesis** \
+[[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
+[[Code](https://github.com/codegoat24/face-diffuser)] 
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
@@ -1509,10 +1513,6 @@
 [[Website](https://arxiv.org/abs/2305.19327v1)] 
 [[Code](https://github.com/ali-vilab/cones-v2)] 
 
-**High-fidelity Person-centric Subject-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2311.10329)] 
-[[Code](https://github.com/codegoat24/face-diffuser)] 
-
 **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.11627)] 
 [[Code](https://github.com/Young98CN/LoRA_Composer)] 
@@ -1537,6 +1537,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
 [[Project](https://corleone-huang.github.io/realcustom/)] 
 
+**Personalized Residuals for Concept-Driven Text-to-Image Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2405.12978)] 
+[[Project](https://cusuh.github.io/personalized-residuals/)] 
+
 **InstructBooth: Instruction-following Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.03011)] 
 [[Project](https://sites.google.com/view/instructbooth)] 
@@ -1548,10 +1552,6 @@
 **MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2404.11565)] 
 [[Project](https://snap-research.github.io/mixture-of-attention/)] 
-
-**Personalized Residuals for Concept-Driven Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2405.12978)] 
-[[Project](https://cusuh.github.io/personalized-residuals/)] 
 
 
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
@@ -1611,7 +1611,7 @@
 [[Project](https://prompt-aligned.github.io/)] 
 
 **TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion** \
-[[Website](https://arxiv.org/abs/2401.09416)] 
+[[CVPR 2024](https://arxiv.org/abs/2401.09416)] 
 [[Project](https://texturedreamer.github.io/)] 
 
 **Visual Style Prompting with Swapping Self-Attention** \
@@ -1628,6 +1628,9 @@
 
 **Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models** \
 [[CVPR 2024](https://arxiv.org/abs/2404.03913)] 
+
+**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2407.06187)] 
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
@@ -1730,9 +1733,6 @@
 
 **AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2406.18893)] 
-
-**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2407.06187)] 
 
 <!-- ## Representation Learning
 
