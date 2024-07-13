@@ -422,7 +422,7 @@
 [[Code](https://github.com/sled-group/InfEdit)] 
 
 **LEDITS++: Limitless Image Editing using Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2311.16711)]
+[[CVPR 2024](https://arxiv.org/abs/2311.16711)]
 [[Project](https://leditsplusplus-project.static.hf.space/index.html)] 
 [[Code](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/ledits_pp)] 
 
