@@ -5,6 +5,7 @@
 ## Contents
 
 <!-- - [Accelerate](#accelerate) -->
+- [Image Restoration](#image-restoration)
 - [Colorization](#colorization)
 - [Face Restoration](#face-restoration)
 - [Storytelling](#storytelling)
@@ -55,6 +56,161 @@
 
 **Accelerating Image Generation with Sub-path Linear Approximation Model** \
 [[Website](https://arxiv.org/abs/2404.13903)] -->
+
+## Image Restoration
+
+**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model** \
+[[ICLR 2023 oral](https://arxiv.org/abs/2212.00490)]
+[[Project](https://wyhuai.github.io/ddnm.io/)]
+[[Code](https://github.com/wyhuai/DDNM)]
+
+**Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild** \
+[[CVPR 2024](https://arxiv.org/abs/2401.13627)]
+[[Project](https://supir.xpixel.group/)]
+[[Code](https://github.com/Fanghua-Yu/SUPIR)]
+
+**Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model** \
+[[CVPR 2024](https://arxiv.org/abs/2403.11157)]
+[[Project](https://isee-laboratory.github.io/DiffUIR/)]
+[[Code](https://github.com/iSEE-Laboratory/DiffUIR)]
+
+**Zero-Reference Low-Light Enhancement via Physical Quadruple Priors** \
+[[CVPR 2024](https://arxiv.org/abs/2403.12933)]
+[[Project](https://daooshee.github.io/QuadPrior-Website/)]
+[[Code](https://github.com/daooshee/QuadPrior/)]
+
+**Image Restoration with Mean-Reverting Stochastic Differential Equations** \
+[[ICML 2023](https://arxiv.org/abs/2301.11699)]
+[[Project](https://algolzw.github.io/ir-sde/index.html)]
+[[Code](https://github.com/Algolzw/image-restoration-sde)]
+
+**Denoising Diffusion Models for Plug-and-Play Image Restoration** \
+[[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2305.08995)]
+[[Project](https://yuanzhi-zhu.github.io/DiffPIR/)]
+[[Code](https://github.com/yuanzhi-zhu/DiffPIR)]
+
+**Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing** \
+[[Website](https://arxiv.org/abs/2407.01521)]
+[[Project](https://daps-inverse-problem.github.io/)]
+[[Code](https://github.com/zhangbingliang2019/DAPS)]
+
+**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion** \
+[[Website](https://arxiv.org/abs/2310.10123)]
+[[Project](https://jiangyitong.github.io/AutoDIR_webpage/)]
+[[Code](https://github.com/jiangyitong/AutoDIR)]
+
+**FlowIE: Efficient Image Enhancement via Rectified Flow** \
+[[CVPR 2024 oral](https://arxiv.org/abs/2406.00508)]
+[[Code](https://github.com/EternalEvan/FlowIE)]
+
+**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
+[[NeurIPS 2023 (Spotlight)](https://arxiv.org/abs/2307.12348)]
+[[Code](https://github.com/zsyOAOA/ResShift)]
+
+**GibbsDDRM: A Partially Collapsed Gibbs Sampler for Solving Blind Inverse Problems with Denoising Diffusion Restoration** \
+[[ICML 2023 oral](https://arxiv.org/abs/2301.12686)]
+[[Code](https://github.com/sony/gibbsddrm)]
+
+**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance** \
+[[CVPR 2024](https://arxiv.org/abs/2312.16519)]
+[[Code](https://github.com/tirer-lab/DDPG)]
+
+**DiffIR: Efficient Diffusion Model for Image Restoration** \
+[[ICCV 2023](https://arxiv.org/abs/2303.09472)]
+[[Code](https://github.com/Zj-BinXia/DiffIR)]
+
+**Low-Light Image Enhancement with Wavelet-based Diffusion Models** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2306.00306)]
+[[Code](https://github.com/JianghaiSCU/Diffusion-Low-Light)]
+
+**Residual Denoising Diffusion Models**
+[[CVPR 2024](https://arxiv.org/abs/2308.13712)]
+[[Code](https://github.com/nachifur/RDDM)]
+
+
+**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
+[[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
+[[Code](https://github.com/Algolzw/image-restoration-sde)]
+
+**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement** \
+[[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
+[[Code](https://github.com/shermanlian/spatial-entropy-loss)]
+
+**Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration** \
+[[Website](https://arxiv.org/abs/2308.08730)]
+[[Code](https://github.com/wlydlut/C2F-DFT)]
+
+**Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling** \
+[[Website](https://arxiv.org/abs/2307.03992)]
+[[Code](https://github.com/Li-Tong-621/DMID)]
+
+**Solving Linear Inverse Problems Provably via Posterior Sampling with Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2307.00619)]
+[[Code](https://github.com/liturout/psld)]
+
+**Sagiri: Low Dynamic Range Image Enhancement with Generative Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2406.09389)]
+[[Code](https://github.com/ztMotaLee/Sagiri)]
+
+**Frequency Compensated Diffusion Model for Real-scene Dehazing** \
+[[Website](https://arxiv.org/abs/2308.10510)]
+[[Code](https://github.com/W-Jilly/frequency-compensated-diffusion-model-pytorch)]
+
+**Efficient Image Deblurring Networks based on Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.05907)]
+[[Code](https://github.com/bnm6900030/swintormer)]
+
+**Blind Image Restoration via Fast Diffusion Inversion** \
+[[Website](https://arxiv.org/abs/2405.19572)]
+[[Code](https://github.com/hamadichihaoui/BIRD)]
+
+**DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.16749)]
+[[Code](https://github.com/sun-umn/DMPlug)]
+
+**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
+[[Website](https://arxiv.org/abs/2305.16965)]
+[[Code](https://github.com/GongyeLiu/SSD)]
+
+**Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration** \
+[[Website](https://arxiv.org/abs/2406.18516)]
+[[Code](https://github.com/KangLiao929/Noise-DA/)]
+
+**Unlimited-Size Diffusion Restoration** \
+[[Website](https://arxiv.org/abs/2303.00354)]
+[[Code](https://github.com/wyhuai/DDNM/tree/main/hq_demo)]
+
+**VmambaIR: Visual State Space Model for Image Restoration** \
+[[Website](https://arxiv.org/abs/2403.11423)]
+[[Code](https://github.com/AlphacatPlus/VmambaIR)]
+
+**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2406.19030)]
+[[Code](https://github.com/JosephTiTan/DiffLoss)]
+
+**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
+[[ICCV 2023](https://arxiv.org/abs/2308.13164)]
+
+**Multiscale Structure Guided Diffusion for Image Deblurring** \
+[[ICCV 2023](https://arxiv.org/abs/2212.01789)]
+
+**Boosting Image Restoration via Priors from Pre-trained Models** \
+[[CVPR 2024](https://arxiv.org/abs/2403.06793)]
+
+**Bayesian Conditioned Diffusion Models for Inverse Problem** 
+[[Website](https://arxiv.org/abs/2406.09768)]
+
+**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**
+[[Website](https://arxiv.org/abs/2312.12826)]
+
+**Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration** \
+[[Website](https://arxiv.org/abs/2312.02918)]
+
+**Tell Me What You See: Text-Guided Real-World Image Denoising**\
+[[Website](https://arxiv.org/abs/2312.10191)]
+
+**Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement**
+[[Website](https://arxiv.org/abs/2403.02879)]
 
 ## Colorization
 
