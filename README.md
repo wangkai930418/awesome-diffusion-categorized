@@ -5,6 +5,7 @@
 ## Contents
 
 <!-- - [Accelerate](#accelerate) -->
+- [Face Restoration](#face-restoration)
 - [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
 - [Drag Edit](#drag-edit)
@@ -53,6 +54,34 @@
 
 **Accelerating Image Generation with Sub-path Linear Approximation Model** \
 [[Website](https://arxiv.org/abs/2404.13903)] -->
+
+
+## Face Restoration
+
+**DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration** \
+[[CVPR 2023](https://arxiv.org/abs/2303.06885)]
+[[Code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)]
+
+**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance** \
+[[NeurIPS 2023](https://arxiv.org/abs/2309.10810)]
+[[Code](https://github.com/pq-yang/pgdiff)]
+
+**DifFace: Blind Face Restoration with Diffused Error Contraction** \
+[[Website](https://arxiv.org/abs/2312.15736)]
+[[Code](https://github.com/zsyOAOA/DifFace)]
+
+**Towards Real-World Blind Face Restoration with Generative Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2312.15736)]
+[[Code](https://github.com/chenxx89/BFRffusion)]
+
+**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration** \
+[[Website](https://arxiv.org/abs/2305.04517)]
+
+**CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.06106)]
+
+**DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration** \
+[[Website](https://arxiv.org/abs/2403.10098)]
 
 
 ## Storytelling
