@@ -79,6 +79,17 @@
 [[Project](https://daooshee.github.io/QuadPrior-Website/)]
 [[Code](https://github.com/daooshee/QuadPrior/)]
 
+**From Posterior Sampling to Meaningful Diversity in Image Restoration** \
+[[ICLR 2024](https://arxiv.org/abs/2310.16047)]
+[[Project](https://noa-cohen.github.io/MeaningfulDiversityInIR/)]
+[[Code](https://github.com/noa-cohen/MeaningfulDiversityInIR)]
+
+**Generative Diffusion Prior for Unified Image Restoration and Enhancement** \
+[[CVPR 2023](https://arxiv.org/abs/2304.01247)]
+[[Project](https://generativediffusionprior.github.io/)]
+[[Code](https://github.com/Fayeben/GenerativeDiffusionPrior)]
+
+
 **Image Restoration with Mean-Reverting Stochastic Differential Equations** \
 [[ICML 2023](https://arxiv.org/abs/2301.11699)]
 [[Project](https://algolzw.github.io/ir-sde/index.html)]
@@ -127,6 +138,13 @@
 [[CVPR 2024](https://arxiv.org/abs/2308.13712)]
 [[Code](https://github.com/nachifur/RDDM)]
 
+**Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks** \
+[[CVPR 2024](https://arxiv.org/abs/2403.00644)]
+[[Code](https://github.com/yuhaoliu7456/Diff-Plugin)]
+
+**Deep Equilibrium Diffusion Restoration with Parallel Sampling** \
+[[CVPR 2024](https://arxiv.org/abs/2311.11600)]
+[[Code](https://github.com/caojiezhang/deqir)]
 
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
@@ -135,6 +153,10 @@
 **Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement** \
 [[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
 [[Code](https://github.com/shermanlian/spatial-entropy-loss)]
+
+**Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems** \
+[[Website](https://arxiv.org/abs/2405.10748)]
+[[Code](https://github.com/Hanyu-Chen373/DeepDataConsistency)]
 
 **Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration** \
 [[Website](https://arxiv.org/abs/2308.08730)]
