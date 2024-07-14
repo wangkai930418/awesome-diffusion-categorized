@@ -123,7 +123,7 @@
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2306.00306)]
 [[Code](https://github.com/JianghaiSCU/Diffusion-Low-Light)]
 
-**Residual Denoising Diffusion Models**
+**Residual Denoising Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2308.13712)]
 [[Code](https://github.com/nachifur/RDDM)]
 
@@ -197,10 +197,10 @@
 **Boosting Image Restoration via Priors from Pre-trained Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06793)]
 
-**Bayesian Conditioned Diffusion Models for Inverse Problem** 
+**Bayesian Conditioned Diffusion Models for Inverse Problem** \
 [[Website](https://arxiv.org/abs/2406.09768)]
 
-**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**
+**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement** \
 [[Website](https://arxiv.org/abs/2312.12826)]
 
 **Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration** \
@@ -209,7 +209,7 @@
 **Tell Me What You See: Text-Guided Real-World Image Denoising**\
 [[Website](https://arxiv.org/abs/2312.10191)]
 
-**Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement**
+**Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement** \
 [[Website](https://arxiv.org/abs/2403.02879)]
 
 ## Colorization
