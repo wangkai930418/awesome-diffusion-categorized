@@ -210,6 +210,11 @@
 [[Website](https://arxiv.org/abs/2406.19030)]
 [[Code](https://github.com/JosephTiTan/DiffLoss)]
 
+**TIP: Text-Driven Image Processing with Semantic and Restoration Instructions** \
+[[ECCV 2024](https://arxiv.org/abs/2312.11595)]
+[[Project](https://chenyangqiqi.github.io/tip/)]
+
+
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2308.13164)]
 
