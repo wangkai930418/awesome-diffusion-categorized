@@ -5,6 +5,7 @@
 ## Contents
 
 <!-- - [Accelerate](#accelerate) -->
+- [Colorization](#colorization)
 - [Face Restoration](#face-restoration)
 - [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
@@ -54,6 +55,31 @@
 
 **Accelerating Image Generation with Sub-path Linear Approximation Model** \
 [[Website](https://arxiv.org/abs/2404.13903)] -->
+
+## Colorization
+
+**Control Color: Multimodal Diffusion-based Interactive Image Colorization** \
+[[Website](https://arxiv.org/abs/2402.10855)]
+[[Project](https://zhexinliang.github.io/Control_Color/)]
+[[Code](https://github.com/ZhexinLiang/Control-Color)]
+
+**Multimodal Semantic-Aware Automatic Colorization with Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2404.16678)]
+[[Project](https://servuskk.github.io/ColorDiff-Image/)]
+[[Code](https://github.com/servuskk/ColorDiff-Image)]
+
+**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text** \
+[[Website](https://arxiv.org/abs/2401.01456)]
+[[Code](https://github.com/tellurion-kanata/colorizeDiffusion)]
+
+**Diffusing Colors: Image Colorization with Text Guided Diffusion** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2312.04145)]
+[[Project](https://pub.res.lightricks.com/diffusing-colors/)]
+
+
+**DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2308.01655)]
+
 
 
 ## Face Restoration
