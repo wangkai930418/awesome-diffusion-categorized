@@ -130,6 +130,10 @@
 [[ICCV 2023](https://arxiv.org/abs/2303.09472)]
 [[Code](https://github.com/Zj-BinXia/DiffIR)]
 
+**LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2407.08939)]
+[[Code](https://github.com/JianghaiSCU/LightenDiffusion)]
+
 **Low-Light Image Enhancement with Wavelet-based Diffusion Models** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2306.00306)]
 [[Code](https://github.com/JianghaiSCU/Diffusion-Low-Light)]
@@ -4438,6 +4442,10 @@
 **TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.17005)]
 [[Project](https://trip-i2v.github.io/TRIP/)]
+
+**TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2407.09012)]
+[[Project](https://eccv2024tcan.github.io/)] 
 
 **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02509)]
