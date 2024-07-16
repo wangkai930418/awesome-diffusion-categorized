@@ -89,6 +89,10 @@
 [[Project](https://generativediffusionprior.github.io/)]
 [[Code](https://github.com/Fayeben/GenerativeDiffusionPrior)]
 
+**MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration** \
+[[ECCV 2024](https://arxiv.org/abs/2407.10833)]
+[[Project](https://renyulin-f.github.io/MoE-DiffIR.github.io/)]
+[[Code](https://github.com/renyulin-f/MoE-DiffIR)]
 
 **Image Restoration with Mean-Reverting Stochastic Differential Equations** \
 [[ICML 2023](https://arxiv.org/abs/2301.11699)]
@@ -242,6 +246,10 @@
 
 **Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement** \
 [[Website](https://arxiv.org/abs/2403.02879)]
+
+**Prototype Clustered Diffusion Models for Versatile Inverse Problems** \
+[[Website](https://arxiv.org/abs/2407.09768)]
+
 
 ## Colorization
 
@@ -477,6 +485,10 @@
 **M&M VTO: Multi-Garment Virtual Try-On and Editing** \
 [[CVPR 2024 Highlight](https://arxiv.org/abs/2406.04542)]
 [[Project](https://mmvto.github.io/)]
+
+**WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2407.10625]
+[[Project](https://wildvidfit-project.github.io/)]
 
 **Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos** \
 [[Website](https://arxiv.org/abs/2404.17571)]
@@ -3598,6 +3610,10 @@
 **FaithFill: Faithful Inpainting for Object Completion Using a Single Reference Image** \
 [[Website](https://arxiv.org/abs/2406.07865)] 
 
+**InsertDiffusion: Identity Preserving Visualization of Objects through a Training-Free Diffusion Architecture** \
+[[Website](https://arxiv.org/abs/2407.10592)] 
+
+
 
 ## Layout Generation
 
@@ -3653,14 +3669,14 @@
 
 ## Text Generation
 
-**TextDiffuser: Diffusion Models as Text Painters** \
+⭐⭐**TextDiffuser: Diffusion Models as Text Painters** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70636)]
 [[Website](https://arxiv.org/abs/2305.10855)]
 [[Project](https://jingyechen.github.io/textdiffuser/)] 
 [[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)] 
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=ke3RgcDmfO)] -->
 
-**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** \
+⭐⭐**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** \
 [[Website](https://arxiv.org/abs/2311.16465)]
 [[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)] 
 
@@ -3680,6 +3696,11 @@
 [[SIGGRAPH 2023](https://arxiv.org/abs/2303.01818)]
 [[Project](https://wordasimage.github.io/Word-As-Image-Page/)] 
 [[Code](https://github.com/Shiriluz/Word-As-Image)] 
+
+**Kinetic Typography Diffusion Model** \
+[[ECCV 2024](https://arxiv.org/abs/2407.10476)]
+[[Project](https://seonmip.github.io/kinety/)] 
+[[Code](https://github.com/SeonmiP/KineTy)] 
 
 **Dynamic Typography: Bringing Text to Life via Video Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2404.11614)]
@@ -4010,6 +4031,11 @@
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pia)]
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
+
+**IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation** \
+[[ECCV 2024](https://arxiv.org/abs/2407.10937)]
+[[Project](https://yhzhai.github.io/idol/)] 
+[[Code](https://github.com/yhZhai/idol)]
 
 **Video Diffusion Alignment via Reward Gradients** \
 [[Website](https://arxiv.org/abs/2407.08737)]
@@ -4783,6 +4809,10 @@
 [[Website](https://arxiv.org/abs/2308.09592)]
 [[Code](https://github.com/rese1f/stablevideo)] 
 
+**Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2407.10285)]
+[[Project](https://yangqy1110.github.io/NC-SDEdit/)] 
+[[Code](https://github.com/yangqy1110/NC-SDEdit/)]
 
 **Video-P2P: Video Editing with Cross-attention Control** \
 [[Website](https://arxiv.org/abs/2303.04761)]
@@ -5034,3 +5064,6 @@
 
 **FRAG: Frequency Adapting Group for Diffusion Video Editing** \
 [[Website](https://arxiv.org/abs/2406.06044)]
+
+**InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models** \
+[[Website](https://arxiv.org/abs/2407.10958)]
