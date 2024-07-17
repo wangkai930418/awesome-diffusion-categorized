@@ -154,6 +154,11 @@
 [[CVPR 2024](https://arxiv.org/abs/2311.11600)]
 [[Code](https://github.com/caojiezhang/deqir)]
 
+**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems** \
+[[Website](https://arxiv.org/abs/2407.11288)]
+[[Code](https://github.com/ualcalar17/ZAPS)]
+
+
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
 [[Code](https://github.com/Algolzw/image-restoration-sde)]
@@ -161,6 +166,7 @@
 **Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement** \
 [[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
 [[Code](https://github.com/shermanlian/spatial-entropy-loss)]
+
 
 **Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2405.10748)]
@@ -4776,6 +4782,9 @@
 
 **Mobius: An High Efficient Spatial-Temporal Parallel Training Paradigm for Text-to-Video Generation Task** \
 [[Website](https://arxiv.org/abs/2407.06617)]
+
+**Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis** \
+[[Website](https://arxiv.org/abs/2407.11814)]
 
 
 ## Video Editing 
