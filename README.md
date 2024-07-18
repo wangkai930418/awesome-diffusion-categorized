@@ -1281,6 +1281,10 @@
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
 [[Code](https://github.com/nannullna/safe-diffusion)]
 
+**Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2407.12383)] 
+[[Code](https://github.com/CharlesGong12/RECE)]
+
 **ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion** \
 [[Website](https://arxiv.org/abs/2404.17230)] 
 [[Code](https://github.com/potato-kitty/objectadd)]
