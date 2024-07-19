@@ -382,6 +382,10 @@
 [[Website](https://arxiv.org/abs/2407.02482)]
 [[Code](https://github.com/muzishen/RCDMs)]
 
+**DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion** \
+[[Website](https://arxiv.org/abs/2407.12899)]
+[[Project](https://dream-xyz.github.io/dreamstory)]
+
 **MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising** \
 [[Website](https://arxiv.org/abs/2312.10899)]
 [[Project](https://magicscroll.github.io/)]
@@ -1805,6 +1809,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2405.12978)] 
 [[Project](https://cusuh.github.io/personalized-residuals/)] 
 
+**LogoSticker: Inserting Logos into Diffusion Models for Customized Generation** \
+[[ECCV 2024](https://arxiv.org/abs/2407.13752)] 
+[[Project](https://mingkangz.github.io/logosticker/)] 
+
 **InstructBooth: Instruction-following Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.03011)] 
 [[Project](https://sites.google.com/view/instructbooth)] 
@@ -2758,6 +2766,9 @@
 
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
+
+**Training-free Composite Scene Generation for Layout-to-Image Synthesis** \
+[[ECCV 2024](https://arxiv.org/abs/2407.13609)] 
 
 **Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion** \
 [[Website](https://arxiv.org/abs/2404.14768)] 
