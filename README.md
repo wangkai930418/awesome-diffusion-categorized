@@ -1339,6 +1339,9 @@
 **Pruning for Robust Concept Erasing in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.16534)] 
 
+**Unlearning Concepts from Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2407.14209)] 
+
 <!-- ## Semantic Intrinsic
 
 **Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction** \
