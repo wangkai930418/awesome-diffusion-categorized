@@ -256,6 +256,9 @@
 **Prototype Clustered Diffusion Models for Versatile Inverse Problems** \
 [[Website](https://arxiv.org/abs/2407.09768)]
 
+**AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement** \
+[[Website](https://arxiv.org/abs/2407.14900)]
+
 
 ## Colorization
 
@@ -463,6 +466,10 @@
 [[Website](https://arxiv.org/abs/2403.05139)]
 [[Project](https://idm-vton.github.io/)] 
 [[Code](https://github.com/yisol/IDM-VTON)]
+
+**D4-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On** \
+[[ECCV 2024](https://arxiv.org/abs/2407.15111)]
+[[Code](https://github.com/Jerome-Young/D4-VTON)]
 
 **Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On** \
 [[CVPR 2024](https://arxiv.org/abs/2404.01089)]
@@ -3681,6 +3688,9 @@
 **Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints** \
 [[ICLR 2024](https://arxiv.org/abs/2402.04754)]
 
+**CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model** \
+[[Website](https://arxiv.org/abs/2407.15233)]
+
 **Diffusion-based Document Layout Generation** \
 [[Website](https://arxiv.org/abs/2303.10787)]
 
@@ -4070,6 +4080,11 @@
 [[Website](https://arxiv.org/abs/2407.08701)]
 [[Project](https://live2diff.github.io/)] 
 [[Code](https://github.com/open-mmlab/Live2Diff)]
+
+**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models** \
+[[Website](https://arxiv.org/abs/2407.15642)]
+[[Project](https://maxin-cn.github.io/cinemo_project/)] 
+[[Code](https://github.com/maxin-cn/Cinemo)]
 
 **MotionClone: Training-Free Motion Cloning for Controllable Video Generation** \
 [[Website](https://arxiv.org/abs/2406.05338)]
@@ -5094,3 +5109,6 @@
 
 **InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.10958)]
+
+**Text-based Talking Video Editing with Cascaded Conditional Diffusion** \
+[[Website](https://arxiv.org/abs/2407.14841)]
