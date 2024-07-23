@@ -432,6 +432,11 @@
 [[Project](https://rlawjdghek.github.io/StableVITON/)]
 [[Code](https://github.com/rlawjdghek/stableviton)] 
 
+**IMAGDressing-v1: Customizable Virtual Dressing** \
+[[Website](https://arxiv.org/abs/2407.12705)]
+[[Project](https://imagdressing.github.io/)]
+[[Code](https://github.com/muzishen/IMAGDressing)] 
+
 **ViViD: Video Virtual Try-on using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.11794)]
 [[Project](https://becauseimbatman0.github.io/ViViD)]
@@ -2016,6 +2021,12 @@
 **AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2406.18893)] 
 
+**Layout-and-Retouch: A Dual-stage Framework for Improving Diversity in Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2407.09779)] 
+
+
+
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -2780,6 +2791,9 @@
 **Training-free Composite Scene Generation for Layout-to-Image Synthesis** \
 [[ECCV 2024](https://arxiv.org/abs/2407.13609)] 
 
+**LSReGen: Large-Scale Regional Generator via Backward Guidance Framework** \
+[[Website](https://arxiv.org/abs/2407.15066)] 
+
 **Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion** \
 [[Website](https://arxiv.org/abs/2404.14768)] 
 
@@ -3352,6 +3366,10 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.14305)] 
 [[Project]](https://omriavrahami.com/spatext/) 
 
+**CCM: Adding Conditional Controls to Text-to-Image Consistency Models** \
+[[ICML 2024](https://arxiv.org/abs/2312.06971)] 
+[[Project](https://swiftforce.github.io/CCM/)] 
+
 **Dreamguider: Improved Training free Diffusion-based Conditional Generation** \
 [[Website](https://arxiv.org/abs/2406.02549)] 
 [[Project](https://nithin-gk.github.io/dreamguider.github.io/)] 
@@ -3367,10 +3385,6 @@
 **BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion** \
 [[Website](https://arxiv.org/abs/2404.04544)] 
 [[Project](https://janeyeon.github.io/beyond-scene/)] 
-
-**CCM: Adding Conditional Controls to Text-to-Image Consistency Models** \
-[[Website](https://arxiv.org/abs/2312.06971)] 
-[[Project](https://swiftforce.github.io/CCM/)] 
 
 **FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection** \
 [[Website](https://arxiv.org/abs/2312.09252)] 
@@ -3587,6 +3601,10 @@
 [[Website](https://arxiv.org/abs/2404.11949)] 
 [[Code](https://github.com/vl2g/Sketch-Inpainting)] 
 
+**Text2Place: Affordance-aware Text Guided Human Placement** \
+[[ECCV 2024](https://arxiv.org/abs/2407.15446)] 
+[[Project](https://rishubhpar.github.io/Text2Place/)]
+
 **IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10701)] 
 [[Project](https://song630.github.io/IMPRINT-Project-Page/)]
@@ -3765,6 +3783,10 @@
 **Scene Text Image Super-resolution based on Text-conditional Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09759)]
 [[Code](https://github.com/toyotainfotech/stisr-tcdm)] 
+
+**Visual Text Generation in the Wild** \
+[[Website](https://arxiv.org/abs/2407.14138)]
+[[Code](https://github.com/alibabaresearch/advancedliteratemachinery)] 
 
 **Deciphering Oracle Bone Language with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00684)]
@@ -4818,6 +4840,9 @@
 
 **Contrastive Sequential-Diffusion Learning: An approach to Multi-Scene Instructional Video Synthesis** \
 [[Website](https://arxiv.org/abs/2407.11814)]
+
+**Multi-sentence Video Grounding for Long Video Generation** \
+[[Website](https://arxiv.org/abs/2407.13219)]
 
 
 ## Video Editing 
