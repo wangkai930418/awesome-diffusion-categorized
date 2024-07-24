@@ -138,6 +138,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.08939)]
 [[Code](https://github.com/JianghaiSCU/LightenDiffusion)]
 
+**DAVI: Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problem** \
+[[ECCV 2024](https://arxiv.org/abs/2407.16125)]
+[[Code](https://github.com/mlvlab/DAVI)]
+
 **Low-Light Image Enhancement with Wavelet-based Diffusion Models** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2306.00306)]
 [[Code](https://github.com/JianghaiSCU/Diffusion-Low-Light)]
@@ -437,6 +441,12 @@
 [[Project](https://imagdressing.github.io/)]
 [[Code](https://github.com/muzishen/IMAGDressing)] 
 
+**OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person** \
+[[Website](https://arxiv.org/abs/2407.16224)]
+[[Project](https://humanaigc.github.io/outfit-anyone/)]
+[[Code](https://github.com/HumanAIGC/OutfitAnyone)] 
+
+
 **ViViD: Video Virtual Try-on using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.11794)]
 [[Project](https://becauseimbatman0.github.io/ViViD)]
@@ -491,6 +501,11 @@
 **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2403.01779)]
 [[Code](https://github.com/levihsu/OOTDiffusion)] 
+
+**CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2407.15886)]
+[[Code](https://github.com/Zheng-Chong/CatVTON)] 
+
 
 **DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling** \
 [[Website](https://arxiv.org/abs/2305.01257)]
@@ -3853,6 +3868,9 @@
 **DiffCJK: Conditional Diffusion Model for High-Quality and Wide-coverage CJK Character Generation** \
 [[Website](https://arxiv.org/abs/2404.05212)]
 
+**CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction** \
+[[Website](https://arxiv.org/abs/2407.16204)]
+
 ## Super Resolution
 
 **ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
@@ -4092,6 +4110,11 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.10937)]
 [[Project](https://yhzhai.github.io/idol/)] 
 [[Code](https://github.com/yhZhai/idol)]
+
+**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence** \
+[[Website](https://arxiv.org/abs/2407.16655)]
+[[Project](https://aim-uofa.github.io/MovieDreamer/)] 
+[[Code](https://github.com/aim-uofa/MovieDreamer)]
 
 **Video Diffusion Alignment via Reward Gradients** \
 [[Website](https://arxiv.org/abs/2407.08737)]
