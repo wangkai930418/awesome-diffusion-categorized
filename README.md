@@ -242,6 +242,9 @@
 **Boosting Image Restoration via Priors from Pre-trained Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06793)]
 
+**Unpaired Photo-realistic Image Deraining with Energy-informed Diffusion Model** \
+[[Website](https://arxiv.org/abs/2407.17193)]
+
 **Bayesian Conditioned Diffusion Models for Inverse Problem** \
 [[Website](https://arxiv.org/abs/2406.09768)]
 
@@ -3579,6 +3582,10 @@
 **Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing** \
 [[Website](https://arxiv.org/abs/2404.12900)] 
 [[Code](https://github.com/BlueDyee/TF-GPH)]
+
+**Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2407.16982)] 
+[[Code](https://github.com/OpenGVLab/Diffree)]
 
 **Structure Matters: Tackling the Semantic Discrepancy in Diffusion Models for Image Inpainting** \
 [[Website](https://arxiv.org/abs/2403.19898)] 
