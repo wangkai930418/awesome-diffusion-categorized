@@ -649,6 +649,10 @@
 [[Website](https://arxiv.org/abs/2401.06442)] 
 [[Code](https://github.com/Tony-Lowe/RotationDrag)]
 
+**DragText: Rethinking Text Embedding in Point-based Image Editing** \
+[[Website](https://arxiv.org/abs/2407.17843)] 
+[[Project](https://micv-yonsei.github.io/dragtext2025/)] 
+
 **FastDrag: Manipulate Anything in One Step** \
 [[Website](https://arxiv.org/abs/2405.15769)] 
 [[Project](https://fastdrag-site.github.io/)] 
@@ -664,6 +668,9 @@
 **DiffUHaul: A Training-Free Method for Object Dragging in Images** \
 [[Website](https://arxiv.org/abs/2406.01594)] 
 [[Project](https://omriavrahami.com/diffuhaul/)]
+
+**RegionDrag: Fast Region-Based Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2407.18247] 
 
 **Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
 [[Website](https://arxiv.org/abs/2401.18085)] 
@@ -1029,9 +1036,13 @@
 [[CVPR 2024](https://arxiv.org/abs/2312.10113)] 
 [[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
 
-**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing** \
+**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing** \
 [[Website](https://arxiv.org/abs/2405.14785)] 
 [[Code](https://github.com/YangLing0818/EditWorld)] 
+
+**EditWorld: Simulating World Dynamics for Instruction-Following Image Editing** \
+[[Website](https://arxiv.org/abs/2407.17847)] 
+[[Code](https://github.com/mobiushy/move-act)] 
 
 **ClickDiffusion: Harnessing LLMs for Interactive Precise Image Editing** \
 [[Website](https://arxiv.org/abs/2404.04376)] 
@@ -1122,6 +1133,9 @@
 **SOEDiff: Efficient Distillation for Small Object Editing** \
 [[Website](https://arxiv.org/abs/2405.09114)]
 [[Project](https://soediff.github.io/)]
+
+**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing** \
+[[ECCV 2024](https://arxiv.org/abs/2407.17850)] 
 
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
@@ -2787,6 +2801,10 @@
 **StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control** \
 [[Website](https://arxiv.org/abs/2403.09055)] 
 [[Code](https://github.com/ironjr/StreamMultiDiffusion)]
+
+**ReCorD: Reasoning and Correcting Diffusion for HOI Generation** \
+[[ACM MM 2024](https://arxiv.org/abs/2407.17911)] 
+[[Project](https://alberthkyhky.github.io/ReCorD/)] 
 
 **Compositional Text-to-Image Generation with Dense Blob Representations** \
 [[Website](https://arxiv.org/abs/2405.08246)] 
