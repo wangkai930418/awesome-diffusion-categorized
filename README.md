@@ -1749,6 +1749,11 @@
 [[Project](https://moma-adapter.github.io/)] 
 [[Code](https://github.com/bytedance/MoMA/tree/main)]
 
+**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** \
+[[Website](https://arxiv.org/abs/2311.13600)] 
+[[Project](https://ziplora.github.io/)] 
+[[Code](https://github.com/mkshing/ziplora-pytorch)]
+
 **Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning** \
 [[ECCV 2024](https://arxiv.org/abs/2407.06642)] 
 [[Code](https://github.com/wfanyue/DPG-T2I-Personalization)]
@@ -1898,9 +1903,6 @@
 [[Website](https://arxiv.org/abs/2307.06949)] 
 [[Project](https://hyperdreambooth.github.io/)] 
 
-**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** \
-[[Website](https://arxiv.org/abs/2311.13600)] 
-[[Project](https://ziplora.github.io/)] 
 
 **Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
 [[Website](https://arxiv.org/abs/2307.06925)] 
