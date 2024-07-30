@@ -1036,6 +1036,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2312.10113)] 
 [[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
 
+**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing** \
+[[Website](https://arxiv.org/abs/2407.20232)] 
+[[Code](https://github.com/fabvio/SANE)] 
+
 **Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing** \
 [[Website](https://arxiv.org/abs/2405.14785)] 
 [[Code](https://github.com/YangLing0818/EditWorld)] 
@@ -4581,6 +4585,10 @@
 **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2407.09012)]
 [[Project](https://eccv2024tcan.github.io/)] 
+
+**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention** \
+[[Website](https://arxiv.org/abs/2407.19918)]
+[[Project](https://freelongvideo.github.io/)]
 
 **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02509)]
