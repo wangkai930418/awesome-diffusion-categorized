@@ -162,6 +162,10 @@
 [[Website](https://arxiv.org/abs/2407.11288)]
 [[Code](https://github.com/ualcalar17/ZAPS)]
 
+**UniProcessor: A Text-induced Unified Low-level Image Processor** \
+[[Website](https://arxiv.org/abs/2407.20928)]
+[[Code](https://github.com/IntMeGroup/UniProcessor)]
+
 
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
@@ -1161,6 +1165,9 @@
 
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
+
+**Learning Feature-Preserving Portrait Editing from Generated Pairs** \
+[[Website](https://arxiv.org/abs/2407.20455)]
 
 **EmoEdit: Evoking Emotions through Image Manipulation** \
 [[Website](https://arxiv.org/abs/2405.12661)]
@@ -3654,6 +3661,10 @@
 **IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10701)] 
 [[Project](https://song630.github.io/IMPRINT-Project-Page/)]
+
+**Matting by Generation** \
+[[SIGGRAPH 2024](https://arxiv.org/abs/2407.21017)] 
+[[Project](https://lightchaserx.github.io/matting-by-generation/)]
 
 **Taming Latent Diffusion Model for Neural Radiance Field Inpainting** \
 [[Website](https://arxiv.org/abs/2404.09995)] 
