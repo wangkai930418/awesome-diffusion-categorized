@@ -1344,6 +1344,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.12383)] 
 [[Code](https://github.com/CharlesGong12/RECE)]
 
+**Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion** \
+[[ECCV 2024](https://arxiv.org/abs/2407.21032)] 
+[[Code](https://github.com/nannullna/safeguard-hfi)]
+
 **ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion** \
 [[Website](https://arxiv.org/abs/2404.17230)] 
 [[Code](https://github.com/potato-kitty/objectadd)]
@@ -1364,8 +1368,15 @@
 [[Website](https://arxiv.org/abs/2305.10120)] 
 [[Code](https://github.com/clear-nus/selective-amnesia)]
 
+**Add-SD: Rational Generation without Manual Reference** \
+[[Website](https://arxiv.org/abs/2407.21016)] 
+[[Code](https://github.com/ylingfeng/Add-SD)]
+
 **MACE: Mass Concept Erasure in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06135)] 
+
+**Direct Unlearning Optimization for Robust and Safe Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2407.21035)] 
 
 **Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning** \
 [[Website](https://arxiv.org/abs/2405.07288)] 
@@ -4153,6 +4164,11 @@
 [[Project](https://yhzhai.github.io/idol/)] 
 [[Code](https://github.com/yhZhai/idol)]
 
+**Tora: Trajectory-oriented Diffusion Transformer for Video Generation** \
+[[Website](https://arxiv.org/abs/2407.21705)]
+[[Project](https://ali-videoai.github.io/tora_video/)] 
+[[Code](https://github.com/ali-videoai/Tora)]
+
 **MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence** \
 [[Website](https://arxiv.org/abs/2407.16655)]
 [[Project](https://aim-uofa.github.io/MovieDreamer/)] 
@@ -4912,6 +4928,9 @@
 
 **Multi-sentence Video Grounding for Long Video Generation** \
 [[Website](https://arxiv.org/abs/2407.13219)]
+
+**Fine-gained Zero-shot Video Sampling** \
+[[Website](https://arxiv.org/abs/2407.21475)]
 
 
 ## Video Editing 
