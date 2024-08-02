@@ -1101,6 +1101,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2308.08947)]
 [[Project](https://ashmrz.github.io/WatchYourSteps/)] 
 
+**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.00735)]
+[[Project](https://turboedit-paper.github.io/)] 
+
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
 [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
@@ -2653,6 +2657,8 @@
 **Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance** \
 [[Website](https://arxiv.org/abs/2406.04551)] 
 
+**Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.00230)] 
 
 
 ## Spatial Control
@@ -3206,6 +3212,9 @@
 
 **Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation** \
 [[WACV 2024](https://arxiv.org/abs/2312.01850)] 
+
+**A Simple Background Augmentation Method for Object Detection with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2408.00350)] 
 
 **Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval** \
 [[Website](https://arxiv.org/abs/2405.18025)] 
@@ -5225,3 +5234,6 @@
 
 **Text-based Talking Video Editing with Cascaded Conditional Diffusion** \
 [[Website](https://arxiv.org/abs/2407.14841)]
+
+**Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion** \
+[[Website](https://arxiv.org/abs/2408.00458)]
