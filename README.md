@@ -1254,6 +1254,9 @@
 **LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing** \
 [[Website](https://arxiv.org/abs/2406.17236)]
 
+**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation** \
+[[Website](https://arxiv.org/abs/2408.00998)]
+
 
 ## Continual Learning
 
@@ -1411,6 +1414,9 @@
 
 **Unlearning Concepts from Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.14209)] 
+
+**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts** \
+[[Website](https://arxiv.org/abs/2408.01014)] 
 
 <!-- ## Semantic Intrinsic
 
