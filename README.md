@@ -4109,6 +4109,15 @@
 
 ## Video Generation 
 
+
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**  \
+[[ECCV 2024](https://arxiv.org/abs/2403.13802)]
+[[Website](https://taohu.me/zigma/)]
+[[Project](https://taohu.me/zigma/)]
+[[Code](https://github.com/CompVis/zigma)]
+
+
+
 **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.13439)]
