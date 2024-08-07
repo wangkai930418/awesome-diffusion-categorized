@@ -3273,6 +3273,11 @@
 **ConsistencyDet: Robust Object Detector with Denoising Paradigm of Consistency Model** \
 [[Website](https://arxiv.org/abs/2404.07773)] 
 
+**Diverse Generation while Maintaining Semantic Coordination: A Diffusion-Based Data Augmentation Method for Object Detection** \
+[[Website](https://arxiv.org/abs/2408.02891)] 
+
+
+
 ## Additional conditions 
 
 ⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
@@ -3329,6 +3334,11 @@
 [[ICLR 2024](https://arxiv.org/abs/2401.08815)] 
 [[Project](https://yumengli007.github.io/ALDM/)] 
 [[Code](https://github.com/boschresearch/ALDM)]
+
+**IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts** \
+[[Website](https://arxiv.org/abs/2408.03209)] 
+[[Project](https://unity-research.github.io/IP-Adapter-Instruct.github.io/)] 
+[[Code](https://github.com/unity-research/IP-Adapter-Instruct)]
 
 **Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance** \
 [[Website](https://arxiv.org/abs/2406.07540)] 
