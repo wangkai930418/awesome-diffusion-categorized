@@ -4148,7 +4148,10 @@
 [[Code](https://github.com/srpkdyy/VideoLDM)]
 
 
-
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**  \
+[[ECCV 2024](https://arxiv.org/abs/2403.13802)]
+[[Project](https://taohu.me/zigma/)]
+[[Code](https://github.com/CompVis/zigma)]
 
 **MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
 [[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/944618542d80a63bbec16dfbd2bd689a-Abstract-Conference.html)]
