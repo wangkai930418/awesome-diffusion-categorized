@@ -1101,6 +1101,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2308.08947)]
 [[Project](https://ashmrz.github.io/WatchYourSteps/)] 
 
+**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2408.03355)]
+[[Project](https://fastedit-sd.github.io/)] 
+
 **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.00735)]
 [[Project](https://turboedit-paper.github.io/)] 
@@ -1806,6 +1810,10 @@
 **Decoupled Textual Embeddings for Customized Image Generation** \
 [[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
 [[Code](https://github.com/PrototypeNx/DETEX)]
+
+**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2408.03632)] 
+[[Code](https://github.com/Nihukat/Concept-Conductor)]
 
 **RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance** \
 [[Website](https://arxiv.org/abs/2405.14677)] 
@@ -3043,6 +3051,10 @@
 [[Website](https://arxiv.org/abs/2403.12036)] 
 [[Code](https://github.com/GaParmar/img2img-turbo)] 
 
+**D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** \
+[[Website](https://arxiv.org/abs/2408.03558)] 
+[[Code](https://github.com/Onkarsus13/D2Styler)] 
+
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2308.07863)]
@@ -3722,6 +3734,9 @@
 [[Website](https://arxiv.org/abs/2403.18818)] 
 [[Project](https://objectdrop.github.io/)]
 
+**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization** \
+[[ACMMM 24](https://arxiv.org/abs/2408.03637)] 
+
 **Semantically Consistent Video Inpainting with Conditional Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.00251)] 
 
@@ -3754,7 +3769,6 @@
 
 **InsertDiffusion: Identity Preserving Visualization of Objects through a Training-Free Diffusion Architecture** \
 [[Website](https://arxiv.org/abs/2407.10592)] 
-
 
 
 ## Layout Generation
