@@ -2098,6 +2098,8 @@
 **Layout-and-Retouch: A Dual-stage Framework for Improving Diversity in Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2407.09779)] 
 
+**PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control** \
+[[Website](https://arxiv.org/abs/2408.05083)] 
 
 
 
@@ -3981,6 +3983,11 @@
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2303.09472)] 
 [[Code](https://github.com/Zj-BinXia/DiffIR)]
+
+**Kalman-Inspired Feature Propagation for Video Face Super-Resolution** \
+[[ECCV 2024](https://arxiv.org/abs/2408.05205)] 
+[[Project](https://jnjaby.github.io/projects/KEEP/)] 
+[[Code](https://github.com/jnjaby/KEEP)] 
 
 **AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2404.01717)] 
