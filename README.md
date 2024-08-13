@@ -1615,6 +1615,11 @@
 [[Project](https://ttchengab.github.io/zest/)] 
 [[Code](https://github.com/ttchengab/zest_code)]
 
+**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization** \
+[[Website](https://arxiv.org/abs/2408.05939)] 
+[[Project](https://aigcdesigngroup.github.io/UniPortrait-Page/)] 
+[[Code](https://github.com/junjiehe96/UniPortrait)]
+
 **AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.12805)] 
 [[Project](https://itsmag11.github.io/AITTI/)] 
@@ -3033,6 +3038,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2407.03006)]
 [[Code](https://github.com/XiangGao1102/FCDiffusion)] 
 
+**ZePo: Zero-Shot Portrait Stylization with Faster Sampling** \
+[[ACMMM 2024](https://arxiv.org/abs/2408.05492)]
+[[Code](https://github.com/liujin112/ZePo)]
+
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
 [[Code](https://github.com/submissionanon18/agg)]
@@ -3353,6 +3362,11 @@
 [[Website](https://arxiv.org/abs/2408.03209)] 
 [[Project](https://unity-research.github.io/IP-Adapter-Instruct.github.io/)] 
 [[Code](https://github.com/unity-research/IP-Adapter-Instruct)]
+
+**ControlNeXt: Powerful and Efficient Control for Image and Video Generation** \
+[[Website](https://arxiv.org/abs/2408.06070)] 
+[[Project](https://pbihao.github.io/projects/controlnext/index.html)] 
+[[Code](https://github.com/dvlab-research/ControlNeXt)]
 
 **Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance** \
 [[Website](https://arxiv.org/abs/2406.07540)] 
@@ -4587,6 +4601,15 @@
 [[Website](https://arxiv.org/abs/2406.16863)]
 [[Project](http://haonanqiu.com/projects/FreeTraj.html)]
 [[Code](https://github.com/arthur-qiu/FreeTraj)] 
+
+**CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
+[[ICLR 2023](https://arxiv.org/abs/2205.15868)]
+[[Code](https://github.com/THUDM/CogVideo)]
+
+**CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** \
+[[Website](https://arxiv.org/abs/2408.06072)]
+[[Code](https://github.com/THUDM/CogVideo)]
+
 
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
