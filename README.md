@@ -1620,6 +1620,11 @@
 [[Project](https://aigcdesigngroup.github.io/UniPortrait-Page/)] 
 [[Code](https://github.com/junjiehe96/UniPortrait)]
 
+**MagicFace: Training-free Universal-Style Human Image Customized Synthesis** \
+[[Website](https://arxiv.org/abs/2408.07433)] 
+[[Project](https://codegoat24.github.io/MagicFace/)] 
+[[Code](https://github.com/CodeGoat24/MagicFace)]
+
 **AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.12805)] 
 [[Project](https://itsmag11.github.io/AITTI/)] 
@@ -4025,6 +4030,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
 
+**One Step Diffusion-based Super-Resolution with Time-Aware Distillation** \
+[[Website](https://arxiv.org/abs/2408.07476)] 
+[[Code](https://github.com/LearningHx/TAD-SR)] 
+
 **One-Step Effective Diffusion Network for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2406.08177)] 
 [[Code](https://github.com/cswry/OSEDiff)] 
@@ -5228,6 +5237,9 @@
 **DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing** \
 [[Website](https://arxiv.org/abs/2403.12002)]
 [[Project](https://hyeonho99.github.io/dreammotion/)]
+
+**DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
+[[ECCV 2024](https://arxiv.org/abs/2408.07481)]
 
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
