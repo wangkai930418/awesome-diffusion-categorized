@@ -531,7 +531,7 @@
 [[Project](https://mmvto.github.io/)]
 
 **WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models** \
-[[ECCV 2024](https://arxiv.org/abs/2407.10625]
+[[ECCV 2024](https://arxiv.org/abs/2407.10625)]
 [[Project](https://wildvidfit-project.github.io/)]
 
 **Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos** \
@@ -674,7 +674,7 @@
 [[Project](https://omriavrahami.com/diffuhaul/)]
 
 **RegionDrag: Fast Region-Based Image Editing with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2407.18247] 
+[[Website](https://arxiv.org/abs/2407.18247)] 
 
 **Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
 [[Website](https://arxiv.org/abs/2401.18085)] 
@@ -3044,7 +3044,7 @@
 [[Code](https://github.com/XiangGao1102/FCDiffusion)] 
 
 **ZePo: Zero-Shot Portrait Stylization with Faster Sampling** \
-[[ACMMM 2024](https://arxiv.org/abs/2408.05492)]
+[[ACM MM 2024](https://arxiv.org/abs/2408.05492)]
 [[Code](https://github.com/liujin112/ZePo)]
 
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
@@ -3756,7 +3756,7 @@
 [[Project](https://objectdrop.github.io/)]
 
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization** \
-[[ACMMM 24](https://arxiv.org/abs/2408.03637)] 
+[[ACM MM 2024](https://arxiv.org/abs/2408.03637)] 
 
 **Semantically Consistent Video Inpainting with Conditional Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.00251)] 
