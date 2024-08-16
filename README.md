@@ -4874,6 +4874,10 @@
 [[Website](https://arxiv.org/abs/2406.01900)]
 [[Project](https://follow-your-emoji.github.io/)] 
 
+**FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance** \
+[[Website](https://arxiv.org/abs/2408.08189)]
+[[Project](https://fancyvideo.github.io/)] 
+
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
 
