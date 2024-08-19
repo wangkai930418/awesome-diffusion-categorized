@@ -1101,6 +1101,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2308.08947)]
 [[Project](https://ashmrz.github.io/WatchYourSteps/)] 
 
+**TurboEdit: Instant text-based image editing** \
+[[ECCV 2024](https://arxiv.org/abs/2408.08332)]
+[[Project](https://betterze.github.io/TurboEdit/)] 
+
 **FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** \
 [[Website](https://arxiv.org/abs/2408.03355)]
 [[Project](https://fastedit-sd.github.io/)] 
@@ -1260,6 +1264,9 @@
 
 **FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation** \
 [[Website](https://arxiv.org/abs/2408.00998)]
+
+**Achieving Complex Image Edits via Function Aggregation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.08495)]
 
 
 ## Continual Learning
@@ -3086,6 +3093,10 @@
 
 **Regularized Distribution Matching Distillation for One-step Unpaired Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2406.14762)]
+
+**TEXTOC: Text-driven Object-Centric Style Transfer** \
+[[Website](https://arxiv.org/abs/2408.08461)]
+
 
 ## Segmentation Detection Tracking
 **odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
