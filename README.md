@@ -2447,6 +2447,10 @@
 [[Website](https://arxiv.org/abs/2310.09247)] 
 [[Code](https://github.com/yandex-research/text-to-img-hypernymy)]
 
+**TraDiffusion: Trajectory-Based Training-Free Image Generation** \
+[[Website](https://arxiv.org/abs/2408.09739)] 
+[[Code](https://github.com/och-mac/TraDiffusion)]
+
 **If at First You Don’t Succeed, Try, Try Again:Faithful Diffusion-based Text-to-Image Generation by Selection** \
 [[Website](https://arxiv.org/abs/2305.13308)] 
 [[Code](https://github.com/ExplainableML/ImageSelect)]
