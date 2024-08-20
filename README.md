@@ -1914,6 +1914,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
 [[Project](https://corleone-huang.github.io/realcustom/)] 
 
+**RealCustom++: Representing Images as Real-Word for Real-Time Customization** \
+[[Website](https://arxiv.org/abs/2408.09744)] 
+[[Project](https://corleone-huang.github.io/RealCustom_plus_plus/)] 
+
 **Personalized Residuals for Concept-Driven Text-to-Image Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2405.12978)] 
 [[Project](https://cusuh.github.io/personalized-residuals/)] 
@@ -2117,6 +2121,9 @@
 
 **PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control** \
 [[Website](https://arxiv.org/abs/2408.05083)] 
+
+**MagicID: Flexible ID Fidelity Generation System** \
+[[Website](https://arxiv.org/abs/2408.09248)] 
 
 
 
@@ -5031,6 +5038,9 @@
 
 **Fine-gained Zero-shot Video Sampling** \
 [[Website](https://arxiv.org/abs/2407.21475)]
+
+**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data** \
+[[Website](https://arxiv.org/abs/2408.10119)]
 
 
 ## Video Editing 
