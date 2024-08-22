@@ -270,6 +270,9 @@
 **AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement** \
 [[Website](https://arxiv.org/abs/2407.14900)]
 
+**Taming Generative Diffusion for Universal Blind Image Restoration** \
+[[Website](https://arxiv.org/abs/2408.11287)]
+
 
 ## Colorization
 
@@ -581,6 +584,9 @@
 
 **ShoeModel: Learning to Wear on the User-specified Shoes via Diffusion Model** \
 [[Website](https://arxiv.org/abs/2404.04833)]
+
+**AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion** \
+[[Website](https://arxiv.org/abs/2408.11553)]
 
 
 ## Drag Edit
@@ -2366,6 +2372,10 @@
 [[Project](https://nithin-gk.github.io/maxfusion.github.io/)] 
 [[Code](https://github.com/Nithin-GK/MaxFusion)]
 
+**Iterative Object Count Optimization for Text-to-image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.11721)] 
+[[Project](https://ozzafar.github.io/count_token/)] 
+[[Code](https://github.com/ozzafar/discriminative_class_tokens_for_counting)]
 
 **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment** \
 [[Website](https://arxiv.org/abs/2403.05135)] 
@@ -2703,6 +2713,9 @@
 
 **Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.00230)] 
+
+**FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting** \
+[[Website](https://arxiv.org/abs/2408.11706)] 
 
 
 ## Spatial Control
