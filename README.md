@@ -659,6 +659,10 @@
 [[Website](https://arxiv.org/abs/2401.06442)] 
 [[Code](https://github.com/Tony-Lowe/RotationDrag)]
 
+**TrackGo: A Flexible and Efficient Method for Controllable Video Generation** \
+[[Website](https://arxiv.org/abs/2408.11475)] 
+[[Project](https://zhtjtcz.github.io/TrackGo-Page/)] 
+
 **DragText: Rethinking Text Embedding in Point-based Image Editing** \
 [[Website](https://arxiv.org/abs/2407.17843)] 
 [[Project](https://micv-yonsei.github.io/dragtext2025/)] 
@@ -1045,6 +1049,10 @@
 **Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation** \
 [[CVPR 2024](https://arxiv.org/abs/2312.10113)] 
 [[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
+
+**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing** \
+[[Website](https://arxiv.org/abs/2408.12429)] 
+[[Code](https://github.com/a-new-b/flex_edit)] 
 
 **Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing** \
 [[Website](https://arxiv.org/abs/2407.20232)] 
@@ -4654,7 +4662,6 @@
 [[Website](https://arxiv.org/abs/2408.06072)]
 [[Code](https://github.com/THUDM/CogVideo)]
 
-
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
 [[Code](https://github.com/YangLing0818/ContextDiff)]
@@ -4662,6 +4669,10 @@
 **SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces** \
 [[ICLR 2024](https://arxiv.org/abs/2403.07711)]
 [[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
+
+**Real-Time Video Generation with Pyramid Attention Broadcast** \
+[[Website](https://arxiv.org/abs/2408.12588)]
+[[Code](https://github.com/NUS-HPC-AI-Lab/VideoSyso)]
 
 **Co-Speech Gesture Video Generation via Motion-Decoupled Diffusion Model** \
 [[Website](https://arxiv.org/abs/2404.01862)]
@@ -5055,6 +5066,8 @@
 **Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data** \
 [[Website](https://arxiv.org/abs/2408.10119)]
 
+**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations** \
+[[Website](https://arxiv.org/abs/2408.12590)]
 
 ## Video Editing 
 
@@ -5207,7 +5220,9 @@
 [[Website](https://arxiv.org/abs/2303.12688)]
 [[Code](https://github.com/G-U-N/Pix2Video.pytorch)] 
 
-
+**E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment** \
+[[Website](https://arxiv.org/abs/2408.11481)]
+[[Code](https://github.com/littlespray/E-Bench)] 
 
 **Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**\
 [[Website](https://arxiv.org/abs/2305.05464)]
