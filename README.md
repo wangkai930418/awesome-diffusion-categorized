@@ -4924,6 +4924,10 @@
 [[Website](https://arxiv.org/abs/2408.08189)]
 [[Project](https://fancyvideo.github.io/)] 
 
+**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** \
+[[Website](https://arxiv.org/abs/2408.13239)]
+[[Project](https://customcrafter.github.io/)] 
+
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
 
