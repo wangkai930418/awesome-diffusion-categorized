@@ -5069,6 +5069,10 @@
 **xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations** \
 [[Website](https://arxiv.org/abs/2408.12590)]
 
+**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation** \
+[[Website](https://arxiv.org/abs/2408.13005)]
+
+
 ## Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
