@@ -138,6 +138,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.08939)]
 [[Code](https://github.com/JianghaiSCU/LightenDiffusion)]
 
+**Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model** \
+[[ECCV 2024](https://arxiv.org/abs/2408.13459)]
+[[Code](https://github.com/Chen-Rao/VD-Diff)]
+
 **DAVI: Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problem** \
 [[ECCV 2024](https://arxiv.org/abs/2407.16125)]
 [[Code](https://github.com/mlvlab/DAVI)]
@@ -248,6 +252,9 @@
 
 **Unpaired Photo-realistic Image Deraining with Energy-informed Diffusion Model** \
 [[Website](https://arxiv.org/abs/2407.17193)]
+
+**Particle-Filtering-based Latent Diffusion for Inverse Problems** \
+[[Website](https://arxiv.org/abs/2408.13868)]
 
 **Bayesian Conditioned Diffusion Models for Inverse Problem** \
 [[Website](https://arxiv.org/abs/2406.09768)]
@@ -808,6 +815,9 @@
 **Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing** \
 [[ICASSP 2024](https://arxiv.org/abs/2401.09794)]
 
+**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing** \
+[[Website](https://arxiv.org/abs/2408.13395)] 
+
 **Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
@@ -1282,6 +1292,8 @@
 **Achieving Complex Image Edits via Function Aggregation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.08495)]
 
+**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing** \
+[[Website](https://arxiv.org/abs/2408.13623)]
 
 ## Continual Learning
 
@@ -2588,6 +2600,8 @@
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
 [[Website](https://arxiv.org/abs/2401.02015)] 
 
+**GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections** \
+[[ECCV 2024](https://arxiv.org/abs/2408.12352)] 
 
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
 [[ICML 2024](https://arxiv.org/abs/2405.01008)] 
@@ -2725,6 +2739,8 @@
 **FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting** \
 [[Website](https://arxiv.org/abs/2408.11706)] 
 
+**Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.14135)] 
 
 ## Spatial Control
 
@@ -2927,6 +2943,9 @@
 
 **Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion** \
 [[Website](https://arxiv.org/abs/2404.14768)] 
+
+**Draw Like an Artist: Complex Scene Generation with Diffusion Model via Composition, Painting, and Retouching** \
+[[Website](https://arxiv.org/abs/2408.13858)] 
 
 **Enhancing Image Layout Control with Loss-Guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.14101)] 
@@ -4304,6 +4323,11 @@
 [[Project](https://maxin-cn.github.io/cinemo_project/)] 
 [[Code](https://github.com/maxin-cn/Cinemo)]
 
+**TVG: A Training-free Transition Video Generation Method with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.13413)]
+[[Project](https://sobeymil.github.io/tvg.com/)] 
+[[Code](https://github.com/SobeyMIL/TVG)]
+
 **MotionClone: Training-Free Motion Cloning for Controllable Video Generation** \
 [[Website](https://arxiv.org/abs/2406.05338)]
 [[Project](https://bujiazi.github.io/motionclone.github.io/)] 
@@ -4658,6 +4682,7 @@
 [[ICLR 2023](https://arxiv.org/abs/2205.15868)]
 [[Code](https://github.com/THUDM/CogVideo)]
 
+
 **CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer** \
 [[Website](https://arxiv.org/abs/2408.06072)]
 [[Code](https://github.com/THUDM/CogVideo)]
@@ -4741,6 +4766,10 @@
 **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2407.09012)]
 [[Project](https://eccv2024tcan.github.io/)] 
+
+**Training-free Long Video Generation with Chain of Diffusion Model Experts** \
+[[Website](https://arxiv.org/abs/2408.13423)]
+[[Project](https://confiner2025.github.io/)]
 
 **FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention** \
 [[Website](https://arxiv.org/abs/2407.19918)]
