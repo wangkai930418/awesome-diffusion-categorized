@@ -453,6 +453,11 @@
 [[Project](https://rlawjdghek.github.io/StableVITON/)]
 [[Code](https://github.com/rlawjdghek/stableviton)] 
 
+**VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding** \
+[[Website](https://arxiv.org/abs/2408.12340)]
+[[Project](https://vton-handfit.github.io/)]
+[[Code](https://github.com/VTON-HandFit/VTON-HandFit)] 
+
 **IMAGDressing-v1: Customizable Virtual Dressing** \
 [[Website](https://arxiv.org/abs/2407.12705)]
 [[Project](https://imagdressing.github.io/)]
@@ -4678,6 +4683,16 @@
 [[Project](http://haonanqiu.com/projects/FreeTraj.html)]
 [[Code](https://github.com/arthur-qiu/FreeTraj)] 
 
+**Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation** \
+[[Website](https://arxiv.org/abs/2408.15239)]
+[[Project](https://svd-keyframe-interpolation.github.io/)]
+[[Code](https://github.com/jeanne-wang/svd_keyframe_interpolation)] 
+
+**MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2408.14975)]
+[[Project](https://megactor-ops.github.io/)]
+[[Code](https://github.com/megvii-research/MegActor)] 
+
 **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
 [[ICLR 2023](https://arxiv.org/abs/2205.15868)]
 [[Code](https://github.com/THUDM/CogVideo)]
@@ -4962,6 +4977,9 @@
 
 **SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction** \
 [[Website](https://arxiv.org/abs/2310.20700)]
+
+**GenRec: Unifying Video Generation and Recognition with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.15241)]
 
 
 **Dual-Stream Diffusion Net for Text-to-Video Generation** \
