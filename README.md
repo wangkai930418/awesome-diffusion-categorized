@@ -2156,7 +2156,8 @@
 **MagicID: Flexible ID Fidelity Generation System** \
 [[Website](https://arxiv.org/abs/2408.09248)] 
 
-
+**CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2408.15914)] 
 
 <!-- ## Representation Learning
 
@@ -3223,6 +3224,10 @@
 **Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model** \
 [[ECCV 2024](https://arxiv.org/abs/2407.05352)] 
 [[Code](https://github.com/nini0919/DiffPNG)]
+
+**ConsistencyTrack: A Robust Multi-Object Tracker with a Generation Strategy of Consistency Model** \
+[[Website](https://arxiv.org/abs/2408.15548)] 
+[[Code](https://github.com/Tankowa/ConsistencyTrack)]
 
 **SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow** \
 [[Website](https://arxiv.org/abs/2405.20282)] 
