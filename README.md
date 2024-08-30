@@ -1834,6 +1834,11 @@
 [[Project](https://ziplora.github.io/)] 
 [[Code](https://github.com/mkshing/ziplora-pytorch)]
 
+**CSGO: Content-Style Composition in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2311.13600)] 
+[[Project](https://csgo-gen.github.io/)] 
+[[Code](https://github.com/instantX-research/CSGO)]
+
 **Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning** \
 [[ECCV 2024](https://arxiv.org/abs/2407.06642)] 
 [[Code](https://github.com/wfanyue/DPG-T2I-Personalization)]
@@ -3755,6 +3760,10 @@
 [[Website](https://arxiv.org/abs/2404.12900)] 
 [[Code](https://github.com/BlueDyee/TF-GPH)]
 
+**What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer** \
+[[Website](https://arxiv.org/abs/2408.16450)] 
+[[Code](https://github.com/cychungg/HairFusion)]
+
 **Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2407.16982)] 
 [[Code](https://github.com/OpenGVLab/Diffree)]
@@ -5127,6 +5136,12 @@
 
 **EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation** \
 [[Website](https://arxiv.org/abs/2408.13005)]
+
+**Alignment is All You Need: A Training-free Augmentation Strategy for Pose-guided Video Generation** \
+[[Website](https://arxiv.org/abs/2408.16506)]
+
+**One-Shot Learning Meets Depth Diffusion in Multi-Object Videos** \
+[[Website](https://arxiv.org/abs/2408.16704)]
 
 
 ## Video Editing 
