@@ -280,6 +280,10 @@
 **Taming Generative Diffusion for Universal Blind Image Restoration** \
 [[Website](https://arxiv.org/abs/2408.11287)]
 
+**Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL** \
+[[Website](https://arxiv.org/abs/2408.17060)]
+
+
 
 ## Colorization
 
@@ -1384,6 +1388,12 @@
 [[Website](https://arxiv.org/abs/2403.13807)] 
 [[Project](https://silentview.github.io/EMCID/)] 
 [[Code](https://github.com/SilentView/EMCID)]
+
+**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models** \
+[[Website](https://arxiv.org/abs/2408.16807)] 
+[[Project](https://koushiksrivats.github.io/robust-concept-erasing/)] 
+[[Code](https://github.com/koushiksrivats/robust-concept-erasing)]
+
 
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
@@ -3119,6 +3129,11 @@
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
 [[Code](https://github.com/submissionanon18/agg)]
+
+**Enabling Local Editing in Diffusion Models by Joint and Individual Component Analysis** \
+[[Website](https://arxiv.org/abs/2408.16845)]
+[[Code](https://zelaki.github.io/localdiff/)]
+
 
 **GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis** \
 [[Website](https://arxiv.org/abs/2401.15282)]
