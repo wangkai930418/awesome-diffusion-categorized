@@ -604,6 +604,9 @@
 **AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion** \
 [[Website](https://arxiv.org/abs/2408.11553)]
 
+**DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing** \
+[[Website](https://arxiv.org/abs/2409.01086)]
+
 
 ## Drag Edit
 
@@ -1069,6 +1072,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2312.10113)] 
 [[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
 
+**Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing** \
+[[ECCV 2024](https://arxiv.org/abs/2409.01322)] 
+[[Code](https://github.com/FusionBrainLab/Guide-and-Rescale)] 
+
 **FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing** \
 [[Website](https://arxiv.org/abs/2408.12429)] 
 [[Code](https://github.com/a-new-b/flex_edit)] 
@@ -1311,6 +1318,10 @@
 [[Website](https://arxiv.org/abs/2212.05993)] 
 [[Project](https://jblei.site/proj/rgbd-diffusion)] 
 [[Code](https://github.com/Karbo123/RGBD-Diffusion)]
+
+**Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning** \
+[[ECCV 2024 Oral](https://arxiv.org/abs/2409.01128)] 
+[[Code](https://github.com/jinglin-liang/DDDR)]
 
 **CLoG: Benchmarking Continual Learning of Image Generation Models** \
 [[Website](https://arxiv.org/abs/2406.04584)] 
@@ -2452,6 +2463,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2404.04650)] 
 [[Code](https://github.com/xiefan-guo/initno)]
 
+**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2404.07389)] 
+[[Code](https://github.com/YasminZhang/EBAMA/tree/master)]
+
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
 [[Code](https://github.com/TruthAI-Lab/PCIG)]
@@ -2736,9 +2751,6 @@
 **TextCraftor: Your Text Encoder Can be Image Quality Controller** \
 [[Website](https://arxiv.org/abs/2403.18978)] 
 
-**Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2404.07389)] 
-
 **Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding** \
 [[Website](https://arxiv.org/abs/2404.11589)] 
 
@@ -2762,6 +2774,12 @@
 
 **Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.14135)] 
+
+**SPDiffusion: Semantic Protection Diffusion for Multi-concept Text-to-image Generation** \
+[[Website](https://arxiv.org/abs/2409.01327)] 
+
+**Training-Free Sketch-Guided Diffusion with Latent Optimization** \
+[[Website](https://arxiv.org/abs/2409.00313)] 
 
 ## Spatial Control
 
@@ -3173,6 +3191,9 @@
 
 **TEXTOC: Text-driven Object-Centric Style Transfer** \
 [[Website](https://arxiv.org/abs/2408.08461)]
+
+**Seed-to-Seed: Image Translation in Diffusion Seed Space** \
+[[Website](https://arxiv.org/abs/2409.00654)]
 
 
 ## Segmentation Detection Tracking
@@ -3754,6 +3775,11 @@
 [[Project](https://powerpaint.github.io/)]
 [[Code](https://github.com/open-mmlab/mmagic/tree/main/projects/powerpaint)] 
 
+**Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation** \
+[[Website](https://arxiv.org/abs/2409.01055)] 
+[[Project](https://follow-your-canvas.github.io/)]
+[[Code](https://github.com/mayuelala/FollowYourCanvas)] 
+
 **Towards Language-Driven Video Inpainting via Multimodal Large Language Models** \
 [[Website](https://arxiv.org/abs/2401.10226)]
 [[Project](https://jianzongwu.github.io/projects/rovi/)]
@@ -3818,6 +3844,11 @@
 **Sketch-guided Image Inpainting with Partial Discrete Diffusion Process** \
 [[Website](https://arxiv.org/abs/2404.11949)] 
 [[Code](https://github.com/vl2g/Sketch-Inpainting)] 
+
+**ReMOVE: A Reference-free Metric for Object Erasure** \
+[[Website](https://arxiv.org/abs/2409.00707)] 
+[[Code](https://github.com/chandrasekaraditya/ReMOVE)] 
+
 
 **Text2Place: Affordance-aware Text Guided Human Placement** \
 [[ECCV 2024](https://arxiv.org/abs/2407.15446)] 
@@ -4079,6 +4110,10 @@
 
 **CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction** \
 [[Website](https://arxiv.org/abs/2407.16204)]
+
+**Zero-Shot Paragraph-level Handwriting Imitation with Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2409.00786)]
+
 
 ## Super Resolution
 
@@ -4717,6 +4752,11 @@
 [[Project](https://svd-keyframe-interpolation.github.io/)]
 [[Code](https://github.com/jeanne-wang/svd_keyframe_interpolation)] 
 
+**AMG: Avatar Motion Guided Video Generation** \
+[[Website](https://arxiv.org/abs/2409.01502)]
+[[Project](https://zshyang.github.io/amg-website/)]
+[[Code](https://github.com/zshyang/amg)] 
+
 **MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2408.14975)]
 [[Project](https://megactor-ops.github.io/)]
@@ -4786,6 +4826,10 @@
 **TAVGBench: Benchmarking Text to Audible-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.14381)]
 [[Code](https://github.com/OpenNLPLab/TAVGBench)]
+
+**OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2409.01199)]
+[[Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 
 **MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling** \
 [[Website](https://arxiv.org/abs/2405.18003)]
