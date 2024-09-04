@@ -313,6 +313,11 @@
 
 ## Face Restoration
 
+**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2308.15070)]
+[[Project](https://0x3f3f3f3fun.github.io/projects/diffbir/)]
+[[Code](https://github.com/XPixelGroup/DiffBIR)]
+
 **DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration** \
 [[CVPR 2023](https://arxiv.org/abs/2303.06885)]
 [[Code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)]
