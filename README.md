@@ -109,6 +109,11 @@
 [[Project](https://daps-inverse-problem.github.io/)]
 [[Code](https://github.com/zhangbingliang2019/DAPS)]
 
+**Solving Video Inverse Problems Using Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2409.02574)]
+[[Project](https://solving-video-inverse.github.io/main/)]
+[[Code](https://github.com/solving-video-inverse/codes)]
+
 **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion** \
 [[Website](https://arxiv.org/abs/2310.10123)]
 [[Project](https://jiangyitong.github.io/AutoDIR_webpage/)]
@@ -2439,6 +2444,12 @@
 [[Project](https://ella-diffusion.github.io/)] 
 [[Code](https://github.com/ELLA-Diffusion/ELLA)]
 
+**HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts** \
+[[Website](https://arxiv.org/abs/2409.02919)] 
+[[Project](https://liuxinyv.github.io/HiPrompt/)] 
+[[Code](https://github.com/Liuxinyv/HiPrompt)]
+
+
 **TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation** \
 [[Website](https://arxiv.org/abs/2404.18919)] 
 [[Project](https://howe140.github.io/theatergen.io/)] 
@@ -4761,6 +4772,11 @@
 [[Website](https://arxiv.org/abs/2409.01502)]
 [[Project](https://zshyang.github.io/amg-website/)]
 [[Code](https://github.com/zshyang/amg)] 
+
+**DiVE: DiT-based Video Generation with Enhanced Control** \
+[[Website](https://arxiv.org/abs/2409.01595)]
+[[Project](https://liautoad.github.io/DIVE/)]
+[[Code](https://github.com/LiAutoAD/DIVE)] 
 
 **MegActor-Σ: Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2408.14975)]
