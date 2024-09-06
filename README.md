@@ -288,6 +288,8 @@
 **Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL** \
 [[Website](https://arxiv.org/abs/2408.17060)]
 
+**Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration** \
+[[Website](https://arxiv.org/abs/2409.03455)]
 
 
 ## Colorization
@@ -5524,3 +5526,6 @@
 
 **Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion** \
 [[Website](https://arxiv.org/abs/2408.00458)]
+
+**Blended Latent Diffusion under Attention Control for Real-World Video Editing** \
+[[Website](https://arxiv.org/abs/2409.03514)]
