@@ -288,6 +288,10 @@
 **Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL** \
 [[Website](https://arxiv.org/abs/2408.17060)]
 
+**Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior** \
+[[Website](https://arxiv.org/abs/2409.04384)]
+
+
 **Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration** \
 [[Website](https://arxiv.org/abs/2409.03455)]
 
@@ -315,7 +319,6 @@
 
 **DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2308.01655)]
-
 
 
 ## Face Restoration
@@ -2197,6 +2200,9 @@
 **CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization** \
 [[Website](https://arxiv.org/abs/2408.15914)] 
 
+**ArtiFade: Learning to Generate High-quality Subject from Blemished Images** \
+[[Website](https://arxiv.org/abs/2409.03745)] 
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -2492,6 +2498,11 @@
 **Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization** \
 [[Website](https://arxiv.org/abs/2406.06382)] 
 [[Code](https://github.com/yigu1008/Diffusion-RPO)]
+
+**RealisHuman: A Two-Stage Approach for Refining Malformed Human Parts in Generated Images** \
+[[Website](https://arxiv.org/abs/2409.03644)] 
+[[Code](https://github.com/Wangbenzhi/RealisHuman)]
+
 
 **AID: Attention Interpolation of Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2403.17924)] 
@@ -4037,6 +4048,10 @@
 [[Project](https://udifftext.github.io/)] 
 [[Code](https://github.com/ZYM-PKU/UDiffText)] 
 
+**One-Shot Diffusion Mimicker for Handwritten Text Generation** \
+[[ECCV 2024](https://arxiv.org/abs/2409.04004)]
+[[Code](https://github.com/dailenson/One-DM)] 
+
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** \
 [[AAAI 2024](https://arxiv.org/abs/2312.12232)]
 [[Code](https://github.com/ecnuljzhang/brush-your-text)] 
@@ -5526,6 +5541,7 @@
 
 **Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion** \
 [[Website](https://arxiv.org/abs/2408.00458)]
+
 
 **Blended Latent Diffusion under Attention Control for Real-World Video Editing** \
 [[Website](https://arxiv.org/abs/2409.03514)]
