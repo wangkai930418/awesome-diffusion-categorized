@@ -2203,6 +2203,10 @@
 **ArtiFade: Learning to Generate High-quality Subject from Blemished Images** \
 [[Website](https://arxiv.org/abs/2409.03745)] 
 
+**CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2409.05606)] 
+
+
 <!-- ## Representation Learning
 
 **Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
@@ -2964,6 +2968,9 @@
 [[Website](https://arxiv.org/abs/2308.06027)] 
 [[Code](https://github.com/endo-yuki-t/MAG)]
 
+**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2409.04847)] 
+[[Code](https://github.com/cplusx/rich_context_L2I/tree/main)]
 
 **Enhancing Object Coherence in Layout-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.10522)] 
@@ -3071,6 +3078,9 @@
 
 **Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2406.04032)] 
+
+**SpotActor: Training-Free Layout-Controlled Consistent Image Generation** \
+[[Website](https://arxiv.org/abs/2409.04801)] 
 
 
 ## I2I translation
@@ -3946,6 +3956,10 @@
 
 **InsertDiffusion: Identity Preserving Visualization of Objects through a Training-Free Diffusion Architecture** \
 [[Website](https://arxiv.org/abs/2407.10592)] 
+
+**Thinking Outside the BBox: Unconstrained Generative Object Compositing** \
+[[Website](https://arxiv.org/abs/2409.04559)] 
+
 
 
 ## Layout Generation
