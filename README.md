@@ -4110,6 +4110,10 @@
 [[Website](https://arxiv.org/abs/2407.02252)]
 [[Code](https://github.com/OPPO-Mente-Lab/GlyphDraw2)] 
 
+**DiffusionPen: Towards Controlling the Style of Handwritten Text Generation** \
+[[Website](https://arxiv.org/abs/2409.06065)]
+[[Code](https://github.com/koninik/DiffusionPen)] 
+
 **AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2312.02967)]
 [[Project](https://raymond-yeh.com/AmbiGen/)] 
