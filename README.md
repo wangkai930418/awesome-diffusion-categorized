@@ -295,6 +295,9 @@
 **Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration** \
 [[Website](https://arxiv.org/abs/2409.03455)]
 
+**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process** \
+[[Website](https://arxiv.org/abs/2409.07451)]
+
 
 ## Colorization
 
