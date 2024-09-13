@@ -530,6 +530,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.15111)]
 [[Code](https://github.com/Jerome-Young/D4-VTON)]
 
+**Improving Virtual Try-On with Garment-focused Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2409.08258)]
+[[Code](https://github.com/siqi0905/GarDiff/tree/master)]
+
 **Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On** \
 [[CVPR 2024](https://arxiv.org/abs/2404.01089)]
 [[Code](https://github.com/gal4way/tpd)]
@@ -1212,6 +1216,10 @@
 [[Website](https://arxiv.org/abs/2405.09114)]
 [[Project](https://soediff.github.io/)]
 
+**Click2Mask: Local Editing with Dynamic Mask Generation** \
+[[Website](https://arxiv.org/abs/2409.08272)]
+[[Project](https://omeregev.github.io/click2mask/)]
+
 **FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing** \
 [[ECCV 2024](https://arxiv.org/abs/2407.17850)] 
 
@@ -1857,6 +1865,16 @@
 [[Website](https://arxiv.org/abs/2402.12004)] 
 [[Project](https://dco-t2i.github.io/)] 
 [[Code](https://github.com/kyungmnlee/dco)]
+
+**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder** \
+[[Website](https://arxiv.org/abs/2409.08248)] 
+[[Project](https://textboost.github.io/)] 
+[[Code](https://github.com/nahyeonkaty/textboost)]
+
+**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance** \
+[[Website](https://arxiv.org/abs/2409.08091)] 
+[[Project](https://zichengduan.github.io/pages/EZIGen/index.html)] 
+[[Code](https://github.com/ZichengDuan/EZIGen)]
 
 **OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.10983)] 
@@ -3085,6 +3103,12 @@
 **SpotActor: Training-Free Layout-Controlled Consistent Image Generation** \
 [[Website](https://arxiv.org/abs/2409.04801)] 
 
+**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2409.08240)] 
+
+**Scribble-Guided Diffusion for Training-free Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2409.08026)] 
+
 
 ## I2I translation
 
@@ -3236,6 +3260,9 @@
 
 **Seed-to-Seed: Image Translation in Diffusion Seed Space** \
 [[Website](https://arxiv.org/abs/2409.00654)]
+
+**Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation** \
+[[Website](https://arxiv.org/abs/2409.08077)]
 
 
 ## Segmentation Detection Tracking
@@ -3826,6 +3853,11 @@
 [[Website](https://arxiv.org/abs/2401.10226)]
 [[Project](https://jianzongwu.github.io/projects/rovi/)]
 [[Code](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)]
+
+**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**\
+[[ECCV 2024](https://arxiv.org/abs/2409.08260)] 
+[[Code](https://github.com/Nnn-s/CATdiffusion)] 
+
 
 **FreeCompose: Generic Zero-Shot Image Composition with Diffusion Prior** \
 [[ECCV 2024](https://arxiv.org/abs/2407.04947)] 
