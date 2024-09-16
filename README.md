@@ -356,6 +356,8 @@
 **DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration** \
 [[Website](https://arxiv.org/abs/2403.10098)]
 
+**Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling** \
+[[Website](https://arxiv.org/abs/2409.08906)]
 
 ## Storytelling
 
@@ -683,6 +685,11 @@
 [[Website](https://arxiv.org/abs/2403.07420)] 
 [[Project](https://weijiawu.github.io/draganything_page/)]
 [[Code](https://github.com/showlab/DragAnything)]
+
+**InstantDrag: Improving Interactivity in Drag-based Image Editing** \
+[[Website](https://arxiv.org/abs/2409.08857)] 
+[[Project](https://joonghyuk.com/instantdrag-web/)]
+[[Code](https://github.com/alex4727/InstantDrag)]
 
 **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2402.02583)] 
@@ -3016,6 +3023,10 @@
 **Compositional Text-to-Image Generation with Dense Blob Representations** \
 [[Website](https://arxiv.org/abs/2405.08246)] 
 [[Project](https://blobgen-2d.github.io/)] 
+
+**GroundingBooth: Grounding Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2409.08520)] 
+[[Project](https://groundingbooth.github.io/)] 
 
 **Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2311.15773)] 
