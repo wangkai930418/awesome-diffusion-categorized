@@ -868,6 +868,8 @@
 **Fixed-point Inversion for Text-to-image diffusion models** \
 [[Website](https://arxiv.org/abs/2312.12540)] 
 
+**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing** \
+[[Website](https://arxiv.org/abs/2409.10476)]
 
 **Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.04441)]
@@ -3934,6 +3936,9 @@
 [[Website](https://arxiv.org/abs/2409.00707)] 
 [[Code](https://github.com/chandrasekaraditya/ReMOVE)] 
 
+**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2409.10090)] 
+[[Code](https://github.com/weijing-tao/MotionCom)] 
 
 **Text2Place: Affordance-aware Text Guided Human Placement** \
 [[ECCV 2024](https://arxiv.org/abs/2407.15446)] 
@@ -5609,3 +5614,6 @@
 
 **Blended Latent Diffusion under Attention Control for Real-World Video Editing** \
 [[Website](https://arxiv.org/abs/2409.03514)]
+
+**EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models** \
+[[Website](https://arxiv.org/abs/2409.09668)]
