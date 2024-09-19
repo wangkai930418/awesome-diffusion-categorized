@@ -1346,6 +1346,9 @@
 **Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing** \
 [[Website](https://arxiv.org/abs/2408.13623)]
 
+**InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2409.11734)]
+
 ## Continual Learning
 
 **RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
