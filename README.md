@@ -410,6 +410,11 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.13319)]
 [[Code](https://github.com/ubc-vision/Make-A-Story)]
 
+**StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation** \
+[[Website](https://arxiv.org/abs/2409.12576)]
+[[Code](https://github.com/RedAIGC/StoryMaker)]
+
+
 **SEED-Story: Multimodal Long Story Generation with Large Language Model** \
 [[Website](https://arxiv.org/abs/2407.08683)]
 [[Code](https://github.com/TencentARC/SEED-Story)]
@@ -5311,6 +5316,9 @@
 
 **One-Shot Learning Meets Depth Diffusion in Multi-Object Videos** \
 [[Website](https://arxiv.org/abs/2408.16704)]
+
+**Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Latent Generation** \
+[[Website](https://arxiv.org/abs/2409.12532)]
 
 
 ## Video Editing 
