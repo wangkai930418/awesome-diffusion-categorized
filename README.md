@@ -4145,6 +4145,10 @@
 [[WACV 2024](https://arxiv.org/abs/2311.09759)]
 [[Code](https://github.com/toyotainfotech/stisr-tcdm)] 
 
+**Leveraging Text Localization for Scene Text Removal via Text-aware Masked Image Modeling** \
+[[ECCV 2024](https://arxiv.org/abs/2409.13431)]
+[[Code](https://github.com/wzx99/TMIM)] 
+
 **Visual Text Generation in the Wild** \
 [[Website](https://arxiv.org/abs/2407.14138)]
 [[Code](https://github.com/alibabaresearch/advancedliteratemachinery)] 
@@ -5628,3 +5632,6 @@
 
 **EditBoard: Towards A Comprehensive Evaluation Benchmark for Text-based Video Editing Models** \
 [[Website](https://arxiv.org/abs/2409.09668)]
+
+**DNI: Dilutional Noise Initialization for Diffusion Video Editing** \
+[[Website](https://arxiv.org/abs/2409.13037)]
