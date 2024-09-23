@@ -28,34 +28,7 @@
 - [Super Resolution](#super-resolution)
 - [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
-<!-- - [Representation Learning](#representation-learning) -->
-<!-- - [X2I/X2X](#x2i-x2x) -->
-<!-- - [Semantic Intrinsic](#semantic-intrinsic) -->
 
-
-<!-- ## Accelerate -->
-
-<!-- ⭐⭐**Adversarial Diffusion Distillation** \
-[[Website](https://arxiv.org/abs/2311.17042)]
-[[Project](https://stability.ai/research/adversarial-diffusion-distillation)]
-[[Diffusers Code](https://huggingface.co/docs/diffusers/en/using-diffusers/sdxl_turbo)] 
-[[Official Code](https://github.com/stability-ai/generative-models)] 
-
-**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2309.06380)]
-[[Code](https://github.com/gnobitab/InstaFlow)] 
-
-**BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion** \
-[[Website](https://arxiv.org/abs/2305.15798v3)]
-[[Code 1](https://github.com/segmind/distill-sd)] 
-[[Code 2](https://github.com/Nota-NetsPresso/BK-SDM)] 
-
-**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
-[[Website](https://arxiv.org/abs/2309.10438)]
-[[Code](https://github.com/lilijiangg/autodiffusion)] 
-
-**Accelerating Image Generation with Sub-path Linear Approximation Model** \
-[[Website](https://arxiv.org/abs/2404.13903)] -->
 
 ## Image Restoration
 
@@ -1524,16 +1497,7 @@
 **EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts** \
 [[Website](https://arxiv.org/abs/2408.01014)] 
 
-<!-- ## Semantic Intrinsic
 
-**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction** \
-[[Website](https://arxiv.org/abs/2311.18832)] 
-[[Project](https://shinying.github.io/dmp/)] 
-[[Code](https://github.com/shinying/dmp)]
-
-**Generative Models: What do they know? Do they know things? Let's find out!** \
-[[Website](https://arxiv.org/abs/2311.17137)] 
-[[Project](https://intrinsic-lora.github.io/)]  -->
 
 ## New Concept Learning
 
@@ -1804,10 +1768,7 @@
 [[Project](https://hiper0.github.io/)] 
 [[Code](https://github.com/HiPer0/HiPer)]
 
-<!-- **Anti-DreamBooth: Protecting users from personalized text-to-image synthesis** \
-[[ICCV 2023](https://arxiv.org/abs/2303.15433)] 
-[[Code](https://github.com/VinAIResearch/Anti-DreamBooth)]
-[[Project](https://anti-dreambooth.github.io/)]  -->
+
 
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
 [[Website](https://arxiv.org/abs/2211.11337)] 
@@ -2244,20 +2205,6 @@
 **CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2409.05606)] 
 
-
-<!-- ## Representation Learning
-
-**Denoising Diffusion Autoencoders are Unified Self-supervised Learners**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xiang_Denoising_Diffusion_Autoencoders_are_Unified_Self-supervised_Learners_ICCV_2023_paper.pdf)]
-[[Code](github.com/FutureXiang/ddae)]
-
-**Diffusion Model as Representation Learner**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Diffusion_Model_as_Representation_Learner_ICCV_2023_paper.pdf)]
-[[Code](https://github.com/Adamdad/Repfusion)]
-
-**Diffusion Models as Masked Autoencoders**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Diffusion_Models_as_Masked_Autoencoders_ICCV_2023_paper.pdf)]
-[[Project](https://weichen582.github.io/diffmae.html)] -->
 
 
 
@@ -4381,18 +4328,6 @@
 
 **Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution** \
 [[Website](https://arxiv.org/abs/2405.10014)]
-
-<!-- ## X2I X2X
-
-**GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation** \
-[[ICCV 2023](https://arxiv.org/abs/2303.10056)] 
-[[Code](https://github.com/salesforce/GlueGen)]
-
-**CoDi: Any-to-Any Generation via Composable Diffusion** \
-[[Website](https://arxiv.org/abs/2305.11846)]
-[[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/72964)]
-[[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
-[[Project](https://codi-gen.github.io/)]  -->
 
 
 
