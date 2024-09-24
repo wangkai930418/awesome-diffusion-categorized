@@ -1069,6 +1069,10 @@
 [[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
 [[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
 
+**GroupDiff: Diffusion-based Group Portrait Editing** \
+[[ECCV 2024](https://arxiv.org/abs/2409.14379)] 
+[[Code](https://github.com/yumingj/GroupDiff)] 
+
 **TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2404.11120)] 
 [[Code](https://github.com/SherryXTChen/TiNO-Edit)] 
@@ -3186,6 +3190,10 @@
 [[Website](https://arxiv.org/abs/2408.16845)]
 [[Code](https://zelaki.github.io/localdiff/)]
 
+**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions** \
+[[Website](https://arxiv.org/abs/2409.15278)]
+[[Code](https://github.com/AFeng-x/PixWizard)]
+
 
 **GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis** \
 [[Website](https://arxiv.org/abs/2401.15282)]
@@ -3839,6 +3847,11 @@
 [[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
 [[Code](https://github.com/htyjers/DGTS-Inpainting)]
 
+**ControlEdit: A MultiModal Local Clothing Image Editing Method** \
+[[Website](https://arxiv.org/abs/2409.14720)] 
+[[Code](https://github.com/cd123-cd/ControlEdit)]
+
+
 **Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing** \
 [[Website](https://arxiv.org/abs/2404.12900)] 
 [[Code](https://github.com/BlueDyee/TF-GPH)]
@@ -3966,6 +3979,8 @@
 **Thinking Outside the BBox: Unconstrained Generative Object Compositing** \
 [[Website](https://arxiv.org/abs/2409.04559)] 
 
+**Content-aware Tile Generation using Exterior Boundary Inpainting** \
+[[Website](https://arxiv.org/abs/2409.14184)] 
 
 
 ## Layout Generation
@@ -4445,6 +4460,11 @@
 [[Website](https://arxiv.org/abs/2408.13413)]
 [[Project](https://sobeymil.github.io/tvg.com/)] 
 [[Code](https://github.com/SobeyMIL/TVG)]
+
+**MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning** \
+[[Website](https://arxiv.org/abs/2409.15179)]
+[[Project](https://mimaface2024.github.io/mimaface.github.io/)] 
+[[Code](https://github.com/MIMAFace2024/MIMAFace)]
 
 **MotionClone: Training-Free Motion Cloning for Controllable Video Generation** \
 [[Website](https://arxiv.org/abs/2406.05338)]
@@ -5258,6 +5278,13 @@
 
 **Denoising Reuse: Exploiting Inter-frame Motion Consistency for Efficient Video Latent Generation** \
 [[Website](https://arxiv.org/abs/2409.12532)]
+
+**S2AG-Vid: Enhancing Multi-Motion Alignment in Video Diffusion Models via Spatial and Syntactic Attention-Based Guidance** \
+[[Website](https://arxiv.org/abs/2409.15259)]
+
+**JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation** \
+[[Website](https://arxiv.org/abs/2409.14149)]
+
 
 
 ## Video Editing 
