@@ -678,7 +678,7 @@
 [[Code](https://github.com/haofengl/DragNoise)]
 
 **DragVideo: Interactive Drag-style Video Editing** \
-[[Website](https://arxiv.org/abs/2312.02216)] 
+[[ECCV 2024](https://arxiv.org/abs/2312.02216)] 
 [[Code](https://github.com/rickyskywalker/dragvideo-official)]
 
 **RotationDrag: Point-based Image Editing with Rotated Diffusion Features** \
@@ -1878,6 +1878,10 @@
 [[Project](https://csgo-gen.github.io/)] 
 [[Code](https://github.com/instantX-research/CSGO)]
 
+**Customized Generation Reimagined: Fidelity and Editability Harmonized** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06727.pdf)] 
+[[Code](https://github.com/jinjianRick/DCI_ICO)]
+
 **Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning** \
 [[ECCV 2024](https://arxiv.org/abs/2407.06642)] 
 [[Code](https://github.com/wfanyue/DPG-T2I-Personalization)]
@@ -1972,6 +1976,10 @@
 **AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2405.17965)] 
 [[Code](https://github.com/junjie-shentu/AttenCraft)] 
+
+**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01439.pdf)] 
+[[Project](https://sites.google.com/view/hybridbooth)] 
 
 **Language-Informed Visual Concept Learning** \
 [[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
@@ -2083,6 +2091,10 @@
 [[Website](https://arxiv.org/abs/2405.06914)] 
 [[Project](https://clif-official.github.io/clif/)] 
 
+
+**ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image** \
+[[ECCV 2024](https://arxiv.org/abs/2402.11849)] 
+
 **Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models** \
 [[CVPR 2024](https://arxiv.org/abs/2404.03913)] 
 
@@ -2161,8 +2173,6 @@
 **Visual Concept-driven Image Generation with Text-to-Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2402.11487)] 
 
-**ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image** \
-[[Website](https://arxiv.org/abs/2402.11849)] 
 
 **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2403.13535)] 
@@ -2661,6 +2671,9 @@
 **GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections** \
 [[ECCV 2024](https://arxiv.org/abs/2408.12352)] 
 
+**MultiGen: Zero-shot Image Generation from Multi-modal Prompt** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01296.pdf)] 
+
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
 [[ICML 2024](https://arxiv.org/abs/2405.01008)] 
 
@@ -2977,6 +2990,12 @@
 [[Website](https://arxiv.org/abs/2403.09055)] 
 [[Code](https://github.com/ironjr/StreamMultiDiffusion)]
 
+
+**Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis** \
+[[ECCV 2024](https://arxiv.org/abs/2311.18435)] 
+[[Project](https://qizipeng.github.io/LRDiff_projectPage/)] 
+
+
 **ReCorD: Reasoning and Correcting Diffusion for HOI Generation** \
 [[ACM MM 2024](https://arxiv.org/abs/2407.17911)] 
 [[Project](https://alberthkyhky.github.io/ReCorD/)] 
@@ -3050,9 +3069,6 @@
 
 **Self-correcting LLM-controlled Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.16090)] 
-
-**Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis** \
-[[Website](https://arxiv.org/abs/2311.18435)] 
 
 **Joint Generative Modeling of Scene Graphs and Images via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.01130)] 
@@ -3225,6 +3241,9 @@
 **High-Fidelity Diffusion-based Image Editing** \
 [[AAAI 2024](https://arxiv.org/abs/2312.15707)]
 
+**EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02096.pdf)]
+
 **UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators** \
 [[Website](https://arxiv.org/abs/2401.12596)]
 
@@ -3239,7 +3258,6 @@
 
 **Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation** \
 [[Website](https://arxiv.org/abs/2409.08077)]
-
 
 ## Segmentation Detection Tracking
 **odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
@@ -3908,6 +3926,10 @@
 [[Website](https://arxiv.org/abs/2409.10090)] 
 [[Code](https://github.com/weijing-tao/MotionCom)] 
 
+**AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03028.pdf)] 
+[[Project](https://addme-awesome.github.io/page/)]
+
 **Text2Place: Affordance-aware Text Guided Human Placement** \
 [[ECCV 2024](https://arxiv.org/abs/2407.15446)] 
 [[Project](https://rishubhpar.github.io/Text2Place/)]
@@ -4086,6 +4108,10 @@
 **One-Shot Diffusion Mimicker for Handwritten Text Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2409.04004)]
 [[Code](https://github.com/dailenson/One-DM)] 
+
+**DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf)]
+[[Code](https://github.com/shreygithub/DCDM)] 
 
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** \
 [[AAAI 2024](https://arxiv.org/abs/2312.12232)]
@@ -4435,6 +4461,11 @@
 [[Website](https://arxiv.org/abs/2407.21705)]
 [[Project](https://ali-videoai.github.io/tora_video/)] 
 [[Code](https://github.com/ali-videoai/Tora)]
+
+**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** \
+[[Website](https://arxiv.org/abs/2409.16160)]
+[[Project](https://menyifang.github.io/projects/MIMO/index.html)] 
+[[Code](https://github.com/menyifang/MIMO)]
 
 **MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence** \
 [[Website](https://arxiv.org/abs/2407.16655)]
