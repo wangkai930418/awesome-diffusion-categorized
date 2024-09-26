@@ -1468,6 +1468,9 @@
 **Direct Unlearning Optimization for Robust and Safe Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2407.21035)] 
 
+**Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Model** \
+[[Website](https://arxiv.org/pdf/2409.16535)] 
+
 **Erasing Concepts from Text-to-Image Diffusion Models with Few-shot Unlearning** \
 [[Website](https://arxiv.org/abs/2405.07288)] 
 
@@ -4059,6 +4062,9 @@
 **LayoutFlow: Flow Matching for Layout Generation** \
 [[Website](https://arxiv.org/abs/2403.18187)]
 
+**Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model** \
+[[Website](https://arxiv.org/abs/2409.16689)]
+
 
 ## Text Generation
 
@@ -4262,6 +4268,10 @@
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
+
+**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2409.17058)] 
+[[Code](https://github.com/ArcticHare105/S3Diff)] 
 
 **One Step Diffusion-based Super-Resolution with Time-Aware Distillation** \
 [[Website](https://arxiv.org/abs/2408.07476)] 
@@ -4940,6 +4950,10 @@
 [[Website](https://arxiv.org/abs/2405.18003)]
 [[Code](https://github.com/18445864529/MAVIN)]
 
+**HARIVO: Harnessing Text-to-Image Models for Video Generation**
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
+[[Project](https://kwonminki.github.io/HARIVO/)]
+
 **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17723)]
 [[Project](https://yzxing87.github.io/Seeing-and-Hearing/)]
@@ -4955,6 +4969,10 @@
 **TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.17005)]
 [[Project](https://trip-i2v.github.io/TRIP/)]
+
+**ZoLA: Zero-Shot Creative Long Animation Generation with Short Video Model** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06174.pdf)]
+[[Project](https://gen-l-2.github.io/)]
 
 **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2407.09012)]
@@ -5531,6 +5549,9 @@
 [[Website](https://arxiv.org/abs/2306.07954)]
 [[Project](https://anonymous-31415926.github.io/)] 
 
+**WAVE: Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing**
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09682.pdf)]
+[[Project](https://ree1s.github.io/wave/)]
 
 **MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
 [[Website](https://arxiv.org/abs/2308.10079)]
