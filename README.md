@@ -72,6 +72,11 @@
 [[Project](https://algolzw.github.io/ir-sde/index.html)]
 [[Code](https://github.com/Algolzw/image-restoration-sde)]
 
+**PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging** \
+[[NeurIPS 2024 Spotlight](https://arxiv.org/abs/2409.17996)]
+[[Project](https://phocolens.github.io/)]
+[[Code](https://github.com/PhoCoLens)]
+
 **Denoising Diffusion Models for Plug-and-Play Image Restoration** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2305.08995)]
 [[Project](https://yuanzhi-zhu.github.io/DiffPIR/)]
@@ -1040,6 +1045,10 @@
 [[Project](https://shi-labs.github.io/Smooth-Diffusion/)] 
 [[Code](https://github.com/SHI-Labs/Smooth-Diffusion)] 
 
+**FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction** \
+[[Website](https://arxiv.org/abs/2409.18071)] 
+[[Project](https://github.com/hrz2000/FreeEdit)] 
+[[Code](https://freeedit.github.io/)] 
 
 **MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance** \
 [[Website](https://arxiv.org/abs/2312.11396)] 
@@ -1909,6 +1918,10 @@
 **Decoupled Textual Embeddings for Customized Image Generation** \
 [[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
 [[Code](https://github.com/PrototypeNx/DETEX)]
+
+**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2409.17920)] 
+[[Code](https://github.com/hqhQAQ/MIP-Adapter)]
 
 **Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2408.03632)] 
@@ -4007,6 +4020,8 @@
 **Content-aware Tile Generation using Exterior Boundary Inpainting** \
 [[Website](https://arxiv.org/abs/2409.14184)] 
 
+**AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status** \
+[[Website](https://arxiv.org/abs/2409.17740)] 
 
 ## Layout Generation
 
@@ -4105,6 +4120,11 @@
 [[Website](https://arxiv.org/abs/2404.11614)]
 [[Project](https://animate-your-word.github.io/demo/)] 
 [[Code](https://github.com/zliucz/animate-your-word)] 
+
+**JoyType: A Robust Design for Multilingual Visual Text Creation** \
+[[Website](https://arxiv.org/abs/2409.17524)]
+[[Project](https://jdh-algo.github.io/JoyType/)] 
+[[Code](https://github.com/jdh-algo/JoyType)] 
 
 **UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.04884)]
@@ -4222,6 +4242,9 @@
 **Zero-Shot Paragraph-level Handwriting Imitation with Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2409.00786)]
 
+**Text Image Generation for Low-Resource Languages with Dual Translation Learning** \
+[[Website](https://arxiv.org/abs/2409.17747)]
+
 
 ## Super Resolution
 
@@ -4264,6 +4287,10 @@
 **CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution** \
 [[CVPR 2024](https://arxiv.org/abs/2405.07648)] 
 [[Code](https://github.com/I2-Multimedia-Lab/CDFormer)] 
+
+**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs** \
+[[NeurIPS 2024](https://arxiv.org/abs/2409.17778)] 
+[[Code](https://github.com/QinpengCui/DoSSR)] 
 
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
