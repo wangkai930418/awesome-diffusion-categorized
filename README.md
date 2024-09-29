@@ -3864,6 +3864,11 @@
 [[Project](https://jianzongwu.github.io/projects/rovi/)]
 [[Code](https://github.com/jianzongwu/Language-Driven-Video-Inpainting)]
 
+**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections** \
+[[Website](https://arxiv.org/abs/2409.14677)]
+[[Project](https://val.cds.iisc.ac.in/reflecting-reality.github.io/)]
+[[Code](https://github.com/val-iisc/Reflecting-Reality)]
+
 **Improving Text-guided Object Inpainting with Semantic Pre-inpainting**\
 [[ECCV 2024](https://arxiv.org/abs/2409.08260)] 
 [[Code](https://github.com/Nnn-s/CATdiffusion)] 
