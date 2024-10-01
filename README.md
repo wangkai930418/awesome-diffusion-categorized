@@ -445,6 +445,10 @@
 **ORACLE: Leveraging Mutual Information for Consistent Character Generation with LoRAs in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.02820)]
 
+**Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection** \
+[[Website](https://arxiv.org/abs/2409.19624)]
+
+
 
 ## Try On
 
@@ -2235,6 +2239,8 @@
 **CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2409.05606)] 
 
+**Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis** \
+[[Website](https://arxiv.org/abs/2409.19111)] 
 
 
 
@@ -2509,6 +2515,10 @@
 **Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2404.07389)] 
 [[Code](https://github.com/YasminZhang/EBAMA/tree/master)]
+
+**Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function** \
+[[NeurIPS 2024](https://arxiv.org/abs/2409.19967)] 
+[[Code](https://github.com/I2-Multimedia-Lab/Magnet)]
 
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
@@ -5681,3 +5691,9 @@
 
 **DNI: Dilutional Noise Initialization for Diffusion Video Editing** \
 [[Website](https://arxiv.org/abs/2409.13037)]
+
+**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing** \
+[[Website](https://arxiv.org/abs/2409.20500)]
+
+**Replace Anyone in Videos** \
+[[Website](https://arxiv.org/abs/2409.19911)]
