@@ -1382,6 +1382,9 @@
 **Create Your World: Lifelong Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2309.04430)] 
 
+**Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.00700)] 
+
 **Online Continual Learning of Video Diffusion Models From a Single Video Stream** \
 [[Website](https://arxiv.org/abs/2406.04814)] 
 
@@ -1996,6 +1999,10 @@
 **AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2405.17965)] 
 [[Code](https://github.com/junjie-shentu/AttenCraft)] 
+
+**CusConcept: Customized Visual Concept Decomposition with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.00398)] 
+[[Code](https://github.com/xzLcan/CusConcept)] 
 
 **HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01439.pdf)] 
@@ -2702,6 +2709,13 @@
 
 **On Mechanistic Knowledge Localization in Text-to-Image Generative Models** \
 [[ICML 2024](https://arxiv.org/abs/2405.01008)] 
+
+**Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.00447)]
+
+**A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization** \
+[[Website](https://arxiv.org/abs/2410.00321)] 
+
 
 **Diffusion Model Alignment Using Direct Preference Optimization** \
 [[Website](https://arxiv.org/abs/2311.12908)] 
@@ -5376,6 +5390,8 @@
 **JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation** \
 [[Website](https://arxiv.org/abs/2409.14149)]
 
+**ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning** \
+[[Website](https://arxiv.org/abs/2410.00262)]
 
 
 ## Video Editing 
