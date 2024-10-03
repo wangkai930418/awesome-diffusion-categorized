@@ -2539,6 +2539,9 @@
 [[Website](https://arxiv.org/abs/2409.03644)] 
 [[Code](https://github.com/Wangbenzhi/RealisHuman)]
 
+**Aggregation of Multi Diffusion Models for Enhancing Learned Representations** \
+[[Website](https://arxiv.org/abs/2410.01262)] 
+[[Code](https://github.com/hammour-steak/amdm)]
 
 **AID: Attention Interpolation of Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2403.17924)] 
@@ -2644,6 +2647,10 @@
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
+
+**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2410.01731)] 
+[[Project](https://comfygen-paper.github.io/)] 
 
 **LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2407.00737)] 
@@ -3284,6 +3291,9 @@
 **EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02096.pdf)]
 
+**Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer** \
+[[Website](https://arxiv.org/abs/2410.01366)]
+
 **UniHDA: Towards Universal Hybrid Domain Adaptation of Image Generators** \
 [[Website](https://arxiv.org/abs/2401.12596)]
 
@@ -3690,6 +3700,9 @@
 [[Website](https://arxiv.org/abs/2312.08768)] 
 [[Code](https://github.com/YibooZhao/Local-Control)]
 
+**KnobGen: Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.01595)] 
+[[Code](https://github.com/aminK8/KnobGen)]
 
 
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
@@ -4191,6 +4204,10 @@
 **Leveraging Text Localization for Scene Text Removal via Text-aware Masked Image Modeling** \
 [[ECCV 2024](https://arxiv.org/abs/2409.13431)]
 [[Code](https://github.com/wzx99/TMIM)] 
+
+**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.01738)]
+[[Code](https://github.com/Carlofkl/VitaGlyph)] 
 
 **Visual Text Generation in the Wild** \
 [[Website](https://arxiv.org/abs/2407.14138)]
@@ -5392,6 +5409,9 @@
 
 **ImmersePro: End-to-End Stereo Video Synthesis Via Implicit Disparity Learning** \
 [[Website](https://arxiv.org/abs/2410.00262)]
+
+**COMUNI: Decomposing Common and Unique Video Signals for Diffusion-based Video Generation** \
+[[Website](https://arxiv.org/abs/2410.01718)]
 
 
 ## Video Editing 
