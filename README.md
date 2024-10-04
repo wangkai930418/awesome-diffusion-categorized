@@ -1714,6 +1714,11 @@
 [[Project](https://codegoat24.github.io/MagicFace/)] 
 [[Code](https://github.com/CodeGoat24/MagicFace)]
 
+**LCM-Lookahead for Encoder-based Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2404.03620)] 
+[[Project](https://lcm-lookahead.github.io/)] 
+[[Code](https://github.com/OrLichter/lcm-lookahead)]
+
 **AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.12805)] 
 [[Project](https://itsmag11.github.io/AITTI/)] 
@@ -1738,6 +1743,11 @@
 [[Website](https://arxiv.org/abs/2405.01536)] 
 [[Project](https://paircustomization.github.io/)] 
 [[Code](https://github.com/PairCustomization/PairCustomization)]
+
+**DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation** \
+[[Website](https://arxiv.org/abs/2410.02067)] 
+[[Project](https://disenvisioner.github.io/)] 
+[[Code](https://github.com/EnVision-Research/DisEnvisioner)]
 
 **ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving** \
 [[Website](https://arxiv.org/abs/2404.16771)] 
@@ -2249,6 +2259,8 @@
 **Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis** \
 [[Website](https://arxiv.org/abs/2409.19111)] 
 
+**Event-Customized Image Generation** \
+[[Website](https://arxiv.org/abs/2410.02483)] 
 
 
 ## T2I Diffusion Model augmentation
@@ -3470,6 +3482,9 @@
 **Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers** \
 [[ECCV 2024](https://arxiv.org/abs/2407.08394)] 
 
+**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.02369)] 
+
 **Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation** \
 [[WACV 2024](https://arxiv.org/abs/2312.01850)] 
 
@@ -4290,6 +4305,10 @@
 
 **Text Image Generation for Low-Resource Languages with Dual Translation Learning** \
 [[Website](https://arxiv.org/abs/2409.17747)]
+
+**Decoupling Layout from Glyph in Online Chinese Handwriting Generation** \
+[[Website](https://arxiv.org/abs/2410.02309)]
+
 
 
 ## Super Resolution
