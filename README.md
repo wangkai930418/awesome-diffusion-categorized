@@ -988,15 +988,21 @@
 [[Project](https://dangeng.github.io/motion_guidance/)] 
 [[Code](https://github.com/dangeng/motion_guidance/)] 
 
+
+**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2408.00735)]
+[[Project](https://turboedit-paper.github.io/)] 
+[[Code](https://github.com/GiilDe/turbo-edit)] 
+
+**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.14539)] 
+[[Project](https://yandex-research.github.io/invertible-cd/)] 
+[[Code](https://github.com/yandex-research/invertible-cd)] 
+
 **Zero-shot Image Editing with Reference Imitation** \
 [[Website](https://arxiv.org/abs/2406.07547)] 
 [[Project](https://xavierchen34.github.io/MimicBrush-Page/)] 
 [[Code](https://github.com/ali-vilab/MimicBrush)] 
-
-**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps** \
-[[Website](https://arxiv.org/abs/2406.14539)] 
-[[Project](https://yandex-research.github.io/invertible-cd/)] 
-[[Code](https://github.com/yandex-research/invertible-cd)] 
 
 
 **MultiBooth: Towards Generating All Your Concepts in an Image from Text** \
@@ -1174,10 +1180,6 @@
 **FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** \
 [[Website](https://arxiv.org/abs/2408.03355)]
 [[Project](https://fastedit-sd.github.io/)] 
-
-**TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** \
-[[Website](https://arxiv.org/abs/2408.00735)]
-[[Project](https://turboedit-paper.github.io/)] 
 
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
