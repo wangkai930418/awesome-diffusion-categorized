@@ -1076,6 +1076,17 @@
 [[Project](https://faceadapter.github.io/face-adapter.github.io/)] 
 [[Code](https://github.com/FaceAdapter/Face-Adapter)] 
 
+**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2408.03355)]
+[[Project](https://fastedit-sd.github.io/)] 
+[[Code](https://github.com/JasonCodeMaker/FastEdit)] 
+
+**Delta Denoising Score** \
+[[Website](https://arxiv.org/abs/2304.07090)] 
+[[Project](https://delta-denoising-score.github.io/)] 
+[[Code](https://github.com/google/prompt-to-prompt/blob/main/DDS_zeroshot.ipynb)] 
+
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -1100,9 +1111,30 @@
 [[CVPR 2024](https://arxiv.org/abs/2312.10113)] 
 [[Code](https://github.com/guoqincode/focus-on-your-instruction)] 
 
+
+**DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation** \
+[[ECCV 2024](https://arxiv.org/abs/2403.11415)]
+[[Code](https://github.com/dreamsampler/dream-sampler)] 
+
+**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing** \
+[[ECCV 2024](https://arxiv.org/abs/2407.17850)] 
+[[Code](https://github.com/kookie12/FlexiEdit)] 
+
 **Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing** \
 [[ECCV 2024](https://arxiv.org/abs/2409.01322)] 
 [[Code](https://github.com/FusionBrainLab/Guide-and-Rescale)] 
+
+**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** \
+[[AAAI 2024](https://arxiv.org/abs/2401.07709)]
+[[Code](https://github.com/xiaotianqing/instdiffedit)] 
+
+**FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
+[[AAAI 2024](https://arxiv.org/abs/2305.17423)]
+[[Code](https://github.com/pku-dair/hetu)] 
+
+**Face Aging via Diffusion-based Editing**\
+[[BMVC 2023](https://arxiv.org/abs/2309.11321)]
+[[Code](https://github.com/MunchkinChen/FADING)] 
 
 **FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing** \
 [[Website](https://arxiv.org/abs/2408.12429)] 
@@ -1128,6 +1160,16 @@
 [[Website](https://arxiv.org/abs/2306.00950)] 
 [[Code](https://github.com/exx8/differential-diffusion)] 
 
+
+**Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing** \
+[[Website](https://arxiv.org/abs/2403.13551)]
+[[Code](https://github.com/ground-a-score/ground-a-score)] 
+
+
+**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks** \
+[[Website](https://arxiv.org/abs/2309.03895)]
+[[Code](https://github.com/cientgu/instructdiffusion)] 
+
 **Region-Aware Diffusion for Zero-shot Text-driven Image Editing** \
 [[Website](https://arxiv.org/abs/2302.11797v1)] 
 [[Code](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model)] 
@@ -1140,6 +1182,14 @@
 [[Website](https://arxiv.org/abs/2312.08019)] 
 [[Code](https://github.com/anonymouspony/adap-edit)] 
 
+**An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control** \
+[[Website](https://arxiv.org/abs/2403.04880)]
+[[Code](https://github.com/collovlabs/d-edit)] 
+
+**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.11895)]
+[[Code](https://github.com/thermal-dynamics/freediff)] 
+
 **Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance** \
 [[Website](https://arxiv.org/abs/2401.02126)] 
 [[Code](https://github.com/kihensarn/ti-guided-edit)] 
@@ -1151,6 +1201,11 @@
 **PromptFix: You Prompt and We Fix the Photo** \
 [[Website](https://arxiv.org/abs/2405.16785)] 
 [[Code](https://github.com/yeates/PromptFix)] 
+
+**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation** \
+[[Website](https://arxiv.org/abs/2408.00998)]
+[[Code](https://github.com/XiangGao1102/FBSDiff)] 
+
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -1173,9 +1228,6 @@
 [[ECCV 2024](https://arxiv.org/abs/2408.08332)]
 [[Project](https://betterze.github.io/TurboEdit/)] 
 
-**FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** \
-[[Website](https://arxiv.org/abs/2408.03355)]
-[[Project](https://fastedit-sd.github.io/)] 
 
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
@@ -1190,9 +1242,6 @@
 [[Project](https://jitengmu.github.io/Editable_Image_Elements/)] 
 
 
-**Delta Denoising Score** \
-[[Website](https://arxiv.org/abs/2304.07090)] 
-[[Project](https://delta-denoising-score.github.io/)] 
 
 **ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation** \
 [[Website](https://arxiv.org/abs/2305.04651)] 
@@ -1222,23 +1271,13 @@
 [[Website](https://arxiv.org/abs/2409.08272)]
 [[Project](https://omeregev.github.io/click2mask/)]
 
-**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing** \
-[[ECCV 2024](https://arxiv.org/abs/2407.17850)] 
-
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
-**Towards Efficient Diffusion-Based Image Editing with Instant Attention Masks** \
-[[AAAI 2024](https://arxiv.org/abs/2401.07709)]
 
 **Text-to-image Editing by Image Information Removal** \
 [[WACV 2024](https://arxiv.org/abs/2305.17489)]
 
-**Face Aging via Diffusion-based Editing**\
-[[BMVC 2023](https://arxiv.org/abs/2309.11321)]
-
-**FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference** \
-[[AAAI 2024](https://arxiv.org/abs/2305.17423)]
 
 **TexSliders: Diffusion-Based Texture Editing in CLIP Space** \
 [[SIGGRAPH 2024](https://arxiv.org/abs/2405.00672)]
@@ -1270,8 +1309,6 @@
 **PRedItOR: Text Guided Image Editing with Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2302.07979v2)]
 
-**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks** \
-[[Website](https://arxiv.org/abs/2309.03895)]
 
 **FEC: Three Finetuning-free Methods to Enhance Consistency for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2309.14934)]
@@ -1291,8 +1328,6 @@
 **Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing** \
 [[Website](https://arxiv.org/abs/2403.03431)]
 
-**An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control** \
-[[Website](https://arxiv.org/abs/2403.04880)]
 
 **DiffChat: Learning to Chat with Text-to-Image Synthesis Models for Interactive Image Creation** \
 [[Website](https://arxiv.org/abs/2403.04997)]
@@ -1300,14 +1335,9 @@
 **InstructGIE: Towards Generalizable Image Editing** \
 [[Website](https://arxiv.org/abs/2403.05018)]
 
-**DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation** \
-[[Website](https://arxiv.org/abs/2403.11415)]
-
 **LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing** \
 [[Website](https://arxiv.org/abs/2403.12585)]
 
-**Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing** \
-[[Website](https://arxiv.org/abs/2403.13551)]
 
 **Uncovering the Text Embedding in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.01154)]
@@ -1315,8 +1345,6 @@
 **Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer** \
 [[Website](https://arxiv.org/abs/2404.06835)]
 
-**FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2404.11895)]
 
 **Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion** \
 [[Website](https://arxiv.org/abs/2405.15313)]
@@ -1330,8 +1358,6 @@
 **LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing** \
 [[Website](https://arxiv.org/abs/2406.17236)]
 
-**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation** \
-[[Website](https://arxiv.org/abs/2408.00998)]
 
 **Achieving Complex Image Edits via Function Aggregation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.08495)]
