@@ -824,6 +824,10 @@
 [[Code](https://github.com/guoqiang-zhang-x/BDIA)] 
 
 
+**Fixed-point Inversion for Text-to-image diffusion models** \
+[[Website](https://arxiv.org/abs/2312.12540)] 
+[[Code](https://github.com/dvirsamuel/FPI)] 
+
 **Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing** \
 [[Website](https://arxiv.org/abs/2403.09468)] 
 [[Code](https://github.com/furiosa-ai/eta-inversion)] 
@@ -831,11 +835,6 @@
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2309.04907)]
-
-**Score-Based Diffusion Models as Principled Priors for Inverse Imaging** \
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Score-Based_Diffusion_Models_as_Principled_Priors_for_Inverse_Imaging_ICCV_2023_paper.html)]
-[[Website](https://arxiv.org/abs/2304.11751)] 
-
 
 **BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
 [[WACV 2024](https://arxiv.org/abs/2312.05482)] 
@@ -851,9 +850,6 @@
 
 **Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2211.07825)] 
-
-**Fixed-point Inversion for Text-to-image diffusion models** \
-[[Website](https://arxiv.org/abs/2312.12540)] 
 
 **SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing** \
 [[Website](https://arxiv.org/abs/2409.10476)]
