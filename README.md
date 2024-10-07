@@ -809,6 +809,10 @@
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
 
+**A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)] 
+[[Code](https://github.com/humansensinglab/cycle-diffusion)] 
+
 **Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2403.11105)] 
 [[Code](https://github.com/leeruibin/SPDInv)] 
