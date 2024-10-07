@@ -276,6 +276,9 @@
 **FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process** \
 [[Website](https://arxiv.org/abs/2409.07451)]
 
+**Diffusion State-Guided Projected Gradient for Inverse Problems** \
+[[Website](https://arxiv.org/abs/2410.03463)]
+
 
 ## Colorization
 
@@ -723,6 +726,10 @@
 
 **Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators** \
 [[Website](https://arxiv.org/abs/2401.18085)] 
+
+**Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing** \
+[[Website](https://arxiv.org/abs/2410.03097)] 
+
 
 ## Diffusion Models Inversion
 
@@ -2899,6 +2906,10 @@
 **Training-Free Sketch-Guided Diffusion with Latent Optimization** \
 [[Website](https://arxiv.org/abs/2409.00313)] 
 
+**Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization** \
+[[Website](https://arxiv.org/abs/2410.03190)] 
+
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -3569,6 +3580,8 @@
 **Diverse Generation while Maintaining Semantic Coordination: A Diffusion-Based Data Augmentation Method for Object Detection** \
 [[Website](https://arxiv.org/abs/2408.02891)] 
 
+**Generative Edge Detection with Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2410.03080)] 
 
 
 ## Additional conditions 
@@ -5009,6 +5022,10 @@
 **SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces** \
 [[ICLR 2024](https://arxiv.org/abs/2403.07711)]
 [[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
+
+**Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach** \
+[[Website](https://arxiv.org/abs/2410.03160)]
+[[Code](https://github.com/Yaofang-Liu/FVDM)]
 
 **Real-Time Video Generation with Pyramid Attention Broadcast** \
 [[Website](https://arxiv.org/abs/2408.12588)]
