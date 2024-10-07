@@ -162,6 +162,9 @@
 [[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
 [[Code](https://github.com/shermanlian/spatial-entropy-loss)]
 
+**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching** \
+[[Website](https://arxiv.org/abs/2410.02423)]
+[[Code](https://github.com/annegnx/PnP-Flow)]
 
 **Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2405.10748)]
