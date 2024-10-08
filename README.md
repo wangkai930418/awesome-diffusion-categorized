@@ -92,6 +92,11 @@
 [[Project](https://solving-video-inverse.github.io/main/)]
 [[Code](https://github.com/solving-video-inverse/codes)]
 
+**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration** \
+[[Website](https://arxiv.org/abs/2410.04811)]
+[[Project](https://zhu-zhiyu.github.io/FLUX-IR/)]
+[[Code](https://github.com/ZHU-Zhiyu/FLUX-IR)]
+
 **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion** \
 [[Website](https://arxiv.org/abs/2310.10123)]
 [[Project](https://jiangyitong.github.io/AutoDIR_webpage/)]
@@ -331,6 +336,10 @@
 [[Website](https://arxiv.org/abs/2312.15736)]
 [[Code](https://github.com/chenxx89/BFRffusion)]
 
+**Towards Unsupervised Blind Face Restoration using Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2410.04618)]
+[[Project](https://dt-bfr.github.io/)]
+
 **DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration** \
 [[Website](https://arxiv.org/abs/2305.04517)]
 
@@ -342,6 +351,10 @@
 
 **Gaussian is All You Need: A Unified Framework for Solving Inverse Problems via Diffusion Posterior Sampling** \
 [[Website](https://arxiv.org/abs/2409.08906)]
+
+**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model** \
+[[Website](https://arxiv.org/abs/2410.04161)]
+
 
 ## Storytelling
 
@@ -1158,6 +1171,10 @@
 [[Website](https://arxiv.org/abs/2407.20232)] 
 [[Code](https://github.com/fabvio/SANE)] 
 
+**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing** \
+[[Website](https://arxiv.org/abs/2410.04844)] 
+[[Code](https://github.com/TFNTF/PostEdit)] 
+
 **Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing** \
 [[Website](https://arxiv.org/abs/2405.14785)] 
 [[Code](https://github.com/YangLing0818/EditWorld)] 
@@ -1419,6 +1436,9 @@
 
 **Create Your World: Lifelong Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2309.04430)] 
+
+**Low-Rank Continual Personalization of Diffusion Models** \
+[[Website](https://arxiv.org/pdf/2410.04891)] 
 
 **Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.00700)] 
@@ -2414,6 +2434,11 @@
 [[Project](https://make-it-count-paper.github.io//)] 
 [[Code](https://github.com/Litalby1/make-it-count)]
 
+**OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction** \
+[[Website](https://arxiv.org/abs/2410.04932)] 
+[[Project](https://len-li.github.io/omnibooth-web/)] 
+[[Code](https://github.com/EnVision-Research/OmniBooth)]
+
 **Margin-aware Preference Optimization for Aligning Diffusion Models without Reference** \
 [[Website](https://arxiv.org/abs/2406.06424)] 
 [[Project](https://mapo-t2i.github.io/)] 
@@ -2576,6 +2601,10 @@
 **Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function** \
 [[NeurIPS 2024](https://arxiv.org/abs/2409.19967)] 
 [[Code](https://github.com/I2-Multimedia-Lab/Magnet)]
+
+**SePPO: Semi-Policy Preference Optimization for Diffusion Alignment** \
+[[Website](https://arxiv.org/abs/2410.05255)] 
+[[Code](https://github.com/DwanZhang-AI/SePPO)]
 
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
@@ -4353,6 +4382,8 @@
 **Decoupling Layout from Glyph in Online Chinese Handwriting Generation** \
 [[Website](https://arxiv.org/abs/2410.02309)]
 
+**Empowering Backbone Models for Visual Text Generation with Input Granularity Control and Glyph-Aware Training** \
+[[Website](https://arxiv.org/abs/2410.04439)]
 
 
 ## Super Resolution
@@ -4404,6 +4435,10 @@
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
+
+**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2410.04224)] 
+[[Code](https://github.com/JianzeLi-114/DFOSD)] 
 
 **Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2409.17058)] 
@@ -5086,6 +5121,10 @@
 [[Website](https://arxiv.org/abs/2409.01199)]
 [[Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 
+**IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis** \
+[[Website](https://arxiv.org/abs/2410.04171)]
+[[Code](https://github.com/xie-lab-ml/IV-mixed-Sampler)]
+
 **MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling** \
 [[Website](https://arxiv.org/abs/2405.18003)]
 [[Code](https://github.com/18445864529/MAVIN)]
@@ -5307,6 +5346,10 @@
 **CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** \
 [[Website](https://arxiv.org/abs/2408.13239)]
 [[Project](https://customcrafter.github.io/)] 
+
+**VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide** \
+[[Website](https://arxiv.org/abs/2410.04364)]
+[[Project](https://videoguide2025.github.io/)] 
 
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
