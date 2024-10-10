@@ -2961,6 +2961,9 @@
 **Tuning Timestep-Distilled Diffusion Model Using Pairwise Sample Optimization** \
 [[Website](https://arxiv.org/abs/2410.03190)] 
 
+**Sparse Repellency for Shielded Generation in Text-to-image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.06025)] 
+
 
 ## Spatial Control
 
@@ -4454,6 +4457,10 @@
 **Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs** \
 [[NeurIPS 2024](https://arxiv.org/abs/2409.17778)] 
 [[Code](https://github.com/QinpengCui/DoSSR)] 
+
+**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.05799)] 
+[[Code](https://github.com/Tang1705/SeeClear-NeurIPS24)] 
 
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
