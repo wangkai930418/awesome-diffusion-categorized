@@ -287,6 +287,9 @@
 **Diffusion State-Guided Projected Gradient for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2410.03463)]
 
+**InstantIR: Blind Image Restoration with Instant Generative Reference** \
+[[Website](https://arxiv.org/abs/2410.06551)]
+
 
 ## Colorization
 
@@ -398,6 +401,10 @@
 [[Project](https://ailab-cvc.github.io/TaleCrafter/)]
 [[Code](https://github.com/AILab-CVC/TaleCrafter)] 
 
+**Story-Adapter: A Training-free Iterative Framework for Long Story Visualization** \
+[[Website](https://arxiv.org/abs/2410.06244)]
+[[Project](https://jwmao1.github.io/storyadapter/)]
+[[Code](https://github.com/jwmao1/story-adapter)] 
 
 **StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
 [[ECCV 2024](https://arxiv.org/abs/2404.05979)]
@@ -2642,6 +2649,15 @@
 [[Website](https://arxiv.org/abs/2406.07844)] 
 [[Code](https://github.com/ArmanZarei/Mitigating-T2I-Comp-Issues)]
 
+**IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2410.07171)] 
+[[Code](https://github.com/YangLing0818/IterComp)]
+
+**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** \
+[[Website](https://arxiv.org/abs/2410.07157)] 
+[[Code](https://github.com/PeterGriffinJin/InstructG2I)]
+
+
 **Detector Guidance for Multi-Object Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2306.02236)] 
 [[Code](https://github.com/luping-liu/Detector-Guidance)]
@@ -3559,6 +3575,9 @@
 **Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation** \
 [[WACV 2024](https://arxiv.org/abs/2312.01850)] 
 
+**Boosting Few-Shot Detection with Large Language Models and Layout-to-Image Synthesis** \
+[[ACCV 2024](https://arxiv.org/abs/2410.06841)] 
+
 **A Simple Background Augmentation Method for Object Detection with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2408.00350)] 
 
@@ -4269,6 +4288,10 @@
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf)]
 [[Code](https://github.com/shreygithub/DCDM)] 
 
+**HFH-Font: Few-shot Chinese Font Synthesis with Higher Quality, Faster Speed, and Higher Resolution** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2410.06488)]
+[[Code](https://github.com/grovessss/HFH-Font)] 
+
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** \
 [[AAAI 2024](https://arxiv.org/abs/2312.12232)]
 [[Code](https://github.com/ecnuljzhang/brush-your-text)] 
@@ -4692,6 +4715,11 @@
 [[Website](https://arxiv.org/abs/2406.04324)]
 [[Project](https://snap-research.github.io/SF-V/)] 
 [[Code](https://github.com/snap-research/SF-V)]
+
+**Pyramidal Flow Matching for Efficient Video Generative Modeling** \
+[[Website](https://arxiv.org/abs/2410.05954)]
+[[Project](https://pyramid-flow.github.io/)] 
+[[Code](https://github.com/jy0205/Pyramid-Flow)]
 
 **CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion** \
 [[Website](https://arxiv.org/abs/2406.05082)]
