@@ -150,6 +150,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2311.11600)]
 [[Code](https://github.com/caojiezhang/deqir)]
 
+**ReFIR: Grounding Large Restoration Models with Retrieval Augmentation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.05601)]
+[[Code](https://github.com/csguoh/ReFIR)]
+
 **Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems** \
 [[Website](https://arxiv.org/abs/2407.11288)]
 [[Code](https://github.com/ualcalar17/ZAPS)]
@@ -2009,6 +2013,10 @@
 **Decoupled Textual Embeddings for Customized Image Generation** \
 [[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
 [[Code](https://github.com/PrototypeNx/DETEX)]
+
+**TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation** \
+[[Website](https://arxiv.org/abs/2410.05591)] 
+[[Code](https://github.com/KwonGihyun/TweedieMix)]
 
 **Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2409.17920)] 
@@ -5574,6 +5582,10 @@
 
 **COMUNI: Decomposing Common and Unique Video Signals for Diffusion-based Video Generation** \
 [[Website](https://arxiv.org/abs/2410.01718)]
+
+**Noise Crystallization and Liquid Noise: Zero-shot Video Generation using Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.05322)]
+
 
 
 ## Video Editing 
