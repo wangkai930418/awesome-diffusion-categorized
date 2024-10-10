@@ -290,6 +290,9 @@
 **InstantIR: Blind Image Restoration with Instant Generative Reference** \
 [[Website](https://arxiv.org/abs/2410.06551)]
 
+**Score-Based Variational Inference for Inverse Problems** \
+[[Website](https://arxiv.org/abs/2410.05646)]
+
 
 ## Colorization
 
@@ -1406,6 +1409,10 @@
 **InverseMeetInsert: Robust Real Image Editing via Geometric Accumulation Inversion in Guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2409.11734)]
 
+**PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM** \
+[[Website](https://arxiv.org/abs/2410.05710)]
+
+
 ## Continual Learning
 
 **RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
@@ -1585,6 +1592,8 @@
 **EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts** \
 [[Website](https://arxiv.org/abs/2408.01014)] 
 
+**Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning** \
+[[Website](https://arxiv.org/abs/2410.05664)] 
 
 
 ## New Concept Learning
@@ -2963,6 +2972,9 @@
 
 **Sparse Repellency for Shielded Generation in Text-to-image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.06025)] 
+
+**Training-free Diffusion Model Alignment with Sampling Demons** \
+[[Website](https://arxiv.org/abs/2410.05760)] 
 
 
 ## Spatial Control
@@ -4667,6 +4679,11 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.10937)]
 [[Project](https://yhzhai.github.io/idol/)] 
 [[Code](https://github.com/yhZhai/idol)]
+
+**T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design** \
+[[Website](https://arxiv.org/abs/2410.05677)]
+[[Project](https://t2v-turbo-v2.github.io/)] 
+[[Code](https://github.com/Ji4chenLi/t2v-turbo)]
 
 **Tora: Trajectory-oriented Diffusion Transformer for Video Generation** \
 [[Website](https://arxiv.org/abs/2407.21705)]
