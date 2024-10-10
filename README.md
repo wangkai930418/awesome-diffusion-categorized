@@ -5586,6 +5586,9 @@
 **Noise Crystallization and Liquid Noise: Zero-shot Video Generation using Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.05322)]
 
+**BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way** \
+[[Website](https://arxiv.org/abs/2410.06241)]
+
 
 
 ## Video Editing 
