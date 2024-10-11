@@ -831,6 +831,11 @@
 [[Website](https://arxiv.org/abs/2310.19540)] 
 [[Code](https://github.com/Tchuanm/IterInv)] 
 
+**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models** \
+[[Website](https://arxiv.org/abs/2410.08207)] 
+[[Project](https://hexiaoxiao-cs.github.io/DICE/)] 
+[[Code](https://github.com/hexiaoxiao-cs/DICE)] 
+
 **Object-aware Inversion and Reassembly for Image Editing** \
 [[Website](https://arxiv.org/abs/2310.12149)] 
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
@@ -876,6 +881,9 @@
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2309.04907)]
+
+**BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.07273)] 
 
 **BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
 [[WACV 2024](https://arxiv.org/abs/2312.05482)] 
@@ -1557,6 +1565,9 @@
 **MACE: Mass Concept Erasure in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06135)] 
 
+**Unstable Unlearning: The Hidden Risk of Concept Resurgence in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.08074)] 
+
 **Direct Unlearning Optimization for Robust and Safe Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2407.21035)] 
 
@@ -2209,6 +2220,10 @@
 **Non-confusing Generation of Customized Concepts in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.06914)] 
 [[Project](https://clif-official.github.io/clif/)] 
+
+**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2410.08192)] 
+[[Project](https://sites.google.com/view/hybridboot/)] 
 
 
 **ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image** \
@@ -2983,6 +2998,9 @@
 
 **Training-free Diffusion Model Alignment with Sampling Demons** \
 [[Website](https://arxiv.org/abs/2410.05760)] 
+
+**MinorityPrompt: Text to Minority Image Generation via Prompt Optimization** \
+[[Website](https://arxiv.org/abs/2410.07838)] 
 
 
 ## Spatial Control
@@ -4577,6 +4595,9 @@
 **Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model** \
 [[Website](https://arxiv.org/abs/2311.02358)]
 
+**TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution** \
+[[Website](https://arxiv.org/abs/2410.07663)]
+
 **Image Super-Resolution with Text Prompt Diffusio** \
 [[Website](https://arxiv.org/abs/2311.14282)]
 
@@ -4818,6 +4839,11 @@
 [[Website](https://arxiv.org/abs/2308.14748)]
 [[Project](https://magic-avatar.github.io/)] 
 [[Code](https://github.com/magic-research/magic-avatar)]
+
+**Progressive Autoregressive Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.08151)]
+[[Project](https://desaixie.github.io/pa-vdm/)] 
+[[Code](https://github.com/desaixie/pa_vdm)]
 
 **TrailBlazer: Trajectory Control for Diffusion-Based Video Generation** \
 [[Website](https://arxiv.org/abs/2401.00896)]
@@ -5471,6 +5497,9 @@
 
 **VideoLCM: Video Latent Consistency Model** \
 [[Website](https://arxiv.org/abs/2312.09109)]
+
+**MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion** \
+[[Website](https://arxiv.org/abs/2410.07659)]
 
 **MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation** \
 [[Website](https://arxiv.org/abs/2401.04468)]
