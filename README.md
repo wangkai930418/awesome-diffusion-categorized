@@ -4281,7 +4281,8 @@
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=ke3RgcDmfO)] -->
 
 ⭐⭐**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** \
-[[Website](https://arxiv.org/abs/2311.16465)]
+[[ECCV 2024 Oral](https://arxiv.org/abs/2311.16465)]
+[[Project](https://jingyechen.github.io/textdiffuser2/)] 
 [[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)] 
 
 **GlyphControl: Glyph Conditional Control for Visual Text Generation** \
