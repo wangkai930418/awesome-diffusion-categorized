@@ -342,6 +342,10 @@
 [[Website](https://arxiv.org/abs/2312.15736)]
 [[Code](https://github.com/zsyOAOA/DifFace)]
 
+**AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2410.09864)]
+[[Code](https://github.com/EthanLiang99/AuthFace)]
+
 **Towards Real-World Blind Face Restoration with Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2312.15736)]
 [[Code](https://github.com/chenxx89/BFRffusion)]
@@ -894,6 +898,9 @@
 **Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing** \
 [[Website](https://arxiv.org/abs/2408.13395)] 
 
+**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations** \
+[[Website](https://arxiv.org/abs/2410.10792)] 
+
 **Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16807)] 
 
@@ -1424,6 +1431,9 @@
 **PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM** \
 [[Website](https://arxiv.org/abs/2410.05710)]
 
+**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing** \
+[[Website](https://arxiv.org/abs/2410.10496)]
+
 
 ## Continual Learning
 
@@ -1561,6 +1571,10 @@
 **Add-SD: Rational Generation without Manual Reference** \
 [[Website](https://arxiv.org/abs/2407.21016)] 
 [[Code](https://github.com/ylingfeng/Add-SD)]
+
+**RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining** \
+[[Website](https://arxiv.org/abs/2410.09140)] 
+[[Project](https://realerasing.github.io/RealEra/)]
 
 **MACE: Mass Concept Erasure in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06135)] 
@@ -2359,6 +2373,9 @@
 **Event-Customized Image Generation** \
 [[Website](https://arxiv.org/abs/2410.02483)] 
 
+**LEARNING TO CUSTOMIZE TEXT-TO-IMAGE DIFFUSION IN DIVERSE CONTEXT** \
+[[Website](https://arxiv.org/pdf/2410.10058)] 
+
 
 ## T2I Diffusion Model augmentation
 
@@ -3002,6 +3019,12 @@
 **MinorityPrompt: Text to Minority Image Generation via Prompt Optimization** \
 [[Website](https://arxiv.org/abs/2410.07838)] 
 
+**AUTOMATED FILTERING OF HUMAN FEEDBACK DATA FOR ALIGNING TEXT-TO-IMAGE DIFFUSION MODELS** \
+[[Website](https://arxiv.org/abs/2410.10166)] 
+
+**Saliency Guided Optimization of Diffusion Latents** \
+[[Website](https://arxiv.org/pdf/2410.10257)] 
+
 
 ## Spatial Control
 
@@ -3385,6 +3408,10 @@
 [[ACM MM 2024](https://arxiv.org/abs/2408.05492)]
 [[Code](https://github.com/liujin112/ZePo)]
 
+**TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control** \
+[[Website](https://arxiv.org/abs/2410.10133)]
+[[Code](https://github.com/weichaozeng/TextCtrl)]
+
 **Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance** \
 [[Website](https://arxiv.org/abs/2306.04396)]
 [[Code](https://github.com/submissionanon18/agg)]
@@ -3679,6 +3706,12 @@
 **Generative Edge Detection with Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2410.03080)] 
 
+**DINTR: Tracking via Diffusion-based Interpolation** \
+[[Website](https://arxiv.org/abs/2410.10053)] 
+
+**Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking** \
+[[Website](https://arxiv.org/abs/2410.09243)] 
+
 
 ## Additional conditions 
 
@@ -3831,6 +3864,10 @@
 **It's All About Your Sketch: Democratising Sketch Control in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.07234)] 
 [[Code](https://github.com/subhadeepkoley/DemoSketch2RGB)]
+
+**CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation** \
+[[Website](https://arxiv.org/abs/2410.09400)] 
+[[Code](https://github.com/xyfJASON/ctrlora)]
 
 **Universal Guidance for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.07121)] 
@@ -4213,6 +4250,13 @@
 **AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status** \
 [[Website](https://arxiv.org/abs/2409.17740)] 
 
+**TD-Paint: Faster Diffusion Inpainting Through Time Aware Pixel Conditioning** \
+[[Website](https://arxiv.org/abs/2410.09306)] 
+
+**MagicEraser: Erasing Any Objects via Semantics-Aware Control** \
+[[Website](https://arxiv.org/abs/2410.10207)] 
+
+
 ## Layout Generation
 
 **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
@@ -4358,6 +4402,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2409.13431)]
 [[Code](https://github.com/wzx99/TMIM)] 
 
+**First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending** \
+[[ECAI 2024](https://arxiv.org/abs/2410.10168)]
+[[Code](https://github.com/Zhenhang-Li/GlyphOnly)] 
+
 **VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.01738)]
 [[Code](https://github.com/Carlofkl/VitaGlyph)] 
@@ -4449,6 +4497,9 @@
 
 **Empowering Backbone Models for Visual Text Generation with Input Granularity Control and Glyph-Aware Training** \
 [[Website](https://arxiv.org/abs/2410.04439)]
+
+**TextMaster: Universal Controllable Text Edit** \
+[[Website](https://arxiv.org/abs/2410.09879)]
 
 
 ## Super Resolution
@@ -5264,6 +5315,10 @@
 [[Website](https://arxiv.org/abs/2406.02230)]
 [[Project](https://xiefan-guo.github.io/i4vgen/)]
 
+**Boosting Camera Motion Control for Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2410.10802)]
+[[Project](https://soon-yau.github.io/CameraMotionGuidance/)]
+
 **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation** \
 [[Website](https://arxiv.org/abs/2406.01188)]
 [[Project](https://unianimate.github.io/)]
@@ -5434,9 +5489,16 @@
 [[Website](https://arxiv.org/abs/2408.13239)]
 [[Project](https://customcrafter.github.io/)] 
 
+**Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention** \
+[[Website](https://arxiv.org/abs/2410.10774)]
+[[Project](https://ir1d.github.io/Cavia/)] 
+
 **VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide** \
 [[Website](https://arxiv.org/abs/2410.04364)]
 [[Project](https://videoguide2025.github.io/)] 
+
+**DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
+[[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
 
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
