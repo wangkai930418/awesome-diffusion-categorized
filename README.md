@@ -1294,6 +1294,9 @@
 [[Website](https://arxiv.org/abs/2404.16029)]
 [[Project](https://jitengmu.github.io/Editable_Image_Elements/)] 
 
+**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing** \
+[[Website](https://arxiv.org/abs/2410.11815)]
+[[Project](https://bestzzhang.github.io/SGEdit/)] 
 
 
 **ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation** \
@@ -1423,6 +1426,9 @@
 
 **PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM** \
 [[Website](https://arxiv.org/abs/2410.05710)]
+
+**Augmentation-Driven Metric for Balancing Preservation and Modification in TextGuided Image Editing** \
+[[Website](https://arxiv.org/abs/2410.11374)]
 
 
 ## Continual Learning
@@ -1995,6 +2001,10 @@
 [[Website](https://arxiv.org/abs/2311.13600)] 
 [[Project](https://csgo-gen.github.io/)] 
 [[Code](https://github.com/instantX-research/CSGO)]
+
+**DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.11208)] 
+[[Code](https://github.com/Dijkstra14/DreamSteerer)]
 
 **Customized Generation Reimagined: Fidelity and Editability Harmonized** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06727.pdf)] 
@@ -2648,6 +2658,10 @@
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
 [[Code](https://github.com/TruthAI-Lab/PCIG)]
+
+**Improving Long-Text Alignment for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.11817)] 
+[[Code](https://github.com/luping-liu/LongAlign)]
 
 **Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization** \
 [[Website](https://arxiv.org/abs/2406.06382)] 
@@ -3515,6 +3529,12 @@
 [[Project](https://fcjian.github.io/InstaGen/)] 
 [[Code](https://github.com/fcjian/InstaGen)]
 
+**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation** \
+[[Website](https://arxiv.org/abs/2410.11473)] 
+[[Project](https://jylin8100.github.io/InvSegProject/)] 
+[[Code](https://github.com/jyLin8100/InvSeg)]
+
+
 **Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model** \
 [[ECCV 2024](https://arxiv.org/abs/2407.05352)] 
 [[Code](https://github.com/nini0919/DiffPNG)]
@@ -3761,6 +3781,11 @@
 [[Website](https://arxiv.org/abs/2308.06721)] 
 [[Project](https://ip-adapter.github.io/)] 
 [[Code](https://github.com/tencent-ailab/ip-adapter)]
+
+**A Simple Approach to Unifying Diffusion-based Conditional Generation** \
+[[Website](https://arxiv.org/abs/2410.11439)] 
+[[Project](https://lixirui142.github.io/unicon-diffusion/)] 
+[[Code](https://github.com/lixirui142/UniCon)]
 
 **HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion** \
 [[Website](https://arxiv.org/abs/2310.08579)] 
