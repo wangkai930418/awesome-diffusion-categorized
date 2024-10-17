@@ -297,6 +297,8 @@
 **Score-Based Variational Inference for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2410.05646)]
 
+**Towards Flexible and Efficient Diffusion Low Light Enhancer** \
+[[Website](https://arxiv.org/abs/2410.12346)]
 
 ## Colorization
 
@@ -763,6 +765,9 @@
 
 **Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing** \
 [[Website](https://arxiv.org/abs/2410.03097)] 
+
+**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing** \
+[[Website](https://arxiv.org/abs/2410.12696)] 
 
 
 ## Diffusion Models Inversion
@@ -1554,6 +1559,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.21032)] 
 [[Code](https://github.com/nannullna/safeguard-hfi)]
 
+**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
+[[Website](https://arxiv.org/abs/2410.12777)] 
+[[Code](https://github.com/sail-sg/Meta-Unlearning)]
+
 **ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion** \
 [[Website](https://arxiv.org/abs/2404.17230)] 
 [[Code](https://github.com/potato-kitty/objectadd)]
@@ -2094,6 +2103,9 @@
 [[Website](https://arxiv.org/abs/2311.15478)] 
 [[Code](https://github.com/divyakraman/AerialBooth2023)]
 
+**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization** \
+[[Website](https://arxiv.org/abs/2410.12312)] 
+[[Code](https://github.com/modelscope/facechain)]
 
 **Controllable Textual Inversion for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2304.05265)] 
@@ -2668,6 +2680,10 @@
 [[NeurIPS 2024](https://arxiv.org/abs/2409.19967)] 
 [[Code](https://github.com/I2-Multimedia-Lab/Magnet)]
 
+**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization** \
+[[ACM MM 2024](https://arxiv.org/abs/2410.12700)] 
+[[Code](https://github.com/achernarwang/LiVO)]
+
 **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment** \
 [[Website](https://arxiv.org/abs/2410.05255)] 
 [[Code](https://github.com/DwanZhang-AI/SePPO)]
@@ -3039,6 +3055,12 @@
 **Saliency Guided Optimization of Diffusion Latents** \
 [[Website](https://arxiv.org/pdf/2410.10257)] 
 
+**Preference Optimization with Multi-Sample Comparisons** \
+[[Website](https://arxiv.org/abs/2410.12138)] 
+
+**CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning** \
+[[Website](https://arxiv.org/abs/2410.11963)] 
+
 
 ## Spatial Control
 
@@ -3320,6 +3342,10 @@
 
 **Scribble-Guided Diffusion for Training-free Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2409.08026)] 
+
+**3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2410.12669)] 
+
 
 
 ## I2I translation
@@ -6027,3 +6053,8 @@
 
 **Replace Anyone in Videos** \
 [[Website](https://arxiv.org/abs/2409.19911)]
+
+**Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing** \
+[[Website](https://arxiv.org/abs/2410.12526)]
+
+
