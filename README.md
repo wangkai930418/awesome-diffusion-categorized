@@ -2897,6 +2897,10 @@
 **A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization** \
 [[Website](https://arxiv.org/abs/2410.00321)] 
 
+**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation** \
+[[Website](https://arxiv.org/abs/2407.04493)] 
+
+
 
 **Diffusion Model Alignment Using Direct Preference Optimization** \
 [[Website](https://arxiv.org/abs/2311.12908)] 
@@ -3060,7 +3064,6 @@
 
 **CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning** \
 [[Website](https://arxiv.org/abs/2410.11963)] 
-
 
 ## Spatial Control
 
