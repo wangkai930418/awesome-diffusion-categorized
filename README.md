@@ -301,6 +301,8 @@
 **Score-Based Variational Inference for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2410.05646)]
 
+**Towards Flexible and Efficient Diffusion Low Light Enhancer** \
+[[Website](https://arxiv.org/abs/2410.12346)]
 
 ## Colorization
 
@@ -767,6 +769,9 @@
 
 **Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing** \
 [[Website](https://arxiv.org/abs/2410.03097)] 
+
+**AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing** \
+[[Website](https://arxiv.org/abs/2410.12696)] 
 
 
 ## Diffusion Models Inversion
@@ -1305,6 +1310,9 @@
 [[Website](https://arxiv.org/abs/2404.16029)]
 [[Project](https://jitengmu.github.io/Editable_Image_Elements/)] 
 
+**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing** \
+[[Website](https://arxiv.org/abs/2410.11815)]
+[[Project](https://bestzzhang.github.io/SGEdit/)] 
 
 
 **ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation** \
@@ -1435,6 +1443,9 @@
 **PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM** \
 [[Website](https://arxiv.org/abs/2410.05710)]
 
+**Augmentation-Driven Metric for Balancing Preservation and Modification in TextGuided Image Editing** \
+[[Website](https://arxiv.org/abs/2410.11374)]
+
 **Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing** \
 [[Website](https://arxiv.org/abs/2410.10496)]
 
@@ -1551,6 +1562,10 @@
 **Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion** \
 [[ECCV 2024](https://arxiv.org/abs/2407.21032)] 
 [[Code](https://github.com/nannullna/safeguard-hfi)]
+
+**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
+[[Website](https://arxiv.org/abs/2410.12777)] 
+[[Code](https://github.com/sail-sg/Meta-Unlearning)]
 
 **ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion** \
 [[Website](https://arxiv.org/abs/2404.17230)] 
@@ -2018,6 +2033,10 @@
 [[Project](https://csgo-gen.github.io/)] 
 [[Code](https://github.com/instantX-research/CSGO)]
 
+**DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.11208)] 
+[[Code](https://github.com/Dijkstra14/DreamSteerer)]
+
 **Customized Generation Reimagined: Fidelity and Editability Harmonized** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06727.pdf)] 
 [[Code](https://github.com/jinjianRick/DCI_ICO)]
@@ -2092,6 +2111,9 @@
 [[Website](https://arxiv.org/abs/2311.15478)] 
 [[Code](https://github.com/divyakraman/AerialBooth2023)]
 
+**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization** \
+[[Website](https://arxiv.org/abs/2410.12312)] 
+[[Code](https://github.com/modelscope/facechain)]
 
 **Controllable Textual Inversion for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2304.05265)] 
@@ -2666,6 +2688,10 @@
 [[NeurIPS 2024](https://arxiv.org/abs/2409.19967)] 
 [[Code](https://github.com/I2-Multimedia-Lab/Magnet)]
 
+**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization** \
+[[ACM MM 2024](https://arxiv.org/abs/2410.12700)] 
+[[Code](https://github.com/achernarwang/LiVO)]
+
 **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment** \
 [[Website](https://arxiv.org/abs/2410.05255)] 
 [[Code](https://github.com/DwanZhang-AI/SePPO)]
@@ -2673,6 +2699,10 @@
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
 [[Code](https://github.com/TruthAI-Lab/PCIG)]
+
+**Improving Long-Text Alignment for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.11817)] 
+[[Code](https://github.com/luping-liu/LongAlign)]
 
 **Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization** \
 [[Website](https://arxiv.org/abs/2406.06382)] 
@@ -2875,6 +2905,10 @@
 **A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization** \
 [[Website](https://arxiv.org/abs/2410.00321)] 
 
+**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation** \
+[[Website](https://arxiv.org/abs/2407.04493)] 
+
+
 
 **Diffusion Model Alignment Using Direct Preference Optimization** \
 [[Website](https://arxiv.org/abs/2311.12908)] 
@@ -3033,6 +3067,11 @@
 **Saliency Guided Optimization of Diffusion Latents** \
 [[Website](https://arxiv.org/pdf/2410.10257)] 
 
+**Preference Optimization with Multi-Sample Comparisons** \
+[[Website](https://arxiv.org/abs/2410.12138)] 
+
+**CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning** \
+[[Website](https://arxiv.org/abs/2410.11963)] 
 
 ## Spatial Control
 
@@ -3315,6 +3354,10 @@
 **Scribble-Guided Diffusion for Training-free Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2409.08026)] 
 
+**3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2410.12669)] 
+
+
 
 ## I2I translation
 
@@ -3549,6 +3592,12 @@
 [[Website](https://arxiv.org/abs/2402.05937)] 
 [[Project](https://fcjian.github.io/InstaGen/)] 
 [[Code](https://github.com/fcjian/InstaGen)]
+
+**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation** \
+[[Website](https://arxiv.org/abs/2410.11473)] 
+[[Project](https://jylin8100.github.io/InvSegProject/)] 
+[[Code](https://github.com/jyLin8100/InvSeg)]
+
 
 **Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model** \
 [[ECCV 2024](https://arxiv.org/abs/2407.05352)] 
@@ -3802,6 +3851,11 @@
 [[Website](https://arxiv.org/abs/2308.06721)] 
 [[Project](https://ip-adapter.github.io/)] 
 [[Code](https://github.com/tencent-ailab/ip-adapter)]
+
+**A Simple Approach to Unifying Diffusion-based Conditional Generation** \
+[[Website](https://arxiv.org/abs/2410.11439)] 
+[[Project](https://lixirui142.github.io/unicon-diffusion/)] 
+[[Code](https://github.com/lixirui142/UniCon)]
 
 **HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion** \
 [[Website](https://arxiv.org/abs/2310.08579)] 
@@ -6017,3 +6071,8 @@
 
 **Replace Anyone in Videos** \
 [[Website](https://arxiv.org/abs/2409.19911)]
+
+**Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing** \
+[[Website](https://arxiv.org/abs/2410.12526)]
+
+
