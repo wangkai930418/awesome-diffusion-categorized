@@ -231,6 +231,10 @@
 [[Website](https://arxiv.org/abs/2406.19030)]
 [[Code](https://github.com/JosephTiTan/DiffLoss)]
 
+**Super-resolving Real-world Image Illumination Enhancement: A New Dataset and A Conditional Diffusion Model** \
+[[Website](https://arxiv.org/abs/2410.12961)]
+[[Code](https://github.com/Yaofang-Liu/Super-Resolving)]
+
 **TIP: Text-Driven Image Processing with Semantic and Restoration Instructions** \
 [[ECCV 2024](https://arxiv.org/abs/2312.11595)]
 [[Project](https://chenyangqiqi.github.io/tip/)]
@@ -1904,6 +1908,10 @@
 [[Project](https://hiper0.github.io/)] 
 [[Code](https://github.com/HiPer0/HiPer)]
 
+**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.13370)] 
+[[Project](https://correr-zhou.github.io/MagicTailor/)] 
+[[Code](https://github.com/correr-zhou/MagicTailor)]
 
 
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
@@ -4650,6 +4658,9 @@
 **TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution** \
 [[Website](https://arxiv.org/abs/2410.07663)]
 
+**ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2410.13807)]
+
 **Image Super-Resolution with Text Prompt Diffusio** \
 [[Website](https://arxiv.org/abs/2311.14282)]
 
@@ -5408,6 +5419,10 @@
 **Photorealistic Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.06662)] 
 [[Project](https://walt-video-diffusion.github.io/)] 
+
+**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** \
+[[Website](https://arxiv.org/abs/2410.13830)] 
+[[Project](https://dreamvideo2.github.io/)] 
 
 **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM** \
 [[Website](https://arxiv.org/abs/2401.01256)] 
