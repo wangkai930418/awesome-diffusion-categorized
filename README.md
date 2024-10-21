@@ -1449,6 +1449,9 @@
 **Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing** \
 [[Website](https://arxiv.org/abs/2410.10496)]
 
+**ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing** \
+[[Website](https://arxiv.org/abs/2410.14247)]
+
 
 ## Continual Learning
 
@@ -1481,6 +1484,10 @@
 **Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
 [[TMLR](https://arxiv.org/abs/2304.06027)] 
 [[Project](https://jamessealesmith.github.io/continual-diffusion/)]
+
+**Assessing Open-world Forgetting in Generative Image Model Customization** \
+[[Website](https://arxiv.org/abs/2410.14159)] 
+[[Project](https://hecoding.github.io/open-world-forgetting/)]
 
 **Class-Incremental Learning using Diffusion Model for Distillation and Replay** \
 [[ICCV 2023 VCL workshop best paper](https://arxiv.org/abs/2306.17560)] 
@@ -2406,6 +2413,9 @@
 **LEARNING TO CUSTOMIZE TEXT-TO-IMAGE DIFFUSION IN DIVERSE CONTEXT** \
 [[Website](https://arxiv.org/pdf/2410.10058)] 
 
+**HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects** \
+[[Website](https://arxiv.org/abs/2410.14265)] 
+
 
 ## T2I Diffusion Model augmentation
 
@@ -3247,6 +3257,10 @@
 [[Website](https://arxiv.org/abs/2403.09055)] 
 [[Code](https://github.com/ironjr/StreamMultiDiffusion)]
 
+**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation** \
+[[Website](https://arxiv.org/abs/2410.14324)] 
+[[Code](https://github.com/360CVGroup/HiCo_T2I)]
+
 
 **Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis** \
 [[ECCV 2024](https://arxiv.org/abs/2311.18435)] 
@@ -3414,6 +3428,11 @@
 [[Website](https://arxiv.org/abs/2311.03335)]
 [[Project](https://garibida.github.io/cross-image-attention/)]
 [[Code](https://github.com/garibida/cross-image-attention)]
+
+**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.14429)]
+[[Project](https://rickhh.github.io/FashionR2R/)]
+[[Code](https://github.com/Style3D/FashionR2R)]
 
 **Diffusion Guided Domain Adaptation of Image Generators** \
 [[Website](https://arxiv.org/abs/2212.04473)]
@@ -4739,6 +4758,8 @@
 **Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution** \
 [[Website](https://arxiv.org/abs/2405.10014)]
 
+**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer** \
+[[Website](https://arxiv.org/abs/2410.14279)]
 
 
 ## Video Generation 
