@@ -4,7 +4,7 @@
 
 ## Contents
 
-<!-- - [Accelerate](#accelerate) -->
+- [Accelerate](#accelerate)
 - [Image Restoration](#image-restoration)
 - [Colorization](#colorization)
 - [Face Restoration](#face-restoration)
@@ -28,6 +28,268 @@
 - [Super Resolution](#super-resolution)
 - [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
+
+
+## Accelerate
+
+**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models** \
+[[ICLR 2024 Spotlight](https://arxiv.org/abs/2401.05252)]
+[[Diffusers 1](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pixart)]
+[[Diffusers 2](https://huggingface.co/PixArt-alpha/PixArt-XL-2-1024-MS)]
+[[Project](https://pixart-alpha.github.io/)]
+[[Code](https://github.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file)]
+
+**SDXL-Turbo: Adversarial Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2311.17042)]
+[[Diffusers 1](https://huggingface.co/stabilityai/sdxl-turbo)]
+[[Diffusers 2](https://huggingface.co/docs/diffusers/en/using-diffusers/sdxl_turbo)]
+[[Project](https://huggingface.co/stabilityai)]
+[[Code](https://github.com/Stability-AI/generative-models)]
+
+**Trajectory Consistency Distillation: Improved Latent Consistency Distillation by Semi-Linear Consistency Function with Trajectory Mapping** \
+[[Website](https://arxiv.org/abs/2405.14867)]
+[[Diffusers 1](https://huggingface.co/h1t/TCD-SDXL-LoRA)]
+[[Diffusers 2](https://huggingface.co/docs/diffusers/en/using-diffusers/inference_with_tcd_lora)]
+[[Project](https://tianweiy.github.io/dmd2/)]
+[[Code](https://github.com/jabir-zheng/TCD)]
+
+**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module** \
+[[Website](https://arxiv.org/abs/2311.05556)]
+[[Diffusers](https://huggingface.co/docs/diffusers/en/using-diffusers/inference_with_lcm?lcm-lora=LCM-LoRA#lora)]
+[[Project](https://latent-consistency-models.github.io/)]
+[[Code](https://github.com/luosiallen/latent-consistency-model)]
+
+**Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference** \
+[[Website](https://arxiv.org/abs/2310.04378)]
+[[Project](https://huggingface.co/docs/diffusers/api/pipelines/latent_consistency_models)]
+[[Code](https://github.com/luosiallen/latent-consistency-model)]
+
+**DMD2: Improved Distribution Matching Distillation for Fast Image Synthesis** \
+[[NeurIPS 2024 Oral](https://arxiv.org/abs/2405.14867)]
+[[Project](https://tianweiy.github.io/dmd2/)]
+[[Code](https://github.com/tianweiy/DMD2)]
+
+**DMD1: One-step Diffusion with Distribution Matching Distillation** \
+[[CVPR 2024](https://arxiv.org/abs/2311.18828)]
+[[Project](https://tianweiy.github.io/dmd/)]
+[[Code](https://github.com/devrimcavusoglu/dmd)]
+
+
+**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation** \
+[[CVPR 2024](https://arxiv.org/abs/2312.05239)]
+[[Project](https://vinairesearch.github.io/SwiftBrush/)]
+[[Code](https://github.com/VinAIResearch/SwiftBrush)]
+
+**SwiftBrush V2: Make Your One-Step Diffusion Model Better Than Its Teacher** \
+[[ECCV 2024](https://arxiv.org/abs/2408.14176)]
+[[Project](https://swiftbrushv2.github.io/)]
+[[Code](https://github.com/VinAIResearch/SwiftBrush)]
+
+**CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2310.01407)]
+[[Project](https://fast-codi.github.io/)]
+[[Code](https://github.com/fast-codi/CoDi)]
+
+**Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.09873)]
+[[Project](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)]
+[[Code](https://github.com/UniModal4Reasoning/AdaptiveDiffusion)]
+
+**AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.06911)]
+[[Project](https://czg1225.github.io/asyncdiff_page/)]
+[[Code](https://github.com/czg1225/AsyncDiff)]
+
+**PCM : Phased Consistency Model** \
+[[NeurIPS 2024](https://arxiv.org/abs/2405.18407)]
+[[Project](https://g-u-n.github.io/projects/pcm/)]
+[[Code](https://github.com/G-U-N/Phased-Consistency-Model)]
+
+**Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.06890)]
+[[Project](https://yhzhai.github.io/mcm/)]
+[[Code](https://github.com/yhZhai/mcm)]
+
+**KOALA: Empirical Lessons Toward Memory-Efficient and Fast Diffusion Models for Text-to-Image Synthesis** \
+[[NeurIPS 2024](https://arxiv.org/abs/2312.04005)]
+[[Project](https://youngwanlee.github.io/KOALA/)]
+[[Code](https://github.com/youngwanLEE/sdxl-koala)]
+
+**Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation** \
+[[Website](https://arxiv.org/abs/2406.02347)]
+[[Project](https://gojasper.github.io/flash-diffusion-project/)]
+[[Code](https://github.com/gojasper/flash-diffusion)]
+
+**Relational Diffusion Distillation for Efficient Image Generation** \
+[[ACM MM 2024 (Oral)](https://arxiv.org/abs/2410.07679)]
+[[Code](https://github.com/cantbebetter2/RDD)]
+
+**UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs** \
+[[CVPR 2024](https://arxiv.org/abs/2311.09257)]
+[[Code](https://github.com/xuyanwu/SIDDMs-UFOGen)]
+
+**SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow** \
+[[ECCV 2024](https://arxiv.org/abs/2407.12718)]
+[[Code](https://github.com/yuanzhi-zhu/SlimFlow)]
+
+**Accelerating Image Generation with Sub-path Linear Approximation Model** \
+[[ECCV 2024](https://arxiv.org/abs/2404.13903)]
+[[Code](https://github.com/MCG-NJU/SPLAM)]
+
+**Diff-Instruct: A Universal Approach for Transferring Knowledge From Pre-trained Diffusion Models** \
+[[NeurIPS 2023](https://arxiv.org/abs/2305.18455)]
+[[Code](https://github.com/pkulwj1994/diff_instruct)]
+
+**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models** \
+[[ICML 2024](https://arxiv.org/abs/2408.05927)]
+[[Code](https://github.com/taehong-moon/ee-diffusion)]
+
+**Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation** \
+[[ICML 2024](https://arxiv.org/abs/2404.04057)]
+[[Code](https://github.com/mingyuanzhou/SiD)]
+
+**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation** \
+[[ICLR 2024](https://arxiv.org/abs/2309.06380)]
+[[Code](https://github.com/gnobitab/instaflow)]
+
+**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
+[[ICCV 2023](https://arxiv.org/abs/2309.10438)]
+[[Code](https://github.com/lilijiangg/AutoDiffusion)]
+
+**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions** \
+[[Website](https://arxiv.org/abs/2403.16627)]
+[[Project](https://idkiro.github.io/sdxs/)]
+[[Code](https://github.com/IDKiro/sdxs)]
+
+**Reward Guided Latent Consistency Distillation** \
+[[Website](https://arxiv.org/abs/2403.11027)]
+[[Project](https://rg-lcd.github.io/)]
+[[Code](https://github.com/Ji4chenLi/rg-lcd)]
+
+**T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching** \
+[[Website](https://arxiv.org/abs/2402.14167)]
+[[Project](https://t-stitch.github.io/)]
+[[Code](https://github.com/NVlabs/T-Stitch)]
+
+**One Step Diffusion via Shortcut Models** \
+[[Website](https://arxiv.org/abs/2410.12557)]
+[[Code](https://github.com/kvfrans/shortcut-models)]
+
+**DuoDiff: Accelerating Diffusion Models with a Dual-Backbone Approach** \
+[[Website](https://arxiv.org/abs/2410.09633)]
+[[Code](https://github.com/razvanmatisan/duodiff)]
+
+**A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training** \
+[[Website](https://arxiv.org/abs/2405.17403)]
+[[Code](https://github.com/nus-hpc-ai-lab/speed)]
+
+**FORA: Fast-Forward Caching in Diffusion Transformer Acceleration** \
+[[Website](https://arxiv.org/abs/2407.01425)]
+[[Code](https://github.com/prathebaselva/FORA)]
+
+**SpeedUpNet: A Plug-and-Play Adapter Network for Accelerating Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.08887)]
+[[Code](https://github.com/williechai/speedup-plugin-for-stable-diffusions)]
+
+**Accelerating Diffusion Transformers with Token-wise Feature Caching** \
+[[Website](https://arxiv.org/abs/2410.05317)]
+[[Code](https://github.com/Shenyi-Z/ToCa)]
+
+**Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching** \
+[[Website](https://arxiv.org/abs/2406.01733)]
+[[Code](https://github.com/horseee/learning-to-cache)]
+
+**Distribution Backtracking Builds A Faster Convergence Trajectory for Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2408.15991)]
+[[Code](https://github.com/SYZhang0805/DisBack)]
+
+**Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2406.01561)]
+[[Code](https://github.com/mingyuanzhou/SiD-LSG)]
+
+**Diffusion Models Are Innate One-Step Generators** \
+[[Website](https://arxiv.org/abs/2405.20750)]
+[[Code](https://github.com/Zyriix/GDD)]
+
+**Distilling Diffusion Models into Conditional GANs** \
+[[ECCV 2024](https://arxiv.org/abs/2405.05967)]
+[[Project](https://mingukkang.github.io/Diffusion2GAN/)]
+
+**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2405.05252)]
+[[Project](https://atedm.github.io/)]
+
+**Plug-and-Play Diffusion Distillation** \
+[[CVPR 2024](https://arxiv.org/abs/2406.01954)]
+[[Project](https://5410tiffany.github.io/plug-and-play-diffusion-distillation.github.io/)]
+
+**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds** \
+[[NeurIPS 2023](https://arxiv.org/abs/2306.00980)]
+[[Project](https://snap-research.github.io/SnapFusion/)]
+
+**FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
+
+**HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration** \
+[[Website](https://arxiv.org/abs/2410.01723)]
+
+**MLCM: Multistep Consistency Distillation of Latent Diffusion Model** \
+[[Website](https://arxiv.org/abs/2406.05768)]
+
+**EM Distillation for One-step Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.16852)]
+
+**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \
+[[Website](https://arxiv.org/abs/2410.03355)]
+
+**Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation** \
+[[Website](https://arxiv.org/abs/2405.05224)]
+
+**Accelerating Diffusion Models with One-to-Many Knowledge Distillation** \
+[[Website](https://arxiv.org/abs/2410.04191)]
+
+**TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution** \
+[[Website](https://arxiv.org/abs/2410.07663)]
+
+**DDIL: Improved Diffusion Distillation With Imitation Learning** \
+[[Website](https://arxiv.org/abs/2410.11971)]
+
+**OSV: One Step is Enough for High-Quality Image to Video Generation** \
+[[Website](https://arxiv.org/abs/2409.11367)]
+
+**Target-Driven Distillation: Consistency Distillation with Target Timestep Selection and Decoupled Guidance** \
+[[Website](https://arxiv.org/abs/2409.01347)]
+
+**Token Caching for Diffusion Transformer Acceleration** \
+[[Website](https://arxiv.org/abs/2409.18523)]
+
+**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
+[[Website](https://arxiv.org/abs/2410.01699)]
+
+**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future** \
+[[Website](https://arxiv.org/abs/2408.08822)]
+
+**Multistep Distillation of Diffusion Models via Moment Matching** \
+[[Website](https://arxiv.org/abs/2406.04103)]
+
+**Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2406.01125)]
+
+**SFDDM: Single-fold Distillation for Diffusion models** \
+[[Website](https://arxiv.org/abs/2405.14961)]
+
+**LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.11098)]
+
+**CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion** \
+[[Website](https://arxiv.org/abs/2403.05121)]
+
+**SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation** \
+[[Website](https://arxiv.org/abs/2403.01505)]
+
+**SDXL-Lightning: Progressive Adversarial Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2402.13929)]
+
 
 
 ## Image Restoration
