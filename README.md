@@ -219,6 +219,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2405.05252)]
 [[Project](https://atedm.github.io/)]
 
+**Cache Me if You Can: Accelerating Diffusion Models through Block Caching** \
+[[CVPR 2024](https://arxiv.org/abs/2312.03209)]
+[[Project](https://fwmb.github.io/blockcaching/)]
+
 **Plug-and-Play Diffusion Distillation** \
 [[CVPR 2024](https://arxiv.org/abs/2406.01954)]
 [[Project](https://5410tiffany.github.io/plug-and-play-diffusion-distillation.github.io/)]
