@@ -90,16 +90,6 @@
 [[Project](https://fast-codi.github.io/)]
 [[Code](https://github.com/fast-codi/CoDi)]
 
-**Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy** \
-[[NeurIPS 2024](https://arxiv.org/abs/2410.09873)]
-[[Project](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)]
-[[Code](https://github.com/UniModal4Reasoning/AdaptiveDiffusion)]
-
-**AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
-[[NeurIPS 2024](https://arxiv.org/abs/2406.06911)]
-[[Project](https://czg1225.github.io/asyncdiff_page/)]
-[[Code](https://github.com/czg1225/AsyncDiff)]
-
 **PCM : Phased Consistency Model** \
 [[NeurIPS 2024](https://arxiv.org/abs/2405.18407)]
 [[Project](https://g-u-n.github.io/projects/pcm/)]
@@ -152,9 +142,6 @@
 [[ICLR 2024](https://arxiv.org/abs/2309.06380)]
 [[Code](https://github.com/gnobitab/instaflow)]
 
-**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
-[[ICCV 2023](https://arxiv.org/abs/2309.10438)]
-[[Code](https://github.com/lilijiangg/AutoDiffusion)]
 
 **SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions** \
 [[Website](https://arxiv.org/abs/2403.16627)]
@@ -183,17 +170,10 @@
 [[Website](https://arxiv.org/abs/2405.17403)]
 [[Code](https://github.com/nus-hpc-ai-lab/speed)]
 
-**FORA: Fast-Forward Caching in Diffusion Transformer Acceleration** \
-[[Website](https://arxiv.org/abs/2407.01425)]
-[[Code](https://github.com/prathebaselva/FORA)]
 
 **SpeedUpNet: A Plug-and-Play Adapter Network for Accelerating Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.08887)]
 [[Code](https://github.com/williechai/speedup-plugin-for-stable-diffusions)]
-
-**Accelerating Diffusion Transformers with Token-wise Feature Caching** \
-[[Website](https://arxiv.org/abs/2410.05317)]
-[[Code](https://github.com/Shenyi-Z/ToCa)]
 
 **Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching** \
 [[Website](https://arxiv.org/abs/2406.01733)]
@@ -215,9 +195,6 @@
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
 
-**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models** \
-[[CVPR 2024](https://arxiv.org/abs/2405.05252)]
-[[Project](https://atedm.github.io/)]
 
 **Plug-and-Play Diffusion Distillation** \
 [[CVPR 2024](https://arxiv.org/abs/2406.01954)]
@@ -263,17 +240,11 @@
 **Token Caching for Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2409.18523)]
 
-**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
-[[Website](https://arxiv.org/abs/2410.01699)]
 
-**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future** \
-[[Website](https://arxiv.org/abs/2408.08822)]
+
 
 **Multistep Distillation of Diffusion Models via Moment Matching** \
 [[Website](https://arxiv.org/abs/2406.04103)]
-
-**Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers** \
-[[Website](https://arxiv.org/abs/2406.01125)]
 
 **SFDDM: Single-fold Distillation for Diffusion models** \
 [[Website](https://arxiv.org/abs/2405.14961)]
@@ -289,6 +260,90 @@
 
 **SDXL-Lightning: Progressive Adversarial Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2402.13929)]
+
+### Train-Free
+
+
+**AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.06911)]
+[[Project](https://czg1225.github.io/asyncdiff_page/)]
+[[Code](https://github.com/czg1225/AsyncDiff)]
+
+**Training-Free Adaptive Diffusion with Bounded Difference Approximation Strategy** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.09873)]
+[[Project](https://jiakangyuan.github.io/AdaptiveDiffusion-project-page/)]
+[[Code](https://github.com/UniModal4Reasoning/AdaptiveDiffusion)]
+
+
+**DeepCache: Accelerating Diffusion Models for Free** \
+[[CVPR 2024](https://arxiv.org/abs/2312.00858)]
+[[Project](https://horseee.github.io/Diffusion_DeepCache/)]
+[[Code](https://github.com/horseee/DeepCache)]
+
+**Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference** \
+[[NeurIPS 2024](https://arxiv.org/abs/2312.09608)]
+[[Code](https://github.com/hutaihang/faster-diffusion)]
+
+**DiTFastAttn: Attention Compression for Diffusion Transformer Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.08552)]
+[[Code](https://github.com/thu-nics/DiTFastAttn)]
+
+**Structural Pruning for Diffusion Models** \
+[[NeurIPS 2023](https://arxiv.org/abs/2305.10924)]
+[[Code](https://github.com/VainF/Diff-Pruning)]
+
+**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
+[[ICCV 2023](https://arxiv.org/abs/2309.10438)]
+[[Code](https://github.com/lilijiangg/AutoDiffusion)]
+
+**Agent Attention: On the Integration of Softmax and Linear Attention** \
+[[ECCV 2024](https://arxiv.org/abs/2312.08874)]
+[[Code](https://github.com/LeapLabTHU/Agent-Attention)]
+
+**Token Merging for Fast Stable Diffusion** \
+[[CVPRW 2024](https://arxiv.org/abs/2303.17604)]
+[[Code](https://github.com/dbolya/tomesd)]
+
+**FORA: Fast-Forward Caching in Diffusion Transformer Acceleration** \
+[[Website](https://arxiv.org/abs/2407.01425)]
+[[Code](https://github.com/prathebaselva/FORA)]
+
+**Real-Time Video Generation with Pyramid Attention Broadcast** \
+[[Website](https://arxiv.org/abs/2408.12588)]
+[[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)]
+
+**Accelerating Diffusion Transformers with Token-wise Feature Caching** \
+[[Website](https://arxiv.org/abs/2410.05317)]
+[[Code](https://github.com/Shenyi-Z/ToCa)]
+
+**TGATE-V1: Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.02747v1)]
+[[Code](https://github.com/HaozheLiu-ST/T-GATE)]
+
+**TGATE-V2: Faster Diffusion via Temporal Attention Decomposition** \
+[[Website](https://arxiv.org/abs/2404.02747v2)]
+[[Code](https://github.com/HaozheLiu-ST/T-GATE)]
+
+
+**Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2405.05252)]
+[[Project](https://atedm.github.io/)]
+
+**Cache Me if You Can: Accelerating Diffusion Models through Block Caching** \
+[[Website](https://arxiv.org/abs/2312.03209)]
+[[Project](https://github.com/Shenyi-Z/ToCa)]
+
+**Token Fusion: Bridging the Gap between Token Pruning and Token Merging** \
+[[WACV 2024](https://arxiv.org/abs/2312.01026)]
+
+**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
+[[Website](https://fwmb.github.io/blockcaching/)]
+
+**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future** \
+[[Website](https://arxiv.org/abs/2408.08822)]
+
+**Δ-DiT: A Training-Free Acceleration Method Tailored for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2406.01125)]
 
 
 
