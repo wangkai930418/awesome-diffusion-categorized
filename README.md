@@ -227,6 +227,10 @@
 [[NeurIPS 2023](https://arxiv.org/abs/2306.00980)]
 [[Project](https://snap-research.github.io/SnapFusion/)]
 
+**Truncated Consistency Models** \
+[[Website](https://arxiv.org/abs/2410.14895)]
+[[Project](https://truncated-cm.github.io/)]
+
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
 
@@ -290,6 +294,8 @@
 **SDXL-Lightning: Progressive Adversarial Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2402.13929)]
 
+**Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step** \
+[[Website](https://arxiv.org/abs/2410.14919)]
 
 
 ## Image Restoration
@@ -501,6 +507,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2312.11595)]
 [[Project](https://chenyangqiqi.github.io/tip/)]
 
+**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.16152)]
+[[Project](https://giannisdaras.github.io/warped_diffusion.github.io/)]
+
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2308.13164)]
@@ -565,6 +575,10 @@
 
 **Towards Flexible and Efficient Diffusion Low Light Enhancer** \
 [[Website](https://arxiv.org/abs/2410.12346)]
+
+**G2D2: Gradient-guided Discrete Diffusion for image inverse problem solving** \
+[[Website](https://arxiv.org/abs/2410.14710)]
+
 
 ## Colorization
 
@@ -1831,6 +1845,10 @@
 **Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion** \
 [[ECCV 2024](https://arxiv.org/abs/2407.21032)] 
 [[Code](https://github.com/nannullna/safeguard-hfi)]
+
+**Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.15618)] 
+[[Code](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation)]
 
 **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
 [[Website](https://arxiv.org/abs/2410.12777)] 
@@ -3740,6 +3758,10 @@
 [[ACM MM 2024](https://arxiv.org/abs/2408.05492)]
 [[Code](https://github.com/liujin112/ZePo)]
 
+**DiffuseST: Unleashing the Capability of the Diffusion Model for Style Transfer** \
+[[ACM MM Asia 2024](https://arxiv.org/abs/2410.15007)]
+[[Code](https://github.com/I2-Multimedia-Lab/DiffuseST)]
+
 **TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control** \
 [[Website](https://arxiv.org/abs/2410.10133)]
 [[Code](https://github.com/weichaozeng/TextCtrl)]
@@ -5149,6 +5171,11 @@
 [[Project](https://sobeymil.github.io/tvg.com/)] 
 [[Code](https://github.com/SobeyMIL/TVG)]
 
+**CamI2V: Camera-Controlled Image-to-Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2410.15957)]
+[[Project](https://zgctroy.github.io/CamI2V/)] 
+[[Code](https://github.com/ZGCTroy/CamI2V)]
+
 **MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning** \
 [[Website](https://arxiv.org/abs/2409.15179)]
 [[Project](https://mimaface2024.github.io/mimaface.github.io/)] 
@@ -5662,6 +5689,10 @@
 **I4VGen: Image as Stepping Stone for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02230)]
 [[Project](https://xiefan-guo.github.io/i4vgen/)]
+
+**FrameBridge: Improving Image-to-Video Generation with Bridge Models** \
+[[Website](https://arxiv.org/abs/2410.15371)]
+[[Project](https://framebridge-demo.github.io/)]
 
 **Boosting Camera Motion Control for Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2410.10802)]
