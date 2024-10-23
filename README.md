@@ -1989,6 +1989,9 @@
 **Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning** \
 [[Website](https://arxiv.org/abs/2410.05664)] 
 
+**Understanding the Impact of Negative Prompts: When and How Do They Take Effect?** \
+[[Website](https://arxiv.org/abs/2406.02965)] 
+
 
 ## New Concept Learning
 
@@ -3032,6 +3035,10 @@
 **Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2404.07389)] 
 [[Code](https://github.com/YasminZhang/EBAMA/tree/master)]
+
+**On Discrete Prompt Optimization for Diffusion Models** \
+[[ICML 2024](https://arxiv.org/abs/2407.01606)] 
+[[Code](https://github.com/ruocwang/dpo-diffusion)]
 
 **Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function** \
 [[NeurIPS 2024](https://arxiv.org/abs/2409.19967)] 
