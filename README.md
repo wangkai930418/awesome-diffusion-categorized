@@ -215,6 +215,9 @@
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
 
+**One-Step Diffusion Distillation through Score Implicit Matching** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.16794)]
+
 **HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2410.01723)]
 
@@ -248,6 +251,8 @@
 **Token Caching for Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2409.18523)]
 
+**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization** \
+[[Website](https://arxiv.org/abs/2410.16942)]
 
 
 
@@ -3055,6 +3060,10 @@
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
 [[Code](https://github.com/TruthAI-Lab/PCIG)]
+
+**Progressive Compositionality In Text-to-Image Generative Models** \
+[[Website](https://arxiv.org/abs/2410.16719)] 
+[[Code](https://github.com/evansh666/EvoGen)]
 
 **Improving Long-Text Alignment for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.11817)] 
