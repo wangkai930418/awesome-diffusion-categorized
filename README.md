@@ -386,6 +386,10 @@
 [[ICML 2023 oral](https://arxiv.org/abs/2301.12686)]
 [[Code](https://github.com/sony/gibbsddrm)]
 
+**Diffusion Priors for Variational Likelihood Estimation and Image Denoising** \
+[[NeurIPS 2024 Spotlight](https://arxiv.org/abs/2410.17521)]
+[[Code](https://github.com/HUST-Tan/DiffusionVI)]
+
 **Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance** \
 [[CVPR 2024](https://arxiv.org/abs/2312.16519)]
 [[Code](https://github.com/tirer-lab/DDPG)]
@@ -1744,6 +1748,10 @@
 **Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning** \
 [[ECCV 2024 Oral](https://arxiv.org/abs/2409.01128)] 
 [[Code](https://github.com/jinglin-liang/DDDR)]
+
+**How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.17594)] 
+[[Code](https://github.com/JiahuaDong/CIFC)]
 
 **CLoG: Benchmarking Continual Learning of Image Generation Models** \
 [[Website](https://arxiv.org/abs/2406.04584)] 
@@ -3123,6 +3131,10 @@
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
+
+**Scalable Ranked Preference Optimization for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2410.18013)] 
+[[Project](https://snap-research.github.io/RankDPO/)] 
 
 **ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2410.01731)] 
@@ -4994,6 +5006,9 @@
 
 **Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10255)] 
+
+**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2410.17752)] 
 
 **Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
 [[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
