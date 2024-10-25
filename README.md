@@ -170,6 +170,9 @@
 [[Website](https://arxiv.org/abs/2405.17403)]
 [[Code](https://github.com/nus-hpc-ai-lab/speed)]
 
+**Stable Consistency Tuning: Understanding and Improving Consistency Models** \
+[[Website](https://arxiv.org/abs/2410.18958)]
+[[Code](https://github.com/G-U-N/Stable-Consistency-Tuning)]
 
 **SpeedUpNet: A Plug-and-Play Adapter Network for Accelerating Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.08887)]
@@ -361,6 +364,14 @@
 **Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step** \
 [[Website](https://arxiv.org/abs/2410.14919)]
 
+**Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences** \
+[[Website](https://arxiv.org/abs/2410.18881)]
+
+**Fast constrained sampling in pre-trained diffusion models** \
+[[Website](https://arxiv.org/abs/2410.18804)]
+
+
+
 
 ## Image Restoration
 
@@ -489,6 +500,10 @@
 **ReFIR: Grounding Large Restoration Models with Retrieval Augmentation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.05601)]
 [[Code](https://github.com/csguoh/ReFIR)]
+
+**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.18666)]
+[[Code](https://github.com/shallowdream204/DreamClear)]
 
 **Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems** \
 [[Website](https://arxiv.org/abs/2407.11288)]
@@ -1241,6 +1256,9 @@
 
 **BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.07273)] 
+
+**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.18756)] 
 
 **BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
 [[WACV 2024](https://arxiv.org/abs/2312.05482)] 
@@ -3988,6 +4006,11 @@
 [[Project](https://jylin8100.github.io/InvSegProject/)] 
 [[Code](https://github.com/jyLin8100/InvSeg)]
 
+**SMITE: Segment Me In TimE** \
+[[Website](https://arxiv.org/abs/2410.18538)] 
+[[Project](https://segment-me-in-time.github.io/)] 
+[[Code](https://github.com/alimohammadiamirhossein/smite/)]
+
 
 **Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model** \
 [[ECCV 2024](https://arxiv.org/abs/2407.05352)] 
@@ -4953,6 +4976,9 @@
 **TextMaster: Universal Controllable Text Edit** \
 [[Website](https://arxiv.org/abs/2410.09879)]
 
+**Towards Visual Text Design Transfer Across Languages** \
+[[Website](https://arxiv.org/abs/2410.18823)]
+
 
 ## Super Resolution
 
@@ -5220,6 +5246,12 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.10937)]
 [[Project](https://yhzhai.github.io/idol/)] 
 [[Code](https://github.com/yhZhai/idol)]
+
+
+**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** \
+[[ECCV 2024](https://arxiv.org/abs/2402.17485)]
+[[Project](https://humanaigc.github.io/emote-portrait-alive/)] 
+[[Code](https://github.com/HumanAIGC/EMO)]
 
 **T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design** \
 [[Website](https://arxiv.org/abs/2410.05677)]
@@ -6069,9 +6101,6 @@
 
 **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis** \
 [[Website](https://arxiv.org/abs/2402.14797v1)]
-
-**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** \
-[[Website](https://arxiv.org/abs/2402.17485)]
 
 **Context-aware Talking Face Video Generation** \
 [[Website](https://arxiv.org/abs/2402.18092)]
