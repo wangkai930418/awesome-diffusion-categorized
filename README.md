@@ -110,6 +110,26 @@
 [[Project](https://gojasper.github.io/flash-diffusion-project/)]
 [[Code](https://github.com/gojasper/flash-diffusion)]
 
+**FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality** \
+[[Website](https://arxiv.org/abs/2410.19355)]
+[[Project](https://vchitect.github.io/FasterCache/)]
+[[Code](https://github.com/Vchitect/FasterCache)]
+
+**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions** \
+[[Website](https://arxiv.org/abs/2403.16627)]
+[[Project](https://idkiro.github.io/sdxs/)]
+[[Code](https://github.com/IDKiro/sdxs)]
+
+**Reward Guided Latent Consistency Distillation** \
+[[Website](https://arxiv.org/abs/2403.11027)]
+[[Project](https://rg-lcd.github.io/)]
+[[Code](https://github.com/Ji4chenLi/rg-lcd)]
+
+**T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching** \
+[[Website](https://arxiv.org/abs/2402.14167)]
+[[Project](https://t-stitch.github.io/)]
+[[Code](https://github.com/NVlabs/T-Stitch)]
+
 **Relational Diffusion Distillation for Efficient Image Generation** \
 [[ACM MM 2024 (Oral)](https://arxiv.org/abs/2410.07679)]
 [[Code](https://github.com/cantbebetter2/RDD)]
@@ -142,21 +162,6 @@
 [[ICLR 2024](https://arxiv.org/abs/2309.06380)]
 [[Code](https://github.com/gnobitab/instaflow)]
 
-
-**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions** \
-[[Website](https://arxiv.org/abs/2403.16627)]
-[[Project](https://idkiro.github.io/sdxs/)]
-[[Code](https://github.com/IDKiro/sdxs)]
-
-**Reward Guided Latent Consistency Distillation** \
-[[Website](https://arxiv.org/abs/2403.11027)]
-[[Project](https://rg-lcd.github.io/)]
-[[Code](https://github.com/Ji4chenLi/rg-lcd)]
-
-**T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching** \
-[[Website](https://arxiv.org/abs/2402.14167)]
-[[Project](https://t-stitch.github.io/)]
-[[Code](https://github.com/NVlabs/T-Stitch)]
 
 **One Step Diffusion via Shortcut Models** \
 [[Website](https://arxiv.org/abs/2410.12557)]
@@ -257,7 +262,8 @@
 **DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization** \
 [[Website](https://arxiv.org/abs/2410.16942)]
 
-
+**Flow Generator Matching** \
+[[Website](https://arxiv.org/abs/2410.19310)]
 
 **Multistep Distillation of Diffusion Models via Moment Matching** \
 [[Website](https://arxiv.org/abs/2406.04103)]
