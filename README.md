@@ -2899,6 +2899,11 @@
 [[Project](https://hcplayercvpr2024.github.io/)] 
 [[Code](https://github.com/hcplayercvpr2024/hcplayer)] 
 
+**Training Diffusion Models with Reinforcement Learning** \
+[[ICLR 2024](https://arxiv.org/abs/2305.13301)] 
+[[Project](https://rl-diffusion.github.io/)] 
+[[Code](https://github.com/kvablack/ddpo-pytorch)] 
+
 **Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
 [[BMVC 2023 Oral](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
@@ -3084,6 +3089,14 @@
 **Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization** \
 [[ACM MM 2024](https://arxiv.org/abs/2410.12700)] 
 [[Code](https://github.com/achernarwang/LiVO)]
+
+**DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models** \
+[[NeurIPS 2023](https://arxiv.org/abs/2305.16381)] 
+[[Code](https://github.com/google-research/google-research/tree/master/dpok)]
+
+**Diffusion Model Alignment Using Direct Preference Optimization** \
+[[Website](https://arxiv.org/abs/2311.12908)] 
+[[Code](https://github.com/SalesforceAIResearch/DiffusionDPO)]
 
 **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment** \
 [[Website](https://arxiv.org/abs/2410.05255)] 
@@ -3308,11 +3321,6 @@
 
 **PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation** \
 [[Website](https://arxiv.org/abs/2407.04493)] 
-
-
-
-**Diffusion Model Alignment Using Direct Preference Optimization** \
-[[Website](https://arxiv.org/abs/2311.12908)] 
 
 **Exposure Diffusion: HDR Image Generation by Consistent LDR denoising** \
 [[Website](https://arxiv.org/abs/2405.14304)] 
