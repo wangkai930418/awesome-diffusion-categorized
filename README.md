@@ -229,6 +229,9 @@
 **HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2410.01723)]
 
+**Diff-Instruct\*: Towards Human-Preferred One-step Text-to-image Generative Models** \
+[[Website](https://arxiv.org/abs/2410.20898)]
+
 **MLCM: Multistep Consistency Distillation of Latent Diffusion Model** \
 [[Website](https://arxiv.org/abs/2406.05768)]
 
@@ -1665,6 +1668,9 @@
 [[ECCV 2024](https://arxiv.org/abs/2408.08332)]
 [[Project](https://betterze.github.io/TurboEdit/)] 
 
+**Novel Object Synthesis via Adaptive Text-Image Harmony** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.20823)]
+[[Project](https://xzr52.github.io/ATIH/)] 
 
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
@@ -3525,6 +3531,10 @@
 [[Project](https://kaichen1998.github.io/projects/geodiffusion/)] 
 [[Code](https://github.com/KaiChen1998/GeoDiffusion/tree/main)]
 
+**GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.20474)] 
+[[Project](https://groundit-visualai.github.io/)] 
+[[Code](https://github.com/KAIST-Visual-AI-Group/GrounDiT/)]
 
 **ReCo: Region-Controlled Text-to-Image Generation** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)] 
@@ -5830,6 +5840,10 @@
 [[Website](https://arxiv.org/abs/2410.15371)]
 [[Project](https://framebridge-demo.github.io/)]
 
+**MarDini: Masked Autoregressive Diffusion for Video Generation at Scale** \
+[[Website](https://arxiv.org/abs/2410.20280)]
+[[Project](https://mardini-vidgen.github.io/)]
+
 **Boosting Camera Motion Control for Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2410.10802)]
 [[Project](https://soon-yau.github.io/CameraMotionGuidance/)]
@@ -6015,6 +6029,15 @@
 **VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide** \
 [[Website](https://arxiv.org/abs/2410.04364)]
 [[Project](https://videoguide2025.github.io/)] 
+
+**MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis** \
+[[Website](https://arxiv.org/abs/2410.20974)]
+[[Project](https://moviecharacter.github.io/)]
+
+**ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation** \
+[[Website](https://arxiv.org/abs/2410.20502)]
+[[Project](https://arlont2v.github.io/)]
+
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
