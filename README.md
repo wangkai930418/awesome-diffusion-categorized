@@ -2445,6 +2445,10 @@
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
 [[Code](https://github.com/zyxElsa/ProSpect)]
 
+**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier** \
+[[WACV 2025](https://arxiv.org/abs/2410.22317)] 
+[[Code](https://github.com/wangkai930418/mc_ti)]
+
 **Multiresolution Textual Inversion** \
 [[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
 [[Code](https://github.com/giannisdaras/multires_textual_inversion)]
@@ -3246,6 +3250,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
 
+**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.21638)] 
+[[Project](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/)] 
+
 **Scalable Ranked Preference Optimization for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2410.18013)] 
 [[Project](https://snap-research.github.io/RankDPO/)] 
@@ -4035,6 +4043,9 @@
 [[Project](https://segment-me-in-time.github.io/)] 
 [[Code](https://github.com/alimohammadiamirhossein/smite/)]
 
+**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.21708)] 
+[[Code](https://github.com/XiaRho/MADM)]
 
 **Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model** \
 [[ECCV 2024](https://arxiv.org/abs/2407.05352)] 
@@ -4684,6 +4695,10 @@
 [[SIGGRAPH 2024](https://arxiv.org/abs/2407.21017)] 
 [[Project](https://lightchaserx.github.io/matting-by-generation/)]
 
+**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference** \
+[[NeurIPS 2024](https://arxiv.org/abs/2407.21017)] 
+[[Project](https://prefpaint.github.io/)]
+
 **Taming Latent Diffusion Model for Neural Radiance Field Inpainting** \
 [[Website](https://arxiv.org/abs/2404.09995)] 
 [[Project](https://hubert0527.github.io/MALD-NeRF/)]
@@ -5002,6 +5017,10 @@
 
 **Towards Visual Text Design Transfer Across Languages** \
 [[Website](https://arxiv.org/abs/2410.18823)]
+
+**DiffSTR: Controlled Diffusion Models for Scene Text Removal** \
+[[Website](https://arxiv.org/abs/2410.21721)]
+
 
 
 ## Super Resolution
