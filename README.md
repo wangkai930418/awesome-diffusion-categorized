@@ -220,6 +220,11 @@
 [[Website](https://arxiv.org/abs/2410.14895)]
 [[Project](https://truncated-cm.github.io/)]
 
+**Multi-student Diffusion Distillation for Better One-step Generators** \
+[[Website](https://arxiv.org/abs/2410.23274)]
+[[Project](https://research.nvidia.com/labs/toronto-ai/MSD/index_hidden.html)]
+
+
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
 
@@ -2579,6 +2584,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.13752)] 
 [[Project](https://mingkangz.github.io/logosticker/)] 
 
+**RelationBooth: Towards Relation-Aware Customized Object Generation** \
+[[Website](https://arxiv.org/abs/2410.23280)] 
+[[Project](https://shi-qingyu.github.io/RelationBooth/)] 
+
 **InstructBooth: Instruction-following Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.03011)] 
 [[Project](https://sites.google.com/view/instructbooth)] 
@@ -3139,6 +3148,10 @@
 **AID: Attention Interpolation of Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2403.17924)] 
 [[Code](https://github.com/QY-H00/attention-interpolation-diffusion)]
+
+**Rare-to-Frequent: Unlocking Compositional Generation Power of Diffusion Models on Rare Concepts with LLM Guidance** \
+[[Website](https://arxiv.org/abs/2410.22376)] 
+[[Code](https://github.com/krafton-ai/Rare2Frequent)]
 
 **FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis** \
 [[Website](https://arxiv.org/abs/2403.12963)] 
@@ -4126,6 +4139,9 @@
 [[Website](https://arxiv.org/abs/2403.20105)] 
 [[Project](https://bcorrad.github.io/freesegdiff/)]
 
+**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos** \
+[[Website](https://arxiv.org/abs/2410.23287)] 
+[[Project](https://miccooper9.github.io/projects/ReferEverything/)] 
 
 **DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic Segmentation Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.11681)] 
@@ -5646,6 +5662,11 @@
 [[Project](https://showlab.github.io/T2VScore/)]
 [[Code](https://github.com/showlab/T2VScore)] 
 
+**HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.22901)]
+[[Project](https://songkey.github.io/hellomeme/)]
+[[Code](https://github.com/HelloVision/HelloMeme)] 
+
 **AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning** \
 [[Website](https://arxiv.org/abs/2402.00769)]
 [[Project](https://animatelcm.github.io/)]
@@ -5915,6 +5936,9 @@
 [[Website](https://arxiv.org/abs/2312.02813)]
 [[Project](https://bivdiff.github.io/)] 
 
+**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation** \
+[[Website](https://arxiv.org/abs/2410.23277)]
+[[Project](https://slowfast-vgen.github.io/)] 
 
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2210.02303)]
@@ -6239,6 +6263,8 @@
 **BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way** \
 [[Website](https://arxiv.org/abs/2410.06241)]
 
+**LumiSculpt: A Consistency Lighting Control Network for Video Generation** \
+[[Website](https://arxiv.org/abs/2410.22979)]
 
 
 ## Video Editing 
