@@ -1512,6 +1512,11 @@
 [[Project](https://mirrordiffusion.github.io/)] 
 [[Code](https://github.com/MirrorDiffusion/MirrorDiffusion)] 
 
+**Scaling Concept With Text-Guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.24151)] 
+[[Project](https://wikichao.github.io/ScalingConcept/)] 
+[[Code](https://github.com/WikiChao/ScalingConcept)] 
+
 **Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control** \
 [[Website](https://arxiv.org/abs/2405.12970)] 
 [[Project](https://faceadapter.github.io/face-adapter.github.io/)] 
@@ -2953,6 +2958,11 @@
 [[Project](https://shihaozhaozsh.github.io/LaVi-Bridge/)] 
 [[Code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)]
 
+**MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts** \
+[[Website](https://arxiv.org/abs/2410.23332)] 
+[[Project](https://sites.google.com/view/mole4diffuser/)] 
+[[Code](https://github.com/JiePKU/MoLE)]
+
 **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching** \
 [[Website](https://arxiv.org/abs/2404.03653)] 
 [[Project](https://caraj7.github.io/comat/)] 
@@ -3508,6 +3518,11 @@
 
 **CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning** \
 [[Website](https://arxiv.org/abs/2410.11963)] 
+
+**Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation** \
+[[Website](https://arxiv.org/abs/2410.24160)] 
+
+
 
 ## Spatial Control
 
@@ -5357,6 +5372,11 @@
 [[Project](https://zgctroy.github.io/CamI2V/)] 
 [[Code](https://github.com/ZGCTroy/CamI2V)]
 
+**Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning** \
+[[Website](https://arxiv.org/abs/2410.24219)]
+[[Project](https://pr-ryan.github.io/DEMO-project/)] 
+[[Code](https://github.com/PR-Ryan/DEMO)]
+
 **MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning** \
 [[Website](https://arxiv.org/abs/2409.15179)]
 [[Project](https://mimaface2024.github.io/mimaface.github.io/)] 
@@ -6265,6 +6285,9 @@
 
 **LumiSculpt: A Consistency Lighting Control Network for Video Generation** \
 [[Website](https://arxiv.org/abs/2410.22979)]
+
+**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
+[[Website](https://arxiv.org/abs/2410.24037)]
 
 
 ## Video Editing 
