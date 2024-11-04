@@ -980,6 +980,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.10625)]
 [[Project](https://wildvidfit-project.github.io/)]
 
+**Fashion-VDM: Video Diffusion Model for Virtual Try-On** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2411.00225)]
+[[Project](https://johannakarras.github.io/Fashion-VDM/)]
+
 **Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos** \
 [[Website](https://arxiv.org/abs/2404.17571)]
 [[Project](https://mengtingchen.github.io/tunnel-try-on-page/)]
@@ -5052,6 +5056,8 @@
 **DiffSTR: Controlled Diffusion Models for Scene Text Removal** \
 [[Website](https://arxiv.org/abs/2410.21721)]
 
+**TextDestroyer: A Training- and Annotation-Free Diffusion Method for Destroying Anomal Text from Images** \
+[[Website](https://arxiv.org/abs/2411.00355)]
 
 
 ## Super Resolution
@@ -5386,6 +5392,11 @@
 [[Website](https://arxiv.org/abs/2406.05338)]
 [[Project](https://bujiazi.github.io/motionclone.github.io/)] 
 [[Code](https://github.com/Bujiazi/MotionClone)]
+
+**GameGen-X: Interactive Open-world Game Video Generation** \
+[[Website](https://arxiv.org/abs/2411.00769)]
+[[Project](https://gamegen-x.github.io/)] 
+[[Code](https://github.com/GameGen-X/GameGen-X)]
 
 **VEnhancer: Generative Space-Time Enhancement for Video Generation** \
 [[Website](https://arxiv.org/abs/2407.07667)]
