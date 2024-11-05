@@ -110,6 +110,11 @@
 [[Project](https://gojasper.github.io/flash-diffusion-project/)]
 [[Code](https://github.com/gojasper/flash-diffusion)]
 
+**Adaptive Caching for Faster Video Generation with Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2411.02397)]
+[[Project](https://adacache-dit.github.io/)]
+[[Code](https://github.com/AdaCache-DiT/AdaCache)]
+
 **FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality** \
 [[Website](https://arxiv.org/abs/2410.19355)]
 [[Project](https://vchitect.github.io/FasterCache/)]
@@ -149,6 +154,10 @@
 **Diff-Instruct: A Universal Approach for Transferring Knowledge From Pre-trained Diffusion Models** \
 [[NeurIPS 2023](https://arxiv.org/abs/2305.18455)]
 [[Code](https://github.com/pkulwj1994/diff_instruct)]
+
+**Fast and Memory-Efficient Video Diffusion Using Streamlined Inference** \
+[[NeurIPS 2024](https://arxiv.org/abs/2411.01171)]
+[[Code](https://github.com/wuyushuwys/FMEDiffusion)]
 
 **A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models** \
 [[ICML 2024](https://arxiv.org/abs/2408.05927)]
@@ -1491,6 +1500,11 @@
 [[Project](https://icoz69.github.io/facestudio/)] 
 [[Code](https://github.com/xyynafc/FaceStudio)] 
 
+**Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach** \
+[[Website](https://arxiv.org/abs/2411.01545)] 
+[[Project](https://soebench.github.io/)] 
+[[Code](https://github.com/panqihe-zjut/SOEBench)] 
+
 **Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.04410)] 
 [[Project](https://shi-labs.github.io/Smooth-Diffusion/)] 
@@ -2048,6 +2062,9 @@
 
 **Understanding the Impact of Negative Prompts: When and How Do They Take Effect?** \
 [[Website](https://arxiv.org/abs/2406.02965)] 
+
+**Model Integrity when Unlearning with T2I Diffusion Models** \
+[[Website](https://arxiv.org/abs/2411.02068)] 
 
 
 ## New Concept Learning
@@ -2683,6 +2700,8 @@
 [[Website](https://arxiv.org/abs/2410.08192)] 
 [[Project](https://sites.google.com/view/hybridboot/)] 
 
+**Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2411.01179)] 
 
 **ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image** \
 [[ECCV 2024](https://arxiv.org/abs/2402.11849)] 
@@ -3693,6 +3712,10 @@
 **Enhancing Object Coherence in Layout-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.10522)] 
 [[Code](https://github.com/CodeGoat24/EOCNet)]
+
+**Training-free Regional Prompting for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2411.02395)] 
+[[Code](https://github.com/instantX-research/Regional-Prompting-FLUX)]
 
 **DivCon: Divide and Conquer for Progressive Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2403.06400)] 
