@@ -4275,6 +4275,11 @@
 **Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking** \
 [[Website](https://arxiv.org/abs/2410.09243)] 
 
+**DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability** \
+[[Website](https://arxiv.org/abs/2411.01819)] 
+
+
+
 
 ## Additional conditions 
 
