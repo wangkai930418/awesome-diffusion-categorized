@@ -1612,6 +1612,10 @@
 [[Website](https://arxiv.org/abs/2410.04844)] 
 [[Code](https://github.com/TFNTF/PostEdit)] 
 
+**DiT4Edit: Diffusion Transformer for Image Editing** \
+[[Website](https://arxiv.org/abs/2411.03286)] 
+[[Code](https://github.com/fkyyyy/DiT4Edit)] 
+
 **Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing** \
 [[Website](https://arxiv.org/abs/2405.14785)] 
 [[Code](https://github.com/YangLing0818/EditWorld)] 
@@ -5086,6 +5090,10 @@
 
 **TextDestroyer: A Training- and Annotation-Free Diffusion Method for Destroying Anomal Text from Images** \
 [[Website](https://arxiv.org/abs/2411.00355)]
+
+**TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models** \
+[[Website](https://arxiv.org/abs/2411.02437)]
+
 
 
 ## Super Resolution
