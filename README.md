@@ -1858,6 +1858,10 @@
 **ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing** \
 [[Website](https://arxiv.org/abs/2410.14247)]
 
+**ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2411.03982)]
+
+
 
 ## Continual Learning
 
