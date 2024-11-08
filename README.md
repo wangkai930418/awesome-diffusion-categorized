@@ -873,6 +873,8 @@
 **Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection** \
 [[Website](https://arxiv.org/abs/2409.19624)]
 
+**StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration** \
+[[Website](https://arxiv.org/abs/2411.04925)]
 
 
 ## Try On
@@ -2501,6 +2503,10 @@
 [[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
 [[Code](https://github.com/PrototypeNx/DETEX)]
 
+**DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning** \
+[[NeurIPS 2024](https://arxiv.org/abs/2411.04571)] 
+[[Code](https://github.com/Ldhlwh/DomainGallery)]
+
 **TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation** \
 [[Website](https://arxiv.org/abs/2410.05591)] 
 [[Code](https://github.com/KwonGihyun/TweedieMix)]
@@ -3553,6 +3559,8 @@
 **Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation** \
 [[Website](https://arxiv.org/abs/2410.24160)] 
 
+**Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2411.03595)] 
 
 
 ## Spatial Control
@@ -4581,6 +4589,9 @@
 **Lafite2: Few-shot Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2210.14124)] 
 
+**Few-Shot Task Learning through Inverse Generative Modeling** \
+[[Website](https://arxiv.org/abs/2411.04987)] 
+
 
 ## SD-inpaint
 
@@ -5392,6 +5403,11 @@
 [[Website](https://arxiv.org/abs/2407.16655)]
 [[Project](https://aim-uofa.github.io/MovieDreamer/)] 
 [[Code](https://github.com/aim-uofa/MovieDreamer)]
+
+**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2411.04989)]
+[[Project](https://kmcode1.github.io/Projects/SG-I2V/)] 
+[[Code](https://github.com/Kmcode1/SG-I2V)]
 
 **Video Diffusion Alignment via Reward Gradients** \
 [[Website](https://arxiv.org/abs/2407.08737)]
@@ -6554,7 +6570,11 @@
 [[Website](https://arxiv.org/abs/2306.07954)]
 [[Project](https://anonymous-31415926.github.io/)] 
 
-**WAVE: Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing**
+**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2411.05003)]
+[[Project](https://generative-video-camera-controls.github.io/)] 
+
+**WAVE: Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09682.pdf)]
 [[Project](https://ree1s.github.io/wave/)]
 
