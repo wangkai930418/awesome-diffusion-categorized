@@ -1938,6 +1938,10 @@
 **MuseumMaker: Continual Style Customization without Catastrophic Forgetting** \
 [[Website](https://arxiv.org/abs/2404.16612)] 
 
+**Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion** \
+[[Website](https://arxiv.org/abs/2411.05544)] 
+
+
 
 ## Remove Concept
 
@@ -3561,6 +3565,9 @@
 
 **Investigating Conceptual Blending of a Diffusion Model for Improving Nonword-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2411.03595)] 
+
+**Improving image synthesis with diffusion-negative sampling** \
+[[Website](https://arxiv.org/abs/2411.05473)] 
 
 
 ## Spatial Control
