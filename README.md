@@ -627,6 +627,9 @@
 **Boosting Image Restoration via Priors from Pre-trained Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06793)]
 
+**A Modular Conditional Diffusion Framework for Image Reconstruction** \
+[[Website](https://arxiv.org/abs/2411.05993)]
+
 **Unpaired Photo-realistic Image Deraining with Energy-informed Diffusion Model** \
 [[Website](https://arxiv.org/abs/2407.17193)]
 
@@ -1456,6 +1459,10 @@
 [[Project](https://xavierchen34.github.io/MimicBrush-Page/)] 
 [[Code](https://github.com/ali-vilab/MimicBrush)] 
 
+**OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision** \
+[[Website](https://arxiv.org/abs/2411.07199)] 
+[[Project](https://tiger-ai-lab.github.io/OmniEdit/)] 
+[[Code](https://github.com/TIGER-AI-Lab/OmniEdit)] 
 
 **MultiBooth: Towards Generating All Your Concepts in an Image from Text** \
 [[Website](https://arxiv.org/abs/2404.14239)] 
@@ -1709,6 +1716,14 @@
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
 [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
+
+**Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2411.07232)]
+[[Project](https://research.nvidia.com/labs/par/addit/)] 
+
+**SeedEdit: Align Image Re-Generation to Image Editing** \
+[[Website](https://arxiv.org/abs/2411.06686)]
+[[Project](https://team.doubao.com/en/special/seededit)] 
 
 **Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection** \
 [[Website](https://arxiv.org/abs/2405.16823)]
@@ -2931,6 +2946,12 @@
 [[Code](https://github.com/mit-han-lab/distrifuser)]
 [[Blog](https://hanlab.mit.edu/blog/distrifusion)] 
 
+**Diffusion Self-Guidance for Controllable Image Generation** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70344)] 
+[[Website](https://arxiv.org/abs/2306.00986)] 
+[[Project](https://dave.ml/selfguidance/)] 
+[[Code](https://github.com/Sainzerjj/Free-Guidance-Diffusion)]
+
 
 **ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72054)] 
@@ -2938,11 +2959,6 @@
 [[Code](https://github.com/THUDM/ImageReward)]
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=JVzeOYEx6d)]  -->
 
-**Diffusion Self-Guidance for Controllable Image Generation** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70344)] 
-[[Website](https://arxiv.org/abs/2306.00986)] 
-[[Project](https://dave.ml/selfguidance/)] 
-[[Code](https://github.com/Sainzerjj/Free-Guidance-Diffusion)]
 
 **DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72425)] 
@@ -3127,6 +3143,12 @@
 **Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models** \
 [[ICLR 2024](https://arxiv.org/abs/2402.05375)] 
 [[Code](https://github.com/sen-mao/SuppressEOT)]
+
+
+**Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis** \
+[[NeurIPS 2024](https://arxiv.org/abs/2411.07132)] 
+[[Code](https://github.com/hutaihang/ToMe)]
+
 
 **Dynamic Prompt Optimizing for Text-to-Image Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2404.04095)] 
@@ -3866,6 +3888,8 @@
 **3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2410.12669)] 
 
+**Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement** \
+[[Website](https://arxiv.org/abs/2411.06558)] 
 
 
 ## I2I translation
@@ -6175,6 +6199,9 @@
 [[Website](https://arxiv.org/abs/2410.20502)]
 [[Project](https://arlont2v.github.io/)]
 
+**Improved Video VAE for Latent Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2411.06449)]
+[[Project](https://wpy1999.github.io/IV-VAE/)]
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
