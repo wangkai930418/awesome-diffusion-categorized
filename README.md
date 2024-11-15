@@ -1539,6 +1539,11 @@
 [[Project](https://mirrordiffusion.github.io/)] 
 [[Code](https://github.com/MirrorDiffusion/MirrorDiffusion)] 
 
+**MagicQuill: An Intelligent Interactive Image Editing System** \
+[[Website](https://arxiv.org/abs/2411.09703)] 
+[[Project](https://magicquill.art/demo/)] 
+[[Code](https://github.com/magic-quill/magicquill)] 
+
 **Scaling Concept With Text-Guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.24151)] 
 [[Project](https://wikichao.github.io/ScalingConcept/)] 
@@ -3590,6 +3595,9 @@
 
 **Improving image synthesis with diffusion-negative sampling** \
 [[Website](https://arxiv.org/abs/2411.05473)] 
+
+**Golden Noise for Diffusion Models: A Learning Framework** \
+[[Website](https://arxiv.org/abs/2411.09502)] 
 
 
 ## Spatial Control
