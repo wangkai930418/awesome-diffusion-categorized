@@ -300,6 +300,10 @@
 **SDXL-Lightning: Progressive Adversarial Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2402.13929)]
 
+**Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training** \
+[[Website](https://arxiv.org/abs/2411.09998)]
+
+
 ### Train-Free
 
 
@@ -709,6 +713,8 @@
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2312.04145)]
 [[Project](https://pub.res.lightricks.com/diffusing-colors/)]
 
+**Enhancing Diffusion Posterior Sampling for Inverse Problems by Integrating Crafted Measurements** \
+[[Website](https://arxiv.org/abs/2411.09850)]
 
 **DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2308.01655)]
@@ -1883,6 +1889,8 @@
 **ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.03982)]
 
+**ColorEdit: Training-free Image-Guided Color editing with diffusion model** \
+[[Website](https://arxiv.org/abs/2411.10232)]
 
 
 ## Continual Learning
@@ -4333,6 +4341,9 @@
 **DiffuMask-Editor: A Novel Paradigm of Integration Between the Segmentation Diffusion Model and Image Editing to Improve Segmentation Ability** \
 [[Website](https://arxiv.org/abs/2411.01819)] 
 
+**Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation** \
+[[Website](https://arxiv.org/abs/2411.10411)] 
+
 
 
 
@@ -4795,6 +4806,10 @@
 **ReMOVE: A Reference-free Metric for Object Erasure** \
 [[Website](https://arxiv.org/abs/2409.00707)] 
 [[Code](https://github.com/chandrasekaraditya/ReMOVE)] 
+
+**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting** \
+[[Website](https://arxiv.org/abs/2411.10309)] 
+[[Code](https://github.com/yayoyo66/RDIStitcher)] 
 
 **MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2409.10090)] 
