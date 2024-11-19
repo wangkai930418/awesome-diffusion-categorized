@@ -367,6 +367,9 @@
 [[Website](https://arxiv.org/abs/2404.02747v2)]
 [[Code](https://github.com/HaozheLiu-ST/T-GATE)]
 
+**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2411.10510)]
+[[Code](https://github.com/Roblox/SmoothCache)]
 
 **Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2405.05252)]
@@ -692,6 +695,9 @@
 **G2D2: Gradient-guided Discrete Diffusion for image inverse problem solving** \
 [[Website](https://arxiv.org/abs/2410.14710)]
 
+**AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations** \
+[[Website](https://arxiv.org/abs/2411.10708)]
+
 
 ## Colorization
 
@@ -765,6 +771,9 @@
 
 **Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model** \
 [[Website](https://arxiv.org/abs/2410.04161)]
+
+**DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration** \
+[[Website](https://arxiv.org/abs/2411.10508)]
 
 
 ## Storytelling
@@ -3345,6 +3354,10 @@
 [[Website](https://arxiv.org/abs/2403.07860)] 
 [[Code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)] 
 
+**Aligning Few-Step Diffusion Models with Dense Reward Difference Learning** \
+[[Website](https://arxiv.org/abs/2411.11727)] 
+[[Code](https://github.com/ZiyiZhang27/sdpo)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -3428,6 +3441,9 @@
 
 **Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.00447)]
+
+**Generating Compositional Scenes via Text-to-image RGBA Instance Generation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2411.10913)]
 
 **A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization** \
 [[Website](https://arxiv.org/abs/2410.00321)] 
@@ -3606,6 +3622,9 @@
 
 **Golden Noise for Diffusion Models: A Learning Framework** \
 [[Website](https://arxiv.org/abs/2411.09502)] 
+
+**Test-time Conditional Text-to-Image Synthesis Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2411.10800)] 
 
 
 ## Spatial Control
@@ -3837,6 +3856,9 @@
 
 **Draw Like an Artist: Complex Scene Generation with Diffusion Model via Composition, Painting, and Retouching** \
 [[Website](https://arxiv.org/abs/2408.13858)] 
+
+**Boundary Attention Constrained Zero-Shot Layout-To-Image Generation** \
+[[Website](https://arxiv.org/abs/2411.10495)] 
 
 **Enhancing Image Layout Control with Loss-Guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.14101)] 
@@ -5503,6 +5525,11 @@
 [[Project](https://bujiazi.github.io/motionclone.github.io/)] 
 [[Code](https://github.com/Bujiazi/MotionClone)]
 
+**AnimateAnything: Consistent and Controllable Animation for Video Generation** \
+[[Website](https://arxiv.org/abs/2411.10836)]
+[[Project](https://yu-shaonian.github.io/Animate_Anything/)] 
+[[Code](https://github.com/yu-shaonian/AnimateAnything)]
+
 **GameGen-X: Interactive Open-world Game Video Generation** \
 [[Website](https://arxiv.org/abs/2411.00769)]
 [[Project](https://gamegen-x.github.io/)] 
@@ -5961,6 +5988,10 @@
 [[Website](https://arxiv.org/abs/2409.01199)]
 [[Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 
+**FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations** \
+[[Website](https://arxiv.org/abs/2411.10818)]
+[[Code](https://github.com/hmrishavbandy/FlipSketch)]
+
 **IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis** \
 [[Website](https://arxiv.org/abs/2410.04171)]
 [[Code](https://github.com/xie-lab-ml/IV-mixed-Sampler)]
@@ -6413,6 +6444,13 @@
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[Website](https://arxiv.org/abs/2410.24037)]
 
+**OnlyFlow: Optical Flow based Motion Conditioning for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2411.10501)]
+
+**Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge** \
+[[Website](https://arxiv.org/abs/2411.11343)]
+
+
 
 ## Video Editing 
 
@@ -6449,6 +6487,11 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.10285)]
 [[Project](https://yangqy1110.github.io/NC-SDEdit/)] 
 [[Code](https://github.com/yangqy1110/NC-SDEdit/)]
+
+**StableV2V: Stablizing Shape Consistency in Video-to-Video Editing** \
+[[Website](https://arxiv.org/abs/2411.11045)]
+[[Project](https://alonzoleeeooo.github.io/StableV2V/)] 
+[[Code](https://github.com/AlonzoLeeeooo/StableV2V)]
 
 **Video-P2P: Video Editing with Cross-attention Control** \
 [[Website](https://arxiv.org/abs/2303.04761)]
