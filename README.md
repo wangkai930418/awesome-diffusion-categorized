@@ -5368,6 +5368,10 @@
 **ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer** \
 [[Website](https://arxiv.org/abs/2410.14279)]
 
+**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.12072)]
+
+
 
 ## Video Generation 
 
@@ -6450,6 +6454,8 @@
 **Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge** \
 [[Website](https://arxiv.org/abs/2411.11343)]
 
+**SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input** \
+[[Website](https://arxiv.org/abs/2411.11934)]
 
 
 ## Video Editing 
