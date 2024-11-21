@@ -3626,6 +3626,9 @@
 **Test-time Conditional Text-to-Image Synthesis Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.10800)] 
 
+**Decoupling Training-Free Guided Diffusion by ADMM** \
+[[Website](https://arxiv.org/abs/2411.12773)] 
+
 
 ## Spatial Control
 
@@ -5371,6 +5374,11 @@
 **Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2411.12072)]
 
+**Adversarial Diffusion Compression for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.13383)]
+
+**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.13548)]
 
 
 ## Video Generation 
@@ -5380,11 +5388,6 @@
 [[Website](https://arxiv.org/abs/2303.13439)]
 [[Project](https://text2video-zero.github.io/)]
 [[Code](https://github.com/Picsart-AI-Research/Text2Video-Zero)]
-
-
-
-
-
 
 **SinFusion: Training Diffusion Models on a Single Image or Video** \
 [[ICML 2023](https://icml.cc/virtual/2023/poster/24630)]
@@ -5999,6 +6002,10 @@
 **IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis** \
 [[Website](https://arxiv.org/abs/2410.04171)]
 [[Code](https://github.com/xie-lab-ml/IV-mixed-Sampler)]
+
+**REDUCIO! Generating 1024×1024 Video within 16 Seconds using Extremely Compressed Motion Latents** \
+[[Website](https://arxiv.org/abs/2411.13552)]
+[[Code](https://github.com/microsoft/Reducio-VAE)]
 
 **MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling** \
 [[Website](https://arxiv.org/abs/2405.18003)]
