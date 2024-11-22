@@ -749,6 +749,10 @@
 [[Website](https://arxiv.org/abs/2410.09864)]
 [[Code](https://github.com/EthanLiang99/AuthFace)]
 
+**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation** \
+[[Website](https://arxiv.org/abs/2411.14125)]
+[[Code](https://github.com/YingJiacheng/RestorerID)]
+
 **Towards Real-World Blind Face Restoration with Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2312.15736)]
 [[Code](https://github.com/chenxx89/BFRffusion)]
@@ -1786,6 +1790,10 @@
 [[Website](https://arxiv.org/abs/2409.08272)]
 [[Project](https://omeregev.github.io/click2mask/)]
 
+**Stable Flow: Vital Layers for Training-Free Image Editing** \
+[[Website](https://arxiv.org/abs/2411.14430)]
+[[Project](https://omriavrahami.com/stable-flow/)]
+
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
@@ -1900,6 +1908,9 @@
 
 **ColorEdit: Training-free Image-Guided Color editing with diffusion model** \
 [[Website](https://arxiv.org/abs/2411.10232)]
+
+**GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter** \
+[[Website](https://arxiv.org/abs/2411.13794)]
 
 
 ## Continual Learning
@@ -6463,6 +6474,10 @@
 
 **SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input** \
 [[Website](https://arxiv.org/abs/2411.11934)]
+
+**StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart** \
+[[Website](https://arxiv.org/abs/2411.14295)]
+
 
 
 ## Video Editing 
