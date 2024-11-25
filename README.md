@@ -1737,6 +1737,10 @@
 [[NeurIPS 2024](https://arxiv.org/abs/2410.20823)]
 [[Project](https://xzr52.github.io/ATIH/)] 
 
+**HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads** \
+[[Website](https://arxiv.org/abs/2411.15034)]
+[[Project](https://yuci-gpt.github.io/headrouter/)] 
+
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
 [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
@@ -4121,6 +4125,13 @@
 **Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation** \
 [[Website](https://arxiv.org/abs/2409.08077)]
 
+**Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation** \
+[[Website](https://arxiv.org/abs/2411.14863)]
+
+
+
+
+
 ## Segmentation Detection Tracking
 **odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
 [[CVPR 2023 Highlight](https://arxiv.org/abs/2303.04803)] 
@@ -4564,6 +4575,9 @@
 [[Website](https://arxiv.org/abs/2410.01595)] 
 [[Code](https://github.com/aminK8/KnobGen)]
 
+**OminiControl: Minimal and Universal Control for Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2411.15098)] 
+[[Code](https://github.com/Yuanshi9815/OminiControl)]
 
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
@@ -5523,6 +5537,11 @@
 [[Project](https://sobeymil.github.io/tvg.com/)] 
 [[Code](https://github.com/SobeyMIL/TVG)]
 
+**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement** \
+[[Website](https://arxiv.org/abs/2411.15115)]
+[[Project](https://video-repair.github.io/)] 
+[[Code](https://github.com/daeunni/VideoRepair)]
+
 **CamI2V: Camera-Controlled Image-to-Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2410.15957)]
 [[Project](https://zgctroy.github.io/CamI2V/)] 
@@ -5917,6 +5936,11 @@
 [[Website](https://arxiv.org/abs/2408.15239)]
 [[Project](https://svd-keyframe-interpolation.github.io/)]
 [[Code](https://github.com/jeanne-wang/svd_keyframe_interpolation)] 
+
+**Efficient Long Video Tokenization via Coordinated-based Patch Reconstruction** \
+[[Website](https://arxiv.org/abs/2411.14762)]
+[[Project](https://huiwon-jang.github.io/coordtok/)]
+[[Code](https://github.com/huiwon-jang/CoordTok)] 
 
 **AMG: Avatar Motion Guided Video Generation** \
 [[Website](https://arxiv.org/abs/2409.01502)]
