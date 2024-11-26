@@ -827,6 +827,11 @@
 [[Project](https://jwmao1.github.io/storyadapter/)]
 [[Code](https://github.com/jwmao1/story-adapter)] 
 
+**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation** \
+[[Website](https://arxiv.org/abs/2411.16657)]
+[[Project](https://dreamrunner-story2video.github.io/)]
+[[Code](https://github.com/wz0919/DreamRunner)] 
+
 **StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
 [[ECCV 2024](https://arxiv.org/abs/2404.05979)]
 [[Code](https://github.com/tobran/StoryImager)]
@@ -1916,6 +1921,9 @@
 **GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter** \
 [[Website](https://arxiv.org/abs/2411.13794)]
 
+**Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing** \
+[[Website](https://arxiv.org/abs/2411.15843)]
+
 
 ## Continual Learning
 
@@ -2912,6 +2920,13 @@
 **HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects** \
 [[Website](https://arxiv.org/abs/2410.14265)] 
 
+**Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator** \
+[[Website](https://arxiv.org/abs/2411.15466)] 
+
+**Foundation Cures Personalization: Recovering Facial Personalized Models' Prompt Consistency** \
+[[Website](https://arxiv.org/abs/2411.15277)] 
+
+
 
 ## T2I Diffusion Model augmentation
 
@@ -3643,6 +3658,15 @@
 
 **Decoupling Training-Free Guided Diffusion by ADMM** \
 [[Website](https://arxiv.org/abs/2411.12773)] 
+
+**Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps** \
+[[Website](https://arxiv.org/abs/2411.15236)] 
+
+**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2411.16503)] 
+
+**TKG-DM: Training-free Chroma Key Content Generation Diffusion Model** \
+[[Website](https://arxiv.org/abs/2411.15580)] 
 
 
 ## Spatial Control
@@ -5126,6 +5150,10 @@
 [[Website](https://arxiv.org/abs/2311.03054)]
 [[Code](https://github.com/tyxsspa/AnyText)] 
 
+**AnyText2: Visual Text Generation and Editing With Customizable Attributes** \
+[[Website](https://arxiv.org/abs/2411.15245)]
+[[Code](https://github.com/tyxsspa/AnyText2)] 
+
 **Few-shot Calligraphy Style Learning** \
 [[Website](https://arxiv.org/abs/2404.17199)]
 [[Code](https://github.com/kono-dada/xysffusion)] 
@@ -5897,6 +5925,12 @@
 [[Project](https://id-animator.github.io/)]
 [[Code](https://github.com/ID-Animator/ID-Animator)] 
 
+**Optical-Flow Guided Prompt Optimization for Coherent Video Generation** \
+[[Website](https://arxiv.org/abs/2411.16199)]
+[[Project](https://motionprompt.github.io/)]
+[[Code](https://github.com/HyelinNAM/MotionPrompt)] 
+
+
 **FlexiFilm: Long Video Generation with Flexible Conditions** \
 [[Website](https://arxiv.org/abs/2404.18620)]
 [[Project](https://y-ichen.github.io/FlexiFilm-Page/)]
@@ -5973,6 +6007,10 @@
 **SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces** \
 [[ICLR 2024](https://arxiv.org/abs/2403.07711)]
 [[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
+
+**Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing** \
+[[Website](https://arxiv.org/abs/2411.16375)]
+[[Code](https://github.com/Dawn-LX/CausalCache-VDM)]
 
 **Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach** \
 [[Website](https://arxiv.org/abs/2410.03160)]
@@ -6502,6 +6540,11 @@
 **StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart** \
 [[Website](https://arxiv.org/abs/2411.14295)]
 
+**VIRES: Video Instance Repainting with Sketch and Text Guidance** \
+[[Website](https://arxiv.org/abs/2411.16199)]
+
+
+
 
 
 ## Video Editing 
@@ -6741,6 +6784,10 @@
 **DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing** \
 [[Website](https://arxiv.org/abs/2403.12002)]
 [[Project](https://hyeonho99.github.io/dreammotion/)]
+
+**VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing** \
+[[Website](https://arxiv.org/abs/2411.15260)]
+[[Project](https://inkosizhong.github.io/VIVID/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
