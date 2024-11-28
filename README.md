@@ -311,6 +311,8 @@
 **Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2411.09998)]
 
+**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.18263)]
 
 ### Train-Free
 
@@ -632,6 +634,9 @@
 [[NeurIPS 2024](https://arxiv.org/abs/2410.16152)]
 [[Project](https://giannisdaras.github.io/warped_diffusion.github.io/)]
 
+**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration** \
+[[Website](https://arxiv.org/abs/2411.17687)]
+[[Project](https://sudraj2002.github.io/gendegpage/)]
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2308.13164)]
@@ -1042,6 +1047,10 @@
 **Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild** \
 [[Website](https://arxiv.org/abs/2406.15331)]
 [[Project](https://nadavorzech.github.io/max4zero.github.io/)]
+
+**TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2411.18350)]
+[[Project](https://rizavelioglu.github.io/tryoffdiff/)]
 
 **Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
 [[Website](https://arxiv.org/abs/2401.13795)]
@@ -1787,6 +1796,10 @@
 **Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection** \
 [[Website](https://arxiv.org/abs/2405.16823)]
 [[Project](https://unifyediting.github.io/)] 
+
+**Generative Image Layer Decomposition with Visual Effects** \
+[[Website](https://arxiv.org/abs/2411.17864)]
+[[Project](https://rayjryang.github.io/LayerDecomp/)] 
 
 **Editable Image Elements for Controllable Synthesis** \
 [[Website](https://arxiv.org/abs/2404.16029)]
@@ -2718,6 +2731,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.13752)] 
 [[Project](https://mingkangz.github.io/logosticker/)] 
 
+**Diffusion Self-Distillation for Zero-Shot Customized Image Generation** \
+[[Website](https://arxiv.org/abs/2411.18616)] 
+[[Project](https://primecai.github.io/dsd/)] 
+
 **RelationBooth: Towards Relation-Aware Customized Object Generation** \
 [[Website](https://arxiv.org/abs/2410.23280)] 
 [[Project](https://shi-qingyu.github.io/RelationBooth/)] 
@@ -3214,6 +3231,10 @@
 [[Project](https://liuxinyv.github.io/HiPrompt/)] 
 [[Code](https://github.com/Liuxinyv/HiPrompt)]
 
+**Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis** \
+[[Website](https://arxiv.org/abs/2411.17769)] 
+[[Project](https://itsmag11.github.io/Omegance/)] 
+[[Code](https://github.com/itsmag11/Omegance)]
 
 **TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation** \
 [[Website](https://arxiv.org/abs/2404.18919)] 
@@ -3399,6 +3420,10 @@
 **Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs** \
 [[Website](https://arxiv.org/abs/2401.11708)] 
 [[Code](https://github.com/YangLing0818/RPG-DiffusionMaster)]
+
+**Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation** \
+[[Website](https://arxiv.org/abs/2411.18301)] 
+[[Code](https://github.com/wtybest/enmmdit)] 
 
 **A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2402.12760)] 
@@ -3808,6 +3833,11 @@
 [[Website](https://arxiv.org/abs/2304.03373)] 
 [[Project](https://hohonu-vicml.github.io/DirectedDiffusion.Page/)] 
 [[Code](https://github.com/hohonu-vicml/DirectedDiffusion)]
+
+**ROICtrl: Boosting Instance Control for Visual Generation** \
+[[Website](https://arxiv.org/abs/2411.17949)] 
+[[Project](https://roictrl.github.io/)] 
+[[Code](https://github.com/showlab/ROICtrl)]
 
 
 **Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
@@ -5293,6 +5323,9 @@
 **Conditional Text-to-Image Generation with Reference Guidance** \
 [[Website](https://arxiv.org/abs/2411.16713)]
 
+**Type-R: Automatically Retouching Typos for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2411.18159)]
+
 
 ## Super Resolution
 
@@ -6359,6 +6392,11 @@
 [[Website](https://arxiv.org/abs/2403.05659)]
 [[Project](https://lzhangbj.github.io/projects/asva/asva.html)] 
 
+**I2VControl: Disentangled and Unified Video Motion Synthesis Control** \
+[[Website](https://arxiv.org/abs/2411.17765)]
+[[Project](https://wanquanf.github.io/I2VControl)] 
+
+
 **VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis** \
 [[Website](https://arxiv.org/abs/2403.13501)]
 [[Project](https://yumengli007.github.io/VSTAR/)] 
@@ -6621,7 +6659,8 @@
 **VIRES: Video Instance Repainting with Sketch and Text Guidance** \
 [[Website](https://arxiv.org/abs/2411.16199)]
 
-
+**MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation** \
+[[Website](https://arxiv.org/abs/2411.18281)]
 
 
 
