@@ -234,6 +234,14 @@
 [[NeurIPS 2023](https://arxiv.org/abs/2306.00980)]
 [[Project](https://snap-research.github.io/SnapFusion/)]
 
+**SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance** \
+[[Website](https://arxiv.org/abs/2412.02687)]
+[[Project](https://snoopi-onestep.github.io/)]
+
+**NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training** \
+[[Website](https://arxiv.org/abs/2412.02030)]
+[[Project](https://chendaryen.github.io/NitroFusion.github.io/)]
+
 **Truncated Consistency Models** \
 [[Website](https://arxiv.org/abs/2410.14895)]
 [[Project](https://truncated-cm.github.io/)]
@@ -877,6 +885,11 @@
 [[Website](https://arxiv.org/abs/2411.16657)]
 [[Project](https://dreamrunner-story2video.github.io/)]
 [[Code](https://github.com/wz0919/DreamRunner)] 
+
+**ShowHowTo: Generating Scene-Conditioned Step-by-Step Visual Instructions** \
+[[Website](https://arxiv.org/abs/2412.01987)]
+[[Project](https://soczech.github.io/showhowto/)]
+[[Code](https://github.com/soCzech/showhowto)] 
 
 **StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
 [[ECCV 2024](https://arxiv.org/abs/2404.05979)]
@@ -2155,6 +2168,10 @@
 [[NeurIPS 2024](https://arxiv.org/abs/2410.15618)] 
 [[Code](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation)]
 
+**Unveiling Concept Attribution in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.02542)] 
+[[Code](https://github.com/mail-research/CAD-attribution4diffusion)]
+
 **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
 [[Website](https://arxiv.org/abs/2410.12777)] 
 [[Code](https://github.com/sail-sg/Meta-Unlearning)]
@@ -2423,6 +2440,11 @@
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
+[[NeurIPS 2024](https://arxiv.org/abs/2402.12004)] 
+[[Project](https://dco-t2i.github.io/)] 
+[[Code](https://github.com/kyungmnlee/dco)]
+
 **The Hidden Language of Diffusion Models** \
 [[ICLR 2024](https://arxiv.org/abs/2306.00966)] 
 [[Project](https://hila-chefer.github.io/Conceptor/)] 
@@ -2604,11 +2626,6 @@
 [[Website](https://arxiv.org/abs/2402.17412)] 
 [[Project](https://diffusekrona.github.io/)] 
 [[Code](https://github.com/IBM/DiffuseKronA)]
-
-**Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2402.12004)] 
-[[Project](https://dco-t2i.github.io/)] 
-[[Code](https://github.com/kyungmnlee/dco)]
 
 **TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder** \
 [[Website](https://arxiv.org/abs/2409.08248)] 
@@ -3560,6 +3577,10 @@
 [[Website](https://arxiv.org/abs/2404.05595)] 
 [[Project](https://uni-fl.github.io/)] 
 
+**Generative Photography: Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2412.02168)] 
+[[Project](https://generative-photography.github.io/project/)] 
+
 **ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting** \
 [[Website](https://arxiv.org/abs/2411.17176)] 
 [[Project](https://chengyou-jia.github.io/ChatGen-Home/)] 
@@ -3835,6 +3856,8 @@
 **Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds** \
 [[Website](https://arxiv.org/abs/2411.18810)] 
 
+**Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models** \
+[[Website](https://arxiv.org/abs/2412.02237)] 
 
 
 
@@ -6389,6 +6412,19 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.09012)]
 [[Project](https://eccv2024tcan.github.io/)] 
 
+**Motion Prompting: Controlling Video Generation with Motion Trajectories** \
+[[Website](https://arxiv.org/abs/2412.02700)]
+[[Project](https://motion-prompting.github.io/)]
+
+**OmniCreator: Self-Supervised Unified Generation with Universal Editing** \
+[[Website](https://arxiv.org/abs/2412.02114)]
+[[Project](https://haroldchen19.github.io/OmniCreator-Page/)]
+
+
+**VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation** \
+[[Website](https://arxiv.org/abs/2412.02259)]
+[[Project](https://cheliosoops.github.io/VGoT/)]
+
 **Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop** \
 [[Website](https://arxiv.org/abs/2411.18644)]
 [[Project](https://abolfazl-sh.github.io/Scene_co-pilot_site/)]
@@ -6416,6 +6452,10 @@
 **I4VGen: Image as Stepping Stone for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02230)]
 [[Project](https://xiefan-guo.github.io/i4vgen/)]
+
+**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback** \
+[[Website](https://arxiv.org/abs/2412.02617)]
+[[Project](https://sites.google.com/view/aif-dynamic-t2v/)]
 
 
 **FrameBridge: Improving Image-to-Video Generation with Bridge Models** \
