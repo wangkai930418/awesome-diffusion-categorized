@@ -250,6 +250,9 @@
 [[Website](https://arxiv.org/abs/2410.23274)]
 [[Project](https://research.nvidia.com/labs/toronto-ai/MSD/index_hidden.html)]
 
+**Effortless Efficiency: Low-Cost Pruning of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.02852)]
+[[Project](https://yangzhang-v5.github.io/EcoDiff/)]
 
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
@@ -272,6 +275,8 @@
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \
 [[Website](https://arxiv.org/abs/2410.03355)]
 
+**Partially Conditioned Patch Parallelism for Accelerated Diffusion Model Inference** \
+[[Website](https://arxiv.org/abs/2412.02962)]
 
 **Importance-based Token Merging for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.16720)]
@@ -4612,6 +4617,8 @@
 **Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation** \
 [[Website](https://arxiv.org/abs/2411.10411)] 
 
+**Panoptic Diffusion Models: co-generation of images and segmentation maps** \
+[[Website](https://arxiv.org/abs/2412.02929)] 
 
 
 
@@ -4696,6 +4703,16 @@
 [[Website](https://arxiv.org/abs/2308.06721)] 
 [[Project](https://ip-adapter.github.io/)] 
 [[Code](https://github.com/tencent-ailab/ip-adapter)]
+
+**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis** \
+[[Website](https://arxiv.org/abs/2412.03150)] 
+[[Project](https://cvlab-kaist.github.io/AM-Adapter/)] 
+[[Code](https://github.com/cvlab-kaist/AM-Adapter)]
+
+**DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2412.03255)] 
+[[Project](https://hithqd.github.io/projects/Dynamiccontrol/)] 
+[[Code](https://github.com/hithqd/DynamicControl)]
 
 **A Simple Approach to Unifying Diffusion-based Conditional Generation** \
 [[Website](https://arxiv.org/abs/2410.11439)] 
@@ -5605,6 +5622,14 @@
 [[Website](https://arxiv.org/abs/2311.09919)] 
 [[Code](https://github.com/shiyuan7/DSR-Diff)] 
 
+**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach** \
+[[Website](https://arxiv.org/abs/2412.03017)]
+[[Code](https://github.com/csslc/PiSA-SR)] 
+
+**RFSR: Improving ISR Diffusion Models via Reward Feedback Learning** \
+[[Website](https://arxiv.org/abs/2412.03268)] 
+[[Code](https://github.com/sxpro/RFSR)] 
+
 **SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2402.17133)] 
 [[Code](https://github.com/lose4578/SAM-DiffSR)] 
@@ -5620,6 +5645,10 @@
 **BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2403.10211)] 
 [[Code](https://github.com/lifengcs/BlindDiff)] 
+
+**TASR: Timestep-Aware Diffusion Model for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.03355)] 
+[[Code](https://github.com/SleepyLin/TASR)] 
 
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
@@ -5696,6 +5725,9 @@
 
 **HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2411.13548)]
+
+**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.02960)]
 
 
 ## Video Generation 
@@ -5984,6 +6016,11 @@
 [[Website](https://arxiv.org/abs/2304.01186)]
 [[Project](https://follow-your-pose.github.io/)] 
 [[Code](https://github.com/mayuelala/FollowYourPose)]
+
+**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos** \
+[[Website](https://arxiv.org/abs/2412.03079)]
+[[Project](https://igl-hkust.github.io/Align3R.github.io/)] 
+[[Code](https://github.com/jiah-cloud/Align3R)]
 
 **Breathing Life Into Sketches Using Text-to-Video Priors** \
 [[Website](https://arxiv.org/abs/2311.13608)]
@@ -6448,6 +6485,10 @@
 **Hierarchical Patch Diffusion Models for High-Resolution Video Generation** \
 [[Website](https://arxiv.org/abs/2406.07792)]
 [[Project](https://snap-research.github.io/hpdm/)]
+
+**Mimir: Improving Video Diffusion Models for Precise Text Understanding** \
+[[Website](https://arxiv.org/abs/2412.03085)]
+[[Project](https://lucaria-academy.github.io/Mimir/)]
 
 **I4VGen: Image as Stepping Stone for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02230)]
@@ -7113,6 +7154,10 @@
 **VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing** \
 [[Website](https://arxiv.org/abs//2306.08707)]
 [[Project](https://videdit.github.io/)] 
+
+**DIVE: Taming DINO for Subject-Driven Video Editing** \
+[[Website](https://arxiv.org/abs/2412.03347)]
+[[Project](https://dino-video-editing.github.io/)] 
 
 **VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence** \
 [[Website](https://arxiv.org/abs/2312.02087)]
