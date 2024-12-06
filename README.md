@@ -751,6 +751,8 @@
 **Beyond Pixels: Text Enhances Generalization in Real-World Image Restoration** \
 [[Website](https://arxiv.org/abs/2412.00878)]
 
+**Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through Measurements Optimization** \
+[[Website](https://arxiv.org/abs/2412.03941)]
 
 
 ## Colorization
@@ -999,6 +1001,10 @@
 [[Project](https://humanaigc.github.io/outfit-anyone/)]
 [[Code](https://github.com/HumanAIGC/OutfitAnyone)] 
 
+**AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.04146)]
+[[Project](https://crayon-shinchan.github.io/AnyDressing/)]
+[[Code](https://github.com/Crayon-Shinchan/AnyDressing)] 
 
 **ViViD: Video Virtual Try-on using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.11794)]
@@ -1877,6 +1883,9 @@
 [[Website](https://arxiv.org/abs/2410.11815)]
 [[Project](https://bestzzhang.github.io/SGEdit/)] 
 
+**SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion** \
+[[Website](https://arxiv.org/abs/2412.04301)] 
+[[Project](https://swift-edit.github.io/#)]
 
 **ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation** \
 [[Website](https://arxiv.org/abs/2305.04651)] 
@@ -3566,6 +3575,14 @@
 [[Website](https://arxiv.org/abs/2410.18013)] 
 [[Project](https://snap-research.github.io/RankDPO/)] 
 
+**A Noise is Worth Diffusion Guidance** \
+[[Website](https://arxiv.org/abs/2412.03895)] 
+[[Project](https://cvlab-kaist.github.io/NoiseRefine/)] 
+
+**LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors** \
+[[Website](https://arxiv.org/abs/2412.04460)] 
+[[Project](https://layerfusion.github.io/)] 
+
 **ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2410.01731)] 
 [[Project](https://comfygen-paper.github.io/)] 
@@ -3966,6 +3983,10 @@
 [[Project](https://roictrl.github.io/)] 
 [[Code](https://github.com/showlab/ROICtrl)]
 
+**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2412.03859)] 
+[[Project](https://creatilayout.github.io/)] 
+[[Code](https://github.com/HuiZhang0812/CreatiLayout)]
 
 **Directed Diffusion: Direct Control of Object Placement through Attention Guidance** \
 [[Website](https://arxiv.org/abs/2302.13153)] 
@@ -5216,6 +5237,9 @@
 **Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion** \
 [[Website](https://arxiv.org/abs/2412.00857)] 
 
+**Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting** \
+[[Website](https://arxiv.org/abs/2412.03812)] 
+
 
 ## Layout Generation
 
@@ -5931,6 +5955,10 @@
 [[Project](https://xizaoqu.github.io/trajattn/)] 
 [[Code](https://github.com/xizaoqu/TrajectoryAttntion)]
 
+**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration** \
+[[Website](https://arxiv.org/abs/2412.04440)]
+[[Project](https://karine-h.github.io/GenMAC/)] 
+[[Code](https://github.com/Karine-Huang/GenMAC)]
 
 **CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion** \
 [[Website](https://arxiv.org/abs/2406.05082)]
@@ -6401,6 +6429,10 @@
 [[Website](https://arxiv.org/abs/2409.01199)]
 [[Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 
+**Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation** \
+[[Website](https://arxiv.org/abs/2412.04432)]
+[[Code](https://github.com/TencentARC/Divot)]
+
 **FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations** \
 [[Website](https://arxiv.org/abs/2411.10818)]
 [[Code](https://github.com/hmrishavbandy/FlipSketch)]
@@ -6457,6 +6489,9 @@
 [[Website](https://arxiv.org/abs/2412.02114)]
 [[Project](https://haroldchen19.github.io/OmniCreator-Page/)]
 
+**DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models** \
+[[Website](https://arxiv.org/abs/2412.04446)]
+[[Project](https://liyizhuo.com/DiCoDe/)]
 
 **VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation** \
 [[Website](https://arxiv.org/abs/2412.02259)]
@@ -6715,6 +6750,9 @@
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
+
+**Four-Plane Factorized Video Autoencoders** \
+[[Website](https://arxiv.org/abs/2412.04452)]
 
 **Grid Diffusion Models for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.00234)]
