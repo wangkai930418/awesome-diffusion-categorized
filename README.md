@@ -794,6 +794,11 @@
 [[Project](https://jkwang28.github.io/OSDFace-web/)]
 [[Code](https://github.com/jkwang28/OSDFace)]
 
+**ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration** \
+[[Website](https://arxiv.org/abs/2412.05043)]
+[[Project](https://chiweihsiao.github.io/refldm.github.io/)]
+[[Code](https://github.com/ChiWeiHsiao/ref-ldm)]
+
 **DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration** \
 [[CVPR 2023](https://arxiv.org/abs/2303.06885)]
 [[Code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)]
@@ -2046,6 +2051,11 @@
 **LoRA of Change: Learning to Generate LoRA for the Editing Instruction from A Single Before-After Image Pair** \
 [[Website](https://arxiv.org/abs/2411.19156)]
 
+**Action-based image editing guided by human instructions** \
+[[Website](https://arxiv.org/abs/2412.04558)]
+
+**Addressing Attribute Leakages in Diffusion-based Image Editing without Training** \
+[[Website](https://arxiv.org/abs/2412.04715)]
 
 
 ## Continual Learning
@@ -3881,6 +3891,9 @@
 **Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models** \
 [[Website](https://arxiv.org/abs/2412.02237)] 
 
+**The Silent Prompt: Initial Noise as Implicit Guidance for Goal-Driven Image Generation** \
+[[Website](https://arxiv.org/abs/2412.05101)] 
+
 
 
 ## Spatial Control
@@ -5288,6 +5301,9 @@
 **Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints** \
 [[ICLR 2024](https://arxiv.org/abs/2402.04754)]
 
+**SLayR: Scene Layout Generation with Rectified Flow** \
+[[Website](https://arxiv.org/abs/2412.05003)]
+
 **CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model** \
 [[Website](https://arxiv.org/abs/2407.15233)]
 
@@ -6687,6 +6703,9 @@
 [[Website](https://arxiv.org/abs/2411.17765)]
 [[Project](https://wanquanf.github.io/I2VControl)] 
 
+**Mind the Time: Temporally-Controlled Multi-Event Video Generation** \
+[[Website](https://arxiv.org/abs/2412.05263)] 
+[[Project](https://mint-video.github.io/)]
 
 **VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis** \
 [[Website](https://arxiv.org/abs/2403.13501)]
@@ -6695,6 +6714,10 @@
 **S2DM: Sector-Shaped Diffusion Models for Video Generation** \
 [[Website](https://arxiv.org/abs/2403.13408)]
 [[Project](https://s2dm.github.io/S2DM/)] 
+
+**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.05275)]
+[[Project](https://motionflow-diffusion.github.io/)] 
 
 **AnimateZoo: Zero-shot Video Generation of Cross-Species Animation via Subject Alignment** \
 [[Website](https://arxiv.org/abs/2404.04946)]
@@ -7323,4 +7346,6 @@
 **Shaping a Stabilized Video by Mitigating Unintended Changes for Concept-Augmented Video Editing** \
 [[Website](https://arxiv.org/abs/2410.12526)]
 
+**DreamColour: Controllable Video Colour Editing without Training** \
+[[Website](https://arxiv.org/abs/2412.05180)]
 
