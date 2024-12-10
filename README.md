@@ -799,6 +799,11 @@
 [[Project](https://chiweihsiao.github.io/refldm.github.io/)]
 [[Code](https://github.com/ChiWeiHsiao/ref-ldm)]
 
+**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention** \
+[[Website](https://arxiv.org/abs/2412.06753)]
+[[Project](https://snap-research.github.io/InstantRestore/)]
+[[Code](https://github.com/snap-research/InstantRestore)]
+
 **DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration** \
 [[CVPR 2023](https://arxiv.org/abs/2303.06885)]
 [[Code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)]
@@ -2291,6 +2296,9 @@
 **Learning to Forget using Hypernetworks** \
 [[Website](https://arxiv.org/abs/2412.00761)] 
 
+**Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters** \
+[[Website](https://arxiv.org/abs/2412.06143)] 
+
 
 ## New Concept Learning
 
@@ -3264,6 +3272,10 @@
 [[Project](https://chenyangsi.top/FreeU/)] 
 [[Code](https://github.com/ChenyangSi/FreeU)]
 
+**GraPE: A Generate-Plan-Edit Framework for Compositional T2I Synthesis** \
+[[Website](https://arxiv.org/abs/2412.06089)] 
+[[Project](https://dair-iitd.github.io/GraPE/)] 
+[[Code](https://github.com/dair-iitd/GraPE)]
 
 **ConceptLab: Creative Generation using Diffusion Prior Constraints** \
 [[Website](https://arxiv.org/abs/2308.02669)] 
@@ -3893,6 +3905,9 @@
 
 **The Silent Prompt: Initial Noise as Implicit Guidance for Goal-Driven Image Generation** \
 [[Website](https://arxiv.org/abs/2412.05101)] 
+
+**ASGDiffusion: Parallel High-Resolution Generation with Asynchronous Structure Guidance** \
+[[Website](https://arxiv.org/abs/2412.06163)] 
 
 
 
