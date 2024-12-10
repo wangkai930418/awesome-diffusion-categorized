@@ -287,6 +287,9 @@
 **Accelerating Diffusion Models with One-to-Many Knowledge Distillation** \
 [[Website](https://arxiv.org/abs/2410.04191)]
 
+**Accelerating Video Diffusion Models via Distribution Matching** \
+[[Website](https://arxiv.org/abs/2412.05899)]
+
 **TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution** \
 [[Website](https://arxiv.org/abs/2410.07663)]
 
@@ -2201,6 +2204,10 @@
 [[Website](https://arxiv.org/abs/2412.02542)] 
 [[Code](https://github.com/mail-research/CAD-attribution4diffusion)]
 
+**Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
+[[Website](https://arxiv.org/abs/2412.05980)] 
+[[Code](https://github.com/songyiren725/AntiReference)]
+
 **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
 [[Website](https://arxiv.org/abs/2410.12777)] 
 [[Code](https://github.com/sail-sg/Meta-Unlearning)]
@@ -3909,6 +3916,12 @@
 **ASGDiffusion: Parallel High-Resolution Generation with Asynchronous Structure Guidance** \
 [[Website](https://arxiv.org/abs/2412.06163)] 
 
+**Visual Lexicon: Rich Image Features in Language Space** \
+[[Website](https://arxiv.org/abs/2412.06774)] 
+
+**BudgetFusion: Perceptually-Guided Adaptive Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.05780)] 
+
 
 
 ## Spatial Control
@@ -4552,6 +4565,10 @@
 [[Website](https://arxiv.org/abs/2403.14291)] 
 [[Code](https://github.com/vpulab/ovam)]
 
+**No Annotations for Object Detection in Art through Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2412.06286)] 
+[[Code](https://github.com/patrick-john-ramos/nada)]
+
 **EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=YqyTXmF8Y2)]
 [[Website](https://arxiv.org/abs/2401.11739)] 
@@ -4861,6 +4878,10 @@
 **KnobGen: Controlling the Sophistication of Artwork in Sketch-Based Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.01595)] 
 [[Code](https://github.com/aminK8/KnobGen)]
+
+**Do We Need to Design Specific Diffusion Models for Different Tasks? Try ONE-PIC** \
+[[Website](https://arxiv.org/abs/2412.05619)] 
+[[Code](https://github.com/tobran/ONE-PIC)]
 
 **OminiControl: Minimal and Universal Control for Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2411.15098)] 
@@ -6001,6 +6022,11 @@
 [[Project](https://humanaigc.github.io/animate-anyone/)] 
 [[Code](https://github.com/HumanAIGC/AnimateAnyone)]
 
+**MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance** \
+[[Website](https://arxiv.org/abs/2412.05355)]
+[[Project](https://motionshop-diffusion.github.io/)] 
+[[Code](https://github.com/gemlab-vt/motionshop)]
+
 **VideoTetris: Towards Compositional Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.04277)]
 [[Project](https://videotetris.github.io/)] 
@@ -6637,6 +6663,9 @@
 [[Website](https://arxiv.org/abs/2311.11325)]
 [[Project](https://jingyunliang.github.io/MoVideo/)] 
 
+**Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training** \
+[[Website](https://arxiv.org/abs/2412.06029)]
+[[Project](https://latent-reframe.github.io/)] 
 
 **Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer** \
 [[Website](https://arxiv.org/abs/2311.17009)]
@@ -6786,6 +6815,11 @@
 [[Website](https://arxiv.org/abs/2411.06449)]
 [[Project](https://wpy1999.github.io/IV-VAE/)]
 
+**Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation** \
+[[Website](https://arxiv.org/abs/2412.06016)]
+[[Project](https://hyeonho99.github.io/track4gen/)]
+
+
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
 
@@ -6801,6 +6835,8 @@
 **GenRec: Unifying Video Generation and Recognition with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.15241)]
 
+**Efficient Continuous Video Flow Model for Video Prediction** \
+[[Website](https://arxiv.org/abs/2412.05633)]
 
 **Dual-Stream Diffusion Net for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2308.08316)]
@@ -7014,6 +7050,10 @@
 
 **Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis** \
 [[Website](https://arxiv.org/abs/2412.00638)]
+
+**MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2412.05848)]
+
 
 
 
@@ -7364,3 +7404,5 @@
 **DreamColour: Controllable Video Colour Editing without Training** \
 [[Website](https://arxiv.org/abs/2412.05180)]
 
+**MoViE: Mobile Diffusion for Video Editing** \
+[[Website](https://arxiv.org/abs/2412.06578)]
