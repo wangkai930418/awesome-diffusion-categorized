@@ -871,6 +871,11 @@
 [[Project](https://omriavrahami.com/the-chosen-one/)] 
 [[Code](https://github.com/ZichengDuan/TheChosenOne)]
 
+**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation** \
+[[Website](https://arxiv.org/abs/2412.07589)]
+[[Project](https://jianzongwu.github.io/projects/diffsensei/)]
+[[Code](https://github.com/jianzongwu/DiffSensei)]
+
 **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation** \
 [[Website](https://arxiv.org/abs/2406.01388)]
 [[Project](https://howe183.github.io/AutoStudio.io/)]
@@ -919,6 +924,10 @@
 [[CVPR 2023](https://arxiv.org/abs/2211.13319)]
 [[Code](https://github.com/ubc-vision/Make-A-Story)]
 
+**StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization** \
+[[AAAI 2025](https://arxiv.org/abs/2412.07375)]
+[[Code](https://github.com/Aria-Zhangjl/StoryWeaver)]
+
 **StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation** \
 [[Website](https://arxiv.org/abs/2409.12576)]
 [[Code](https://github.com/RedAIGC/StoryMaker)]
@@ -947,6 +956,10 @@
 **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion** \
 [[Website](https://arxiv.org/abs/2407.12899)]
 [[Project](https://dream-xyz.github.io/dreamstory)]
+
+**Multi-Shot Character Consistency for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2412.07750)]
+[[Project](https://research.nvidia.com/labs/par/video_storyboarding/)]
 
 **MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising** \
 [[Website](https://arxiv.org/abs/2312.10899)]
@@ -1224,6 +1237,11 @@
 [[Website](https://arxiv.org/abs/2312.02936)] 
 [[Project](https://drag-a-video.github.io/)]
 [[Code](https://github.com/tyshiwo1/drag-a-video)]
+
+**ObjCtrl-2.5D: Training-free Object Control with Camera Poses** \
+[[Website](https://arxiv.org/abs/2412.07721)] 
+[[Project](https://wzhouxiff.github.io/projects/ObjCtrl-2.5D/)]
+[[Code](https://github.com/wzhouxiff/ObjCtrl-2.5D)]
 
 **DragAnything: Motion Control for Anything using Entity Representation** \
 [[Website](https://arxiv.org/abs/2403.07420)] 
@@ -1829,6 +1847,9 @@
 [[Website](https://arxiv.org/abs/2401.03433)] 
 [[Code](https://github.com/jingjiqinggong/specp2p)] 
 
+**FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing** \
+[[Website](https://arxiv.org/abs/2412.07517)] 
+[[Code](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)] 
 
 **PromptFix: You Prompt and We Fix the Photo** \
 [[Website](https://arxiv.org/abs/2405.16785)] 
@@ -1863,6 +1884,10 @@
 **Novel Object Synthesis via Adaptive Text-Image Harmony** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.20823)]
 [[Project](https://xzr52.github.io/ATIH/)] 
+
+**UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics** \
+[[Website](https://arxiv.org/abs/2412.07774)]
+[[Project](https://xavierchen34.github.io/UniReal-Page/)] 
 
 **HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads** \
 [[Website](https://arxiv.org/abs/2411.15034)]
@@ -2204,9 +2229,14 @@
 [[Website](https://arxiv.org/abs/2412.02542)] 
 [[Code](https://github.com/mail-research/CAD-attribution4diffusion)]
 
+**TraSCE: Trajectory Steering for Concept Erasure** \
+[[Website](https://arxiv.org/abs/2412.07658)] 
+[[Code](https://github.com/anubhav1997/TraSCE/)]
+
+<!-- 
 **Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
 [[Website](https://arxiv.org/abs/2412.05980)] 
-[[Code](https://github.com/songyiren725/AntiReference)]
+[[Code](https://github.com/songyiren725/AntiReference)] -->
 
 **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
 [[Website](https://arxiv.org/abs/2410.12777)] 
@@ -3253,6 +3283,11 @@
 [[Website](https://arxiv.org/abs/2410.23332)] 
 [[Project](https://sites.google.com/view/mole4diffuser/)] 
 [[Code](https://github.com/JiePKU/MoLE)]
+
+**Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets** \
+[[Website](https://arxiv.org/abs/2412.07775)] 
+[[Project](https://nabla-gfn.github.io/)] 
+[[Code](https://github.com/lzzcd001/nabla-gfn)]
 
 **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching** \
 [[Website](https://arxiv.org/abs/2404.03653)] 
@@ -5666,6 +5701,14 @@
 [[Website](https://arxiv.org/abs/2408.07476)] 
 [[Code](https://github.com/LearningHx/TAD-SR)] 
 
+**Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors** \
+[[Website](https://arxiv.org/abs/2412.07152)] 
+[[Code](https://github.com/W-JG/Hero-SR)] 
+
+**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.07149)] 
+[[Code](https://github.com/W-JG/RAP-SR)] 
+
 **One-Step Effective Diffusion Network for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2406.08177)] 
 [[Code](https://github.com/cswry/OSEDiff)] 
@@ -5753,6 +5796,9 @@
 
 **Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models** \
 [[Website](https://arxiv.org/abs/2306.00714)] 
+
+**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning** \
+[[Website](https://arxiv.org/abs/2412.06978)]
 
 **YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2308.07977)]
@@ -5991,6 +6037,16 @@
 [[Website](https://arxiv.org/abs/2406.04324)]
 [[Project](https://snap-research.github.io/SF-V/)] 
 [[Code](https://github.com/snap-research/SF-V)]
+
+**Video Motion Transfer with Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2412.07776)]
+[[Project](https://ditflow.github.io/)] 
+[[Code](https://github.com/ditflow/ditflow)]
+
+**SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints** \
+[[Website](https://arxiv.org/abs/2412.07760)]
+[[Project](https://jianhongbai.github.io/SynCamMaster/)] 
+[[Code](https://github.com/KwaiVGI/SynCamMaster)]
 
 **Pyramidal Flow Matching for Efficient Video Generative Modeling** \
 [[Website](https://arxiv.org/abs/2410.05954)]
@@ -6582,6 +6638,11 @@
 [[Website](https://arxiv.org/abs/2412.03085)]
 [[Project](https://lucaria-academy.github.io/Mimir/)]
 
+**From Slow Bidirectional to Fast Causal Video Generators** \
+[[Website](https://arxiv.org/abs/2412.07772)]
+[[Project](https://causvid.github.io/)]
+
+
 **I4VGen: Image as Stepping Stone for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02230)]
 [[Project](https://xiefan-guo.github.io/i4vgen/)]
@@ -6910,6 +6971,9 @@
 **Training-Free Semantic Video Composition via Pre-trained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2401.09195)]
 
+**STIV: Scalable Text and Image Conditioned Video Generation** \
+[[Website](https://arxiv.org/abs/2412.07730)]
+
 **Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling** \
 [[Website](https://arxiv.org/abs/2401.15977)]
 
@@ -7054,6 +7118,8 @@
 **MotionStone: Decoupled Motion Intensity Modulation with Diffusion Transformer for Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2412.05848)]
 
+**Mobile Video Diffusion** \
+[[Website](https://arxiv.org/abs/2412.07583)]
 
 
 
