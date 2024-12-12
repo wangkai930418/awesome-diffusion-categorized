@@ -1095,6 +1095,9 @@
 [[Website](https://arxiv.org/abs/2407.15886)]
 [[Code](https://github.com/Zheng-Chong/CatVTON)] 
 
+**Learning Flow Fields in Attention for Controllable Person Image Generation** \
+[[Website](https://arxiv.org/abs/2412.08486)]
+[[Code](https://github.com/franciszzj/Leffa)] 
 
 **DreamPaint: Few-Shot Inpainting of E-Commerce Items for Virtual Try-On without 3D Modeling** \
 [[Website](https://arxiv.org/abs/2305.01257)]
@@ -1702,6 +1705,11 @@
 [[Website](https://arxiv.org/abs/2405.12970)] 
 [[Project](https://faceadapter.github.io/face-adapter.github.io/)] 
 [[Code](https://github.com/FaceAdapter/Face-Adapter)] 
+
+**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models** \
+[[Website](https://arxiv.org/abs/2412.08629)]
+[[Project](https://matankleiner.github.io/flowedit/)] 
+[[Code](https://github.com/fallenshock/FlowEdit)] 
 
 **FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning** \
 [[Website](https://arxiv.org/abs/2408.03355)]
@@ -2904,6 +2912,9 @@
 [[Website](https://arxiv.org/abs/2404.11565)] 
 [[Project](https://snap-research.github.io/mixture-of-attention/)] 
 
+**ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2412.08645)] 
+[[Project](https://object-mate.com/)] 
 
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
 [[Website](https://arxiv.org/abs/2312.06354)] 
@@ -5324,6 +5335,8 @@
 **Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting** \
 [[Website](https://arxiv.org/abs/2412.03812)] 
 
+**AsyncDSB: Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting** \
+[[Website](https://arxiv.org/abs/2412.08149)] 
 
 ## Layout Generation
 
