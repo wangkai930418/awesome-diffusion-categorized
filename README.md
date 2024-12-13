@@ -260,6 +260,9 @@
 **One-Step Diffusion Distillation through Score Implicit Matching** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.16794)]
 
+**Inference-Time Diffusion Model Distillation** \
+[[Website](https://arxiv.org/abs/2412.08871)]
+
 **HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2410.01723)]
 
@@ -571,6 +574,10 @@
 [[NeurIPS 2024](https://arxiv.org/abs/2410.18666)]
 [[Code](https://github.com/shallowdream204/DreamClear)]
 
+**Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression** \
+[[Website](https://arxiv.org/abs/2412.08912)]
+[[Code](https://github.com/alimd94/DiQP)]
+
 **Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems** \
 [[Website](https://arxiv.org/abs/2407.11288)]
 [[Code](https://github.com/ualcalar17/ZAPS)]
@@ -757,6 +764,8 @@
 **Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through Measurements Optimization** \
 [[Website](https://arxiv.org/abs/2412.03941)]
 
+**Are Conditional Latent Diffusion Models Effective for Image Restoration?** \
+[[Website](https://arxiv.org/abs/2412.09324)]
 
 ## Colorization
 
@@ -1279,6 +1288,10 @@
 **DragText: Rethinking Text Embedding in Point-based Image Editing** \
 [[Website](https://arxiv.org/abs/2407.17843)] 
 [[Project](https://micv-yonsei.github.io/dragtext2025/)] 
+
+**OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2412.09623)] 
+[[Project](https://lwq20020127.github.io/OmniDrag/)] 
 
 **FastDrag: Manipulate Anything in One Step** \
 [[Website](https://arxiv.org/abs/2405.15769)] 
@@ -1908,6 +1921,10 @@
 **Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.07232)]
 [[Project](https://research.nvidia.com/labs/par/addit/)] 
+
+**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers** \
+[[Website](https://arxiv.org/abs/2412.09611)]
+[[Project](https://fluxspace.github.io/)] 
 
 **SeedEdit: Align Image Re-Generation to Image Editing** \
 [[Website](https://arxiv.org/abs/2411.06686)]
@@ -2547,6 +2564,12 @@
 [[Project](https://lcm-lookahead.github.io/)] 
 [[Code](https://github.com/OrLichter/lcm-lookahead)]
 
+**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM** \
+[[Website](https://arxiv.org/abs/2412.09618)] 
+[[Project](https://easyref-gen.github.io/)] 
+[[Code](https://github.com/TempleX98/EasyRef)]
+
+
 **AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.12805)] 
 [[Project](https://itsmag11.github.io/AITTI/)] 
@@ -2899,6 +2922,10 @@
 **RelationBooth: Towards Relation-Aware Customized Object Generation** \
 [[Website](https://arxiv.org/abs/2410.23280)] 
 [[Project](https://shi-qingyu.github.io/RelationBooth/)] 
+
+**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.09622)] 
+[[Project](https://loraclr.github.io/)] 
 
 **InstructBooth: Instruction-following Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.03011)] 
@@ -3645,6 +3672,10 @@
 **Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.21638)] 
 [[Project](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/)] 
+
+**Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG** \
+[[Website](https://arxiv.org/abs/2412.09614)] 
+[[Project](https://context-canvas.github.io/)] 
 
 **Scalable Ranked Preference Optimization for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2410.18013)] 
@@ -5338,6 +5369,10 @@
 **AsyncDSB: Schedule-Asynchronous Diffusion Schrödinger Bridge for Image Inpainting** \
 [[Website](https://arxiv.org/abs/2412.08149)] 
 
+**RAD: Region-Aware Diffusion Models for Image Inpainting** \
+[[Website](https://arxiv.org/abs/2412.09191)] 
+
+
 ## Layout Generation
 
 **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
@@ -5745,6 +5780,14 @@
 **Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
 [[Website](https://arxiv.org/abs/2310.12004)] 
 [[Code](https://github.com/amandaluof/moe_sr)] 
+
+**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs** \
+[[Website](https://arxiv.org/abs/2412.09465)] 
+[[Code](https://github.com/yuanzhi-zhu/OFTSR)] 
+
+**Arbitrary-steps Image Super-resolution via Diffusion Inversion** \
+[[Website](https://arxiv.org/abs/2412.09013)] 
+[[Code](https://github.com/zsyOAOA/InvSR)] 
 
 **Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** \
 [[Website](https://arxiv.org/abs/2308.14469)] 
@@ -6475,6 +6518,14 @@
 [[ICLR 2023](https://arxiv.org/abs/2205.15868)]
 [[Code](https://github.com/THUDM/CogVideo)]
 
+**UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer** \
+[[AAAI 2025](https://arxiv.org/abs/2412.09389)]
+[[Code](https://github.com/Delong-liu-bupt/UFO)]
+
+**InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption** \
+[[Website](https://arxiv.org/abs/2412.09283)]
+[[Code](https://github.com/NJU-PCALab/InstanceCap)]
+
 **MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2412.01343)]
 [[Code](https://github.com/XiaominLi1997/MoTrans)]
@@ -6610,6 +6661,10 @@
 **Motion Prompting: Controlling Video Generation with Motion Trajectories** \
 [[Website](https://arxiv.org/abs/2412.02700)]
 [[Project](https://motion-prompting.github.io/)]
+
+**Mojito: Motion Trajectory and Intensity Control for Video Generation** \
+[[Website](https://arxiv.org/abs/2412.08948)]
+[[Project](https://sites.google.com/view/mojito-video)]
 
 **OmniCreator: Self-Supervised Unified Generation with Universal Editing** \
 [[Website](https://arxiv.org/abs/2412.02114)]
