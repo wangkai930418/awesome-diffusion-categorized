@@ -75,6 +75,11 @@
 [[Code](https://github.com/devrimcavusoglu/dmd)]
 
 
+**Consistency Models**
+[[ICML 2023](https://doi.org/10.48550/arXiv.2410.11081](https://proceedings.mlr.press/v202/song23a.html)]
+[[Diffusers](https://huggingface.co/docs/diffusers/main/en/api/pipelines/consistency_models)]
+[[Code](https://github.com/openai/consistency_models)]
+
 **SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation** \
 [[CVPR 2024](https://arxiv.org/abs/2312.05239)]
 [[Project](https://vinairesearch.github.io/SwiftBrush/)]
@@ -114,6 +119,11 @@
 [[Website](https://arxiv.org/abs/2411.19108)]
 [[Project](https://liewfeng.github.io/TeaCache/)]
 [[Code](https://github.com/LiewFeng/TeaCache)]
+
+**Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**
+[[Website](https://doi.org/10.48550/arXiv.2410.11081)]
+[[Project](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
+[[Code](https://github.com/xandergos/sCM-mnist)]
 
 **Adaptive Caching for Faster Video Generation with Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2411.02397)]
