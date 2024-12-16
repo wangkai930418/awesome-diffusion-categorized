@@ -1170,6 +1170,10 @@
 [[Website](https://arxiv.org/abs/2405.18172)]
 [[Project](https://colorful-liyu.github.io/anyfit-page/)]
 
+**Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism** \
+[[Website](https://arxiv.org/abs/2412.09822)]
+[[Project](https://zhengjun-ai.github.io/dynamic-tryon-page/)]
+
 **FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
 [[IJCAI 2024](https://arxiv.org/abs/2404.14162)]
 
@@ -1929,6 +1933,10 @@
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
 [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
+
+**BrushEdit: All-In-One Image Inpainting and Editing** \
+[[Website](https://arxiv.org/abs/2412.10316)]
+[[Project](https://liyaowei-stu.github.io/project/BrushEdit/)] 
 
 **Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.07232)]
