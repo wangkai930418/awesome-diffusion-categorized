@@ -1209,6 +1209,8 @@
 **RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation** \
 [[Website](https://arxiv.org/abs/2411.19528)]
 
+**SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.10178)]
 
 
 ## Drag Edit
@@ -5917,6 +5919,9 @@
 **Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.02960)]
 
+**RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.09646)]
+
 
 ## Video Generation 
 
@@ -6692,6 +6697,10 @@
 [[Website](https://arxiv.org/abs/2411.18644)]
 [[Project](https://abolfazl-sh.github.io/Scene_co-pilot_site/)]
 
+**LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity** \
+[[Website](https://arxiv.org/abs/2412.09856)]
+[[Project](https://lineargen.github.io/)]
+
 **Training-free Long Video Generation with Chain of Diffusion Model Experts** \
 [[Website](https://arxiv.org/abs/2408.13423)]
 [[Project](https://confiner2025.github.io/)]
@@ -7198,6 +7207,9 @@
 
 **Mobile Video Diffusion** \
 [[Website](https://arxiv.org/abs/2412.07583)]
+
+**TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation** \
+[[Website](https://arxiv.org/abs/2412.10275)]
 
 
 
