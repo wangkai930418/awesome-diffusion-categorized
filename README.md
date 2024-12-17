@@ -285,6 +285,9 @@
 **EM Distillation for One-step Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.16852)]
 
+**AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration** \
+[[Website](https://arxiv.org/abs/2412.11706)]
+
 **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \
 [[Website](https://arxiv.org/abs/2410.03355)]
 
@@ -779,6 +782,11 @@
 
 ## Colorization
 
+**ColorFlow: Retrieval-Augmented Image Sequence Colorization** \
+[[Website](https://arxiv.org/abs/2412.11815)]
+[[Project](https://zhuang2002.github.io/ColorFlow/)]
+[[Code](https://github.com/TencentARC/ColorFlow)]
+
 **Control Color: Multimodal Diffusion-based Interactive Image Colorization** \
 [[Website](https://arxiv.org/abs/2402.10855)]
 [[Project](https://zhexinliang.github.io/Control_Color/)]
@@ -1216,6 +1224,9 @@
 **SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2412.10178)]
 
+**IGR: Improving Diffusion Model for Garment Restoration from Person Image** \
+[[Website](https://arxiv.org/abs/2412.11513)]
+
 
 ## Drag Edit
 
@@ -1500,6 +1511,10 @@
 
 **LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
 [[Website](https://arxiv.org/abs/2307.00522)]
+
+**Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing** \
+[[Website](https://arxiv.org/abs/2412.11152)]
+
 
 
 ## Text Guided Image Editing
@@ -1933,6 +1948,10 @@
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
 [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
+
+**Instruction-based Image Manipulation by Watching How Things Move** \
+[[Website](https://arxiv.org/abs/2412.12087)]
+[[Project](https://ljzycmd.github.io/projects/InstructMove/)] 
 
 **BrushEdit: All-In-One Image Inpainting and Editing** \
 [[Website](https://arxiv.org/abs/2412.10316)]
@@ -2984,6 +3003,9 @@
 [[Website](https://arxiv.org/abs/2307.06949)] 
 [[Project](https://hyperdreambooth.github.io/)] 
 
+**SUGAR: Subject-Driven Video Customization in a Zero-Shot Manner** \
+[[Website](https://arxiv.org/abs/2412.10533)] 
+[[Project](https://yufanzhou.com/SUGAR/)] 
 
 **Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
 [[Website](https://arxiv.org/abs/2307.06925)] 
@@ -3538,6 +3560,10 @@
 **Bridging the Gap: Aligning Text-to-Image Diffusion Models with Specific Feedback** \
 [[Website](https://arxiv.org/abs/2412.00122)] 
 [[Code](https://github.com/kingniu0329/Visions)]
+
+**Zigzag Diffusion Sampling: The Path to Success Is Zigzag** \
+[[Website](https://arxiv.org/abs/2412.10891)] 
+[[Code](https://github.com/xie-lab-ml/Zigzag-Diffusion-Sampling)]
 
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
@@ -4952,6 +4978,10 @@
 [[CVPR 2024](https://arxiv.org/abs/2403.07234)] 
 [[Code](https://github.com/subhadeepkoley/DemoSketch2RGB)]
 
+**VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis** \
+[[AAAI 2025](https://arxiv.org/abs/2412.11594)] 
+[[Code](https://github.com/FelixChan9527/VersaGen_official)]
+
 **CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation** \
 [[Website](https://arxiv.org/abs/2410.09400)] 
 [[Code](https://github.com/xyfJASON/ctrlora)]
@@ -5930,6 +5960,10 @@
 **RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.09646)]
 
+**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.11609)]
+
+
 
 ## Video Generation 
 
@@ -6441,6 +6475,12 @@
 [[Project](https://showlab.github.io/T2VScore/)]
 [[Code](https://github.com/showlab/T2VScore)] 
 
+**Generative Inbetweening through Frame-wise Conditions-Driven Video Generation** \
+[[Website](https://arxiv.org/abs/2412.11755)]
+[[Project](https://fcvg-inbetween.github.io/)]
+[[Code](https://github.com/Tian-one/FCVG)] 
+
+
 **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.22901)]
 [[Project](https://songkey.github.io/hellomeme/)]
@@ -6645,6 +6685,10 @@
 [[Website](https://arxiv.org/abs/2411.13552)]
 [[Code](https://github.com/microsoft/Reducio-VAE)]
 
+**GRID: Visual Layout Generation** \
+[[Website](https://arxiv.org/abs/2412.10718)]
+[[Code](https://github.com/Should-AI-Lab/GRID)]
+
 **MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling** \
 [[Website](https://arxiv.org/abs/2405.18003)]
 [[Code](https://github.com/18445864529/MAVIN)]
@@ -6704,6 +6748,10 @@
 **Scene Co-pilot: Procedural Text to Video Generation with Human in the Loop** \
 [[Website](https://arxiv.org/abs/2411.18644)]
 [[Project](https://abolfazl-sh.github.io/Scene_co-pilot_site/)]
+
+**DynamicScaler: Seamless and Scalable Video Generation for Panoramic Scenes** \
+[[Website](https://arxiv.org/abs/2412.11100)]
+[[Project](https://dynamic-scaler.pages.dev/)]
 
 **LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity** \
 [[Website](https://arxiv.org/abs/2412.09856)]
@@ -6974,6 +7022,10 @@
 **Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation** \
 [[Website](https://arxiv.org/abs/2412.06016)]
 [[Project](https://hyeonho99.github.io/track4gen/)]
+
+**SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device** \
+[[Website](https://arxiv.org/abs/2412.10494)]
+[[Project](https://snap-research.github.io/snapgen-v/)]
 
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
@@ -7364,6 +7416,9 @@
 [[Website](https://arxiv.org/abs/2303.17599)]
 [[Code](https://github.com/baaivision/vid2vid-zero)]
 
+**Re-Attentional Controllable Video Diffusion Editing** \
+[[Website](https://arxiv.org/abs/2412.11710)]
+[[Code](https://github.com/mdswyz/ReAtCo)]
 
 **DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization** \
 [[Website](https://arxiv.org/abs/2311.16060)]
