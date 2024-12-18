@@ -324,6 +324,9 @@
 **DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization** \
 [[Website](https://arxiv.org/abs/2410.16942)]
 
+**LazyDiT: Lazy Learning for the Acceleration of Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2412.12444)]
+
 **Flow Generator Matching** \
 [[Website](https://arxiv.org/abs/2410.19310)]
 
@@ -779,6 +782,10 @@
 
 **Are Conditional Latent Diffusion Models Effective for Image Restoration?** \
 [[Website](https://arxiv.org/abs/2412.09324)]
+
+**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration** \
+[[Website](https://arxiv.org/abs/2412.12550)]
+
 
 ## Colorization
 
@@ -2153,6 +2160,9 @@
 
 **Addressing Attribute Leakages in Diffusion-based Image Editing without Training** \
 [[Website](https://arxiv.org/abs/2412.04715)]
+
+**Prompt Augmentation for Self-supervised Text-guided Image Manipulation** \
+[[Website](https://arxiv.org/abs/2412.13081)]
 
 
 ## Continual Learning
@@ -3655,6 +3665,10 @@
 [[Website](https://arxiv.org/abs/2305.13308)] 
 [[Code](https://github.com/ExplainableML/ImageSelect)]
 
+**CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.13195)] 
+[[Code](https://github.com/blurgyy/CoMPaSS)]
+
 **LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** \
 [[Website](https://arxiv.org/abs/2310.10640)] 
 [[Code](https://github.com/hananshafi/llmblueprint)]
@@ -4045,6 +4059,8 @@
 **BudgetFusion: Perceptually-Guided Adaptive Diffusion Models** \
 [[Website](https://arxiv.org/abs/2412.05780)] 
 
+**ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction** \
+[[Website](https://arxiv.org/abs/2412.12888)] 
 
 
 ## Spatial Control
@@ -5243,6 +5259,9 @@
 [[Website](https://arxiv.org/abs/2411.17223)] 
 [[Code](https://github.com/mycfhs/DreamMix)] 
 
+**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance** \
+[[Website](https://arxiv.org/abs/2412.12974)] 
+[[Code](https://github.com/Anonym0u3/AttentiveEraser)]
 
 **Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing** \
 [[Website](https://arxiv.org/abs/2404.12900)] 
@@ -7271,6 +7290,11 @@
 **TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation** \
 [[Website](https://arxiv.org/abs/2412.10275)]
 
+**Can video generation replace cinematographers? Research on the cinematic language of generated video** \
+[[Website](https://arxiv.org/abs/2412.12223)]
+
+**MotionBridge: Dynamic Video Inbetweening with Flexible Controls** \
+[[Website](https://arxiv.org/abs/2412.13190)]
 
 
 ## Video Editing 
@@ -7521,6 +7545,10 @@
 **DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing** \
 [[Website](https://arxiv.org/abs/2403.12002)]
 [[Project](https://hyeonho99.github.io/dreammotion/)]
+
+**MIVE: New Design and Benchmark for Multi-Instance Video Editing** \
+[[Website](https://arxiv.org/abs/2412.12877)]
+[[Project](https://kaist-viclab.github.io/mive-site/)]
 
 **VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing** \
 [[Website](https://arxiv.org/abs/2411.15260)]
