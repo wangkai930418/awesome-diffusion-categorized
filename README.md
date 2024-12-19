@@ -615,6 +615,10 @@
 [[Website](https://arxiv.org/abs/2410.02423)]
 [[Code](https://github.com/annegnx/PnP-Flow)]
 
+**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement** \
+[[Website](https://arxiv.org/abs/2412.13655)]
+[[Code](https://github.com/Chenz418/VIIS)]
+
 **Deep Data Consistency: a Fast and Robust Diffusion Model-based Solver for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2405.10748)]
 [[Code](https://github.com/Hanyu-Chen373/DeepDataConsistency)]
@@ -1070,6 +1074,11 @@
 [[Website](https://arxiv.org/abs/2405.11794)]
 [[Project](https://becauseimbatman0.github.io/ViViD)]
 [[Code](https://github.com/BecauseImBatman0/ViViD)] 
+
+**FashionComposer: Compositional Fashion Image Generation** \
+[[Website](https://arxiv.org/abs/2412.14168)]
+[[Project](https://sihuiji.github.io/FashionComposer-Page/)]
+[[Code](https://github.com/SihuiJi/FashionComposer)] 
 
 **GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting** \
 [[Website](https://arxiv.org/abs/2405.07472)]
@@ -5255,6 +5264,10 @@
 [[Website](https://arxiv.org/abs/2409.14720)] 
 [[Code](https://github.com/cd123-cd/ControlEdit)]
 
+**CA-Edit: Causality-Aware Condition Adapter for High-Fidelity Local Facial Attribute Editing** \
+[[Website](https://arxiv.org/abs/2412.13565)] 
+[[Code](https://github.com/connorxian/CA-Edit)] 
+
 **DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting** \
 [[Website](https://arxiv.org/abs/2411.17223)] 
 [[Code](https://github.com/mycfhs/DreamMix)] 
@@ -6160,6 +6173,11 @@
 [[Project](https://gamegen-x.github.io/)] 
 [[Code](https://github.com/GameGen-X/GameGen-X)]
 
+**AniDoc: Animation Creation Made Easier** \
+[[Website](https://arxiv.org/abs/2412.14173)]
+[[Project](https://yihao-meng.github.io/AniDoc_demo/)] 
+[[Code](https://github.com/yihao-meng/AniDoc)]
+
 **VEnhancer: Generative Space-Time Enhancement for Video Generation** \
 [[Website](https://arxiv.org/abs/2407.07667)]
 [[Project](https://vchitect.github.io/VEnhancer-project/)] 
@@ -6571,6 +6589,11 @@
 [[Project](http://haonanqiu.com/projects/FreeTraj.html)]
 [[Code](https://github.com/arthur-qiu/FreeTraj)] 
 
+**VideoDPO: Omni-Preference Alignment for Video Diffusion Generation** \
+[[Website](https://arxiv.org/abs/2412.14167)]
+[[Project](https://videodpo.github.io/)]
+[[Code](https://github.com/CIntellifusion/VideoDPO)] 
+
 **Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation** \
 [[Website](https://arxiv.org/abs/2408.15239)]
 [[Project](https://svd-keyframe-interpolation.github.io/)]
@@ -6655,6 +6678,10 @@
 **VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation** \
 [[Website](https://arxiv.org/abs/2303.08320)]
 [[Code](https://github.com/modelscope/modelscope)]
+
+**Autoregressive Video Generation without Vector Quantization** \
+[[Website](https://arxiv.org/abs/2412.14169)]
+[[Code](https://github.com/baaivision/NOVA)]
 
 **STDiff: Spatio-temporal Diffusion for Continuous Stochastic Video Prediction** \
 [[Website](https://arxiv.org/abs/2312.06486)]
