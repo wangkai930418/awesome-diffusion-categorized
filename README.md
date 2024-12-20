@@ -1150,6 +1150,10 @@
 [[Website](https://arxiv.org/abs/2311.18405)]
 [[Code](https://github.com/zengjianhao/cat-dm)] 
 
+**Consistent Human Image and Video Generation with Spatially Conditioned Diffusion** \
+[[Website](https://arxiv.org/abs/2412.14531)]
+[[Code](https://github.com/ljzycmd/scd)] 
+
 **MV-VTON: Multi-View Virtual Try-On with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.17364)]
 [[Code](https://github.com/hywang2002/MV-VTON)]
@@ -1242,6 +1246,10 @@
 
 **IGR: Improving Diffusion Model for Garment Restoration from Person Image** \
 [[Website](https://arxiv.org/abs/2412.11513)]
+
+**DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On** \
+[[Website](https://arxiv.org/abs/2412.14465)]
+
 
 
 ## Drag Edit
@@ -2173,6 +2181,10 @@
 **Prompt Augmentation for Self-supervised Text-guided Image Manipulation** \
 [[Website](https://arxiv.org/abs/2412.13081)]
 
+**PixelMan: Consistent Object Editing with Diffusion Models via Pixel Manipulation and Generation** \
+[[Website](https://arxiv.org/abs/2412.14283)]
+
+
 
 ## Continual Learning
 
@@ -2715,6 +2727,10 @@
 [[Project](https://correr-zhou.github.io/MagicTailor/)] 
 [[Code](https://github.com/correr-zhou/MagicTailor)]
 
+**MagicNaming: Consistent Identity Generation by Finding a "Name Space" in T2I Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.14902)] 
+[[Project](https://magicfusion.github.io/MagicNaming/)] 
+[[Code](https://github.com/MagicFusion/MagicNaming)]
 
 **DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
 [[Website](https://arxiv.org/abs/2211.11337)] 
@@ -3432,6 +3448,11 @@
 [[Website](https://arxiv.org/abs/2310.07653)] 
 [[Project](https://minidalle3.github.io/)] 
 [[Code](https://github.com/Zeqiang-Lai/Mini-DALLE3)]
+
+**Tiled Diffusion** \
+[[Website](https://arxiv.org/abs/2412.15185)] 
+[[Project](https://madaror.github.io/tiled-diffusion.github.io/)] 
+[[Code](https://github.com/madaror/tiled-diffusion)]
 
 **ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2310.07702)] 
@@ -5202,6 +5223,7 @@
 [[Project](https://pilot-page.github.io/)] 
 [[Code](https://github.com/Lingzhi-Pan/PILOT)]
 
+
 **Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2304.03246)] 
 [[Project](http://instinpaint.abyildirim.com/)] 
@@ -5222,6 +5244,12 @@
 [[Website](https://arxiv.org/abs/2307.09481)] 
 [[Project](https://damo-vilab.github.io/AnyDoor-Page/)]
 [[Code](https://github.com/damo-vilab/AnyDoor)] 
+
+**Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion** \
+[[Website](https://arxiv.org/abs/2412.14462)] 
+[[Project](https://kakituken.github.io/affordance-any.github.io/)] 
+[[Code](https://github.com/KaKituken/affordance-aware-any)]
+
 
 **A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting** \
 [[Website](https://arxiv.org/abs/2312.03594)] 
@@ -7073,6 +7101,9 @@
 [[Website](https://arxiv.org/abs/2412.10494)]
 [[Project](https://snap-research.github.io/snapgen-v/)]
 
+**OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization** \
+[[Website](https://arxiv.org/abs/2412.15159)]
+[[Project](https://onlinevpo.github.io/)]
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
