@@ -2017,6 +2017,10 @@
 [[Website](https://arxiv.org/abs/2305.04651)] 
 [[Project](https://yupeilin2388.github.io/publication/ReDiffuser)]
 
+**UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency** \
+[[Website](https://arxiv.org/abs/2412.15216)] 
+[[Project](https://enis.dev/uip2p/)]
+
 **GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.19645)]
 [[Project](https://gantastic.github.io/)]
