@@ -2188,6 +2188,8 @@
 **PixelMan: Consistent Object Editing with Diffusion Models via Pixel Manipulation and Generation** \
 [[Website](https://arxiv.org/abs/2412.14283)]
 
+**Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance** \
+[[Website](https://arxiv.org/abs/2412.15798)]
 
 
 ## Continual Learning
@@ -2413,6 +2415,9 @@
 
 **Pruning for Robust Concept Erasing in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.16534)] 
+
+**Efficient Fine-Tuning and Concept Suppression for Pruned Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.15341)] 
 
 **Unlearning Concepts from Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.14209)] 
@@ -2957,6 +2962,10 @@
 [[Website](https://arxiv.org/abs/2405.17965)] 
 [[Code](https://github.com/junjie-shentu/AttenCraft)] 
 
+**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium** \
+[[Website](https://arxiv.org/abs/2412.15674)] 
+[[Code](https://github.com/xzhe-Vision/PersonaMagic)] 
+
 **CusConcept: Customized Visual Concept Decomposition with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.00398)] 
 [[Code](https://github.com/xzLcan/CusConcept)] 
@@ -3256,8 +3265,6 @@
 
 **DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.19390)] 
-
-
 
 ## T2I Diffusion Model augmentation
 
@@ -3790,6 +3797,10 @@
 **LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2407.00737)] 
 [[Project](https://xiaobul.github.io/LLM4GEN/)] 
+
+**MotiF: Making Text Count in Image Animation with Motion Focal Loss** \
+[[Website](https://arxiv.org/abs/2412.16153)] 
+[[Project](https://wang-sj16.github.io/motif/)] 
 
 **RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance** \
 [[Website](https://arxiv.org/abs/2405.17661)] 
@@ -6718,6 +6729,10 @@
 **STDiff: Spatio-temporal Diffusion for Continuous Stochastic Video Prediction** \
 [[Website](https://arxiv.org/abs/2312.06486)]
 [[Code](https://github.com/xiye20/stdiffproject)]
+
+**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** \
+[[Website](https://arxiv.org/abs/2412.15646)]
+[[Code](https://github.com/RongPiKing/CustomTTT)]
 
 **Vlogger: Make Your Dream A Vlog** \
 [[Website](https://arxiv.org/abs/2401.09414)]
