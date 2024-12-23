@@ -2709,6 +2709,10 @@
 [[Project](https://styledrop.github.io/)] 
 [[Code](https://github.com/zideliu/StyleDrop-PyTorch)]
 
+**Personalized Representation from Personalized Generation** \
+[[Website](https://arxiv.org/abs/2412.16156)] 
+[[Project](https://personalized-rep.github.io/)] 
+[[Code](https://github.com/ssundaram21/personalized-rep)]
 
 **FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
 [[Website](https://arxiv.org/abs/2305.10431)] 
@@ -7096,6 +7100,10 @@
 [[Website](https://arxiv.org/abs/2410.10774)]
 [[Project](https://ir1d.github.io/Cavia/)] 
 
+**DOLLAR: Few-Step Video Generation via Distillation and Latent Reward Optimization** \
+[[Website](https://arxiv.org/abs/2412.15689)]
+[[Project](https://quantumiracle.github.io/dollar/)] 
+
 **VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide** \
 [[Website](https://arxiv.org/abs/2410.04364)]
 [[Project](https://videoguide2025.github.io/)] 
@@ -7372,6 +7380,7 @@
 
 **MotionBridge: Dynamic Video Inbetweening with Flexible Controls** \
 [[Website](https://arxiv.org/abs/2412.13190)]
+
 
 
 ## Video Editing 
