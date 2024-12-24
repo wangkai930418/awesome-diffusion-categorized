@@ -270,6 +270,9 @@
 **One-Step Diffusion Distillation through Score Implicit Matching** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.16794)]
 
+**Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation** \
+[[AAAI 2025](https://arxiv.org/abs/2412.16906)]
+
 **Inference-Time Diffusion Model Distillation** \
 [[Website](https://arxiv.org/abs/2412.08871)]
 
@@ -5877,6 +5880,11 @@
 **One Step Diffusion-based Super-Resolution with Time-Aware Distillation** \
 [[Website](https://arxiv.org/abs/2408.07476)] 
 [[Code](https://github.com/LearningHx/TAD-SR)] 
+
+**Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.16552)] 
+[[Code](https://github.com/JerryYann/DPI)] 
+
 
 **Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors** \
 [[Website](https://arxiv.org/abs/2412.07152)] 
