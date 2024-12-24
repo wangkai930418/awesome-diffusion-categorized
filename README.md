@@ -135,6 +135,11 @@
 [[Project](https://vchitect.github.io/FasterCache/)]
 [[Code](https://github.com/Vchitect/FasterCache)]
 
+**Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching** \
+[[Website](https://arxiv.org/abs/2412.17153)]
+[[Project](https://imagination-research.github.io/distilled-decoding/)]
+[[Code](https://github.com/imagination-research/distilled-decoding)]
+
 **SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions** \
 [[Website](https://arxiv.org/abs/2403.16627)]
 [[Project](https://idkiro.github.io/sdxs/)]
@@ -1161,6 +1166,10 @@
 [[Website](https://arxiv.org/abs/2404.17364)]
 [[Code](https://github.com/hywang2002/MV-VTON)]
 
+**PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask** \
+[[Website](https://arxiv.org/abs/2412.16978)]
+[[Code](https://github.com/rlawjdghek/PromptDresser)]
+
 **M&M VTO: Multi-Garment Virtual Try-On and Editing** \
 [[CVPR 2024 Highlight](https://arxiv.org/abs/2406.04542)]
 [[Project](https://mmvto.github.io/)]
@@ -1253,6 +1262,8 @@
 **DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On** \
 [[Website](https://arxiv.org/abs/2412.14465)]
 
+**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder** \
+[[Website](https://arxiv.org/abs/2412.17644)]
 
 
 ## Drag Edit
@@ -3272,6 +3283,10 @@
 
 **DreamBlend: Advancing Personalized Fine-tuning of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.19390)] 
+
+**RealisID: Scale-Robust and Fine-Controllable Identity Customization via Local and Global Complementation** \
+[[Website](https://arxiv.org/abs/2412.16832)] 
+
 
 ## T2I Diffusion Model augmentation
 
@@ -5789,6 +5804,8 @@
 **FonTS: Text Rendering with Typography and Style Controls** \
 [[Website](https://arxiv.org/abs/2412.00136)]
 
+**CharGen: High Accurate Character-Level Visual Text Generation Model with MultiModal Encoder** \
+[[Website](https://arxiv.org/abs/2412.17225)]
 
 ## Super Resolution
 
@@ -6608,6 +6625,10 @@
 [[Project](https://motionprompt.github.io/)]
 [[Code](https://github.com/HyelinNAM/MotionPrompt)] 
 
+**Large Motion Video Autoencoding with Cross-modal Video VAE** \
+[[Website](https://arxiv.org/abs/2412.17805)]
+[[Project](https://yzxing87.github.io/vae/)]
+[[Code](https://github.com/VideoVerses/VideoVAEPlus)] 
 
 **FlexiFilm: Long Video Generation with Flexible Conditions** \
 [[Website](https://arxiv.org/abs/2404.18620)]
