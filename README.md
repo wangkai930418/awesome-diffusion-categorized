@@ -2792,8 +2792,10 @@
 [[Project](https://photo-maker.github.io/)] 
 [[Code](https://github.com/TencentARC/PhotoMaker)]
 
-
-
+**Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction** \
+[[Website](https://arxiv.org/abs/2412.18149)] 
+[[Project](https://chelsea234.github.io/Dense-Face.github.io/)] 
+[[Code](https://github.com/CHELSEA234/Dense-Face)]
 
 **CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
 [[Website](https://arxiv.org/abs/2311.14631)] 
@@ -4131,6 +4133,9 @@
 
 **ArtAug: Enhancing Text-to-Image Generation through Synthesis-Understanding Interaction** \
 [[Website](https://arxiv.org/abs/2412.12888)] 
+
+**TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization** \
+[[Website](https://arxiv.org/abs/2412.18185)] 
 
 
 ## Spatial Control
