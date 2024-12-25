@@ -1265,6 +1265,9 @@
 **DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder** \
 [[Website](https://arxiv.org/abs/2412.17644)]
 
+**Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.18421)]
+
 
 ## Drag Edit
 
@@ -6289,6 +6292,11 @@
 [[Website](https://arxiv.org/abs/2412.04440)]
 [[Project](https://karine-h.github.io/GenMAC/)] 
 [[Code](https://github.com/Karine-Huang/GenMAC)]
+
+**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation** \
+[[Website](https://arxiv.org/abs/2412.18597)]
+[[Project](https://onevfall.github.io/project_page/ditctrl/)] 
+[[Code](https://github.com/TencentARC/DiTCtrl)]
 
 **CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion** \
 [[Website](https://arxiv.org/abs/2406.05082)]
