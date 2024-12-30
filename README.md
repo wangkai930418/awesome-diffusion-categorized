@@ -195,6 +195,9 @@
 [[Website](https://arxiv.org/abs/2411.17616)]
 [[Code](https://github.com/OpenSparseLLMs/Skip-DiT)]
 
+**Accelerating Diffusion Transformers with Dual Feature Caching** \
+[[Website](https://arxiv.org/abs/2412.18911)]
+[[Code](https://github.com/shenyi-z/duca)]
 
 **One Step Diffusion via Shortcut Models** \
 [[Website](https://arxiv.org/abs/2410.12557)]
@@ -961,6 +964,12 @@
 [[Website](https://arxiv.org/abs/2412.01987)]
 [[Project](https://soczech.github.io/showhowto/)]
 [[Code](https://github.com/soCzech/showhowto)] 
+
+**Manga Generation via Layout-controllable Diffusion** \
+[[Website](https://arxiv.org/abs/2412.19303)]
+[[Project](https://siyuch-fdu.github.io/MangaDiffusion/)]
+[[Code](https://github.com/siyuch-fdu/MangaDiffusion)] 
+
 
 **StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
 [[ECCV 2024](https://arxiv.org/abs/2404.05979)]
@@ -3292,6 +3301,10 @@
 **RealisID: Scale-Robust and Fine-Controllable Identity Customization via Local and Global Complementation** \
 [[Website](https://arxiv.org/abs/2412.16832)] 
 
+**P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision** \
+[[Website](https://arxiv.org/abs/2412.19533)] 
+
+
 
 ## T2I Diffusion Model augmentation
 
@@ -5192,6 +5205,10 @@
 **Label-free Neural Semantic Image Synthesis** \
 [[Website]](https://arxiv.org/abs/2407.01790) 
 
+**UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation** \
+[[Website]](https://arxiv.org/abs/2412.18928) 
+
+
 ## Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
 [[Website](https://arxiv.org/abs/2305.10722)] 
@@ -6864,6 +6881,10 @@
 [[ECCV 2024](https://arxiv.org/abs/2407.09012)]
 [[Project](https://eccv2024tcan.github.io/)] 
 
+**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.19645)]
+[[Project](https://wutao-cs.github.io/VideoMaker/)]
+
 **Motion Prompting: Controlling Video Generation with Motion Trajectories** \
 [[Website](https://arxiv.org/abs/2412.02700)]
 [[Project](https://motion-prompting.github.io/)]
@@ -7422,6 +7443,9 @@
 
 **MotionBridge: Dynamic Video Inbetweening with Flexible Controls** \
 [[Website](https://arxiv.org/abs/2412.13190)]
+
+**Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory** \
+[[Website](https://arxiv.org/abs/2412.17254)]
 
 
 
