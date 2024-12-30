@@ -6945,6 +6945,9 @@
 [[Website](https://arxiv.org/abs/2412.07772)]
 [[Project](https://causvid.github.io/)]
 
+**ModelGrow: Continual Text-to-Video Pre-training with Model Expansion and Language Understanding Enhancement** \
+[[Website](https://arxiv.org/abs/2412.18966)]
+[[Project](https://modelgrow.github.io/)]
 
 **I4VGen: Image as Stepping Stone for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02230)]
