@@ -601,6 +601,14 @@
 [[NeurIPS 2024](https://arxiv.org/abs/2410.18666)]
 [[Code](https://github.com/shallowdream204/DreamClear)]
 
+**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
+[[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
+[[Code](https://github.com/Algolzw/image-restoration-sde)]
+
+**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement** \
+[[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
+[[Code](https://github.com/shermanlian/spatial-entropy-loss)]
+
 **Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression** \
 [[Website](https://arxiv.org/abs/2412.08912)]
 [[Code](https://github.com/alimd94/DiQP)]
@@ -613,14 +621,17 @@
 [[Website](https://arxiv.org/abs/2407.20928)]
 [[Code](https://github.com/IntMeGroup/UniProcessor)]
 
+**Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)** \
+[[Website](https://arxiv.org/abs/2412.20596)]
+[[Code](https://github.com/tirer-lab/CM4IR)]
 
-**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
-[[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
-[[Code](https://github.com/Algolzw/image-restoration-sde)]
+**Varformer: Adapting VAR's Generative Prior for Image Restoration** \
+[[Website](https://arxiv.org/abs/2412.21063)]
+[[Code](https://github.com/siywang541/Varformer)]
 
-**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement** \
-[[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
-[[Code](https://github.com/shermanlian/spatial-entropy-loss)]
+**Low-Light Image Enhancement via Generative Perceptual Priors** \
+[[Website](https://arxiv.org/abs/2412.20916)]
+[[Code](https://github.com/LowLevelAI/GPP-LLIE)]
 
 **PnP-Flow: Plug-and-Play Image Restoration with Flow Matching** \
 [[Website](https://arxiv.org/abs/2410.02423)]
@@ -755,6 +766,8 @@
 **Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior** \
 [[Website](https://arxiv.org/abs/2409.04384)]
 
+**Enhancing Diffusion Models for Inverse Problems with Covariance-Aware Posterior Sampling** \
+[[Website](https://arxiv.org/abs/2412.20045)]
 
 **Data-free Distillation with Degradation-prompt Diffusion for Multi-weather Image Restoration** \
 [[Website](https://arxiv.org/abs/2409.03455)]
@@ -2400,6 +2413,9 @@
 **MACE: Mass Concept Erasure in Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06135)] 
 
+**EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** \
+[[Website](https://arxiv.org/abs/2412.20413)] 
+
 **Continuous Concepts Removal in Text-to-image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2412.00580)] 
 
@@ -3500,6 +3516,11 @@
 [[Project](https://minidalle3.github.io/)] 
 [[Code](https://github.com/Zeqiang-Lai/Mini-DALLE3)]
 
+**VMix: Improving Text-to-Image Diffusion Model with Cross-Attention Mixing Control** \
+[[Website](https://arxiv.org/abs/2412.20800)] 
+[[Project](https://vmix-diffusion.github.io/VMix/)] 
+[[Code](https://github.com/fenfenfenfan/VMix)]
+
 **Tiled Diffusion** \
 [[Website](https://arxiv.org/abs/2412.15185)] 
 [[Project](https://madaror.github.io/tiled-diffusion.github.io/)] 
@@ -4149,6 +4170,9 @@
 
 **TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization** \
 [[Website](https://arxiv.org/abs/2412.18185)] 
+
+**ReNeg: Learning Negative Embedding with Reward Guidance** \
+[[Website](https://arxiv.org/abs/2412.19637)] 
 
 
 ## Spatial Control
@@ -6733,6 +6757,10 @@
 [[AAAI 2025](https://arxiv.org/abs/2412.09389)]
 [[Code](https://github.com/Delong-liu-bupt/UFO)]
 
+**Open-Sora: Democratizing Efficient Video Production for All** \
+[[Website](https://arxiv.org/abs/2412.20404)]
+[[Code](https://github.com/hpcaitech/Open-Sora)]
+
 **InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption** \
 [[Website](https://arxiv.org/abs/2412.09283)]
 [[Code](https://github.com/NJU-PCALab/InstanceCap)]
@@ -7756,6 +7784,9 @@
 
 **Video Editing via Factorized Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2403.06269)]
+
+**MAKIMA: Tuning-free Multi-Attribute Open-domain Video Editing via Mask-Guided Attention Modulation** \
+[[Website](https://arxiv.org/abs/2412.19978)]
 
 **EffiVED:Efficient Video Editing via Text-instruction Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.11568)]
