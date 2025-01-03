@@ -2482,6 +2482,10 @@
 **Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters** \
 [[Website](https://arxiv.org/abs/2412.06143)] 
 
+**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models** \
+[[AAAI 2025](https://arxiv.org/abs/2405.1530)]
+[[Code](https://github.com/yongliang-wu/DoCo)]
+
 
 ## New Concept Learning
 
