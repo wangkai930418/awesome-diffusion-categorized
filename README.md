@@ -75,7 +75,7 @@
 [[Code](https://github.com/devrimcavusoglu/dmd)]
 
 
-**Consistency Models**
+**Consistency Models** \
 [[ICML 2023](https://doi.org/10.48550/arXiv.2410.11081](https://proceedings.mlr.press/v202/song23a.html)]
 [[Diffusers](https://huggingface.co/docs/diffusers/main/en/api/pipelines/consistency_models)]
 [[Code](https://github.com/openai/consistency_models)]
@@ -283,6 +283,9 @@
 
 **Inference-Time Diffusion Model Distillation** \
 [[Website](https://arxiv.org/abs/2412.08871)]
+
+**Token Pruning for Caching Better: 9 Times Acceleration on Stable Diffusion for Free** \
+[[Website](https://arxiv.org/abs/2501.00375)]
 
 **HarmoniCa: Harmonizing Training and Inference for Better Feature Cache in Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2410.01723)]
@@ -526,6 +529,11 @@
 [[Project](https://daps-inverse-problem.github.io/)]
 [[Code](https://github.com/zhangbingliang2019/DAPS)]
 
+**SVFR: A Unified Framework for Generalized Video Face Restoration** \
+[[Website](https://arxiv.org/abs/2501.01235)]
+[[Project](https://wangzhiyaoo.github.io/SVFR/)]
+[[Code](https://github.com/wangzhiyaoo/SVFR)]
+
 **Solving Video Inverse Problems Using Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2409.02574)]
 [[Project](https://solving-video-inverse.github.io/main/)]
@@ -717,6 +725,9 @@
 [[Website](https://arxiv.org/abs/2412.00156)]
 [[Project](https://vision-xl.github.io/)]
 
+**SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration** \
+[[Website](https://arxiv.org/abs/2501.01320)]
+[[Project](https://iceclear.github.io/projects/seedvr/)]
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2308.13164)]
@@ -1768,6 +1779,11 @@
 [[Project](https://icoz69.github.io/facestudio/)] 
 [[Code](https://github.com/xyynafc/FaceStudio)] 
 
+**Edicho: Consistent Image Editing in the Wild** \
+[[Website](https://arxiv.org/abs/2412.21079)] 
+[[Project](https://ezioby.github.io/edicho/)] 
+[[Code](https://github.com/EzioBy/edicho)] 
+
 **Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach** \
 [[Website](https://arxiv.org/abs/2411.01545)] 
 [[Project](https://soebench.github.io/)] 
@@ -2011,6 +2027,10 @@
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
 [[Project](https://mingzhenhuang.com/projects/MultiEdits.html)] 
+
+**Object-level Visual Prompts for Compositional Image Generation** \
+[[Website](https://arxiv.org/abs/2501.01424)]
+[[Project](https://snap-research.github.io/visual-composer/)] 
 
 **Instruction-based Image Manipulation by Watching How Things Move** \
 [[Website](https://arxiv.org/abs/2412.12087)]
@@ -2373,6 +2393,8 @@
 [[Website](https://arxiv.org/abs/2412.07658)] 
 [[Code](https://github.com/anubhav1997/TraSCE/)]
 
+
+
 <!-- 
 **Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
 [[Website](https://arxiv.org/abs/2412.05980)] 
@@ -2401,6 +2423,10 @@
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models** \
 [[Website](https://arxiv.org/abs/2305.10120)] 
 [[Code](https://github.com/clear-nus/selective-amnesia)]
+
+**DuMo: Dual Encoder Modulation Network for Precise Concept Erasure** \
+[[Website](https://arxiv.org/abs/2501.01125)] 
+[[Code](https://github.com/Maplebb/DuMo)]
 
 **Add-SD: Rational Generation without Manual Reference** \
 [[Website](https://arxiv.org/abs/2407.21016)] 
@@ -2481,6 +2507,10 @@
 
 **Precise, Fast, and Low-cost Concept Erasure in Value Space: Orthogonal Complement Matters** \
 [[Website](https://arxiv.org/abs/2412.06143)] 
+
+**AdvAnchor: Enhancing Diffusion Model Unlearning with Adversarial Anchors** \
+[[Website](https://arxiv.org/abs/2501.00054)] 
+
 
 
 ## New Concept Learning
@@ -3094,6 +3124,9 @@
 [[Website](https://arxiv.org/abs/2306.08247)] 
 [[Project](https://bigaandsmallq.github.io/COW/)] 
 
+**Nested Attention: Semantic-aware Attention Values for Concept Personalization** \
+[[Website](https://arxiv.org/abs/2501.01407)] 
+[[Project](https://snap-research.github.io/NestedAttention/)] 
 
 **HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2307.06949)] 
@@ -3795,6 +3828,10 @@
 [[Website](https://arxiv.org/abs/2303.13703)] 
 [[Code](https://github.com/salesforce/doodl)]
 
+**ReNeg: Learning Negative Embedding with Reward Guidance** \
+[[Website](https://arxiv.org/abs/2412.19637)] 
+[[Code](https://github.com/LemonTwoL/ReNeg)]
+
 **Correcting Diffusion Generation through Resampling** \
 [[Website](https://arxiv.org/abs/2312.06038)] 
 [[Code](https://github.com/ucsb-nlp-chang/diffusion_resampling)]
@@ -4171,8 +4208,7 @@
 **TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization** \
 [[Website](https://arxiv.org/abs/2412.18185)] 
 
-**ReNeg: Learning Negative Embedding with Reward Guidance** \
-[[Website](https://arxiv.org/abs/2412.19637)] 
+
 
 
 ## Spatial Control
@@ -4447,6 +4483,9 @@
 **Obtaining Favorable Layouts for Multiple Object Generation** \
 [[Website](https://arxiv.org/abs/2405.00791)] 
 
+**EliGen: Entity-Level Controlled Image Generation with Regional Attention** \
+[[Website](https://arxiv.org/abs/2501.01097)] 
+
 **LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis**\
 [[Website](https://arxiv.org/abs/2311.12342)] 
 
@@ -4485,6 +4524,10 @@
 
 **Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement** \
 [[Website](https://arxiv.org/abs/2411.06558)] 
+
+**Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement** \
+[[Website](https://arxiv.org/abs/2501.01368)] 
+
 
 
 ## I2I translation
@@ -5287,6 +5330,11 @@
 [[Project](https://omriavrahami.com/blended-latent-diffusion-page/)]
 [[Code](https://github.com/omriav/blended-latent-diffusion)]
 
+**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.09368)] 
+[[Project](https://yigitekin.github.io/CLIPAway/)]
+[[Code](https://github.com/YigitEkin/CLIPAway)] 
+
 **TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_TF-ICON_Diffusion-Based_Training-Free_Cross-Domain_Image_Composition_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2307.12493)] 
@@ -5320,11 +5368,6 @@
 [[Website](https://arxiv.org/abs/2404.18598)] 
 [[Project](https://anywheremultiagent.github.io/)]
 [[Code](https://github.com/Sealical/anywhere-multi-agent)] 
-
-**CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models** \
-[[Website](https://arxiv.org/abs/2406.09368)] 
-[[Project](https://yigitekin.github.io/CLIPAway/)]
-[[Code](https://github.com/YigitEkin/CLIPAway)] 
 
 **AnyDoor: Zero-shot Object-level Image Customization** \
 [[Website](https://arxiv.org/abs/2307.09481)] 
@@ -5466,6 +5509,7 @@
 [[SIGGRAPH 2024](https://arxiv.org/abs/2407.21017)] 
 [[Project](https://lightchaserx.github.io/matting-by-generation/)]
 
+
 **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference** \
 [[NeurIPS 2024](https://arxiv.org/abs/2407.21017)] 
 [[Project](https://prefpaint.github.io/)]
@@ -5473,6 +5517,11 @@
 **Taming Latent Diffusion Model for Neural Radiance Field Inpainting** \
 [[Website](https://arxiv.org/abs/2404.09995)] 
 [[Project](https://hubert0527.github.io/MALD-NeRF/)]
+
+**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control** \
+[[Website](https://arxiv.org/abs/2501.01427)] 
+[[Project](https://videoanydoor.github.io/)]
+
 
 **SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
 [[Website](https://arxiv.org/abs/2312.05039)] 
@@ -6824,6 +6873,10 @@
 **CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** \
 [[Website](https://arxiv.org/abs/2412.15646)]
 [[Code](https://github.com/RongPiKing/CustomTTT)]
+
+**LTX-Video: Realtime Video Latent Diffusion** \
+[[Website](https://arxiv.org/abs/2501.00103)]
+[[Code](https://github.com/Lightricks/LTX-Video)]
 
 **Vlogger: Make Your Dream A Vlog** \
 [[Website](https://arxiv.org/abs/2401.09414)]
