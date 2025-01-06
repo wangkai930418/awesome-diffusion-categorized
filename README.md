@@ -2393,7 +2393,9 @@
 [[Website](https://arxiv.org/abs/2412.07658)] 
 [[Code](https://github.com/anubhav1997/TraSCE/)]
 
-
+**ACE: Anti-Editing Concept Erasure in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2501.01633)] 
+[[Code](https://github.com/120L020904/ACE)]
 
 <!-- 
 **Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
