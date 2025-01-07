@@ -2381,6 +2381,11 @@
 [[Project](https://ali-vilab.github.io/ACE_plus_page/)] 
 [[Code](https://github.com/ali-vilab/ACE_plus)]
 
+**ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2410.00086)] 
+[[Project](https://ali-vilab.github.io/ace-page/)] 
+[[Code](https://github.com/ali-vilab/ACE/)]
+
 **ACE: Anti-Editing Concept Erasure in Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2501.01633)] 
 [[Code](https://github.com/120L020904/ACE)]
