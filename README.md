@@ -5641,6 +5641,9 @@
 **RAD: Region-Aware Diffusion Models for Image Inpainting** \
 [[Website](https://arxiv.org/abs/2412.09191)] 
 
+**MObI: Multimodal Object Inpainting Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.03173)] 
+
 
 ## Layout Generation
 
