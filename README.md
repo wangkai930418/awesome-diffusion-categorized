@@ -544,6 +544,11 @@
 [[Project](https://zhu-zhiyu.github.io/FLUX-IR/)]
 [[Code](https://github.com/ZHU-Zhiyu/FLUX-IR)]
 
+**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2501.02976)]
+[[Project](https://nju-pcalab.github.io/projects/STAR/)]
+[[Code](https://github.com/NJU-PCALab/STAR)]
+
 **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion** \
 [[Website](https://arxiv.org/abs/2310.10123)]
 [[Project](https://jiangyitong.github.io/AutoDIR_webpage/)]
@@ -773,6 +778,9 @@
 
 **Efficient Image Restoration through Low-Rank Adaptation and Stable Diffusion XL** \
 [[Website](https://arxiv.org/abs/2408.17060)]
+
+**TDM: Temporally-Consistent Diffusion Model for All-in-One Real-World Video Restoration** \
+[[Website](https://arxiv.org/abs/2501.02269)]
 
 **Empirical Bayesian image restoration by Langevin sampling with a denoising diffusion implicit prior** \
 [[Website](https://arxiv.org/abs/2409.04384)]
@@ -2368,6 +2376,15 @@
 [[Project](https://koushiksrivats.github.io/robust-concept-erasing/)] 
 [[Code](https://github.com/koushiksrivats/robust-concept-erasing)]
 
+**ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling** \
+[[Website](https://arxiv.org/abs/2501.02487)] 
+[[Project](https://ali-vilab.github.io/ACE_plus_page/)] 
+[[Code](https://github.com/ali-vilab/ACE_plus)]
+
+**ACE: Anti-Editing Concept Erasure in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2501.01633)] 
+[[Code](https://github.com/120L020904/ACE)]
+
 
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
@@ -2393,9 +2410,6 @@
 [[Website](https://arxiv.org/abs/2412.07658)] 
 [[Code](https://github.com/anubhav1997/TraSCE/)]
 
-**ACE: Anti-Editing Concept Erasure in Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2501.01633)] 
-[[Code](https://github.com/120L020904/ACE)]
 
 <!-- 
 **Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
@@ -5524,6 +5538,9 @@
 [[Website](https://arxiv.org/abs/2501.01427)] 
 [[Project](https://videoanydoor.github.io/)]
 
+**CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.02355)] 
+[[Project](https://corrfill.github.io/)]
 
 **SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
 [[Website](https://arxiv.org/abs/2312.05039)] 
@@ -6329,6 +6346,11 @@
 [[Website](https://arxiv.org/abs/2406.05338)]
 [[Project](https://bujiazi.github.io/motionclone.github.io/)] 
 [[Code](https://github.com/Bujiazi/MotionClone)]
+
+**TransPixar: Advancing Text-to-Video Generation with Transparency** \
+[[Website](https://arxiv.org/abs/2501.03006)]
+[[Project](https://wileewang.github.io/TransPixar/)] 
+[[Code](https://github.com/wileewang/TransPixar)]
 
 **StableAnimator: High-Quality Identity-Preserving Human Image Animation** \
 [[Website](https://arxiv.org/abs/2411.17697)]
@@ -7272,6 +7294,10 @@
 **Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation** \
 [[Website](https://arxiv.org/abs/2412.06016)]
 [[Project](https://hyeonho99.github.io/track4gen/)]
+
+**Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2501.03059)]
+[[Project](https://guyyariv.github.io/TTM/)]
 
 **SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device** \
 [[Website](https://arxiv.org/abs/2412.10494)]
