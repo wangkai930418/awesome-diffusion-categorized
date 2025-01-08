@@ -544,10 +544,6 @@
 [[Project](https://zhu-zhiyu.github.io/FLUX-IR/)]
 [[Code](https://github.com/ZHU-Zhiyu/FLUX-IR)]
 
-**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution** \
-[[Website](https://arxiv.org/abs/2501.02976)]
-[[Project](https://nju-pcalab.github.io/projects/STAR/)]
-[[Code](https://github.com/NJU-PCALab/STAR)]
 
 **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion** \
 [[Website](https://arxiv.org/abs/2310.10123)]
@@ -5985,6 +5981,10 @@
 [[Project](https://junhahyung.github.io/STGuidance/)] 
 [[Code](https://github.com/junhahyung/STGuidance)] 
 
+**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2501.02976)]
+[[Project](https://nju-pcalab.github.io/projects/STAR/)]
+[[Code](https://github.com/NJU-PCALab/STAR)]
 
 **AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2404.01717)] 
