@@ -1309,6 +1309,9 @@
 **Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Models** \
 [[Website](https://arxiv.org/abs/2412.18421)]
 
+**MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2501.03630)]
+
 
 ## Drag Edit
 
@@ -1596,6 +1599,9 @@
 
 **Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2412.11152)]
+
+**Exploring Optimal Latent Trajetory for Zero-shot Image Editing** \
+[[Website](https://arxiv.org/abs/2501.03631)]
 
 
 
@@ -2023,6 +2029,10 @@
 **Novel Object Synthesis via Adaptive Text-Image Harmony** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.20823)]
 [[Project](https://xzr52.github.io/ATIH/)] 
+
+**Textualize Visual Prompt for Image Editing via Diffusion Bridge** \
+[[AAAI 2025](https://arxiv.org/abs/2501.03495)]
+[[Project](https://pengchengpcx.github.io/TextVDB/)] 
 
 **UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics** \
 [[Website](https://arxiv.org/abs/2412.07774)]
@@ -2883,6 +2893,10 @@
 [[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
 [[Code](https://github.com/briannlongzhao/DreamDistribution)]
 
+**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2501.03931)] 
+[[Project](https://julianjuaner.github.io/projects/MagicMirror/)] 
+[[Code](https://github.com/dvlab-research/MagicMirror/)]
 
 **λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space** \
 [[Website](https://arxiv.org/abs/2402.05195)] 
