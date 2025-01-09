@@ -3199,6 +3199,9 @@
 [[Website](https://arxiv.org/abs/2412.01485)] 
 [[Project](https://serialgen.github.io/)] 
 
+**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** \
+[[Website](https://arxiv.org/abs/2501.04698)] 
+[[Project](https://yuzhou914.github.io/ConceptMaster/)] 
 
 **PALP: Prompt Aligned Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2401.06105)] 
@@ -5263,6 +5266,10 @@
 **AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2406.18958)] 
 [[Project](https://any-control.github.io/)] 
+
+**EditAR: Unified Conditional Generation with Autoregressive Models** \
+[[Website](https://arxiv.org/abs/2501.04699)] 
+[[Project](https://jitengmu.github.io/EditAR/)] 
 
 **Sketch-Guided Scene Image Generation** \
 [[Website](https://arxiv.org/abs/2407.06469)] 
@@ -7942,3 +7949,6 @@
 
 **MoViE: Mobile Diffusion for Video Editing** \
 [[Website](https://arxiv.org/abs/2412.06578)]
+
+**Edit as You See: Image-guided Video Editing via Masked Motion Modeling** \
+[[Website](https://arxiv.org/abs/2501.04325)]
