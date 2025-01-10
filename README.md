@@ -4400,6 +4400,11 @@
 [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] 
 [[Code](https://github.com/frank-xwang/InstanceDiffusion)]
 
+**3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering** \
+[[Website](https://arxiv.org/abs/2501.05131)] 
+[[Project](https://limuloo.github.io/3DIS/)] 
+[[Code](https://github.com/limuloo/3DIS)]
+
 **Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2402.18078)] 
 [[Code](https://github.com/YanzuoLu/CFLD)]
