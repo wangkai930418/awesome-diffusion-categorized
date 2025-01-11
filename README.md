@@ -120,7 +120,17 @@
 [[Project](https://liewfeng.github.io/TeaCache/)]
 [[Code](https://github.com/LiewFeng/TeaCache)]
 
-**Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models**
+**You Only Sample Once: Taming One-Step Text-to-Image Synthesis by Self-Cooperative Diffusion GANs** \
+[[Website](https://arxiv.org/abs/2403.12931)]
+[[Project](https://yoso-t2i.github.io/)]
+[[Code](https://github.com/Luo-Yihong/YOSO)]
+
+**PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator** \
+[[Website](https://arxiv.org/abs/2405.07510)]
+[[Project](https://piecewise-rectified-flow.github.io/)]
+[[Code](https://github.com/magic-research/piecewise-rectified-flow)]
+
+**Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models** \
 [[Website](https://doi.org/10.48550/arXiv.2410.11081)]
 [[Project](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
 [[Code](https://github.com/xandergos/sCM-mnist)]
@@ -222,6 +232,10 @@
 **Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching** \
 [[Website](https://arxiv.org/abs/2406.01733)]
 [[Code](https://github.com/horseee/learning-to-cache)]
+
+**SDXL-Lightning: Progressive Adversarial Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2402.13929)]
+[[Code](https://huggingface.co/ByteDance/SDXL-Lightning)]
 
 **Distribution Backtracking Builds A Faster Convergence Trajectory for Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2408.15991)]
@@ -359,8 +373,6 @@
 **SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation** \
 [[Website](https://arxiv.org/abs/2403.01505)]
 
-**SDXL-Lightning: Progressive Adversarial Diffusion Distillation** \
-[[Website](https://arxiv.org/abs/2402.13929)]
 
 **Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2411.09998)]
@@ -1509,6 +1521,11 @@
 [[Website](https://arxiv.org/abs/2310.12149)] 
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
+
+**Taming Rectified Flow for Inversion and Editing** \
+[[Website](https://arxiv.org/abs/2411.04746)] 
+[[Project](https://rf-solver-edit.github.io/)] 
+[[Code](https://github.com/wangjiangshan0725/RF-Solver-Edit)] 
 
 **A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)] 
