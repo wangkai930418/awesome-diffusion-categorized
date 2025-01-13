@@ -3132,6 +3132,10 @@
 [[Website](https://arxiv.org/abs/2411.18616)] 
 [[Project](https://primecai.github.io/dsd/)] 
 
+**Multi-subject Open-set Personalization in Video Generation** \
+[[Website](https://arxiv.org/abs/2501.06187)] 
+[[Project](https://snap-research.github.io/open-set-video-personalization/)] 
+
 **RelationBooth: Towards Relation-Aware Customized Object Generation** \
 [[Website](https://arxiv.org/abs/2410.23280)] 
 [[Project](https://shi-qingyu.github.io/RelationBooth/)] 
@@ -3403,6 +3407,9 @@
 
 **P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision** \
 [[Website](https://arxiv.org/abs/2412.19533)] 
+
+**PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation** \
+[[Website](https://arxiv.org/abs/2501.05823)] 
 
 
 
@@ -3800,6 +3807,10 @@
 **ORES: Open-vocabulary Responsible Visual Synthesis** \
 [[Website](https://arxiv.org/abs/2308.13785)] 
 [[Code](https://github.com/kodenii/ores)]
+
+**Alignment without Over-optimization: Training-Free Solution for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.05803)] 
+[[Code](https://github.com/krafton-ai/DAS)]
 
 **Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness** \
 [[Website](https://arxiv.org/abs/2302.10893)] 
@@ -5841,6 +5852,10 @@
 [[ECAI 2024](https://arxiv.org/abs/2410.10168)]
 [[Code](https://github.com/Zhenhang-Li/GlyphOnly)] 
 
+**Poetry in Pixels: Prompt Tuning for Poem Image Generation via Diffusion Models** \
+[[COLING 2025](https://arxiv.org/abs//2501.05839)]
+[[Code](https://github.com/sofeeyaj/poetry-in-pixels-coling2025)] 
+
 **VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.01738)]
 [[Code](https://github.com/Carlofkl/VitaGlyph)] 
@@ -5898,6 +5913,10 @@
 
 **SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.01062)]
+
+**Beyond Flat Text: Dual Self-inherited Guidance for Visual Text Generation** \
+[[Website](https://arxiv.org/abs/2501.05892)]
+
 
 **AnyTrans: Translate AnyText in the Image with Large Scale Models** \
 [[Website](https://arxiv.org/abs/2406.11432)]
@@ -7314,6 +7333,10 @@
 [[Website](https://arxiv.org/abs/2408.08189)]
 [[Project](https://fancyvideo.github.io/)] 
 
+**VideoAuteur: Towards Long Narrative Video Generation** \
+[[Website](https://arxiv.org/abs/2501.06173)]
+[[Project](https://videoauteur.github.io/)] 
+
 **CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** \
 [[Website](https://arxiv.org/abs/2408.13239)]
 [[Project](https://customcrafter.github.io/)] 
@@ -7610,6 +7633,8 @@
 **Enhancing Multi-Text Long Video Generation Consistency without Tuning: Time-Frequency Analysis, Prompt Alignment, and Theory** \
 [[Website](https://arxiv.org/abs/2412.17254)]
 
+**Tuning-Free Long Video Generation via Global-Local Collaborative Diffusion** \
+[[Website](https://arxiv.org/abs/2501.05484)]
 
 
 ## Video Editing 
