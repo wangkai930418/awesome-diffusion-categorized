@@ -6089,6 +6089,9 @@
 [[Website](https://arxiv.org/abs/2412.16552)] 
 [[Code](https://github.com/JerryYann/DPI)] 
 
+**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2501.05777)] 
+[[Code](https://github.com/LYCEXE/StructSR)] 
 
 **Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors** \
 [[Website](https://arxiv.org/abs/2412.07152)] 
