@@ -3870,6 +3870,10 @@
 [[Website](https://arxiv.org/abs/2310.10640)] 
 [[Code](https://github.com/hananshafi/llmblueprint)]
 
+**A General Framework for Inference-time Scaling and Steering of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.06848)] 
+[[Code](https://github.com/zacharyhorvitz/Fk-Diffusion-Steering)]
+
 **Making Multimodal Generation Easier: When Diffusion Models Meet LLMs** \
 [[Website](https://arxiv.org/abs/2310.08949)] 
 [[Code](https://github.com/zxy556677/EasyGen)]
@@ -4270,7 +4274,11 @@
 **TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization** \
 [[Website](https://arxiv.org/abs/2412.18185)] 
 
+**Personalized Preference Fine-tuning of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.06655)] 
 
+**Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2501.06481)] 
 
 
 ## Spatial Control
@@ -7320,6 +7328,10 @@
 [[Website](https://arxiv.org/abs/2405.09266)]
 [[Project](https://dabfusion.github.io/)] 
 
+**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss** \
+[[Website](https://arxiv.org/abs/2501.07563)]
+[[Project](https://zhangxinyu-xyz.github.io/SimulateMotion.github.io/)] 
+
 **PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control** \
 [[Website](https://arxiv.org/abs/2405.14582)]
 [[Project](https://ml-gsai.github.io/PoseCrafter-demo/)] 
@@ -7791,6 +7803,10 @@
 [[Website](https://arxiv.org/abs/2311.16060)]
 [[Code](https://github.com/Jeffery9707/DiffSLVA)] 
 
+**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing** \
+[[Website](https://arxiv.org/abs/2501.07554)]
+[[Code](https://github.com/custommetrics-sst/SST_CustomEvaluationMetrics)] 
+
 **LOVECon: Text-driven Training-Free Long Video Editing with ControlNet** \
 [[Website](https://arxiv.org/abs/2310.09711)]
 [[Code](https://github.com/zhijie-group/LOVECon)] 
@@ -8002,3 +8018,9 @@
 
 **Edit as You See: Image-guided Video Editing via Masked Motion Modeling** \
 [[Website](https://arxiv.org/abs/2501.04325)]
+
+**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** \
+[[Website](https://arxiv.org/abs/2501.07530)]
+
+**Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning** \
+[[Website](https://arxiv.org/abs/2501.06438)]
