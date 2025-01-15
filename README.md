@@ -266,6 +266,10 @@
 [[NeurIPS 2023](https://arxiv.org/abs/2306.00980)]
 [[Project](https://snap-research.github.io/SnapFusion/)]
 
+**Diffusion Adversarial Post-Training for One-Step Video Generation** \
+[[Website](https://arxiv.org/abs/2501.08316)]
+[[Project](https://seaweed-apt.com/)]
+
 **SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance** \
 [[Website](https://arxiv.org/abs/2412.02687)]
 [[Project](https://snoopi-onestep.github.io/)]
@@ -858,6 +862,12 @@
 [[Website](https://arxiv.org/abs/2404.16678)]
 [[Project](https://servuskk.github.io/ColorDiff-Image/)]
 [[Code](https://github.com/servuskk/ColorDiff-Image)]
+
+**MangaNinja: Line Art Colorization with Precise Reference Following** \
+[[Website](https://arxiv.org/abs/2501.08332)]
+[[Project](https://johanan528.github.io/MangaNinjia/)]
+[[Code](https://github.com/ali-vilab/MangaNinjia)]
+
 
 **ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text** \
 [[Website](https://arxiv.org/abs/2401.01456)]
@@ -1950,6 +1960,10 @@
 **DiT4Edit: Diffusion Transformer for Image Editing** \
 [[Website](https://arxiv.org/abs/2411.03286)] 
 [[Code](https://github.com/fkyyyy/DiT4Edit)] 
+
+**FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2501.08225)] 
+[[Code](https://github.com/YBYBZhang/FramePainter)] 
 
 **Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing** \
 [[Website](https://arxiv.org/abs/2405.14785)] 
@@ -6762,6 +6776,16 @@
 [[Project](https://tf-t2v.github.io/)]
 [[Code](https://github.com/ali-vilab/i2vgen-xl)]
 
+**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise** \
+[[Website](https://arxiv.org/abs/2501.08331)]
+[[Project](https://vgenai-netflix-eyeline-research.github.io/Go-with-the-Flow/)]
+[[Code](https://github.com/GoWithTheFlowPaper/gowiththeflowpaper.github.io)]
+
+**GameFactory: Creating New Games with Generative Interactive Videos** \
+[[Website](https://arxiv.org/abs/2501.08325)]
+[[Project](https://vvictoryuki.github.io/gamefactory/)]
+[[Code](https://github.com/KwaiVGI/GameFactory)]
+
 **FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis** \
 [[Website](https://arxiv.org/abs/2312.17681)]
 [[Project](https://jeff-liangf.github.io/projects/flowvid/)]
@@ -7223,6 +7247,10 @@
 **Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer** \
 [[Website](https://arxiv.org/abs/2311.17009)]
 [[Project](https://diffusion-motion-transfer.github.io/)] 
+
+**BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations** \
+[[Website](https://arxiv.org/abs/2501.07647)]
+[[Project](https://blobgen-vid2.github.io/)] 
 
 **Smooth Video Synthesis with Noise Constraints on Diffusion Models for One-shot Video Tuning** \
 [[Website](https://arxiv.org/abs/2311.17536)]
