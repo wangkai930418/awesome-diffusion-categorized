@@ -5586,6 +5586,10 @@
 [[Website](https://arxiv.org/abs/2409.10090)] 
 [[Code](https://github.com/weijing-tao/MotionCom)] 
 
+**Yuan: Yielding Unblemished Aesthetics Through A Unified Network for Visual Imperfections Removal in Generated Images** \
+[[Website](https://arxiv.org/abs/2501.08505)] 
+[[Code](https://github.com/YuZhenyuLindy/Yuan)] 
+
 **AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03028.pdf)] 
 [[Project](https://addme-awesome.github.io/page/)]
@@ -6090,6 +6094,10 @@
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
+
+**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution** \
+[[Website](https://arxiv.org/abs/2501.08819)] 
+[[Code](https://github.com/ryanlu2240/Boosting-Diffusion-Guidance-via-Learning-Degradation-Aware-Models-for-Blind-Super-Resolution)] 
 
 **PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2411.17106)] 
@@ -6623,7 +6631,10 @@
 [[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
 [[Code](https://github.com/VideoCrafter/Make-Your-Video)]
 
-
+**RepVideo: Rethinking Cross-Layer Representation for Video Generation** \
+[[Website](https://arxiv.org/abs/2501.08994)]
+[[Project](https://vchitect.github.io/RepVid-Webpage/)] 
+[[Code](https://github.com/Vchitect/RepVideo)]
 
 **Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising** \
 [[Website](https://arxiv.org/abs/2305.18264)]
@@ -7426,6 +7437,9 @@
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
+
+**Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion** \
+[[Website](https://arxiv.org/abs/2501.09019)]
 
 **Four-Plane Factorized Video Autoencoders** \
 [[Website](https://arxiv.org/abs/2412.04452)]
