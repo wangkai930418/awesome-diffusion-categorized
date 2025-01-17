@@ -877,6 +877,10 @@
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2312.04145)]
 [[Project](https://pub.res.lightricks.com/diffusing-colors/)]
 
+**VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization** \
+[[Website](https://arxiv.org/abs/2501.09499)]
+[[Project](https://becauseimbatman0.github.io/VanGogh)]
+
 **Enhancing Diffusion Posterior Sampling for Inverse Problems by Integrating Crafted Measurements** \
 [[Website](https://arxiv.org/abs/2411.09850)]
 
@@ -4617,6 +4621,8 @@
 **Test-time Controllable Image Generation by Explicit Spatial Constraint Enforcement** \
 [[Website](https://arxiv.org/abs/2501.01368)] 
 
+**Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation** \
+[[Website](https://arxiv.org/abs/2501.09194)] 
 
 
 ## I2I translation
