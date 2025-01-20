@@ -845,6 +845,9 @@
 **Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration** \
 [[Website](https://arxiv.org/abs/2412.12550)]
 
+**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration** \
+[[Website](https://arxiv.org/abs/2501.10325)]
+
 
 ## Colorization
 
@@ -2572,6 +2575,9 @@
 
 **AdvAnchor: Enhancing Diffusion Model Unlearning with Adversarial Anchors** \
 [[Website](https://arxiv.org/abs/2501.00054)] 
+
+**EraseBench: Understanding The Ripple Effects of Concept Erasure Techniques** \
+[[Website](https://arxiv.org/abs/2501.09833)] 
 
 
 
@@ -5516,6 +5522,10 @@
 [[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
 [[Code](https://github.com/htyjers/DGTS-Inpainting)]
 
+**PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery** \
+[[AAAI 2025](https://arxiv.org/abs/2501.09826)] 
+[[Code](https://github.com/amazon-science/pixels)]
+
 **ControlEdit: A MultiModal Local Clothing Image Editing Method** \
 [[Website](https://arxiv.org/abs/2409.14720)] 
 [[Code](https://github.com/cd123-cd/ControlEdit)]
@@ -5725,6 +5735,9 @@
 
 **MObI: Multimodal Object Inpainting Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2501.03173)] 
+
+**DiffuEraser: A Diffusion Model for Video Inpainting** \
+[[Website](https://arxiv.org/abs/2501.10018)] 
 
 
 ## Layout Generation
@@ -6204,6 +6217,10 @@
 **TASR: Timestep-Aware Diffusion Model for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.03355)] 
 [[Code](https://github.com/SleepyLin/TASR)] 
+
+**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency** \
+[[Website](https://arxiv.org/abs/2501.10110)] 
+[[Project](https://xh9998.github.io/DiffVSR-project/)] 
 
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
@@ -6943,6 +6960,12 @@
 [[Website](https://arxiv.org/abs/2408.14975)]
 [[Project](https://megactor-ops.github.io/)]
 [[Code](https://github.com/megvii-research/MegActor)] 
+
+**X-Dyna: Expressive Dynamic Human Image Animation** \
+[[Website](https://arxiv.org/abs/2501.10021)]
+[[Project](https://x-dyna.github.io/xdyna.github.io/)]
+[[Code](https://github.com/bytedance/X-Dyna)] 
+
 
 **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
 [[ICLR 2023](https://arxiv.org/abs/2205.15868)]
