@@ -1,5 +1,9 @@
 <!-- The superlink doesn't support uppercases -->
 
+# PostDoc position in LAMP group
+
+We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-news/c/penSOI3751Y?pli=1) working on Diffusion Models.
+
 # Awesome Diffusion Categorized
 
 ## Contents
