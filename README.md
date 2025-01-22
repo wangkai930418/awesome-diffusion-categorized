@@ -381,6 +381,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SCott: Accelerating Diffusion Models with Stochastic Consistency Distillation** \
 [[Website](https://arxiv.org/abs/2403.01505)]
 
+**Ditto: Accelerating Diffusion Model via Temporal Value Similarity** \
+[[Website](https://arxiv.org/abs/2501.11211)]
 
 **Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2411.09998)]
@@ -749,6 +751,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration** \
 [[Website](https://arxiv.org/abs/2501.01320)]
 [[Project](https://iceclear.github.io/projects/seedvr/)]
+
+**SILO: Solving Inverse Problems with Latent Operators** \
+[[Website](https://arxiv.org/abs/2501.11746)]
+[[Project](https://ronraphaeli.github.io/SILO-website/)]
+
+**Proxies for Distortion and Consistency with Applications for Real-World Image Restoration** \
+[[Website](https://arxiv.org/abs/2501.12102)]
+[[Project](https://man-sean.github.io/elad-website/)]
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2308.13164)]
@@ -1344,6 +1354,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2501.03630)]
+
+**EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process** \
+[[Website](https://arxiv.org/abs/2501.11776)]
+
 
 
 ## Drag Edit
