@@ -1208,6 +1208,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ACM MM 2023](https://arxiv.org/abs/2305.13501)]
 [[Code](https://github.com/miccunifi/ladi-vton)] 
 
+**CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation** \
+[[Website](https://arxiv.org/abs/2501.11325)]
+[[Code](https://github.com/Zheng-Chong/CatV2TON)] 
+
 **OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on** \
 [[Website](https://arxiv.org/abs/2403.01779)]
 [[Code](https://github.com/levihsu/OOTDiffusion)] 
@@ -3188,6 +3192,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.08645)] 
 [[Project](https://object-mate.com/)] 
 
+**TokenVerse: Versatile Multi-concept Personalization in Token Modulation Space** \
+[[Website](https://arxiv.org/abs/2501.12224)] 
+[[Project](https://token-verse.github.io/)] 
+
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
 [[Website](https://arxiv.org/abs/2312.06354)] 
 [[Project](https://portraitbooth.github.io/)] 
@@ -4634,6 +4642,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Grounding Text-To-Image Diffusion Models For Controlled High-Quality Image Generation** \
 [[Website](https://arxiv.org/abs/2501.09194)] 
 
+**ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions** \
+[[Website](https://arxiv.org/abs/2501.09194)] 
+
 
 ## I2I translation
 
@@ -5742,6 +5753,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DiffuEraser: A Diffusion Model for Video Inpainting** \
 [[Website](https://arxiv.org/abs/2501.10018)] 
+
+**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.12267)] 
 
 
 ## Layout Generation
