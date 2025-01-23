@@ -303,6 +303,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation** \
 [[AAAI 2025](https://arxiv.org/abs/2412.16906)]
 
+**Accelerate High-Quality Diffusion Models with Inner Loop Feedback** \
+[[Website](https://arxiv.org/abs/2501.13107)]
+
 **Inference-Time Diffusion Model Distillation** \
 [[Website](https://arxiv.org/abs/2412.08871)]
 
@@ -3995,6 +3998,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Scalable Ranked Preference Optimization for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2410.18013)] 
 [[Project](https://snap-research.github.io/RankDPO/)] 
+
+**PreciseCam: Precise Camera Control for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2501.12910)] 
+[[Project](https://graphics.unizar.es/projects/PreciseCam2024/)] 
 
 **A Noise is Worth Diffusion Guidance** \
 [[Website](https://arxiv.org/abs/2412.03895)] 
