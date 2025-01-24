@@ -979,6 +979,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 ## Storytelling
 
+⭐⭐**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt** \
+[[ICLR 2025](https://openreview.net/forum?id=cD1kl2QKv1)]
+[[Website](https://arxiv.org/abs/2501.13554)]
+[[Project](https://byliutao.github.io/1Prompt1Story.github.io/)]
+[[Code](https://github.com/byliutao/1Prompt1Story)] 
+
+
 ⭐⭐**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2306.00973)]
 [[Project](https://haoningwu3639.github.io/StoryGen_Webpage/)]
@@ -1361,6 +1368,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EfficientVITON: An Efficient Virtual Try-On Model using Optimized Diffusion Process** \
 [[Website](https://arxiv.org/abs/2501.11776)]
 
+**Training-Free Consistency Pipeline for Fashion Repose** \
+[[Website](https://arxiv.org/abs/2501.13692)]
 
 
 ## Drag Edit
@@ -7503,6 +7512,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.15159)]
 [[Project](https://onlinevpo.github.io/)]
 
+**Improving Video Generation with Human Feedback** \
+[[Website](https://arxiv.org/abs/2501.13918)]
+[[Project](https://gongyeliu.github.io/videoalign/)]
+
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
 
@@ -7760,6 +7773,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Tuning-Free Long Video Generation via Global-Local Collaborative Diffusion** \
 [[Website](https://arxiv.org/abs/2501.05484)]
+
+**EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion** \
+[[Website](https://arxiv.org/abs/2501.13452)]
+
 
 
 ## Video Editing 
