@@ -84,7 +84,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 **Consistency Models** \
-[[ICML 2023](https://doi.org/10.48550/arXiv.2410.11081](https://proceedings.mlr.press/v202/song23a.html)]
+[[ICML 2023](https://proceedings.mlr.press/v202/song23a.html)]
 [[Diffusers](https://huggingface.co/docs/diffusers/main/en/api/pipelines/consistency_models)]
 [[Code](https://github.com/openai/consistency_models)]
 
