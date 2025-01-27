@@ -14,6 +14,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Image Restoration](#image-restoration)
     - [Colorization](#colorization)
     - [Face Restoration](#face-restoration)
+    - [Image Compression](#image-compression)
     - [Super Resolution](#super-resolution)
 - [Visual Illusion](#illusion)
 - [Storytelling](#storytelling)
@@ -987,6 +988,31 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration** \
 [[Website](https://arxiv.org/abs/2411.10508)]
 
+## Image Compression
+
+**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior** \
+[[IEE TCSVT 2024](https://arxiv.org/abs/2404.18820)] 
+[[Code](https://github.com/huai-chang/DiffEIC)] 
+
+
+**Diffusion-based Extreme Image Compression with Compressed Feature Initialization** \
+[[Website](https://arxiv.org/abs/2410.02640)] 
+[[Code](https://github.com/huai-chang/RDEIC)] 
+
+**Lossy Compression with Pretrained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.09815)] 
+[[Code](https://github.com/jeremyiv/diffc)] 
+
+**Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression** \
+[[AAAI 2025](https://arxiv.org/abs/2412.11379)]
+
+**Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse** \
+[[Website](https://arxiv.org/abs/2501.13528)]
+
+**Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression** \
+[[Website](https://arxiv.org/abs/2412.12982)]
+
+
 ## Super Resolution
 
 **ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
@@ -1286,6 +1312,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Factorized Diffusion: Perceptual Illusions by Noise Decomposition** \
 [[ECCV 2024](https://arxiv.org/abs/2404.11615)]
+
+**The Art of Deception: Color Visual Illusions and Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.10122)]
 
 **Diffusion Illusions: Hiding Images in Plain Sight** \
 [[Website](https://arxiv.org/abs/2312.03817)]
