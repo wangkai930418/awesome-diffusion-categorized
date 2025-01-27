@@ -9,9 +9,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 ## Contents
 
 - [Accelerate](#accelerate)
+    - [Trainig-Free](#train-free)
+    - [AR model](#ar-model)
 - [Image Restoration](#image-restoration)
-- [Colorization](#colorization)
-- [Face Restoration](#face-restoration)
+    - [Colorization](#colorization)
+    - [Face Restoration](#face-restoration)
+    - [Super Resolution](#super-resolution)
+- [Visual Illusion](#illusion)
 - [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
 - [Drag Edit](#drag-edit)
@@ -29,12 +33,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Inpainting](#sd-inpaint)
 - [Layout](#layout-generation)
 - [Text Generation](#text-generation)
-- [Super Resolution](#super-resolution)
 - [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
 
 
-## Accelerate
+# Accelerate
 
 **PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models** \
 [[ICLR 2024 Spotlight](https://arxiv.org/abs/2401.05252)]
@@ -149,10 +152,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://vchitect.github.io/FasterCache/)]
 [[Code](https://github.com/Vchitect/FasterCache)]
 
-**Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching** \
-[[Website](https://arxiv.org/abs/2412.17153)]
-[[Project](https://imagination-research.github.io/distilled-decoding/)]
-[[Code](https://github.com/imagination-research/distilled-decoding)]
 
 **SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions** \
 [[Website](https://arxiv.org/abs/2403.16627)]
@@ -327,8 +326,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration** \
 [[Website](https://arxiv.org/abs/2412.11706)]
 
-**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \
-[[Website](https://arxiv.org/abs/2410.03355)]
 
 **Partially Conditioned Patch Parallelism for Accelerated Diffusion Model Inference** \
 [[Website](https://arxiv.org/abs/2412.02962)]
@@ -393,7 +390,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2411.18263)]
 
-### Train-Free
+
+## Train-Free
 
 
 **AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
@@ -471,8 +469,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Token Fusion: Bridging the Gap between Token Pruning and Token Merging** \
 [[WACV 2024](https://arxiv.org/abs/2312.01026)]
 
-**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
-[[Website](https://fwmb.github.io/blockcaching/)]
 
 **PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future** \
 [[Website](https://arxiv.org/abs/2408.08822)]
@@ -490,9 +486,24 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.18804)]
 
 
+## AR model
+
+**Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching** \
+[[Website](https://arxiv.org/abs/2412.17153)]
+[[Project](https://imagination-research.github.io/distilled-decoding/)]
+[[Code](https://github.com/imagination-research/distilled-decoding)]
+
+**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
+[[Website](https://arxiv.org/abs/2410.01699)]
+[[Code](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)]
+
+**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \
+[[Website](https://arxiv.org/abs/2410.03355)]
 
 
-## Image Restoration
+
+
+# Image Restoration
 
 **Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model** \
 [[ICLR 2023 oral](https://arxiv.org/abs/2212.00490)]
@@ -976,8 +987,311 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration** \
 [[Website](https://arxiv.org/abs/2411.10508)]
 
+## Super Resolution
 
-## Storytelling
+**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
+[[NeurIPS 2023 spotlight](https://nips.cc/virtual/2023/poster/71244)] 
+[[Website](https://arxiv.org/abs/2307.12348)] 
+[[Project](https://zsyoaoa.github.io/projects/resshift/)] 
+[[Code](https://github.com/zsyoaoa/resshift)] 
+
+**Image Super-Resolution via Iterative Refinement** \
+[[TPAMI](https://ieeexplore.ieee.org/document/9887996)] 
+[[Website](https://arxiv.org/abs/2104.07636)] 
+[[Project](https://iterative-refinement.github.io/)] 
+[[Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)] 
+
+**DiffIR: Efficient Diffusion Model for Image Restoration**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
+[[Website](https://arxiv.org/abs/2303.09472)] 
+[[Code](https://github.com/Zj-BinXia/DiffIR)]
+
+**Kalman-Inspired Feature Propagation for Video Face Super-Resolution** \
+[[ECCV 2024](https://arxiv.org/abs/2408.05205)] 
+[[Project](https://jnjaby.github.io/projects/KEEP/)] 
+[[Code](https://github.com/jnjaby/KEEP)] 
+
+**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2411.18662)] 
+[[Project](https://liyuantsao.github.io/HoliSDiP/)] 
+[[Code](https://github.com/liyuantsao/HoliSDiP)] 
+
+**MatchDiffusion: Training-free Generation of Match-cuts** \
+[[Website](https://arxiv.org/abs/2411.18677)] 
+[[Project](https://matchdiffusion.github.io/)] 
+[[Code](https://github.com/PardoAlejo/MatchDiffusion)] 
+
+**Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling** \
+[[Website](https://arxiv.org/abs/2411.18664)] 
+[[Project](https://junhahyung.github.io/STGuidance/)] 
+[[Code](https://github.com/junhahyung/STGuidance)] 
+
+**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2501.02976)]
+[[Project](https://nju-pcalab.github.io/projects/STAR/)]
+[[Code](https://github.com/NJU-PCALab/STAR)]
+
+**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation** \
+[[Website](https://arxiv.org/abs/2404.01717)] 
+[[Project](https://nju-pcalab.github.io/projects/AddSR/)] 
+[[Code](https://github.com/NJU-PCALab/AddSR)] 
+
+**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution** \
+[[Website](https://arxiv.org/abs/2411.18824)] 
+[[Project](https://jychen9811.github.io/FaithDiff_page/)] 
+[[Code](https://github.com/JyChen9811/FaithDiff/)] 
+
+**Exploiting Diffusion Prior for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2305.07015)] 
+[[Project](https://iceclear.github.io/projects/stablesr/)] 
+[[Code](https://github.com/IceClear/StableSR)] 
+
+**SinSR: Diffusion-Based Image Super-Resolution in a Single Step** \
+[[CVPR 2024](https://arxiv.org/abs/2311.14760)] 
+[[Code](https://github.com/wyf0912/SinSR)] 
+
+**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2405.07648)] 
+[[Code](https://github.com/I2-Multimedia-Lab/CDFormer)] 
+
+**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs** \
+[[NeurIPS 2024](https://arxiv.org/abs/2409.17778)] 
+[[Code](https://github.com/QinpengCui/DoSSR)] 
+
+**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.05799)] 
+[[Code](https://github.com/Tang1705/SeeClear-NeurIPS24)] 
+
+**Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
+[[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
+[[Code](https://github.com/chaofengc/ITER)] 
+
+**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution** \
+[[Website](https://arxiv.org/abs/2501.08819)] 
+[[Code](https://github.com/ryanlu2240/Boosting-Diffusion-Guidance-via-Learning-Degradation-Aware-Models-for-Blind-Super-Resolution)] 
+
+**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.17106)] 
+[[Code](https://github.com/libozhu03/PassionSR)] 
+
+**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2410.04224)] 
+[[Code](https://github.com/JianzeLi-114/DFOSD)] 
+
+**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2409.17058)] 
+[[Code](https://github.com/ArcticHare105/S3Diff)] 
+
+**One Step Diffusion-based Super-Resolution with Time-Aware Distillation** \
+[[Website](https://arxiv.org/abs/2408.07476)] 
+[[Code](https://github.com/LearningHx/TAD-SR)] 
+
+**Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.16552)] 
+[[Code](https://github.com/JerryYann/DPI)] 
+
+**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2501.05777)] 
+[[Code](https://github.com/LYCEXE/StructSR)] 
+
+**Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors** \
+[[Website](https://arxiv.org/abs/2412.07152)] 
+[[Code](https://github.com/W-JG/Hero-SR)] 
+
+**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.07149)] 
+[[Code](https://github.com/W-JG/RAP-SR)] 
+
+**One-Step Effective Diffusion Network for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2406.08177)] 
+[[Code](https://github.com/cswry/OSEDiff)] 
+
+**Binarized Diffusion Model for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2406.05723)] 
+[[Code](https://github.com/zhengchen1999/BI-DiffSR)] 
+
+**Does Diffusion Beat GAN in Image Super Resolution?** \
+[[Website](https://arxiv.org/abs/2405.17261)] 
+[[Code](https://github.com/yandex-research/gan_vs_diff_sr)] 
+
+**PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution** \
+[[Website](https://arxiv.org/abs/2405.17158)] 
+[[Code](https://github.com/yongliuy/PatchScaler)] 
+
+**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion** \
+[[Website](https://arxiv.org/abs/2404.00661)] 
+[[Code](https://github.com/bichunyang419/DeeDSR)] 
+
+**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
+[[Website](https://arxiv.org/abs/2310.12004)] 
+[[Code](https://github.com/amandaluof/moe_sr)] 
+
+**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs** \
+[[Website](https://arxiv.org/abs/2412.09465)] 
+[[Code](https://github.com/yuanzhi-zhu/OFTSR)] 
+
+**Arbitrary-steps Image Super-resolution via Diffusion Inversion** \
+[[Website](https://arxiv.org/abs/2412.09013)] 
+[[Code](https://github.com/zsyOAOA/InvSR)] 
+
+**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** \
+[[Website](https://arxiv.org/abs/2308.14469)] 
+[[Code](https://github.com/yangxy/PASD)] 
+
+**DSR-Diff: Depth Map Super-Resolution with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2311.09919)] 
+[[Code](https://github.com/shiyuan7/DSR-Diff)] 
+
+**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach** \
+[[Website](https://arxiv.org/abs/2412.03017)]
+[[Code](https://github.com/csslc/PiSA-SR)] 
+
+**RFSR: Improving ISR Diffusion Models via Reward Feedback Learning** \
+[[Website](https://arxiv.org/abs/2412.03268)] 
+[[Code](https://github.com/sxpro/RFSR)] 
+
+**SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2402.17133)] 
+[[Code](https://github.com/lose4578/SAM-DiffSR)] 
+
+**XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.05049)] 
+[[Code](https://github.com/qyp2000/XPSR)] 
+
+**Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.16643)] 
+[[Code](https://github.com/ProAirVerse/Self-Adaptive-Guidance-Diffusion)] 
+
+**BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.10211)] 
+[[Code](https://github.com/lifengcs/BlindDiff)] 
+
+**TASR: Timestep-Aware Diffusion Model for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.03355)] 
+[[Code](https://github.com/SleepyLin/TASR)] 
+
+**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency** \
+[[Website](https://arxiv.org/abs/2501.10110)] 
+[[Project](https://xh9998.github.io/DiffVSR-project/)] 
+
+**HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
+[[Website](https://arxiv.org/abs/2306.12085)] 
+
+**Text-guided Explorable Image Super-resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2403.01124)] 
+
+**Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder** \
+[[CVPR 2024](https://arxiv.org/abs/2403.10255)] 
+
+**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2410.17752)] 
+
+**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
+[[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
+
+**Detail-Enhancing Framework for Reference-Based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2405.00431)] 
+
+**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation** \
+[[Website](https://arxiv.org/abs/2401.17258)] 
+
+**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2305.15357)] 
+
+**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models** \
+[[Website](https://arxiv.org/abs/2306.00714)] 
+
+**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning** \
+[[Website](https://arxiv.org/abs/2412.06978)]
+
+**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2308.07977)]
+
+**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model** \
+[[Website](https://arxiv.org/abs/2311.02358)]
+
+**TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution** \
+[[Website](https://arxiv.org/abs/2410.07663)]
+
+**ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2410.13807)]
+
+**Image Super-Resolution with Text Prompt Diffusio** \
+[[Website](https://arxiv.org/abs/2311.14282)]
+
+**DifAugGAN: A Practical Diffusion-style Data Augmentation for GAN-based Single Image Super-resolution** \
+[[Website](https://arxiv.org/abs/2311.18508)]
+
+**DREAM: Diffusion Rectification and Estimation-Adaptive Models** \
+[[Website](https://arxiv.org/abs/2312.00210)]
+
+**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2401.10404)]
+
+**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.05808)]
+
+**CasSR: Activating Image Power for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.11451)]
+
+**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2403.17000)]
+
+**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution** \
+[[Website](https://arxiv.org/abs/2405.10014)]
+
+**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer** \
+[[Website](https://arxiv.org/abs/2410.14279)]
+
+**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.12072)]
+
+**Adversarial Diffusion Compression for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.13383)]
+
+**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2411.13548)]
+
+**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.02960)]
+
+**RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.09646)]
+
+**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution** \
+[[Website](https://arxiv.org/abs/2412.11609)]
+
+
+# Illusion 
+
+**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2311.17919)]
+[[Project](https://dangeng.github.io/visual_anagrams/)]
+[[Code](https://github.com/dangeng/visual_anagrams)] 
+
+
+**Diffusion-based Visual Anagram as Multi-task Learning** \
+[[WACV 2025](https://arxiv.org/abs/2412.02693)]
+[[Code](https://github.com/Pixtella/Anagram-MTL)] 
+
+
+**Evaluating Model Perception of Color Illusions in Photorealistic Scenes** \
+[[Website](https://arxiv.org/abs/2412.06184)]
+[[Code](https://github.com/mao1207/RCID)] 
+
+**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2412.09625)]
+[[Project](https://3d-multiview-illusion.github.io/)] 
+
+**Factorized Diffusion: Perceptual Illusions by Noise Decomposition** \
+[[ECCV 2024](https://arxiv.org/abs/2404.11615)]
+
+**Diffusion Illusions: Hiding Images in Plain Sight** \
+[[Website](https://arxiv.org/abs/2312.03817)]
+
+
+# Storytelling
 
 ⭐⭐**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt** \
 [[ICLR 2025](https://openreview.net/forum?id=cD1kl2QKv1)]
@@ -1134,7 +1448,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Improving Multi-Subject Consistency in Open-Domain Image Generation with Isolation and Reposition Attention** \
 [[Website](https://arxiv.org/abs/2411.19261)]
 
-## Try On
+# Try On
 
 **TryOnDiffusion: A Tale of Two UNets** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_TryOnDiffusion_A_Tale_of_Two_UNets_CVPR_2023_paper.html)]
@@ -1372,7 +1686,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.13692)]
 
 
-## Drag Edit
+# Drag Edit
 
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=OEL4FJMg1b)] 
@@ -1493,7 +1807,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.12696)] 
 
 
-## Diffusion Models Inversion
+# Diffusion Models Inversion
 
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] 
@@ -1669,7 +1983,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## Text Guided Image Editing
+# Text Guided Image Editing
 ⭐⭐⭐**Prompt-to-Prompt Image Editing with Cross Attention Control** \
 [[ICLR 2023](https://openreview.net/forum?id=_CDixzkzeyb)] 
 [[Website](https://arxiv.org/abs/2211.09794)] 
@@ -2337,7 +2651,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.15798)]
 
 
-## Continual Learning
+# Continual Learning
 
 **RGBD2: Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Lei_RGBD2_Generative_Scene_Synthesis_via_Incremental_View_Inpainting_Using_RGBD_CVPR_2023_paper.pdf)] 
@@ -2415,7 +2729,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## Remove Concept
+# Remove Concept
 
 **Ablating Concepts in Text-to-Image Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Kumari_Ablating_Concepts_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)] 
@@ -2615,7 +2929,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## New Concept Learning
+# New Concept Learning
 
 ⭐⭐⭐**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation** \
 [[CVPR 2023 Honorable Mention](https://openaccess.thecvf.com/content/CVPR2023/html/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.html)] 
@@ -3475,7 +3789,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## T2I Diffusion Model augmentation
+# T2I Diffusion Model augmentation
 
 ⭐⭐⭐**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2301.13826)] 
@@ -4347,7 +4661,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.06481)] 
 
 
-## Spatial Control
+# Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
 [[ICML 2023](https://icml.cc/virtual/2023/poster/23809)] 
@@ -4676,7 +4990,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.09194)] 
 
 
-## I2I translation
+# I2I translation
 
 ⭐⭐⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
 [[ICLR 2022](https://openreview.net/forum?id=aBsCjcPu_tE)] 
@@ -4860,7 +5174,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## Segmentation Detection Tracking
+# Segmentation Detection Tracking
 **odise: open-vocabulary panoptic segmentation with text-to-image diffusion modelss** \
 [[CVPR 2023 Highlight](https://arxiv.org/abs/2303.04803)] 
 [[Project](https://jerryxu.net/ODISE/)] 
@@ -5128,7 +5442,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## Additional conditions 
+# Additional conditions 
 
 ⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
 [[ICCV 2023 best paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)] 
@@ -5426,7 +5740,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website]](https://arxiv.org/abs/2412.18928) 
 
 
-## Few-Shot 
+# Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
 [[Website](https://arxiv.org/abs/2305.10722)] 
 [[Code](https://github.com/eric-ai-lab/dsd)]
@@ -5453,7 +5767,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.04987)] 
 
 
-## SD-inpaint
+# SD-inpaint
 
 **Paint by Example: Exemplar-based Image Editing with Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html
@@ -5788,7 +6102,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.12267)] 
 
 
-## Layout Generation
+# Layout Generation
 
 **LayoutDM: Discrete Diffusion Model for Controllable Layout Generation** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Inoue_LayoutDM_Discrete_Diffusion_Model_for_Controllable_Layout_Generation_CVPR_2023_paper.html)]
@@ -5854,7 +6168,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2409.16689)]
 
 
-## Text Generation
+# Text Generation
 
 ⭐⭐**TextDiffuser: Diffusion Models as Text Painters** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70636)]
@@ -6083,284 +6397,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CharGen: High Accurate Character-Level Visual Text Generation Model with MultiModal Encoder** \
 [[Website](https://arxiv.org/abs/2412.17225)]
 
-## Super Resolution
 
-**ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
-[[NeurIPS 2023 spotlight](https://nips.cc/virtual/2023/poster/71244)] 
-[[Website](https://arxiv.org/abs/2307.12348)] 
-[[Project](https://zsyoaoa.github.io/projects/resshift/)] 
-[[Code](https://github.com/zsyoaoa/resshift)] 
 
-**Image Super-Resolution via Iterative Refinement** \
-[[TPAMI](https://ieeexplore.ieee.org/document/9887996)] 
-[[Website](https://arxiv.org/abs/2104.07636)] 
-[[Project](https://iterative-refinement.github.io/)] 
-[[Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)] 
-
-**DiffIR: Efficient Diffusion Model for Image Restoration**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
-[[Website](https://arxiv.org/abs/2303.09472)] 
-[[Code](https://github.com/Zj-BinXia/DiffIR)]
-
-**Kalman-Inspired Feature Propagation for Video Face Super-Resolution** \
-[[ECCV 2024](https://arxiv.org/abs/2408.05205)] 
-[[Project](https://jnjaby.github.io/projects/KEEP/)] 
-[[Code](https://github.com/jnjaby/KEEP)] 
-
-**HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior** \
-[[Website](https://arxiv.org/abs/2411.18662)] 
-[[Project](https://liyuantsao.github.io/HoliSDiP/)] 
-[[Code](https://github.com/liyuantsao/HoliSDiP)] 
-
-**MatchDiffusion: Training-free Generation of Match-cuts** \
-[[Website](https://arxiv.org/abs/2411.18677)] 
-[[Project](https://matchdiffusion.github.io/)] 
-[[Code](https://github.com/PardoAlejo/MatchDiffusion)] 
-
-**Spatiotemporal Skip Guidance for Enhanced Video Diffusion Sampling** \
-[[Website](https://arxiv.org/abs/2411.18664)] 
-[[Project](https://junhahyung.github.io/STGuidance/)] 
-[[Code](https://github.com/junhahyung/STGuidance)] 
-
-**STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution** \
-[[Website](https://arxiv.org/abs/2501.02976)]
-[[Project](https://nju-pcalab.github.io/projects/STAR/)]
-[[Code](https://github.com/NJU-PCALab/STAR)]
-
-**AddSR: Accelerating Diffusion-based Blind Super-Resolution with Adversarial Diffusion Distillation** \
-[[Website](https://arxiv.org/abs/2404.01717)] 
-[[Project](https://nju-pcalab.github.io/projects/AddSR/)] 
-[[Code](https://github.com/NJU-PCALab/AddSR)] 
-
-**FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution** \
-[[Website](https://arxiv.org/abs/2411.18824)] 
-[[Project](https://jychen9811.github.io/FaithDiff_page/)] 
-[[Code](https://github.com/JyChen9811/FaithDiff/)] 
-
-**Exploiting Diffusion Prior for Real-World Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2305.07015)] 
-[[Project](https://iceclear.github.io/projects/stablesr/)] 
-[[Code](https://github.com/IceClear/StableSR)] 
-
-**SinSR: Diffusion-Based Image Super-Resolution in a Single Step** \
-[[CVPR 2024](https://arxiv.org/abs/2311.14760)] 
-[[Code](https://github.com/wyf0912/SinSR)] 
-
-**CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution** \
-[[CVPR 2024](https://arxiv.org/abs/2405.07648)] 
-[[Code](https://github.com/I2-Multimedia-Lab/CDFormer)] 
-
-**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs** \
-[[NeurIPS 2024](https://arxiv.org/abs/2409.17778)] 
-[[Code](https://github.com/QinpengCui/DoSSR)] 
-
-**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution** \
-[[NeurIPS 2024](https://arxiv.org/abs/2410.05799)] 
-[[Code](https://github.com/Tang1705/SeeClear-NeurIPS24)] 
-
-**Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
-[[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
-[[Code](https://github.com/chaofengc/ITER)] 
-
-**Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution** \
-[[Website](https://arxiv.org/abs/2501.08819)] 
-[[Code](https://github.com/ryanlu2240/Boosting-Diffusion-Guidance-via-Learning-Degradation-Aware-Models-for-Blind-Super-Resolution)] 
-
-**PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2411.17106)] 
-[[Code](https://github.com/libozhu03/PassionSR)] 
-
-**Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2410.04224)] 
-[[Code](https://github.com/JianzeLi-114/DFOSD)] 
-
-**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors** \
-[[Website](https://arxiv.org/abs/2409.17058)] 
-[[Code](https://github.com/ArcticHare105/S3Diff)] 
-
-**One Step Diffusion-based Super-Resolution with Time-Aware Distillation** \
-[[Website](https://arxiv.org/abs/2408.07476)] 
-[[Code](https://github.com/LearningHx/TAD-SR)] 
-
-**Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution** \
-[[Website](https://arxiv.org/abs/2412.16552)] 
-[[Code](https://github.com/JerryYann/DPI)] 
-
-**StructSR: Refuse Spurious Details in Real-World Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2501.05777)] 
-[[Code](https://github.com/LYCEXE/StructSR)] 
-
-**Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors** \
-[[Website](https://arxiv.org/abs/2412.07152)] 
-[[Code](https://github.com/W-JG/Hero-SR)] 
-
-**RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2412.07149)] 
-[[Code](https://github.com/W-JG/RAP-SR)] 
-
-**One-Step Effective Diffusion Network for Real-World Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2406.08177)] 
-[[Code](https://github.com/cswry/OSEDiff)] 
-
-**Binarized Diffusion Model for Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2406.05723)] 
-[[Code](https://github.com/zhengchen1999/BI-DiffSR)] 
-
-**Does Diffusion Beat GAN in Image Super Resolution?** \
-[[Website](https://arxiv.org/abs/2405.17261)] 
-[[Code](https://github.com/yandex-research/gan_vs_diff_sr)] 
-
-**PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution** \
-[[Website](https://arxiv.org/abs/2405.17158)] 
-[[Code](https://github.com/yongliuy/PatchScaler)] 
-
-**DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion** \
-[[Website](https://arxiv.org/abs/2404.00661)] 
-[[Code](https://github.com/bichunyang419/DeeDSR)] 
-
-**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach** \
-[[Website](https://arxiv.org/abs/2310.12004)] 
-[[Code](https://github.com/amandaluof/moe_sr)] 
-
-**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs** \
-[[Website](https://arxiv.org/abs/2412.09465)] 
-[[Code](https://github.com/yuanzhi-zhu/OFTSR)] 
-
-**Arbitrary-steps Image Super-resolution via Diffusion Inversion** \
-[[Website](https://arxiv.org/abs/2412.09013)] 
-[[Code](https://github.com/zsyOAOA/InvSR)] 
-
-**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization** \
-[[Website](https://arxiv.org/abs/2308.14469)] 
-[[Code](https://github.com/yangxy/PASD)] 
-
-**DSR-Diff: Depth Map Super-Resolution with Diffusion Model** \
-[[Website](https://arxiv.org/abs/2311.09919)] 
-[[Code](https://github.com/shiyuan7/DSR-Diff)] 
-
-**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach** \
-[[Website](https://arxiv.org/abs/2412.03017)]
-[[Code](https://github.com/csslc/PiSA-SR)] 
-
-**RFSR: Improving ISR Diffusion Models via Reward Feedback Learning** \
-[[Website](https://arxiv.org/abs/2412.03268)] 
-[[Code](https://github.com/sxpro/RFSR)] 
-
-**SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2402.17133)] 
-[[Code](https://github.com/lose4578/SAM-DiffSR)] 
-
-**XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2403.05049)] 
-[[Code](https://github.com/qyp2000/XPSR)] 
-
-**Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution** \
-[[Website](https://arxiv.org/abs/2403.16643)] 
-[[Code](https://github.com/ProAirVerse/Self-Adaptive-Guidance-Diffusion)] 
-
-**BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2403.10211)] 
-[[Code](https://github.com/lifengcs/BlindDiff)] 
-
-**TASR: Timestep-Aware Diffusion Model for Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2412.03355)] 
-[[Code](https://github.com/SleepyLin/TASR)] 
-
-**DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency** \
-[[Website](https://arxiv.org/abs/2501.10110)] 
-[[Project](https://xh9998.github.io/DiffVSR-project/)] 
-
-**HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
-[[Website](https://arxiv.org/abs/2306.12085)] 
-
-**Text-guided Explorable Image Super-resolution** \
-[[CVPR 2024](https://arxiv.org/abs/2403.01124)] 
-
-**Arbitrary-Scale Image Generation and Upsampling using Latent Diffusion Model and Implicit Neural Decoder** \
-[[CVPR 2024](https://arxiv.org/abs/2403.10255)] 
-
-**AdaDiffSR: Adaptive Region-aware Dynamic Acceleration Diffusion Model for Real-World Image Super-Resolution** \
-[[CVPR 2024](https://arxiv.org/abs/2410.17752)] 
-
-**Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
-[[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
-
-**Detail-Enhancing Framework for Reference-Based Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2405.00431)] 
-
-**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation** \
-[[Website](https://arxiv.org/abs/2401.17258)] 
-
-**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2305.15357)] 
-
-**Dissecting Arbitrary-scale Super-resolution Capability from Pre-trained Diffusion Generative Models** \
-[[Website](https://arxiv.org/abs/2306.00714)] 
-
-**Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning** \
-[[Website](https://arxiv.org/abs/2412.06978)]
-
-**YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2308.07977)]
-
-**Domain Transfer in Latent Space (DTLS) Wins on Image Super-Resolution -- a Non-Denoising Model** \
-[[Website](https://arxiv.org/abs/2311.02358)]
-
-**TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution** \
-[[Website](https://arxiv.org/abs/2410.07663)]
-
-**ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2410.13807)]
-
-**Image Super-Resolution with Text Prompt Diffusio** \
-[[Website](https://arxiv.org/abs/2311.14282)]
-
-**DifAugGAN: A Practical Diffusion-style Data Augmentation for GAN-based Single Image Super-resolution** \
-[[Website](https://arxiv.org/abs/2311.18508)]
-
-**DREAM: Diffusion Rectification and Estimation-Adaptive Models** \
-[[Website](https://arxiv.org/abs/2312.00210)]
-
-**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution** \
-[[Website](https://arxiv.org/abs/2401.10404)]
-
-**Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2403.05808)]
-
-**CasSR: Activating Image Power for Real-World Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2403.11451)]
-
-**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution** \
-[[Website](https://arxiv.org/abs/2403.17000)]
-
-**Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution** \
-[[Website](https://arxiv.org/abs/2405.10014)]
-
-**ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer** \
-[[Website](https://arxiv.org/abs/2410.14279)]
-
-**Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-Diffusion for Extreme Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2411.12072)]
-
-**Adversarial Diffusion Compression for Real-World Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2411.13383)]
-
-**HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2411.13548)]
-
-**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution** \
-[[Website](https://arxiv.org/abs/2412.02960)]
-
-**RealOSR: Latent Unfolding Boosting Diffusion-based Real-world Omnidirectional Image Super-Resolution** \
-[[Website](https://arxiv.org/abs/2412.09646)]
-
-**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution** \
-[[Website](https://arxiv.org/abs/2412.11609)]
-
-
-
-## Video Generation 
+# Video Generation 
 
 **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.html)]
@@ -7779,7 +7818,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## Video Editing 
+# Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/QI_FateZero_Fusing_Attentions_for_Zero-shot_Text-based_Video_Editing_ICCV_2023_paper.html
