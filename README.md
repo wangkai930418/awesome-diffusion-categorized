@@ -970,6 +970,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.04618)]
 [[Project](https://dt-bfr.github.io/)]
 
+**InfoBFR: Real-World Blind Face Restoration via Information Bottleneck** \
+[[Website](https://arxiv.org/abs/2501.15443)]
+
 **DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration** \
 [[Website](https://arxiv.org/abs/2305.04517)]
 
@@ -1447,6 +1450,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
 [[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
 
+**Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting** \
+[[Website](https://arxiv.org/abs/2501.15641)]
+
 **CogCartoon: Towards Practical Story Visualization** \
 [[Website](https://arxiv.org/abs/2312.10718)]
 
@@ -1713,6 +1719,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Training-Free Consistency Pipeline for Fashion Repose** \
 [[Website](https://arxiv.org/abs/2501.13692)]
+
+**IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter** \
+[[Website](https://arxiv.org/abs/2501.15616)]
+
 
 
 # Drag Edit
@@ -2956,6 +2966,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EraseBench: Understanding The Ripple Effects of Concept Erasure Techniques** \
 [[Website](https://arxiv.org/abs/2501.09833)] 
 
+**CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary** \
+[[Website](https://arxiv.org/abs/2501.15562)] 
 
 
 # New Concept Learning
