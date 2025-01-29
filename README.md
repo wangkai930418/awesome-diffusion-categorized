@@ -7103,6 +7103,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[AAAI 2025](https://arxiv.org/abs/2412.09389)]
 [[Code](https://github.com/Delong-liu-bupt/UFO)]
 
+**Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
+[[ICLR 2024](https://arxiv.org/abs/2402.16627)]
+[[Code](https://github.com/YangLing0818/ContextDiff)]
+
+**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces** \
+[[ICLR 2024](https://arxiv.org/abs/2403.07711)]
+[[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
+
 **Open-Sora: Democratizing Efficient Video Production for All** \
 [[Website](https://arxiv.org/abs/2412.20404)]
 [[Code](https://github.com/hpcaitech/Open-Sora)]
@@ -7119,13 +7127,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2408.06072)]
 [[Code](https://github.com/THUDM/CogVideo)]
 
-**Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
-[[ICLR 2024](https://arxiv.org/abs/2402.16627)]
-[[Code](https://github.com/YangLing0818/ContextDiff)]
+**CascadeV: An Implementation of Wurstchen Architecture for Video Generation** \
+[[Website](https://arxiv.org/abs/2501.16612)]
+[[Code](https://github.com/bytedance/CascadeV)]
 
-**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces** \
-[[ICLR 2024](https://arxiv.org/abs/2403.07711)]
-[[Code](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 **Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing** \
 [[Website](https://arxiv.org/abs/2411.16375)]
@@ -7784,6 +7789,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Noise Crystallization and Liquid Noise: Zero-shot Video Generation using Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.05322)]
+
+**Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2501.16714)]
+
+**PhysAnimator: Physics-Guided Generative Cartoon Animation** \
+[[Website](https://arxiv.org/abs/2501.16550)]
 
 **BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way** \
 [[Website](https://arxiv.org/abs/2410.06241)]
