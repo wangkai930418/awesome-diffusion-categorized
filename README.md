@@ -20,13 +20,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
 - [Drag Edit](#drag-edit)
-- [Diffusion Inversion](#diffusion-models-inversion)
 - [Text-Guided Editing](#text-guided-image-editing)
+    - [Diffusion Inversion](#diffusion-models-inversion)
 - [Continual Learning](#continual-learning)
 - [Remove Concept](#remove-concept)
 - [New Concept Learning](#new-concept-learning)
 - [T2I augmentation](#t2i-diffusion-model-augmentation)
-- [Spatial Control](#spatial-control)
+    - [Spatial Control](#spatial-control)
 - [Image Translation](#i2i-translation)
 - [Seg & Detect & Track](#segmentation-detection-tracking)
 - [Adding Conditions](#additional-conditions)
@@ -1846,179 +1846,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.12696)] 
 
 
-# Diffusion Models Inversion
-
-⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2211.09794)] 
-[[Project](https://null-text-inversion.github.io/)] 
-[[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
-
-⭐⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
-[[ICLR 2024](https://openreview.net/forum?id=FoMZ4ljhVw)] 
-[[Website](https://arxiv.org/abs/2310.01506)] 
-[[Project](https://cure-lab.github.io/PnPInversion/)] 
-[[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
-
-⭐**Inversion-Based Creativity Transfer with Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Inversion-Based_Style_Transfer_With_Diffusion_Models_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2211.13203)] 
-[[Code](https://github.com/zyxElsa/InST)] 
-
-⭐**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2211.12446)] 
-[[Code](https://github.com/salesforce/edict)] 
-
-⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
-[[Website](https://arxiv.org/abs/2306.05414)] 
-[[Code](https://github.com/phymhan/prompt-to-prompt)] 
-
-
-
-**An Edit Friendly DDPM Noise Space: Inversion and Manipulations** \
-[[CVPR 2024](https://arxiv.org/abs/2304.06140)] 
-[[Project](https://inbarhub.github.io/DDPM_inversion/)] 
-[[Code](https://github.com/inbarhub/DDPM_inversion)]
-[[Demo](https://huggingface.co/spaces/LinoyTsaban/edit_friendly_ddpm_inversion)]
-
-**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing** \
-[[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/72801)] 
-[[Website](https://arxiv.org/abs/2309.15664)] 
-[[Code](https://github.com/wangkai930418/DPL)] 
-<!-- [[NeurIPS 2023](https://openreview.net/forum?id=5UXXhVI08r)]  -->
-
-**Inversion-Free Image Editing with Natural Language** \
-[[CVPR 2024](https://arxiv.org/abs/2312.04965)] 
-[[Project](https://sled-group.github.io/InfEdit/index.html)] 
-[[Code](https://github.com/sled-group/InfEdit)] 
-
-**LEDITS++: Limitless Image Editing using Text-to-Image Models** \
-[[CVPR 2024](https://arxiv.org/abs/2311.16711)]
-[[Project](https://leditsplusplus-project.static.hf.space/index.html)] 
-[[Code](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/ledits_pp)] 
-
-**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
-[[ICLR 2024](https://openreview.net/forum?id=mhgm0IXtHw)] 
-[[Website](https://arxiv.org/abs/2402.04625)] 
-[[Code](https://github.com/hansam95/nmg)] 
-
-
-**ReNoise: Real Image Inversion Through Iterative Noising** \
-[[ECCV 2024](https://arxiv.org/abs/2403.14602)] 
-[[Project](https://garibida.github.io/ReNoise-Inversion/)] 
-[[Code](https://github.com/garibida/ReNoise-Inversion)] 
-
-**IterInv: Iterative Inversion for Pixel-Level T2I Models** \
-[[NeurIPS-W 2023](https://neurips.cc/virtual/2023/74859)] 
-[[Openreview](https://openreview.net/forum?id=mSGmzVo0aS)] 
-[[NeuripsW](https://neurips.cc/virtual/2023/workshop/66539#wse-detail-74859)]
-[[Website](https://arxiv.org/abs/2310.19540)] 
-[[Code](https://github.com/Tchuanm/IterInv)] 
-
-**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models** \
-[[Website](https://arxiv.org/abs/2410.08207)] 
-[[Project](https://hexiaoxiao-cs.github.io/DICE/)] 
-[[Code](https://github.com/hexiaoxiao-cs/DICE)] 
-
-**Object-aware Inversion and Reassembly for Image Editing** \
-[[Website](https://arxiv.org/abs/2310.12149)] 
-[[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
-[[Code](https://github.com/aim-uofa/OIR)] 
-
-**Taming Rectified Flow for Inversion and Editing** \
-[[Website](https://arxiv.org/abs/2411.04746)] 
-[[Project](https://rf-solver-edit.github.io/)] 
-[[Code](https://github.com/wangjiangshan0725/RF-Solver-Edit)] 
-
-**A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance** \
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)] 
-[[Code](https://github.com/humansensinglab/cycle-diffusion)] 
-
-**Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models** \
-[[ECCV 2024](https://arxiv.org/abs/2403.11105)] 
-[[Code](https://github.com/leeruibin/SPDInv)] 
-
-**LocInv: Localization-aware Inversion for Text-Guided Image Editing** \
-[[CVPR 2024 AI4CC workshop](https://arxiv.org/abs/2405.01496)] 
-[[Code](https://github.com/wangkai930418/DPL)] 
-
-**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
-[[IJCAI 2024](https://arxiv.org/abs/2305.16965)] 
-[[Code](https://github.com/gongyeliu/ssd)] 
-
-**StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
-[[Website](https://arxiv.org/abs/2303.15649)] 
-[[Code](https://github.com/sen-mao/StyleDiffusion)] 
-
-**Generating Non-Stationary Textures using Self-Rectification** \
-[[Website](https://arxiv.org/abs/2401.02847)] 
-[[Code](https://github.com/xiaorongjun000/Self-Rectification)] 
-
-**Exact Diffusion Inversion via Bi-directional Integration Approximation** \
-[[Website](https://arxiv.org/abs/2307.10829)] 
-[[Code](https://github.com/guoqiang-zhang-x/BDIA)] 
-
-**IQA-Adapter: Exploring Knowledge Transfer from Image Quality Assessment to Diffusion-based Generative Models** \
-[[Website](https://arxiv.org/abs/2412.01794)] 
-[[Code](https://github.com/X1716/IQA-Adapter)] 
-
-**Fixed-point Inversion for Text-to-image diffusion models** \
-[[Website](https://arxiv.org/abs/2312.12540)] 
-[[Code](https://github.com/dvirsamuel/FPI)] 
-
-**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing** \
-[[Website](https://arxiv.org/abs/2403.09468)] 
-[[Code](https://github.com/furiosa-ai/eta-inversion)] 
-
-**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
-[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
-[[Website](https://arxiv.org/abs/2309.04907)]
-
-**BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models** \
-[[NeurIPS 2024](https://arxiv.org/abs/2410.07273)] 
-
-**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing** \
-[[NeurIPS 2024](https://arxiv.org/abs/2410.18756)] 
-
-**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
-[[WACV 2024](https://arxiv.org/abs/2312.05482)] 
-
-**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing** \
-[[ICASSP 2024](https://arxiv.org/abs/2401.09794)]
-
-**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing** \
-[[Website](https://arxiv.org/abs/2408.13395)] 
-
-**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations** \
-[[Website](https://arxiv.org/abs/2410.10792)] 
-
-**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.16807)] 
-
-**Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2211.07825)] 
-
-**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing** \
-[[Website](https://arxiv.org/abs/2409.10476)]
-
-**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
-[[Website](https://arxiv.org/abs/2305.04441)]
-
-**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing** \
-[[Website](https://arxiv.org/abs/2309.16608)]
-
-**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing** \
-[[Website](https://arxiv.org/abs/2312.14611)]
-
-**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
-[[Website](https://arxiv.org/abs/2307.00522)]
-
-**Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing** \
-[[Website](https://arxiv.org/abs/2412.11152)]
-
-**Exploring Optimal Latent Trajetory for Zero-shot Image Editing** \
-[[Website](https://arxiv.org/abs/2501.03631)]
 
 
 
@@ -2688,6 +2515,181 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance** \
 [[Website](https://arxiv.org/abs/2412.15798)]
+
+
+# Diffusion Models Inversion
+
+⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2211.09794)] 
+[[Project](https://null-text-inversion.github.io/)] 
+[[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
+
+⭐⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
+[[ICLR 2024](https://openreview.net/forum?id=FoMZ4ljhVw)] 
+[[Website](https://arxiv.org/abs/2310.01506)] 
+[[Project](https://cure-lab.github.io/PnPInversion/)] 
+[[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
+
+⭐**Inversion-Based Creativity Transfer with Diffusion Models** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Inversion-Based_Style_Transfer_With_Diffusion_Models_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2211.13203)] 
+[[Code](https://github.com/zyxElsa/InST)] 
+
+⭐**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2211.12446)] 
+[[Code](https://github.com/salesforce/edict)] 
+
+⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
+[[Website](https://arxiv.org/abs/2306.05414)] 
+[[Code](https://github.com/phymhan/prompt-to-prompt)] 
+
+
+
+**An Edit Friendly DDPM Noise Space: Inversion and Manipulations** \
+[[CVPR 2024](https://arxiv.org/abs/2304.06140)] 
+[[Project](https://inbarhub.github.io/DDPM_inversion/)] 
+[[Code](https://github.com/inbarhub/DDPM_inversion)]
+[[Demo](https://huggingface.co/spaces/LinoyTsaban/edit_friendly_ddpm_inversion)]
+
+**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing** \
+[[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/72801)] 
+[[Website](https://arxiv.org/abs/2309.15664)] 
+[[Code](https://github.com/wangkai930418/DPL)] 
+<!-- [[NeurIPS 2023](https://openreview.net/forum?id=5UXXhVI08r)]  -->
+
+**Inversion-Free Image Editing with Natural Language** \
+[[CVPR 2024](https://arxiv.org/abs/2312.04965)] 
+[[Project](https://sled-group.github.io/InfEdit/index.html)] 
+[[Code](https://github.com/sled-group/InfEdit)] 
+
+**LEDITS++: Limitless Image Editing using Text-to-Image Models** \
+[[CVPR 2024](https://arxiv.org/abs/2311.16711)]
+[[Project](https://leditsplusplus-project.static.hf.space/index.html)] 
+[[Code](https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines/ledits_pp)] 
+
+**Noise Map Guidance: Inversion with Spatial Context for Real Image Editing** \
+[[ICLR 2024](https://openreview.net/forum?id=mhgm0IXtHw)] 
+[[Website](https://arxiv.org/abs/2402.04625)] 
+[[Code](https://github.com/hansam95/nmg)] 
+
+
+**ReNoise: Real Image Inversion Through Iterative Noising** \
+[[ECCV 2024](https://arxiv.org/abs/2403.14602)] 
+[[Project](https://garibida.github.io/ReNoise-Inversion/)] 
+[[Code](https://github.com/garibida/ReNoise-Inversion)] 
+
+**IterInv: Iterative Inversion for Pixel-Level T2I Models** \
+[[NeurIPS-W 2023](https://neurips.cc/virtual/2023/74859)] 
+[[Openreview](https://openreview.net/forum?id=mSGmzVo0aS)] 
+[[NeuripsW](https://neurips.cc/virtual/2023/workshop/66539#wse-detail-74859)]
+[[Website](https://arxiv.org/abs/2310.19540)] 
+[[Code](https://github.com/Tchuanm/IterInv)] 
+
+**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models** \
+[[Website](https://arxiv.org/abs/2410.08207)] 
+[[Project](https://hexiaoxiao-cs.github.io/DICE/)] 
+[[Code](https://github.com/hexiaoxiao-cs/DICE)] 
+
+**Object-aware Inversion and Reassembly for Image Editing** \
+[[Website](https://arxiv.org/abs/2310.12149)] 
+[[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
+[[Code](https://github.com/aim-uofa/OIR)] 
+
+**Taming Rectified Flow for Inversion and Editing** \
+[[Website](https://arxiv.org/abs/2411.04746)] 
+[[Project](https://rf-solver-edit.github.io/)] 
+[[Code](https://github.com/wangjiangshan0725/RF-Solver-Edit)] 
+
+**A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance** \
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)] 
+[[Code](https://github.com/humansensinglab/cycle-diffusion)] 
+
+**Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2403.11105)] 
+[[Code](https://github.com/leeruibin/SPDInv)] 
+
+**LocInv: Localization-aware Inversion for Text-Guided Image Editing** \
+[[CVPR 2024 AI4CC workshop](https://arxiv.org/abs/2405.01496)] 
+[[Code](https://github.com/wangkai930418/DPL)] 
+
+**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling** \
+[[IJCAI 2024](https://arxiv.org/abs/2305.16965)] 
+[[Code](https://github.com/gongyeliu/ssd)] 
+
+**StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
+[[Website](https://arxiv.org/abs/2303.15649)] 
+[[Code](https://github.com/sen-mao/StyleDiffusion)] 
+
+**Generating Non-Stationary Textures using Self-Rectification** \
+[[Website](https://arxiv.org/abs/2401.02847)] 
+[[Code](https://github.com/xiaorongjun000/Self-Rectification)] 
+
+**Exact Diffusion Inversion via Bi-directional Integration Approximation** \
+[[Website](https://arxiv.org/abs/2307.10829)] 
+[[Code](https://github.com/guoqiang-zhang-x/BDIA)] 
+
+**IQA-Adapter: Exploring Knowledge Transfer from Image Quality Assessment to Diffusion-based Generative Models** \
+[[Website](https://arxiv.org/abs/2412.01794)] 
+[[Code](https://github.com/X1716/IQA-Adapter)] 
+
+**Fixed-point Inversion for Text-to-image diffusion models** \
+[[Website](https://arxiv.org/abs/2312.12540)] 
+[[Code](https://github.com/dvirsamuel/FPI)] 
+
+**Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing** \
+[[Website](https://arxiv.org/abs/2403.09468)] 
+[[Code](https://github.com/furiosa-ai/eta-inversion)] 
+
+**Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
+[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
+[[Website](https://arxiv.org/abs/2309.04907)]
+
+**BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.07273)] 
+
+**Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.18756)] 
+
+**BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
+[[WACV 2024](https://arxiv.org/abs/2312.05482)] 
+
+**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing** \
+[[ICASSP 2024](https://arxiv.org/abs/2401.09794)]
+
+**Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing** \
+[[Website](https://arxiv.org/abs/2408.13395)] 
+
+**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations** \
+[[Website](https://arxiv.org/abs/2410.10792)] 
+
+**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.16807)] 
+
+**Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2211.07825)] 
+
+**SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing** \
+[[Website](https://arxiv.org/abs/2409.10476)]
+
+**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2305.04441)]
+
+**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing** \
+[[Website](https://arxiv.org/abs/2309.16608)]
+
+**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing** \
+[[Website](https://arxiv.org/abs/2312.14611)]
+
+**LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance** \
+[[Website](https://arxiv.org/abs/2307.00522)]
+
+**Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing** \
+[[Website](https://arxiv.org/abs/2412.11152)]
+
+**Exploring Optimal Latent Trajetory for Zero-shot Image Editing** \
+[[Website](https://arxiv.org/abs/2501.03631)]
 
 
 # Continual Learning
