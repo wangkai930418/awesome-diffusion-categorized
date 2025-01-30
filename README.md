@@ -787,6 +787,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **A Modular Conditional Diffusion Framework for Image Reconstruction** \
 [[Website](https://arxiv.org/abs/2411.05993)]
 
+**Solving Inverse Problems using Diffusion with Fast Iterative Renoising** \
+[[Website](https://arxiv.org/abs/2501.17468)]
+
 **Unpaired Photo-realistic Image Deraining with Energy-informed Diffusion Model** \
 [[Website](https://arxiv.org/abs/2407.17193)]
 
@@ -7181,6 +7184,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LTX-Video: Realtime Video Latent Diffusion** \
 [[Website](https://arxiv.org/abs/2501.00103)]
 [[Code](https://github.com/Lightricks/LTX-Video)]
+
+**Real-Time Video Generation with Pyramid Attention Broadcast** \
+[[Website](https://arxiv.org/abs/2408.12588)]
+[[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)]
 
 **Vlogger: Make Your Dream A Vlog** \
 [[Website](https://arxiv.org/abs/2401.09414)]
