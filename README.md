@@ -2974,6 +2974,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary** \
 [[Website](https://arxiv.org/abs/2501.15562)] 
 
+**SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders** \
+[[Website](https://arxiv.org/abs/2501.18052)] 
+
 
 # New Concept Learning
 
