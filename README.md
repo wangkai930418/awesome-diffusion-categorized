@@ -25,6 +25,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Continual Learning](#continual-learning)
 - [Remove Concept](#remove-concept)
 - [New Concept Learning](#new-concept-learning)
+    - [Multi-Concept](#mutiple-concepts)
+    - [Decompostion](#decomposition)
+    - [Human ID](#human-id)
+    - [General Personalization](#general-concept)
 - [T2I augmentation](#t2i-diffusion-model-augmentation)
     - [Spatial Control](#spatial-control)
 - [Image Translation](#i2i-translation)
@@ -1915,12 +1919,20 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code 1](https://github.com/geekyutao/Inpaint-Anything)] 
 [[Code 2](https://github.com/sail-sg/EditAnything)] 
 
+
+
 **MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Cao_MasaCtrl_Tuning-Free_Mutual_Self-Attention_Control_for_Consistent_Image_Synthesis_and_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2304.08465)] 
 [[Project](https://ljzycmd.github.io/projects/MasaCtrl/)] 
 [[Code](https://github.com/TencentARC/MasaCtrl)] 
 [[Demo](https://huggingface.co/spaces/TencentARC/MasaCtrl)]
+
+**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2212.04489)] 
+[[Project](https://zhang-zx.github.io/SINE/)] 
+[[Code](https://github.com/zhang-zx/SINE)] 
 
 **Collaborative Score Distillation for Consistent Visual Synthesis** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/73044)] 
@@ -2994,62 +3006,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # New Concept Learning
 
-⭐⭐⭐**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation** \
-[[CVPR 2023 Honorable Mention](https://openaccess.thecvf.com/content/CVPR2023/html/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2208.12242)] 
-[[Project](https://dreambooth.github.io/)] 
-[[Official Dataset](https://github.com/google/dreambooth)]
-[[Unofficial Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/dreambooth)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)] 
-
-⭐⭐⭐**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
-[[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)] 
-[[Website](https://arxiv.org/abs/2208.01618)] 
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/text_inversion)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion)] 
-[[Code](https://github.com/rinongal/textual_inversion)]
-
-
-⭐⭐**Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2212.04488)] 
-[[Project](https://www.cs.cmu.edu/~custom-diffusion/)] 
-[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/training/custom_diffusion)] 
-[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion)] 
-[[Code](https://github.com/adobe-research/custom-diffusion)]
-
-⭐⭐**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement** \
+**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement** \
 [[ECCV 2024](https://arxiv.org/abs/2407.07197)] 
 [[Project](https://moatifbutt.github.io/colorpeel/)]
 [[Code](https://github.com/moatifbutt/color-peel)]
 
-⭐⭐**ReVersion: Diffusion-Based Relation Inversion from Images** \
-[[Website](https://arxiv.org/abs/2303.13495)] 
+**ReVersion: Diffusion-Based Relation Inversion from Images** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2303.13495)] 
 [[Project](https://ziqihuangg.github.io/projects/reversion.html)]
 [[Code](https://github.com/ziqihuangg/ReVersion)]
-
-⭐**SINE: SINgle Image Editing with Text-to-Image Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SINE_SINgle_Image_Editing_With_Text-to-Image_Diffusion_Models_CVPR_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2212.04489)] 
-[[Project](https://zhang-zx.github.io/SINE/)] 
-[[Code](https://github.com/zhang-zx/SINE)] 
-
-⭐**Break-A-Scene: Extracting Multiple Concepts from a Single Image** \
-[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16311)] 
-[[Project](https://omriavrahami.com/break-a-scene/)]
-[[Code](https://github.com/google/break-a-scene)]
-
-⭐**Concept Decomposition for Visual Exploration and Inspiration** \
-[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.18203)] 
-[[Project](https://inspirationtree.github.io/inspirationtree/)] 
-[[Code](https://github.com/google/inspiration_tree)]
-
-**Cones: Concept Neurons in Diffusion Models for Customized Generation** \
-[[ICML 2023 Oral](https://icml.cc/virtual/2023/oral/25582)] 
-[[ICML 2023 Oral](https://dl.acm.org/doi/10.5555/3618408.3619298)] 
-[[Website](https://arxiv.org/abs/2303.05125)] 
-[[Code](https://github.com/Johanan528/Cones)]
 
 **BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70870)] 
@@ -3057,29 +3022,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dxli94.github.io/BLIP-Diffusion-website/)]
 [[Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
-**Inserting Anybody in Diffusion Models via Celeb Basis** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71823)] 
-[[Website](https://arxiv.org/abs/2306.00926)] 
-[[Project](https://celeb-basis.github.io/)] 
-[[Code](https://github.com/ygtxr1997/celebbasis)]
-
-**Controlling Text-to-Image Diffusion by Orthogonal Finetuning** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72033)] 
-[[Website](https://arxiv.org/abs/2306.07280)] 
-[[Project](https://oft.wyliu.com/)] 
-[[Code](https://github.com/Zeju1997/oft)]
-
 **Photoswap: Personalized Subject Swapping in Images** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70336)] 
 [[Website](https://arxiv.org/abs/2305.18286)] 
 [[Project](https://photoswap.github.io/)] 
 [[Code](https://github.com/eric-ai-lab/photoswap)]
-
-**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71844)] 
-[[Website](https://arxiv.org/abs/2305.18292)] 
-[[Project](https://showlab.github.io/Mix-of-Show/)] 
-[[Code](https://github.com/TencentARC/Mix-of-Show)]
 
 **ITI-GEN: Inclusive Text-to-Image Generation** \
 [[ICCV 2023 Oral](https://arxiv.org/abs/2309.05569)] 
@@ -3093,61 +3040,20 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://energy-based-model.github.io/unsupervised-concept-discovery/)]
 [[Code](https://github.com/nanlliu/Unsupervised-Compositional-Concepts-Discovery)]
 
-**ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
-[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_ELITE_Encoding_Visual_Concepts_into_Textual_Embeddings_for_Customized_Text-to-Image_ICCV_2023_paper.html)] 
-[[Website](https://arxiv.org/abs/2302.13848)] 
-[[Code](https://github.com/csyxwei/ELITE)]
-<!-- [[Demo](https://huggingface.co/spaces/ELITE-library/ELITE)] -->
+**Total Selfie: Generating Full-Body Selfies** \
+[[CVPR 2024 Highlight](https://arxiv.org/abs/2308.14740)] 
+[[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
+[[Code](https://github.com/ArmastusChen/total_selfie)] 
 
-**A Neural Space-Time Representation for Text-to-Image Personalization** \
-[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.15391)] 
-[[Project](https://neuraltextualinversion.github.io/NeTI/)] 
-[[Code](https://github.com/NeuralTextualInversion/NeTI)]
-
-**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
-[[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
-[[Project](https://tuning-encoder.github.io/)] 
-[[Code](https://github.com/mkshing/e4t-diffusion)]
-
-**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71329)] 
-[[Website](https://arxiv.org/abs/2302.04841)] 
-[[Code](https://github.com/yandex-research/DVAR)]
-
-**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction** \
-[[ECCV 2024](https://arxiv.org/abs/2407.07077)] 
-[[Project](https://haoosz.github.io/ConceptExpress/)] 
-[[Code](https://github.com/haoosz/ConceptExpress)]
-
-**Face2Diffusion for Fast and Editable Face Personalization** \
-[[CVPR 2024](https://arxiv.org/abs/2403.05094)] 
-[[Project](https://mapooon.github.io/Face2DiffusionPage/)] 
-[[Code](https://github.com/mapooon/Face2Diffusion)]
-
-**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models** \
-[[CVPR 2024](https://arxiv.org/abs/2404.04243)] 
-[[Project](https://mudi-t2i.github.io/)] 
-[[Code](https://github.com/agwmon/MuDI)]
-
-**CapHuman: Capture Your Moments in Parallel Universes** \
-[[CVPR 2024](https://arxiv.org/abs/2402.00627)] 
-[[Project](https://caphuman.github.io/)] 
-[[Code](https://github.com/VamosC/CapHumanf)]
+**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \
+[[ICLR 2024 Spotlight](https://arxiv.org/abs/2307.04725)] 
+[[Project](https://animatediff.github.io/)] 
+[[Code](https://github.com/guoyww/animatediff/)]
 
 **Style Aligned Image Generation via Shared Attention** \
 [[CVPR 2024](https://arxiv.org/abs/2312.02133)] 
 [[Project](https://style-aligned-gen.github.io/)] 
 [[Code](https://github.com/google/style-aligned/)]
-
-**FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition** \
-[[CVPR 2024](https://arxiv.org/abs/2405.13870v1)] 
-[[Project](https://aim-uofa.github.io/FreeCustom/)] 
-[[Code](https://github.com/aim-uofa/FreeCustom)]
-
-**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
-[[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
-[[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
-[[Code](https://github.com/KU-CVLAB/DreamMatcher)]
 
 **Material Palette: Extraction of Materials from a Single Image** \
 [[CVPR 2024](https://arxiv.org/abs/2311.17060)] 
@@ -3164,11 +3070,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
-**Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
-[[NeurIPS 2024](https://arxiv.org/abs/2402.12004)] 
-[[Project](https://dco-t2i.github.io/)] 
-[[Code](https://github.com/kyungmnlee/dco)]
-
 **The Hidden Language of Diffusion Models** \
 [[ICLR 2024](https://arxiv.org/abs/2306.00966)] 
 [[Project](https://hila-chefer.github.io/Conceptor/)] 
@@ -3179,81 +3080,25 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://ttchengab.github.io/zest/)] 
 [[Code](https://github.com/ttchengab/zest_code)]
 
-**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization** \
-[[Website](https://arxiv.org/abs/2408.05939)] 
-[[Project](https://aigcdesigngroup.github.io/UniPortrait-Page/)] 
-[[Code](https://github.com/junjiehe96/UniPortrait)]
+**RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization** \
+[[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
+[[Project](https://corleone-huang.github.io/realcustom/)] 
+[[Code](https://github.com/Corleone-Huang/RealCustomProject)] 
 
-**MagicFace: Training-free Universal-Style Human Image Customized Synthesis** \
-[[Website](https://arxiv.org/abs/2408.07433)] 
-[[Project](https://codegoat24.github.io/MagicFace/)] 
-[[Code](https://github.com/CodeGoat24/MagicFace)]
-
-**LCM-Lookahead for Encoder-based Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2404.03620)] 
-[[Project](https://lcm-lookahead.github.io/)] 
-[[Code](https://github.com/OrLichter/lcm-lookahead)]
+**RealCustom++: Representing Images as Real-Word for Real-Time Customization** \
+[[Website](https://arxiv.org/abs/2408.09744)] 
+[[Project](https://corleone-huang.github.io/RealCustom_plus_plus/)] 
+[[Code](https://github.com/Corleone-Huang/RealCustomProject)] 
 
 **EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM** \
 [[Website](https://arxiv.org/abs/2412.09618)] 
 [[Project](https://easyref-gen.github.io/)] 
 [[Code](https://github.com/TempleX98/EasyRef)]
 
-
-**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2406.12805)] 
-[[Project](https://itsmag11.github.io/AITTI/)] 
-[[Code](https://github.com/itsmag11/AITTI)]
-
-**MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance** \
-[[Website](https://arxiv.org/abs/2406.07209)] 
-[[Project](https://ms-diffusion.github.io/)] 
-[[Code](https://github.com/MS-Diffusion/MS-Diffusion)]
-
-**ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance** \
-[[Website](https://arxiv.org/abs/2405.17532)] 
-[[Project](https://classdiffusion.github.io/)] 
-[[Code](https://github.com/Rbrq03/ClassDiffusion)]
-
-**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2405.05806)] 
-[[Project](https://masterweaver.github.io/)] 
-[[Code](https://github.com/csyxwei/MasterWeaver)]
-
-**Customizing Text-to-Image Models with a Single Image Pair** \
-[[Website](https://arxiv.org/abs/2405.01536)] 
-[[Project](https://paircustomization.github.io/)] 
-[[Code](https://github.com/PairCustomization/PairCustomization)]
-
-**DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation** \
-[[Website](https://arxiv.org/abs/2410.02067)] 
-[[Project](https://disenvisioner.github.io/)] 
-[[Code](https://github.com/EnVision-Research/DisEnvisioner)]
-
-**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving** \
-[[Website](https://arxiv.org/abs/2404.16771)] 
-[[Project](https://ssugarwh.github.io/consistentid.github.io/)] 
-[[Code](https://github.com/JackAILab/ConsistentID)]
-
-**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning** \
-[[Website](https://arxiv.org/abs/2404.15449)] 
-[[Project](https://idaligner.github.io/)] 
-[[Code](https://github.com/Weifeng-Chen/ID-Aligner)]
-
-**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models** \
-[[Website](https://arxiv.org/abs/2404.15677)] 
-[[Project](https://qinghew.github.io/CharacterFactory/)] 
-[[Code](https://github.com/qinghew/CharacterFactory)]
-
 **Customizing Text-to-Image Diffusion with Camera Viewpoint Control** \
 [[Website](https://arxiv.org/abs/2404.12333)] 
 [[Project](https://customdiffusion360.github.io/)] 
 [[Code](https://github.com/customdiffusion360/custom-diffusion360)]
-
-**Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization** \
-[[Website](https://arxiv.org/abs/2403.14155)] 
-[[Project](https://ldynx.github.io/harmony-zero-t2i/)] 
-[[Code](https://github.com/ldynx/harmony-zero-t2i)]
 
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
@@ -3265,131 +3110,35 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://personalized-rep.github.io/)] 
 [[Code](https://github.com/ssundaram21/personalized-rep)]
 
-**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
-[[Website](https://arxiv.org/abs/2305.10431)] 
-[[Project](https://fastcomposer.mit.edu/)] 
-[[Code](https://github.com/mit-han-lab/fastcomposer)]
-<!-- [[Demo](https://2acfe10ec96df6f2b0.gradio.live/)] -->
-
-**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** \
-[[Website](https://arxiv.org/abs/2307.04725)] 
-[[Project](https://animatediff.github.io/)] 
-[[Code](https://github.com/guoyww/animatediff/)]
-
-**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**\
-[[Website](https://arxiv.org/abs/2307.11410)] 
-[[Project](https://oppo-mente-lab.github.io/subject_diffusion/)] 
-[[Code](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)]
-
 **Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2303.08767)] 
 [[Project](https://hiper0.github.io/)] 
 [[Code](https://github.com/HiPer0/HiPer)]
 
-**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2410.13370)] 
-[[Project](https://correr-zhou.github.io/MagicTailor/)] 
-[[Code](https://github.com/correr-zhou/MagicTailor)]
-
-**MagicNaming: Consistent Identity Generation by Finding a "Name Space" in T2I Diffusion Models** \
-[[Website](https://arxiv.org/abs/2412.14902)] 
-[[Project](https://magicfusion.github.io/MagicNaming/)] 
-[[Code](https://github.com/MagicFusion/MagicNaming)]
-
-**DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
-[[Website](https://arxiv.org/abs/2211.11337)] 
-[[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
-[[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
-
-**SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing** \
-[[Website](https://arxiv.org/abs/2310.08094)] 
-[[Project](https://jarrentwu1031.github.io/SingleInsert-web/)] 
-[[Code](https://github.com/JarrentWu1031/SingleInsert)]
+**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation** \
+[[Website](https://arxiv.org/abs/2411.17048)] 
+[[Project](https://personalvideo.github.io/)] 
+[[Code](https://github.com/EchoPluto/PersonalVideo)] 
 
 **CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs//2310.19784)] 
 [[Project](https://jiangyzy.github.io/CustomNet/)] 
 [[Code](https://github.com/TencentARC/CustomNet)]
 
+**MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.13370)] 
+[[Project](https://correr-zhou.github.io/MagicTailor/)] 
+[[Code](https://github.com/correr-zhou/MagicTailor)]
+
+**DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning** \
+[[Website](https://arxiv.org/abs/2211.11337)] 
+[[Project](https://www.sysu-hcp.net/projects/dreamartist/index.html)] 
+[[Code](https://github.com/7eu7d7/DreamArtist-stable-diffusion)]
+
 **When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2311.17461)] 
 [[Project](https://csxmli2016.github.io/projects/w-plus-adapter/)] 
 [[Code](https://github.com/csxmli2016/w-plus-adapter)]
-
-**InstantID: Zero-shot Identity-Preserving Generation in Seconds** \
-[[Website](https://arxiv.org/abs/2401.07519)] 
-[[Project](https://instantid.github.io/)] 
-[[Code](https://github.com/InstantID/InstantID)]
-
-**PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding** \
-[[Website](https://arxiv.org/abs/2312.04461)] 
-[[Project](https://photo-maker.github.io/)] 
-[[Code](https://github.com/TencentARC/PhotoMaker)]
-
-**Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction** \
-[[Website](https://arxiv.org/abs/2412.18149)] 
-[[Project](https://chelsea234.github.io/Dense-Face.github.io/)] 
-[[Code](https://github.com/CHELSEA234/Dense-Face)]
-
-**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
-[[Website](https://arxiv.org/abs/2311.14631)] 
-[[Project](https://royzhao926.github.io/CatVersion-page/)] 
-[[Code](https://github.com/RoyZhao926/CatVersion)]
-
-**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.14216)] 
-[[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
-[[Code](https://github.com/briannlongzhao/DreamDistribution)]
-
-**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** \
-[[Website](https://arxiv.org/abs/2501.03931)] 
-[[Project](https://julianjuaner.github.io/projects/MagicMirror/)] 
-[[Code](https://github.com/dvlab-research/MagicMirror/)]
-
-**λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space** \
-[[Website](https://arxiv.org/abs/2402.05195)] 
-[[Project](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] 
-[[Code](https://github.com/eclipse-t2i/lambda-eclipse-inference)]
-
-**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models** \
-[[Website](https://arxiv.org/abs/2309.07986)] 
-[[Project](https://jmhb0.github.io/viewneti/)] 
-[[Code](https://github.com/jmhb0/view_neti)]
-
-**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition** \
-[[Website](https://arxiv.org/abs/2402.15504)] 
-[[Project](https://danielchyeh.github.io/Gen4Gen/)] 
-[[Code](https://github.com/louisYen/Gen4Gen)]
-
-**StableIdentity: Inserting Anybody into Anywhere at First Sight** \
-[[Website](https://arxiv.org/abs/2401.15975)] 
-[[Project](https://qinghew.github.io/StableIdentity/)] 
-[[Code](https://github.com/qinghew/StableIdentity)]
-
-**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model** \
-[[Website](https://arxiv.org/abs/2402.17412)] 
-[[Project](https://diffusekrona.github.io/)] 
-[[Code](https://github.com/IBM/DiffuseKronA)]
-
-**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder** \
-[[Website](https://arxiv.org/abs/2409.08248)] 
-[[Project](https://textboost.github.io/)] 
-[[Code](https://github.com/nahyeonkaty/textboost)]
-
-**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance** \
-[[Website](https://arxiv.org/abs/2409.08091)] 
-[[Project](https://zichengduan.github.io/pages/EZIGen/index.html)] 
-[[Code](https://github.com/ZichengDuan/EZIGen)]
-
-**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2403.10983)] 
-[[Project](https://kongzhecn.github.io/omg-project/)] 
-[[Code](https://github.com/kongzhecn/OMG/)]
-
-**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation** \
-[[Website](https://arxiv.org/abs/2404.05674)] 
-[[Project](https://moma-adapter.github.io/)] 
-[[Code](https://github.com/bytedance/MoMA/tree/main)]
 
 **ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs** \
 [[Website](https://arxiv.org/abs/2311.13600)] 
@@ -3401,21 +3150,48 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://csgo-gen.github.io/)] 
 [[Code](https://github.com/instantX-research/CSGO)]
 
+**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.14216)] 
+[[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
+[[Code](https://github.com/briannlongzhao/DreamDistribution)]
+
+**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2501.03931)] 
+[[Project](https://julianjuaner.github.io/projects/MagicMirror/)] 
+[[Code](https://github.com/dvlab-research/MagicMirror/)]
+
+**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models** \
+[[Website](https://arxiv.org/abs/2309.07986)] 
+[[Project](https://jmhb0.github.io/viewneti/)] 
+[[Code](https://github.com/jmhb0/view_neti)]
+
+
+**InstaStyle: Inversion Noise of a Stylized Image is Secretly a Style Adviser** \
+[[ECCV 2024](https://arxiv.org/abs/2311.15040)] 
+[[Project](https://cuixing100876.github.io/instastyle.github.io/)] 
+[[Code](https://github.com/cuixing100876/InstaStyle)] 
+
+**Visual Style Prompting with Swapping Self-Attention** \
+[[Website](https://arxiv.org/abs/2402.12974)] 
+[[Project](https://curryjung.github.io/VisualStylePrompt/)] 
+[[Code](https://github.com/naver-ai/Visual-Style-Prompting)] 
+
+**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2404.05674)] 
+[[Project](https://moma-adapter.github.io/)] 
+[[Code](https://github.com/bytedance/MoMA/tree/main)]
+
 **DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.11208)] 
 [[Code](https://github.com/Dijkstra14/DreamSteerer)]
 
+**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation** \
+[[ICLR 2024](https://arxiv.org/abs/2305.03374)] 
+[[Code](https://github.com/forchchch/disenbooth)]
+
 **Customized Generation Reimagined: Fidelity and Editability Harmonized** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06727.pdf)] 
 [[Code](https://github.com/jinjianRick/DCI_ICO)]
-
-**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning** \
-[[ECCV 2024](https://arxiv.org/abs/2407.06642)] 
-[[Code](https://github.com/wfanyue/DPG-T2I-Personalization)]
-
-**High-fidelity Person-centric Subject-to-Image Synthesis** \
-[[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
-[[Code](https://github.com/codegoat24/face-diffuser)] 
 
 **ProSpect: Expanded Conditioning for the Personalization of Attribute-aware Image Generation** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16225)] 
@@ -3425,75 +3201,29 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[WACV 2025](https://arxiv.org/abs/2410.22317)] 
 [[Code](https://github.com/wangkai930418/mc_ti)]
 
-**Multiresolution Textual Inversion** \
-[[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
-[[Code](https://github.com/giannisdaras/multires_textual_inversion)]
-
-
-**Compositional Inversion for Stable Diffusion Models** \
-[[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
-[[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
-
-**Decoupled Textual Embeddings for Customized Image Generation** \
-[[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
-[[Code](https://github.com/PrototypeNx/DETEX)]
+**Memory-Efficient Personalization using Quantized Diffusion Model** \
+[[ECCV 2024](https://arxiv.org/abs/2401.04339)] 
+[[Code](https://github.com/ugonfor/TuneQDM)]
 
 **DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.04571)] 
 [[Code](https://github.com/Ldhlwh/DomainGallery)]
 
+**PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation** \
+[[Website](https://arxiv.org/abs/2501.05823)] 
+[[Code](https://github.com/joyhuyy1412/personahoi)]
+
+**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2401.13974)] 
+[[Code](https://github.com/SalesforceAIResearch/bootpig)]
+
 **TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation** \
 [[Website](https://arxiv.org/abs/2410.05591)] 
 [[Code](https://github.com/KwonGihyun/TweedieMix)]
 
-**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation** \
-[[Website](https://arxiv.org/abs/2409.17920)] 
-[[Code](https://github.com/hqhQAQ/MIP-Adapter)]
-
-**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2408.03632)] 
-[[Code](https://github.com/Nihukat/Concept-Conductor)]
-
-**RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance** \
-[[Website](https://arxiv.org/abs/2405.14677)] 
-[[Code](https://github.com/feifeiobama/RectifID)]
-
-**PuLID: Pure and Lightning ID Customization via Contrastive Alignment** \
-[[Website](https://arxiv.org/abs/2404.16022)] 
-[[Code](https://github.com/ToTheBeginning/PuLID)]
-
-**Cross Initialization for Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2312.15905)] 
-[[Code](https://github.com/lyupang/crossinitialization)]
-
-**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
-[[Website](https://arxiv.org/abs/2305.13579)] 
-[[Code](https://github.com/drboog/profusion)]
-
-**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning** \
-[[Website](https://arxiv.org/abs/2303.11305)] 
-[[Code](https://github.com/mkshing/svdiff-pytorch)]
-
-
-**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2306.00971)] 
-[[Code](https://github.com/haoosz/vico)]
-
 **AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.15040)] 
 [[Code](https://github.com/Xiang-cd/unet-finetune)]
-
-**A Closer Look at Parameter-Efficient Tuning in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.15478)] 
-[[Code](https://github.com/divyakraman/AerialBooth2023)]
-
-**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization** \
-[[Website](https://arxiv.org/abs/2410.12312)] 
-[[Code](https://github.com/modelscope/facechain)]
-
-**Controllable Textual Inversion for Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2304.05265)] 
-[[Code](https://github.com/jnzju/COTI)]
 
 **Cross-domain Compositing with Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.10167)] 
@@ -3507,37 +3237,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.03045)] 
 [[Code](https://github.com/drboog/profusion)] 
 
-**Cross Initialization for Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2312.15905)] 
-[[Code](https://github.com/lyupang/crossinitialization)] 
-
-**Cones 2: Customizable Image Synthesis with Multiple Subjects** \
-[[Website](https://arxiv.org/abs/2305.19327v1)] 
-[[Code](https://github.com/ali-vilab/cones-v2)] 
-
-**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** \
-[[Website](https://arxiv.org/abs/2403.11627)] 
-[[Code](https://github.com/Young98CN/LoRA_Composer)] 
-
-**AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
-[[Website](https://arxiv.org/abs/2405.17965)] 
-[[Code](https://github.com/junjie-shentu/AttenCraft)] 
-
-**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium** \
-[[Website](https://arxiv.org/abs/2412.15674)] 
-[[Code](https://github.com/xzhe-Vision/PersonaMagic)] 
-
-**CusConcept: Customized Visual Concept Decomposition with Diffusion Models** \
-[[Website](https://arxiv.org/abs/2410.00398)] 
-[[Code](https://github.com/xzLcan/CusConcept)] 
-
 **HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01439.pdf)] 
 [[Project](https://sites.google.com/view/hybridbooth)] 
-
-**Language-Informed Visual Concept Learning** \
-[[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
-[[Project](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)] 
 
 **Key-Locked Rank One Editing for Text-to-Image Personalization** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2305.01644)] 
@@ -3547,13 +3249,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Everaert_Diffusion_in_Style_ICCV_2023_paper.pdf)] 
 [[Project](https://ivrl.github.io/diffusion-in-style/)] 
 
-**RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization** \
-[[CVPR 2024](https://arxiv.org/abs/2403.00483)] 
-[[Project](https://corleone-huang.github.io/realcustom/)] 
-
-**RealCustom++: Representing Images as Real-Word for Real-Time Customization** \
-[[Website](https://arxiv.org/abs/2408.09744)] 
-[[Project](https://corleone-huang.github.io/RealCustom_plus_plus/)] 
+**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion** \
+[[CVPR 2024](https://arxiv.org/abs/2401.09416)] 
+[[Project](https://texturedreamer.github.io/)] 
 
 **Personalized Residuals for Concept-Driven Text-to-Image Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2405.12978)] 
@@ -3562,7 +3260,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LogoSticker: Inserting Logos into Diffusion Models for Customized Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2407.13752)] 
 [[Project](https://mingkangz.github.io/logosticker/)] 
-
 **Diffusion Self-Distillation for Zero-Shot Customized Image Generation** \
 [[Website](https://arxiv.org/abs/2411.18616)] 
 [[Project](https://primecai.github.io/dsd/)] 
@@ -3582,10 +3279,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **InstructBooth: Instruction-following Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.03011)] 
 [[Project](https://sites.google.com/view/instructbooth)] 
-
-**AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2406.05000)] 
-[[Project](https://attndreambooth.github.io/)] 
 
 **MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2404.11565)] 
@@ -3623,6 +3316,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2307.06949)] 
 [[Project](https://hyperdreambooth.github.io/)] 
 
+**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model** \
+[[Website](https://arxiv.org/abs/2306.07596)] 
+[[Project](https://sites.google.com/view/phd-demo-page)] 
+
+**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2410.08192)] 
+[[Project](https://sites.google.com/view/hybridboot/)] 
+
 **SUGAR: Subject-Driven Video Customization in a Zero-Shot Manner** \
 [[Website](https://arxiv.org/abs/2412.10533)] 
 [[Project](https://yufanzhou.com/SUGAR/)] 
@@ -3643,14 +3344,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2304.03411)] 
 [[Project](https://jshi31.github.io/InstantBooth/)] 
 
-**Total Selfie: Generating Full-Body Selfies** \
-[[Website](https://arxiv.org/abs/2308.14740)] 
-[[Project](https://homes.cs.washington.edu/~boweiche/project_page/totalselfie/)] 
-
-**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation** \
-[[Website](https://arxiv.org/abs/2411.17048)] 
-[[Project](https://personalvideo.github.io/)] 
-
 **DreamTuner: Single Image is Enough for Subject-Driven Generation** \
 [[Website](https://arxiv.org/abs/2312.13691)] 
 [[Project](https://dreamtuner-diffusion.github.io/)] 
@@ -3666,26 +3359,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PALP: Prompt Aligned Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2401.06105)] 
 [[Project](https://prompt-aligned.github.io/)] 
-
-**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion** \
-[[CVPR 2024](https://arxiv.org/abs/2401.09416)] 
-[[Project](https://texturedreamer.github.io/)] 
-
-**Visual Style Prompting with Swapping Self-Attention** \
-[[Website](https://arxiv.org/abs/2402.12974)] 
-[[Project](https://curryjung.github.io/VisualStylePrompt/)] 
-
-**Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
-[[Website](https://arxiv.org/abs/2403.11781)] 
-[[Project](https://infinite-id.github.io/)] 
-
-**Non-confusing Generation of Customized Concepts in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2405.06914)] 
-[[Project](https://clif-official.github.io/clif/)] 
-
-**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation** \
-[[Website](https://arxiv.org/abs/2410.08192)] 
-[[Project](https://sites.google.com/view/hybridboot/)] 
 
 **Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.01179)] 
@@ -3708,12 +3381,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework** \
 [[Website](https://arxiv.org/abs/2305.03980)] 
 
-**InstaStyle: Inversion Noise of a Stylized Image is Secretly a Style Adviser** \
-[[Website](https://arxiv.org/abs/2311.15040)] 
-
-**DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2305.03374)] 
-
 **Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2304.02642)] 
 
@@ -3732,9 +3399,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Generate Anything Anywhere in Any Scene** \
 [[Website](https://arxiv.org/abs/2306.17154)] 
 
-**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model** \
-[[Website](https://arxiv.org/abs/2306.07596)] 
-
 **Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
 [[Website](https://arxiv.org/abs/2306.06638v1)] 
 
@@ -3750,15 +3414,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.11919)] 
 
-**Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2311.13833)] 
-
-**Memory-Efficient Personalization using Quantized Diffusion Model** \
-[[Website](https://arxiv.org/abs/2401.04339)] 
-
-**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models** \
-[[Website](https://arxiv.org/abs/2401.13974)] 
-
 **Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization** \
 [[Website](https://arxiv.org/abs/2401.16762)] 
 
@@ -3771,7 +3426,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Visual Concept-driven Image Generation with Text-to-Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2402.11487)] 
 
-
 **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2403.13535)] 
 
@@ -3780,9 +3434,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation** \
 [[Website](https://arxiv.org/abs/2403.19235)] 
-
-**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance** \
-[[Website](https://arxiv.org/abs/2404.10267)] 
 
 **StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.15287)] 
@@ -3824,7 +3475,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.02483)] 
 
 **LEARNING TO CUSTOMIZE TEXT-TO-IMAGE DIFFUSION IN DIVERSE CONTEXT** \
-[[Website](https://arxiv.org/pdf/2410.10058)] 
+[[Website](https://arxiv.org/abs/2410.10058)] 
 
 **HYPNOS : Highly Precise Foreground-focused Diffusion Finetuning for Inanimate Objects** \
 [[Website](https://arxiv.org/abs/2410.14265)] 
@@ -3847,8 +3498,386 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision** \
 [[Website](https://arxiv.org/abs/2412.19533)] 
 
-**PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation** \
-[[Website](https://arxiv.org/abs/2501.05823)] 
+
+
+
+## Mutiple Concepts
+
+**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71844)] 
+[[Website](https://arxiv.org/abs/2305.18292)] 
+[[Project](https://showlab.github.io/Mix-of-Show/)] 
+[[Code](https://github.com/TencentARC/Mix-of-Show)]
+
+**Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models** \
+[[CVPR 2024](https://arxiv.org/abs/2404.04243)] 
+[[Project](https://mudi-t2i.github.io/)] 
+[[Code](https://github.com/agwmon/MuDI)]
+
+**FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition** \
+[[CVPR 2024](https://arxiv.org/abs/2405.13870v1)] 
+[[Project](https://aim-uofa.github.io/FreeCustom/)] 
+[[Code](https://github.com/aim-uofa/FreeCustom)]
+
+**MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance** \
+[[Website](https://arxiv.org/abs/2406.07209)] 
+[[Project](https://ms-diffusion.github.io/)] 
+[[Code](https://github.com/MS-Diffusion/MS-Diffusion)]
+
+**λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space** \
+[[Website](https://arxiv.org/abs/2402.05195)] 
+[[Project](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] 
+[[Code](https://github.com/eclipse-t2i/lambda-eclipse-inference)]
+
+**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.10983)] 
+[[Project](https://kongzhecn.github.io/omg-project/)] 
+[[Code](https://github.com/kongzhecn/OMG/)]
+
+**Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition** \
+[[Website](https://arxiv.org/abs/2402.15504)] 
+[[Project](https://danielchyeh.github.io/Gen4Gen/)] 
+[[Code](https://github.com/louisYen/Gen4Gen)]
+
+
+**Non-confusing Generation of Customized Concepts in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2405.06914)] 
+[[Project](https://clif-official.github.io/clif/)] 
+[[Code](https://github.com/clif-official/clif_code)] 
+
+**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation** \
+[[AAAI 2025](https://arxiv.org/abs/2409.17920)] 
+[[Code](https://github.com/hqhQAQ/MIP-Adapter)]
+
+**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2408.03632)] 
+[[Code](https://github.com/Nihukat/Concept-Conductor)]
+
+**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** \
+[[Website](https://arxiv.org/abs/2403.11627)] 
+[[Code](https://github.com/Young98CN/LoRA_Composer)] 
+
+**AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2405.17965)] 
+[[Code](https://github.com/junjie-shentu/AttenCraft)] 
+
+## Decomposition
+
+**Break-A-Scene: Extracting Multiple Concepts from a Single Image** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.16311)] 
+[[Project](https://omriavrahami.com/break-a-scene/)]
+[[Code](https://github.com/google/break-a-scene)]
+
+**Concept Decomposition for Visual Exploration and Inspiration** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.18203)] 
+[[Project](https://inspirationtree.github.io/inspirationtree/)] 
+[[Code](https://github.com/google/inspiration_tree)]
+
+**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction** \
+[[ECCV 2024](https://arxiv.org/abs/2407.07077)] 
+[[Project](https://haoosz.github.io/ConceptExpress/)] 
+[[Code](https://github.com/haoosz/ConceptExpress)]
+
+**Customizing Text-to-Image Models with a Single Image Pair** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2405.01536)] 
+[[Project](https://paircustomization.github.io/)] 
+[[Code](https://github.com/PairCustomization/PairCustomization)]
+
+**CusConcept: Customized Visual Concept Decomposition with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2410.00398)] 
+[[Code](https://github.com/xzLcan/CusConcept)] 
+
+**Language-Informed Visual Concept Learning** \
+[[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
+[[Project](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)] 
+
+**Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.13833)] 
+
+## Human ID
+
+**Inserting Anybody in Diffusion Models via Celeb Basis** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71823)] 
+[[Website](https://arxiv.org/abs/2306.00926)] 
+[[Project](https://celeb-basis.github.io/)] 
+[[Code](https://github.com/ygtxr1997/celebbasis)]
+
+**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models** \
+[[SIGGRAPH 2023](https://arxiv.org/abs/2302.12228)] 
+[[Project](https://tuning-encoder.github.io/)] 
+[[Code](https://github.com/mkshing/e4t-diffusion)]
+
+**Face2Diffusion for Fast and Editable Face Personalization** \
+[[CVPR 2024](https://arxiv.org/abs/2403.05094)] 
+[[Project](https://mapooon.github.io/Face2DiffusionPage/)] 
+[[Code](https://github.com/mapooon/Face2Diffusion)]
+
+**CapHuman: Capture Your Moments in Parallel Universes** \
+[[CVPR 2024](https://arxiv.org/abs/2402.00627)] 
+[[Project](https://caphuman.github.io/)] 
+[[Code](https://github.com/VamosC/CapHumanf)]
+
+**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation** \
+[[ECCV 2024](https://arxiv.org/abs/2405.05806)] 
+[[Project](https://masterweaver.github.io/)] 
+[[Code](https://github.com/csyxwei/MasterWeaver)]
+
+**FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention** \
+[[IJCV 2024](https://arxiv.org/abs/2305.10431)] 
+[[Project](https://fastcomposer.mit.edu/)] 
+[[Code](https://github.com/mit-han-lab/fastcomposer)]
+
+**MagicNaming: Consistent Identity Generation by Finding a "Name Space" in T2I Diffusion Models** \
+[[AAAI 2025](https://arxiv.org/abs/2412.14902)] 
+[[Project](https://magicfusion.github.io/MagicNaming/)] 
+[[Code](https://github.com/MagicFusion/MagicNaming)]
+
+**PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding** \
+[[CVPR 2024](https://arxiv.org/abs/2312.04461)] 
+[[Project](https://photo-maker.github.io/)] 
+[[Code](https://github.com/TencentARC/PhotoMaker)]
+
+**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance** \
+[[NeurIPS 2024](https://arxiv.org/abs/2404.10267)] 
+[[Project](https://johnneywang.github.io/OneActor-webpage/)] 
+[[Code](https://github.com/JoHnneyWang/OneActor)] 
+
+**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization** \
+[[Website](https://arxiv.org/abs/2408.05939)] 
+[[Project](https://aigcdesigngroup.github.io/UniPortrait-Page/)] 
+[[Code](https://github.com/junjiehe96/UniPortrait)]
+
+**MagicFace: Training-free Universal-Style Human Image Customized Synthesis** \
+[[Website](https://arxiv.org/abs/2408.07433)] 
+[[Project](https://codegoat24.github.io/MagicFace/)] 
+[[Code](https://github.com/CodeGoat24/MagicFace)]
+
+**LCM-Lookahead for Encoder-based Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2404.03620)] 
+[[Project](https://lcm-lookahead.github.io/)] 
+[[Code](https://github.com/OrLichter/lcm-lookahead)]
+
+**ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving** \
+[[Website](https://arxiv.org/abs/2404.16771)] 
+[[Project](https://ssugarwh.github.io/consistentid.github.io/)] 
+[[Code](https://github.com/JackAILab/ConsistentID)]
+
+**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning** \
+[[Website](https://arxiv.org/abs/2404.15449)] 
+[[Project](https://idaligner.github.io/)] 
+[[Code](https://github.com/Weifeng-Chen/ID-Aligner)]
+
+**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2404.15677)] 
+[[Project](https://qinghew.github.io/CharacterFactory/)] 
+[[Code](https://github.com/qinghew/CharacterFactory)]
+
+**InstantID: Zero-shot Identity-Preserving Generation in Seconds** \
+[[Website](https://arxiv.org/abs/2401.07519)] 
+[[Project](https://instantid.github.io/)] 
+[[Code](https://github.com/InstantID/InstantID)]
+
+**StableIdentity: Inserting Anybody into Anywhere at First Sight** \
+[[Website](https://arxiv.org/abs/2401.15975)] 
+[[Project](https://qinghew.github.io/StableIdentity/)] 
+[[Code](https://github.com/qinghew/StableIdentity)]
+
+**Dense-Face: Personalized Face Generation Model via Dense Annotation Prediction** \
+[[Website](https://arxiv.org/abs/2412.18149)] 
+[[Project](https://chelsea234.github.io/Dense-Face.github.io/)] 
+[[Code](https://github.com/CHELSEA234/Dense-Face)]
+
+**High-fidelity Person-centric Subject-to-Image Synthesis** \
+[[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
+[[Code](https://github.com/codegoat24/face-diffuser)] 
+
+**RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance** \
+[[NeurIPS 2024](https://arxiv.org/abs/2405.14677)] 
+[[Code](https://github.com/feifeiobama/RectifID)]
+
+**PuLID: Pure and Lightning ID Customization via Contrastive Alignment** \
+[[NeurIPS 2024](https://arxiv.org/abs/2404.16022)] 
+[[Code](https://github.com/ToTheBeginning/PuLID)]
+
+**FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization** \
+[[Website](https://arxiv.org/abs/2410.12312)] 
+[[Code](https://github.com/modelscope/facechain)]
+
+**PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium** \
+[[Website](https://arxiv.org/abs/2412.15674)] 
+[[Code](https://github.com/xzhe-Vision/PersonaMagic)] 
+
+**Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
+[[Website](https://arxiv.org/abs/2403.11781)] 
+[[Project](https://infinite-id.github.io/)] 
+
+
+## General Concept 
+
+**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation** \
+[[CVPR 2023 Honorable Mention](https://openaccess.thecvf.com/content/CVPR2023/html/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2208.12242)] 
+[[Project](https://dreambooth.github.io/)] 
+[[Official Dataset](https://github.com/google/dreambooth)]
+[[Unofficial Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/dreambooth)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/dreambooth)] 
+
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion** \
+[[ICLR 2023 top-25%](https://openreview.net/forum?id=NAQvF08TcyG)] 
+[[Website](https://arxiv.org/abs/2208.01618)] 
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/training/text_inversion)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/textual_inversion)] 
+[[Code](https://github.com/rinongal/textual_inversion)]
+
+**Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2212.04488)] 
+[[Project](https://www.cs.cmu.edu/~custom-diffusion/)] 
+[[Diffusers Doc](https://huggingface.co/docs/diffusers/main/en/training/custom_diffusion)] 
+[[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/custom_diffusion)] 
+[[Code](https://github.com/adobe-research/custom-diffusion)]
+
+**Cones: Concept Neurons in Diffusion Models for Customized Generation** \
+[[ICML 2023 Oral](https://icml.cc/virtual/2023/oral/25582)] 
+[[ICML 2023 Oral](https://dl.acm.org/doi/10.5555/3618408.3619298)] 
+[[Website](https://arxiv.org/abs/2303.05125)] 
+[[Code](https://github.com/ali-vilab/Cones)]
+
+**Controlling Text-to-Image Diffusion by Orthogonal Finetuning** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72033)] 
+[[Website](https://arxiv.org/abs/2306.07280)] 
+[[Project](https://oft.wyliu.com/)] 
+[[Code](https://github.com/Zeju1997/oft)]
+
+**ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation** \
+[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_ELITE_Encoding_Visual_Concepts_into_Textual_Embeddings_for_Customized_Text-to-Image_ICCV_2023_paper.html)] 
+[[Website](https://arxiv.org/abs/2302.13848)] 
+[[Code](https://github.com/csyxwei/ELITE)]
+
+**A Neural Space-Time Representation for Text-to-Image Personalization** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.15391)] 
+[[Project](https://neuraltextualinversion.github.io/NeTI/)] 
+[[Code](https://github.com/NeuralTextualInversion/NeTI)]
+
+**Is This Loss Informative? Speeding Up Textual Inversion with Deterministic Objective Evaluation** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71329)] 
+[[Website](https://arxiv.org/abs/2302.04841)] 
+[[Code](https://github.com/yandex-research/DVAR)]
+
+**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization** \
+[[CVPR 2024](https://arxiv.org/abs/2402.09812)] 
+[[Project](https://ku-cvlab.github.io/DreamMatcher/)] 
+[[Code](https://github.com/KU-CVLAB/DreamMatcher)]
+
+**Direct Consistency Optimization for Compositional Text-to-Image Personalization** \
+[[NeurIPS 2024](https://arxiv.org/abs/2402.12004)] 
+[[Project](https://dco-t2i.github.io/)] 
+[[Code](https://github.com/kyungmnlee/dco)]
+
+**SVDiff: Compact Parameter Space for Diffusion Fine-Tuning** \
+[[ICCV 2023](https://arxiv.org/abs/2303.11305)] 
+[[Project](https://svdiff.github.io/)] 
+[[Code](https://github.com/mkshing/svdiff-pytorch)]
+
+
+**ClassDiffusion: More Aligned Personalization Tuning with Explicit Class Guidance** \
+[[ICLR 2025](https://arxiv.org/abs/2405.17532)] 
+[[Project](https://classdiffusion.github.io/)] 
+[[Code](https://github.com/Rbrq03/ClassDiffusion)]
+
+**DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation** \
+[[ICLR 2025](https://arxiv.org/abs/2410.02067)] 
+[[Project](https://disenvisioner.github.io/)] 
+[[Code](https://github.com/EnVision-Research/DisEnvisioner)]
+
+**Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**\
+[[SIGGRAPH 2024](https://arxiv.org/abs/2307.11410)] 
+[[Project](https://oppo-mente-lab.github.io/subject_diffusion/)] 
+[[Code](https://github.com/OPPO-Mente-Lab/Subject-Diffusion)]
+
+**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization** \
+[[TCSVT 2025](https://arxiv.org/abs/2311.14631)] 
+[[Project](https://royzhao926.github.io/CatVersion-page/)] 
+[[Code](https://github.com/RoyZhao926/CatVersion)]
+
+**AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.05000)] 
+[[Project](https://attndreambooth.github.io/)] 
+[[Code](https://github.com/lyuPang/AttnDreamBooth)] 
+
+**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2406.12805)] 
+[[Project](https://itsmag11.github.io/AITTI/)] 
+[[Code](https://github.com/itsmag11/AITTI)]
+
+**Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2403.14155)] 
+[[Project](https://ldynx.github.io/harmony-zero-t2i/)] 
+[[Code](https://github.com/ldynx/harmony-zero-t2i)]
+
+**SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing** \
+[[Website](https://arxiv.org/abs/2310.08094)] 
+[[Project](https://jarrentwu1031.github.io/SingleInsert-web/)] 
+[[Code](https://github.com/JarrentWu1031/SingleInsert)]
+
+**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model** \
+[[Website](https://arxiv.org/abs/2402.17412)] 
+[[Project](https://diffusekrona.github.io/)] 
+[[Code](https://github.com/IBM/DiffuseKronA)]
+
+**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder** \
+[[Website](https://arxiv.org/abs/2409.08248)] 
+[[Project](https://textboost.github.io/)] 
+[[Code](https://github.com/nahyeonkaty/textboost)]
+
+**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance** \
+[[Website](https://arxiv.org/abs/2409.08091)] 
+[[Project](https://zichengduan.github.io/pages/EZIGen/index.html)] 
+[[Code](https://github.com/ZichengDuan/EZIGen)]
+
+**Cones 2: Customizable Image Synthesis with Multiple Subjects** \
+[[NeurIPS 2023](https://arxiv.org/abs/2305.19327v1)] 
+[[Code](https://github.com/ali-vilab/cones-v2)] 
+
+**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning** \
+[[ECCV 2024](https://arxiv.org/abs/2407.06642)] 
+[[Code](https://github.com/wfanyue/DPG-T2I-Personalization)]
+
+**Multiresolution Textual Inversion** \
+[[NeurIPS 2022 workshop](https://arxiv.org/abs/2211.17115)] 
+[[Code](https://github.com/giannisdaras/multires_textual_inversion)]
+
+**Compositional Inversion for Stable Diffusion Models** \
+[[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
+[[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
+
+**Decoupled Textual Embeddings for Customized Image Generation** \
+[[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
+[[Code](https://github.com/PrototypeNx/DETEX)]
+
+**Cross Initialization for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2312.15905)] 
+[[Code](https://github.com/lyupang/crossinitialization)]
+
+**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
+[[Website](https://arxiv.org/abs/2305.13579)] 
+[[Code](https://github.com/drboog/profusion)]
+
+**ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2306.00971)] 
+[[Code](https://github.com/haoosz/vico)]
+
+**A Closer Look at Parameter-Efficient Tuning in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2311.15478)] 
+[[Code](https://github.com/divyakraman/AerialBooth2023)]
+
+**Controllable Textual Inversion for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2304.05265)] 
+[[Code](https://github.com/jnzju/COTI)]
+
+
+
 
 
 
