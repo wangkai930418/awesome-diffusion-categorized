@@ -306,6 +306,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Accelerate High-Quality Diffusion Models with Inner Loop Feedback** \
 [[Website](https://arxiv.org/abs/2501.13107)]
 
+**Accelerating Diffusion Transformer via Error-Optimized Cache** \
+[[Website](https://arxiv.org/abs/2501.19243)]
+
 **Inference-Time Diffusion Model Distillation** \
 [[Website](https://arxiv.org/abs/2412.08871)]
 
@@ -922,6 +925,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2308.01655)]
 
+**Consistent Video Colorization via Palette Guidance** \
+[[Website](https://arxiv.org/abs/2501.19331)]
+
+
 
 ## Face Restoration
 
@@ -1121,6 +1128,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion Prior Interpolation for Flexibility Real-World Face Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.16552)] 
 [[Code](https://github.com/JerryYann/DPI)] 
+
+**Visual Autoregressive Modeling for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2501.18993)] 
+[[Code](https://github.com/qyp2000/VARSR)] 
 
 **StructSR: Refuse Spurious Details in Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2501.05777)] 
@@ -2851,6 +2862,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.07658)] 
 [[Code](https://github.com/anubhav1997/TraSCE/)]
 
+**Fantastic Targets for Concept Erasure in Diffusion Models and Where To Find Them** \
+[[Website](https://arxiv.org/abs/2501.18950)] 
+[[Code](https://github.com/tuananhbui89/Adaptive-Guided-Erasure)]
 
 <!-- 
 **Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
@@ -7388,6 +7402,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TimeRewind: Rewinding Time with Image-and-Events Video Diffusion** \
 [[Website](https://arxiv.org/abs/2403.13800)]
 [[Project](https://timerewind.github.io/)]
+
+**Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** \
+[[Website](https://arxiv.org/abs/2501.19252)]
+[[Project](https://sites.google.com/view/t2v-dlbs)]
 
 **VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
 [[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
