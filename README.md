@@ -3707,6 +3707,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.15674)] 
 [[Code](https://github.com/xzhe-Vision/PersonaMagic)] 
 
+**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
+[[Website](https://arxiv.org/abs/2305.13579)] 
+[[Code](https://github.com/drboog/profusion)]
+
 **Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
 [[Website](https://arxiv.org/abs/2403.11781)] 
 [[Project](https://infinite-id.github.io/)] 
@@ -3860,9 +3864,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.15905)] 
 [[Code](https://github.com/lyupang/crossinitialization)]
 
-**Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach** \
-[[Website](https://arxiv.org/abs/2305.13579)] 
-[[Code](https://github.com/drboog/profusion)]
 
 **ViCo: Detail-Preserving Visual Condition for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2306.00971)] 
