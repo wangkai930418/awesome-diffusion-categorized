@@ -209,6 +209,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2024](https://arxiv.org/abs/2309.06380)]
 [[Code](https://github.com/gnobitab/instaflow)]
 
+**Improved Training Technique for Latent Consistency Models** \
+[[ICLR 2025](https://arxiv.org/abs/2502.01441)]
+[[Code](https://github.com/quandao10/sLCT/)]
+
 **Accelerating Vision Diffusion Transformers with Skip Branches** \
 [[Website](https://arxiv.org/abs/2411.17616)]
 [[Code](https://github.com/OpenSparseLLMs/Skip-DiT)]
@@ -754,6 +758,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.12961)]
 [[Code](https://github.com/Yaofang-Liu/Super-Resolving)]
 
+**BD-Diff: Generative Diffusion Model for Image Deblurring on Unknown Domains with Blur-Decoupled Learning** \
+[[Website](https://arxiv.org/abs/2502.01522)]
+[[Code](https://github.com/donahowe/BD-Diff)]
+
 **TIP: Text-Driven Image Processing with Semantic and Restoration Instructions** \
 [[ECCV 2024](https://arxiv.org/abs/2312.11595)]
 [[Project](https://chenyangqiqi.github.io/tip/)]
@@ -790,6 +798,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Boosting Image Restoration via Priors from Pre-trained Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06793)]
+
+**Human Body Restoration with One-Step Diffusion Model and A New Benchmark** \
+[[Website](https://arxiv.org/abs/2502.01411)]
 
 **A Modular Conditional Diffusion Framework for Image Reconstruction** \
 [[Website](https://arxiv.org/abs/2411.05993)]
@@ -1020,6 +1031,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.09815)] 
 [[Code](https://github.com/jeremyiv/diffc)] 
 
+**Compressed Image Generation with Denoising Diffusion Codebook Models** \
+[[Website](https://arxiv.org/abs/2502.01189)] 
+[[Project](https://ddcm-2025.github.io/)] 
+
 **Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression** \
 [[AAAI 2025](https://arxiv.org/abs/2412.11379)]
 
@@ -1192,6 +1207,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach** \
 [[Website](https://arxiv.org/abs/2412.03017)]
 [[Code](https://github.com/csslc/PiSA-SR)] 
+
+**BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution** \
+[[Website](https://arxiv.org/abs/2502.00333)] 
+[[Code](https://github.com/Kai-Liu001/BiMaCoSR)] 
 
 **RFSR: Improving ISR Diffusion Models via Reward Feedback Learning** \
 [[Website](https://arxiv.org/abs/2412.03268)] 
@@ -1741,6 +1760,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **IPVTON: Image-based 3D Virtual Try-on with Image Prompt Adapter** \
 [[Website](https://arxiv.org/abs/2501.15616)]
 
+**MFP-VTON: Enhancing Mask-Free Person-to-Person Virtual Try-On via Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2502.01626)]
 
 
 # Drag Edit
@@ -4277,6 +4298,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2308.13785)] 
 [[Code](https://github.com/kodenii/ores)]
 
+**Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization** \
+[[Website](https://arxiv.org/abs/2502.01051)] 
+[[Code](https://github.com/casiatao/LPO)]
+
 **Alignment without Over-optimization: Training-Free Solution for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2501.05803)] 
 [[Code](https://github.com/krafton-ai/DAS)]
@@ -4563,6 +4588,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion** \
 [[Website](https://arxiv.org/abs/2401.13388)] 
 
+**Heterogeneous Image GNN: Graph-Conditioned Diffusion for Image Synthesis** \
+[[Website](https://arxiv.org/abs/2502.01309)] 
+
+**RealRAG: Retrieval-augmented Realistic Image Generation via Self-reflective Contrastive Learning** \
+[[Website](https://arxiv.org/abs/2502.00848)] 
+
+**Zeroth-order Informed Fine-Tuning for Diffusion Model: A Recursive Likelihood Ratio Optimizer** \
+[[Website](https://arxiv.org/abs/2502.00639)] 
+
+**Weak-to-Strong Diffusion with Reflection** \
+[[Website](https://arxiv.org/abs/2502.00473)] 
 
 **Improving Compositional Text-to-image Generation with Large Vision-Language Models** \
 [[Website](https://arxiv.org/abs/2310.06311)] 
@@ -4752,6 +4788,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2501.06481)] 
+
+**Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods** \
+[[Website](https://arxiv.org/abs/2502.01384)] 
 
 
 # Spatial Control
@@ -5263,6 +5302,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Latent Schrodinger Bridge: Prompting Latent Diffusion for Fast Unpaired Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2411.14863)]
 
+**A Diffusion Model Translator for Efficient Image-to-Image Translation** \
+[[Website](https://arxiv.org/abs/2502.00307)]
 
 
 
@@ -6728,6 +6769,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://wxrui182.github.io/CoNo.github.io/)] 
 [[Code](https://github.com/wxrui182/CoNo)]
 
+**VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control** \
+[[Website](https://arxiv.org/abs/2502.01101)]
+[[Project](https://csfufu.github.io/vid_sketch/)] 
+[[Code](https://github.com/CSfufu/VidSketch)]
+
+
 **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** \
 [[Website](https://arxiv.org/abs/2311.17117)]
 [[Project](https://humanaigc.github.io/animate-anyone/)] 
@@ -7319,6 +7366,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2407.09012)]
 [[Project](https://eccv2024tcan.github.io/)] 
+
+**OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** \
+[[Website](https://arxiv.org/abs/2502.01061)]
+[[Project](https://omnihuman-lab.github.io/)]
 
 **VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2412.19645)]
