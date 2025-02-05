@@ -402,6 +402,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2411.18263)]
 
+**Sparse VideoGen: Accelerating Video Diffusion Transformers with Spatial-Temporal Sparsity** \
+[[Website](https://arxiv.org/abs/2502.01776)]
+
 
 ## Train-Free
 
@@ -947,6 +950,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 ## Face Restoration
 
+**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration** \
+[[Website](https://arxiv.org/abs/2502.02215)]
+[[Project](https://sen-mao.github.io/InterLCM-Page/)]
+[[Code](https://github.com/sen-mao/InterLCM)]
+
 **DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2308.15070)]
 [[Project](https://0x3f3f3f3fun.github.io/projects/diffbir/)]
@@ -1123,6 +1131,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
+
+**One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation** \
+[[Website](https://arxiv.org/abs/2502.01993)] 
+[[Code](https://github.com/JianzeLi-114/FluxSR)] 
 
 **Boosting Diffusion Guidance via Learning Degradation-Aware Models for Blind Super Resolution** \
 [[Website](https://arxiv.org/abs/2501.08819)] 
@@ -3111,6 +3123,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://corleone-huang.github.io/RealCustom_plus_plus/)] 
 [[Code](https://github.com/Corleone-Huang/RealCustomProject)] 
 
+**Generating Multi-Image Synthetic Data for Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2502.01720)] 
+[[Project](https://www.cs.cmu.edu/~syncd-project/)] 
+[[Code](https://github.com/nupurkmr9/syncd-project)] 
+
 **EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM** \
 [[Website](https://arxiv.org/abs/2412.09618)] 
 [[Project](https://easyref-gen.github.io/)] 
@@ -4791,6 +4808,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods** \
 [[Website](https://arxiv.org/abs/2502.01384)] 
+
+**Calibrated Multi-Preference Optimization for Aligning Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.02588)] 
+
+**Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning** \
+[[Website](https://arxiv.org/abs/2502.01819)] 
+
+**IPO: Iterative Preference Optimization for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2502.02088)] 
 
 
 # Spatial Control
@@ -7487,6 +7513,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** \
 [[Website](https://arxiv.org/abs/2501.19252)]
 [[Project](https://sites.google.com/view/t2v-dlbs)]
+
+**HuViDPO:Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment** \
+[[Website](https://arxiv.org/abs/2502.01690)]
+[[Project](https://tankowa.github.io/HuViDPO.github.io/)]
 
 **VideoPoet: A Large Language Model for Zero-Shot Video Generation** \
 [[Website](https://storage.googleapis.com/videopoet/paper.pdf)]
