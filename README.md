@@ -966,6 +966,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 ## Face Restoration
 
 **InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration** \
+[[ICLR 2025](https://openreview.net/forum?id=rUxr9Ll5FQ)]
 [[Website](https://arxiv.org/abs/2502.02215)]
 [[Project](https://sen-mao.github.io/InterLCM-Page/)]
 [[Code](https://github.com/sen-mao/InterLCM)]
@@ -1373,15 +1374,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.06184)]
 [[Code](https://github.com/mao1207/RCID)] 
 
+**The Art of Deception: Color Visual Illusions and Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.10122)]
+[[Project](https://alviur.github.io/color-illusion-diffusion/)] 
+
 **Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2412.09625)]
 [[Project](https://3d-multiview-illusion.github.io/)] 
 
+
 **Factorized Diffusion: Perceptual Illusions by Noise Decomposition** \
 [[ECCV 2024](https://arxiv.org/abs/2404.11615)]
 
-**The Art of Deception: Color Visual Illusions and Diffusion Models** \
-[[Website](https://arxiv.org/abs/2412.10122)]
 
 **Diffusion Illusions: Hiding Images in Plain Sight** \
 [[Website](https://arxiv.org/abs/2312.03817)]
@@ -2697,7 +2701,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/gongyeliu/ssd)] 
 
 **StyleDiffusion: Prompt-Embedding Inversion for Text-Based Editing** \
-[[Website](https://arxiv.org/abs/2303.15649)] 
+[[CVMJ](https://arxiv.org/abs/2303.15649)] 
 [[Code](https://github.com/sen-mao/StyleDiffusion)] 
 
 **Generating Non-Stationary Textures using Self-Rectification** \
@@ -4228,13 +4232,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://howe140.github.io/theatergen.io/)] 
 [[Code](https://github.com/donahowe/Theatergen)]
 
-**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
-[[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
-[[Code](https://github.com/Qrange-group/SUR-adapter)]
-
 **Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models** \
 [[ICLR 2024](https://arxiv.org/abs/2402.05375)] 
 [[Code](https://github.com/sen-mao/SuppressEOT)]
+
+**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models** \
+[[ACM MM 2023 Oral](https://arxiv.org/abs/2305.05189)] 
+[[Code](https://github.com/Qrange-group/SUR-adapter)]
 
 
 **Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis** \
