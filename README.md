@@ -302,6 +302,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.02852)]
 [[Project](https://yangzhang-v5.github.io/EcoDiff/)]
 
+**SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training** \
+[[Website](https://arxiv.org/abs/2412.09619)]
+[[Project](https://snap-research.github.io/snapgen/)]
+
+**SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device** \
+[[Website](https://arxiv.org/abs/2412.10494)]
+[[Project](https://snap-research.github.io/snapgen-v/)]
+
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
 
@@ -6912,6 +6920,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://yingqinghe.github.io/LVDM/)] 
 [[Code](https://github.com/YingqingHe/LVDM)]
 
+**HunyuanVideo: A Systematic Framework For Large Video Generative Models** \
+[[Website](https://arxiv.org/abs/2412.03603)]
+[[Project](https://aivideo.hunyuan.tencent.com/)] 
+[[Code](https://github.com/Tencent/HunyuanVideo)]
 
 **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
 [[Website](https://arxiv.org/abs/2306.00943)]
@@ -7748,9 +7760,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.03059)]
 [[Project](https://guyyariv.github.io/TTM/)]
 
-**SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device** \
-[[Website](https://arxiv.org/abs/2412.10494)]
-[[Project](https://snap-research.github.io/snapgen-v/)]
 
 **OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization** \
 [[Website](https://arxiv.org/abs/2412.15159)]
