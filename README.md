@@ -317,6 +317,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Accelerating Diffusion Transformer via Error-Optimized Cache** \
 [[Website](https://arxiv.org/abs/2501.19243)]
 
+**DICE: Distilling Classifier-Free Guidance into Text Embeddings** \
+[[Website](https://arxiv.org/abs/2502.03726)]
+
 **Inference-Time Diffusion Model Distillation** \
 [[Website](https://arxiv.org/abs/2412.08871)]
 
@@ -676,6 +679,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems** \
 [[Website](https://arxiv.org/abs/2407.11288)]
 [[Code](https://github.com/ualcalar17/ZAPS)]
+
+**DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.03810)]
+[[Code](https://github.com/kkkls/DeblurDiff)]
 
 **UniProcessor: A Text-induced Unified Low-level Image Processor** \
 [[Website](https://arxiv.org/abs/2407.20928)]
@@ -2340,6 +2347,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Textualize Visual Prompt for Image Editing via Diffusion Bridge** \
 [[AAAI 2025](https://arxiv.org/abs/2501.03495)]
 [[Project](https://pengchengpcx.github.io/TextVDB/)] 
+
+**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.04050)]
+[[Project](https://partedit.github.io/PartEdit/)] 
 
 **UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics** \
 [[Website](https://arxiv.org/abs/2412.07774)]
@@ -7219,6 +7230,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://x-dyna.github.io/xdyna.github.io/)]
 [[Code](https://github.com/bytedance/X-Dyna)] 
 
+**FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
+[[ICLR 2025](https://arxiv.org/abs/2502.03496)]
+[[Code](https://github.com/fudan-zvg/FreqPrior)]
+
 
 **CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers** \
 [[ICLR 2023](https://arxiv.org/abs/2205.15868)]
@@ -7255,7 +7270,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CascadeV: An Implementation of Wurstchen Architecture for Video Generation** \
 [[Website](https://arxiv.org/abs/2501.16612)]
 [[Code](https://github.com/bytedance/CascadeV)]
-
 
 **Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing** \
 [[Website](https://arxiv.org/abs/2411.16375)]
@@ -7525,6 +7539,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PEEKABOO: Interactive Video Generation via Masked-Diffusion**\
 [[Website](https://arxiv.org/abs/2312.07509)]
 [[Project](https://jinga-lala.github.io/projects/Peekaboo/)]
+
+**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2502.04299)]
+[[Project](https://motion-canvas25.github.io/)] 
 
 **Searching Priors Makes Text-to-Video Synthesis Better** \
 [[Website](https://arxiv.org/abs/2406.03215)]
@@ -8255,6 +8273,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
 [[Website](https://arxiv.org/abs/2308.10079)]
 [[Project](https://medm2023.github.io)]
+
+**DynVFX: Augmenting Real Videos with Dynamic Content** \
+[[Website](https://arxiv.org/abs/2502.03621)]
+[[Project](https://dynvfx.github.io/)]
 
 **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.14780)]
