@@ -3610,6 +3610,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[AAAI 2025](https://arxiv.org/abs/2409.17920)] 
 [[Code](https://github.com/hqhQAQ/MIP-Adapter)]
 
+**Cached Multi-Lora Composition for Multi-Concept Image Generation** \
+[[Website](https://arxiv.org/abs/2502.04923)] 
+[[Code](https://github.com/Yqcca/CMLoRA)]
+
 **Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2408.03632)] 
 [[Code](https://github.com/Nihukat/Concept-Conductor)]
@@ -4472,6 +4476,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2410.21638)] 
 [[Project](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/)] 
 
+**Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment** \
+[[ICLR 2025](https://arxiv.org/abs/2502.05153)] 
+[[Project](https://roar-ai.github.io/hummingbird/)] 
+
 **Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG** \
 [[Website](https://arxiv.org/abs/2412.09614)] 
 [[Project](https://context-canvas.github.io/)] 
@@ -4582,6 +4590,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Generating Compositional Scenes via Text-to-image RGBA Instance Generation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.10913)]
+
+**Decoder-Only LLMs are Better Controllers for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.04412)] 
 
 **A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization** \
 [[Website](https://arxiv.org/abs/2410.00321)] 
@@ -7246,6 +7257,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://x-dyna.github.io/xdyna.github.io/)]
 [[Code](https://github.com/bytedance/X-Dyna)] 
 
+**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation** \
+[[Website](https://arxiv.org/abs/2502.05179)]
+[[Project](https://jshilong.github.io/flashvideo-page/)]
+[[Code](https://github.com/FoundationVision/FlashVideo)] 
+
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -7366,6 +7383,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2409.01199)]
 [[Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
+
+**On-device Sora: Enabling Diffusion-Based Text-to-Video Generation for Mobile Devices** \
+[[Website](https://arxiv.org/abs/2502.04363)]
+[[Code](https://github.com/eai-lab/On-device-Sora)]
 
 **Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation** \
 [[Website](https://arxiv.org/abs/2412.04432)]
@@ -7764,6 +7785,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.03059)]
 [[Project](https://guyyariv.github.io/TTM/)]
 
+**HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation** \
+[[Website](https://arxiv.org/abs/2502.04847)]
+[[Project](https://agnjason.github.io/HumanDiT-page/)]
 
 **OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization** \
 [[Website](https://arxiv.org/abs/2412.15159)]
@@ -7820,6 +7844,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Make Pixels Dance: High-Dynamic Video Generation** \
 [[Website](https://arxiv.org/abs/2311.10982)]
+
+**Fast Video Generation with Sliding Tile Attention** \
+[[Website](https://arxiv.org/abs/2502.04507)]
 
 **Video-Infinity: Distributed Long Video Generation** \
 [[Website](https://arxiv.org/abs/2406.16260)]
