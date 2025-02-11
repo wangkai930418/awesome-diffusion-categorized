@@ -229,6 +229,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.09633)]
 [[Code](https://github.com/razvanmatisan/duodiff)]
 
+**Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation** \
+[[Website](https://arxiv.org/abs/2502.05415)]
+[[Code](https://github.com/zhijie-group/Show-o-Turbo)]
+
 **A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2405.17403)]
 [[Code](https://github.com/nus-hpc-ai-lab/speed)]
@@ -816,6 +820,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Boosting Image Restoration via Priors from Pre-trained Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06793)]
+
+**Inverse Problem Sampling in Latent Space Using Sequential Monte Carlo** \
+[[Website](https://arxiv.org/abs/2502.05908)]
 
 **Human Body Restoration with One-Step Diffusion Model and A New Benchmark** \
 [[Website](https://arxiv.org/abs/2502.01411)]
@@ -3463,6 +3470,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
 [[Website](https://arxiv.org/abs/2306.06638v1)] 
 
+**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2502.06527)] 
+
 **MagiCapture: High-Resolution Multi-Concept Portrait Customization** \
 [[Website](https://arxiv.org/abs/2309.06895)] 
 
@@ -3625,6 +3635,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2405.17965)] 
 [[Code](https://github.com/junjie-shentu/AttenCraft)] 
+
+**FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion** \
+[[Website](https://arxiv.org/abs/2502.05606)] 
+
 
 ## Decomposition
 
@@ -3942,6 +3956,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2304.05265)] 
 [[Code](https://github.com/jnzju/COTI)]
 
+**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation** \
+[[Website](https://arxiv.org/abs/2502.05895)] 
 
 
 
@@ -4851,6 +4867,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **IPO: Iterative Preference Optimization for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2502.02088)] 
+
+**Dual Caption Preference Optimization for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.06023)] 
 
 
 # Spatial Control
@@ -6102,6 +6121,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **What to Preserve and What to Transfer: Faithful, Identity-Preserving Diffusion-based Hairstyle Transfer** \
 [[Website](https://arxiv.org/abs/2408.16450)] 
 [[Code](https://github.com/cychungg/HairFusion)]
+
+**A Large-scale AI-generated Image Inpainting Benchmark** \
+[[Website](https://arxiv.org/abs/2502.06593)] 
+[[Code](https://github.com/mever-team/DiQuID)]
 
 **Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2407.16982)] 
@@ -7408,6 +7431,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.10718)]
 [[Code](https://github.com/Should-AI-Lab/GRID)]
 
+**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT** \
+[[Website](https://arxiv.org/abs/2502.06782)]
+[[Code](https://github.com/Alpha-VLLM/Lumina-Video)]
+
 **MAVIN: Multi-Action Video Generation with Diffusion Models via Transition Video Infilling** \
 [[Website](https://arxiv.org/abs/2405.18003)]
 [[Code](https://github.com/18445864529/MAVIN)]
@@ -7467,6 +7494,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models** \
 [[Website](https://arxiv.org/abs/2412.04446)]
 [[Project](https://liyizhuo.com/DiCoDe/)]
+
+**History-Guided Video Diffusion** \
+[[Website](https://arxiv.org/abs/2502.06764)]
+[[Project](https://boyuan.space/history-guidance/)]
+
+**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2502.05979)]
+[[Project](https://vfx-creator0.github.io/)]
+
 
 **VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation** \
 [[Website](https://arxiv.org/abs/2412.02259)]
@@ -7797,6 +7833,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.13918)]
 [[Project](https://gongyeliu.github.io/videoalign/)]
 
+**Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** \
+[[Website](https://arxiv.org/abs/2502.06145)]
+[[Project](https://humanaigc.github.io/animate-anyone-2/)]
+
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
 
@@ -8067,6 +8107,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion** \
 [[Website](https://arxiv.org/abs/2501.13452)]
 
+**Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile** \
+[[Website](https://arxiv.org/abs/2502.06155)]
+
 
 
 # Video Editing 
@@ -8255,6 +8298,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **COVE: Unleashing the Diffusion Feature Correspondence for Consistent Video Editing** \
 [[Website](https://arxiv.org/abs/2406.08850)]
 [[Code](https://github.com/wangjiangshan0725/COVE)]
+
+**AdaFlow: Efficient Long Video Editing via Adaptive Attention Slimming And Keyframe Selection** \
+[[Website](https://arxiv.org/abs/2502.05433)]
+[[Code](https://github.com/jidantang55/AdaFlow)]
+
 
 **Shape-Aware Text-Driven Layered Video Editing** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Shape-Aware_Text-Driven_Layered_Video_Editing_CVPR_2023_paper.html
