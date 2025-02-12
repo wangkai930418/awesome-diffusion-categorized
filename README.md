@@ -1363,6 +1363,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.11609)]
 
+**Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2502.07381)]
+
+
 
 # Illusion 
 
@@ -5140,6 +5144,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Composite Diffusion | whole >= \Sigma parts** \
 [[Website](https://arxiv.org/abs/2307.13720)] 
 
+**SketchFlex: Facilitating Spatial-Semantic Coherence in Text-to-Image Generation with Region-Based Sketches** \
+[[Website](https://arxiv.org/abs/2502.07556)] 
+
 **Continuous Layout Editing of Single Images with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2306.13078)] 
 
@@ -6857,6 +6864,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://csfufu.github.io/vid_sketch/)] 
 [[Code](https://github.com/CSfufu/VidSketch)]
 
+**Magic 1-For-1: Generating One Minute Video Clips within One Minute** \
+[[Website](https://arxiv.org/abs/2502.07701)]
+[[Project](https://magic-141.github.io/Magic-141/)] 
+[[Code](https://github.com/DA-Group-PKU/Magic-1-For-1)]
 
 **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** \
 [[Website](https://arxiv.org/abs/2311.17117)]
@@ -7974,6 +7985,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ReVideo: Remake a Video with Motion and Content Control** \
 [[Website](https://arxiv.org/abs/2405.13865)]
+
+**Harness Local Rewards for Global Benefits: Effective Text-to-Video Generation Alignment with Patch-level Reward Models** \
+[[Website](https://arxiv.org/abs/2502.06812)]
 
 **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation** \
 [[Website](https://arxiv.org/abs/2405.18156)]
