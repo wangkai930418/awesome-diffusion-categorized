@@ -3137,6 +3137,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://conceptbed.github.io/)] 
 [[Code](https://github.com/conceptbed/evaluations)]
 
+**InstaStyle: Inversion Noise of a Stylized Image is Secretly a Style Adviser** \
+[[ECCV 2024](https://arxiv.org/abs/2311.15040)] 
+[[Project](https://cuixing100876.github.io/instastyle.github.io/)] 
+[[Code](https://github.com/cuixing100876/InstaStyle)] 
+
 **The Hidden Language of Diffusion Models** \
 [[ICLR 2024](https://arxiv.org/abs/2306.00966)] 
 [[Project](https://hila-chefer.github.io/Conceptor/)] 
@@ -3237,11 +3242,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jmhb0.github.io/viewneti/)] 
 [[Code](https://github.com/jmhb0/view_neti)]
 
+**AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** \
+[[Website](https://arxiv.org/abs/2502.08189)] 
+[[Project](https://anycharv.github.io/)] 
+[[Code](https://github.com/AnyCharV/AnyCharV)]
 
-**InstaStyle: Inversion Noise of a Stylized Image is Secretly a Style Adviser** \
-[[ECCV 2024](https://arxiv.org/abs/2311.15040)] 
-[[Project](https://cuixing100876.github.io/instastyle.github.io/)] 
-[[Code](https://github.com/cuixing100876/InstaStyle)] 
+
 
 **Visual Style Prompting with Swapping Self-Attention** \
 [[Website](https://arxiv.org/abs/2402.12974)] 
@@ -3332,6 +3338,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LogoSticker: Inserting Logos into Diffusion Models for Customized Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2407.13752)] 
 [[Project](https://mingkangz.github.io/logosticker/)] 
+
+**Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** \
+[[Website](https://arxiv.org/abs/2502.07802)] 
+[[Project](https://jeff-liangf.github.io/projects/movieweaver/)] 
+
 **Diffusion Self-Distillation for Zero-Shot Customized Image Generation** \
 [[Website](https://arxiv.org/abs/2411.18616)] 
 [[Project](https://primecai.github.io/dsd/)] 
@@ -7064,6 +7075,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://wzhouxiff.github.io/projects/MotionCtrl/)] 
 [[Code](https://github.com/TencentARC/MotionCtrl)]
 
+**FloVD: Optical Flow Meets Video Diffusion Model for Enhanced Camera-Controlled Video Synthesis** \
+[[Website](https://arxiv.org/abs/2502.08244)]
+[[Project](https://jinwonjoon.github.io/flovd_site/)] 
+[[Code](https://github.com/JinWonjoon/FloVD/)]
 
 **ART⋅V: Auto-Regressive Text-to-Video Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.18834)]
@@ -7514,6 +7529,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.05979)]
 [[Project](https://vfx-creator0.github.io/)]
 
+**CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2502.08639)]
+[[Project](https://cinemaster-dev.github.io/)]
 
 **VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation** \
 [[Website](https://arxiv.org/abs/2412.02259)]
@@ -8183,7 +8201,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://magic-edit.github.io/)] 
 [[Code](https://github.com/magic-research/magic-edit)] 
 
-
+**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion** \
+[[Website](https://arxiv.org/abs/2502.08590)]
+[[Project](https://bujiazi.github.io/light-a-video.github.io/)] 
+[[Code](https://github.com/bcmi/Light-A-Video/)] 
 
 **TokenFlow: Consistent Diffusion Features for Consistent Video Editing** \
 [[Website](https://arxiv.org/abs/2307.10373)]
