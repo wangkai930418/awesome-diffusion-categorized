@@ -353,6 +353,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration** \
 [[Website](https://arxiv.org/abs/2412.11706)]
 
+**Score-of-Mixture Training: Training One-Step Generative Models Made Simple** \
+[[Website](https://arxiv.org/abs/2502.09609)]
 
 **Partially Conditioned Patch Parallelism for Accelerated Diffusion Model Inference** \
 [[Website](https://arxiv.org/abs/2412.02962)]
@@ -3196,6 +3198,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.17048)] 
 [[Project](https://personalvideo.github.io/)] 
 [[Code](https://github.com/EchoPluto/PersonalVideo)] 
+
+**StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.09064)] 
+[[Project](https://zichongc.github.io/StyleBlend/)] 
+[[Code](https://github.com/zichongc/StyleBlend)] 
 
 **CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs//2310.19784)] 
@@ -6336,6 +6343,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models** \
 [[Website](https://arxiv.org/abs/2501.12267)] 
 
+**E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization** \
+[[Website](https://arxiv.org/abs/2502.09164)] 
+
+
+
 
 # Layout Generation
 
@@ -8141,6 +8153,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile** \
 [[Website](https://arxiv.org/abs/2502.06155)]
+
+**Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model** \
+[[Website](https://arxiv.org/abs/2502.09533)]
 
 
 
