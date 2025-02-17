@@ -686,6 +686,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
 [[Code](https://github.com/shermanlian/spatial-entropy-loss)]
 
+**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
+[[Website](https://arxiv.org/abs/2502.09873)]
+[[Code](https://github.com/jp-guo/CODiff)]
+
 **Reversing the Damage: A QP-Aware Transformer-Diffusion Approach for 8K Video Restoration under Codec Compression** \
 [[Website](https://arxiv.org/abs/2412.08912)]
 [[Code](https://github.com/alimd94/DiQP)]
@@ -4099,6 +4103,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+
+**Region-Adaptive Sampling for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2502.10389)] 
+[[Project](https://microsoft.github.io/RAS/)] 
+[[Code](https://github.com/microsoft/RAS)]
+
 **Make It Count: Text-to-Image Generation with an Accurate Number of Objects** \
 [[Website](https://arxiv.org/abs/2406.10210)] 
 [[Project](https://make-it-count-paper.github.io//)] 
@@ -4893,8 +4903,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Dual Caption Preference Optimization for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.06023)] 
 
+**Generating on Generated: An Approach Towards Self-Evolving Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.09963)] 
 
-# Spatial Control
+## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
 [[ICML 2023](https://icml.cc/virtual/2023/poster/23809)] 
@@ -5409,6 +5421,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **A Diffusion Model Translator for Efficient Image-to-Image Translation** \
 [[Website](https://arxiv.org/abs/2502.00307)]
 
+**Bidirectional Diffusion Bridge Models** \
+[[Website](https://arxiv.org/abs/2502.09655)]
 
 
 
@@ -6644,6 +6658,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CharGen: High Accurate Character-Level Visual Text Generation Model with MultiModal Encoder** \
 [[Website](https://arxiv.org/abs/2412.17225)]
 
+**Precise Parameter Localization for Textual Generation in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.09935)]
 
 
 # Video Generation 
@@ -7601,6 +7617,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.02617)]
 [[Project](https://sites.google.com/view/aif-dynamic-t2v/)]
 
+**RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control** \
+[[Website](https://arxiv.org/abs/2502.10059)]
+[[Project](https://zgctroy.github.io/RealCam-I2V/)]
 
 **FrameBridge: Improving Image-to-Video Generation with Bridge Models** \
 [[Website](https://arxiv.org/abs/2410.15371)]
