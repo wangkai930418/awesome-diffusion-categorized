@@ -4414,6 +4414,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.07157)] 
 [[Code](https://github.com/PeterGriffinJin/InstructG2I)]
 
+**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening** \
+[[Website](https://arxiv.org/abs/2502.12146)] 
+[[Code](https://github.com/Gen-Verse/Diffusion-Sharpening)]
 
 **Detector Guidance for Multi-Object Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2306.02236)] 
@@ -5991,6 +5994,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UNIC-Adapter: Unified Image-instruction Adapter with Multi-modal Transformer for Image Generation** \
 [[Website]](https://arxiv.org/abs/2412.18928) 
 
+**FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation** \
+[[Website]](https://arxiv.org/abs/2502.10451) 
+
+
 
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
@@ -7223,6 +7230,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://fcvg-inbetween.github.io/)]
 [[Code](https://github.com/Tian-one/FCVG)] 
 
+**SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2502.10841)]
+[[Project](https://skyworkai.github.io/skyreels-a1.github.io/)]
+[[Code](https://github.com/SkyworkAI/SkyReels-A1)] 
 
 **HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level and Fidelity-Rich Conditions in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.22901)]
