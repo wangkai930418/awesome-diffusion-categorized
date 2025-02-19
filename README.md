@@ -4909,6 +4909,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Generating on Generated: An Approach Towards Self-Evolving Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.09963)] 
 
+**CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2502.12579)] 
+
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -8187,6 +8191,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model** \
 [[Website](https://arxiv.org/abs/2502.09533)]
 
+**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation** \
+[[Website](https://arxiv.org/abs/2502.12632)]
 
 
 # Video Editing 
