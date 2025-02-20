@@ -3258,6 +3258,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://anycharv.github.io/)] 
 [[Code](https://github.com/AnyCharV/AnyCharV)]
 
+**Kosmos-G: Generating Images in Context with Multimodal Large Language Models** \
+[[Website](https://arxiv.org/abs/2310.02992)] 
+[[Project](https://xichenpan.com/kosmosg/)] 
+[[Code](https://github.com/xichenpan/Kosmos-G)]
 
 
 **Visual Style Prompting with Swapping Self-Attention** \
