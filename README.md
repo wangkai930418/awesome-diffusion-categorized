@@ -4103,6 +4103,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+**IP-Composer: Semantic Composition of Visual Concepts** \
+[[Website](https://arxiv.org/abs/2502.13951)] 
+[[Project](https://ip-composer.github.io/IP-Composer/)] 
+[[Code](https://github.com/ip-composer/IP-Composer/tree/master)]
 
 **Region-Adaptive Sampling for Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2502.10389)] 
@@ -7354,6 +7358,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jshilong.github.io/flashvideo-page/)]
 [[Code](https://github.com/FoundationVision/FlashVideo)] 
 
+**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching** \
+[[Website](https://arxiv.org/abs/2502.13234)]
+[[Project](https://www.csie.ntu.edu.tw/~b09902097/motionmatcher/)]
+[[Code](https://github.com/b09902097/motionmatcher)] 
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
