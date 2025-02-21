@@ -2615,6 +2615,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion-Based Conditional Image Editing through Optimized Inference with Guidance** \
 [[Website](https://arxiv.org/abs/2412.15798)]
 
+**PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data** \
+[[Website](https://arxiv.org/abs/2502.14397)]
+
 
 # Diffusion Models Inversion
 
@@ -3076,6 +3079,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders** \
 [[Website](https://arxiv.org/abs/2501.18052)] 
 
+**Erasing with Precision: Evaluating Specific Concept Erasure from Text-to-Image Generative Models** \
+[[Website](https://arxiv.org/abs/2502.13989)] 
+
 
 # New Concept Learning
 
@@ -3393,6 +3399,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PortraitBooth: A Versatile Portrait Model for Fast Identity-preserved Personalization** \
 [[Website](https://arxiv.org/abs/2312.06354)] 
 [[Project](https://portraitbooth.github.io/)] 
+
+**Dynamic Concepts Personalization from Single Videos** \
+[[Website](https://arxiv.org/abs/2502.14844)] 
+[[Project](https://snap-research.github.io/dynamic_concepts/)] 
 
 **Subject-driven Text-to-Image Generation via Apprenticeship Learning** \
 [[Website](https://arxiv.org/abs/2304.00186)] 
@@ -3823,6 +3833,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
 [[Website](https://arxiv.org/abs/2403.11781)] 
 [[Project](https://infinite-id.github.io/)] 
+
+**DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation** \
+[[Website](https://arxiv.org/abs/2502.13999)] 
 
 
 ## General Concept 
@@ -4649,6 +4662,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Generating Compositional Scenes via Text-to-image RGBA Instance Generation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.10913)]
+
+**DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models** \
+[[AAAI 2025](https://arxiv.org/abs/2502.14070)] 
 
 **Decoder-Only LLMs are Better Controllers for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.04412)] 
@@ -5963,6 +5979,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EditAR: Unified Conditional Generation with Autoregressive Models** \
 [[Website](https://arxiv.org/abs/2501.04699)] 
 [[Project](https://jitengmu.github.io/EditAR/)] 
+
+**DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.14779)] 
+[[Project](https://um-lab.github.io/DC-ControlNet/)] 
+
+**RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2502.14377)] 
+[[Project](https://relactrl.github.io/RelaCtrl/)] 
+
 
 **Sketch-Guided Scene Image Generation** \
 [[Website](https://arxiv.org/abs/2407.06469)] 
