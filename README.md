@@ -282,6 +282,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2023](https://arxiv.org/abs/2306.00980)]
 [[Project](https://snap-research.github.io/SnapFusion/)]
 
+**One-step Diffusion Models with f-Divergence Distribution Matching** \
+[[Website](https://arxiv.org/abs/2502.15681)]
+[[Project](https://research.nvidia.com/labs/genair/f-distill/)]
+
+
 **Diffusion Adversarial Post-Training for One-Step Video Generation** \
 [[Website](https://arxiv.org/abs/2501.08316)]
 [[Project](https://seaweed-apt.com/)]
