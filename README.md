@@ -2212,6 +2212,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://instantswap.github.io/)] 
 [[Code](https://github.com/chenyangzhu1/InstantSwap)] 
 
+**KV-Edit: Training-Free Image Editing for Precise Background Preservation** \
+[[Website](https://arxiv.org/abs/2502.17363)] 
+[[Project](https://xilluill.github.io/projectpages/KV-Edit/)] 
+[[Code](https://github.com/Xilluill/KV-Edit)] 
 
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
@@ -3086,6 +3090,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Erasing with Precision: Evaluating Specific Concept Erasure from Text-to-Image Generative Models** \
 [[Website](https://arxiv.org/abs/2502.13989)] 
+
+**Concept Corrector: Erase concepts on the fly for text-to-image diffusion models** \
+[[Website](https://arxiv.org/abs/2502.16368)] 
 
 
 # New Concept Learning
@@ -7397,6 +7404,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://www.csie.ntu.edu.tw/~b09902097/motionmatcher/)]
 [[Code](https://github.com/b09902097/motionmatcher)] 
 
+**RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2502.15894)]
+[[Project](https://riflex-video.github.io/)]
+[[Code](https://github.com/thu-ml/RIFLEx)] 
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -8251,6 +8263,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://text2live.github.io/)] 
 [[code](https://github.com/omerbt/Text2LIVE)]
 
+**VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing** \
+[[ICLR 2025](https://arxiv.org/abs/2502.17258)]
+[[Project](https://knightyxp.github.io/VideoGrain_project_page/)] 
+[[Code](https://github.com/knightyxp/VideoGrain)] 
 
 **Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding** \
 [[CVPR 2023](https://arxiv.org/abs/2212.02802)]
