@@ -2963,6 +2963,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.18950)] 
 [[Code](https://github.com/tuananhbui89/Adaptive-Guided-Erasure)]
 
+**On the Vulnerability of Concept Erasure in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2502.17537)] 
+[[Code](https://github.com/LucasBeerens/RECORD)]
+
 <!-- 
 **Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
 [[Website](https://arxiv.org/abs/2412.05980)] 
@@ -3200,6 +3204,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2404.12333)] 
 [[Project](https://customdiffusion360.github.io/)] 
 [[Code](https://github.com/customdiffusion360/custom-diffusion360)]
+
+**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs** \
+[[Website](https://arxiv.org/abs/2502.18461)] 
+[[Project](https://k-lora.github.io/K-LoRA.io/)] 
+[[Code](https://github.com/HVision-NKU/K-LoRA)]
 
 **StyleDrop: Text-to-Image Generation in Any Style** \
 [[Website](https://arxiv.org/abs/2306.00983)] 
@@ -4291,6 +4300,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.01339)] 
 [[Project](https://negtome.github.io/)] 
 [[Code](https://github.com/1jsingh/negtome)]
+
+**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation** \
+[[Website](https://arxiv.org/abs/2502.18302)] 
+[[Project](https://zrealli.github.io/LDGen/)] 
+[[Code](https://github.com/zrealli/LDGen)]
 
 **Iterative Object Count Optimization for Text-to-image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.11721)] 
