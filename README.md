@@ -957,6 +957,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://johanan528.github.io/MangaNinjia/)]
 [[Code](https://github.com/ali-vilab/MangaNinjia)]
 
+**Image Referenced Sketch Colorization Based on Animation Creation Workflow** \
+[[Website](https://arxiv.org/abs/2502.19937)]
+[[Code](https://github.com/tellurion-kanata/colorizeDiffusion)]
 
 **ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text** \
 [[Website](https://arxiv.org/abs/2401.01456)]
@@ -2628,7 +2631,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.14397)]
 
 
-# Diffusion Models Inversion
+## Diffusion Models Inversion
 
 ⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] 
@@ -2753,6 +2756,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.09468)] 
 [[Code](https://github.com/furiosa-ai/eta-inversion)] 
 
+**Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
+[[Website](https://arxiv.org/abs/2502.20376)] 
+[[Project](https://tight-inversion.github.io/)] 
+
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2309.04907)]
@@ -2801,6 +2808,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Exploring Optimal Latent Trajetory for Zero-shot Image Editing** \
 [[Website](https://arxiv.org/abs/2501.03631)]
+
+**Identity-preserving Distillation Sampling by Fixed-Point Iterator** \
+[[Website](https://arxiv.org/abs/2502.19930)]
 
 
 # Continual Learning
@@ -6953,6 +6963,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://xizaoqu.github.io/trajattn/)] 
 [[Code](https://github.com/xizaoqu/TrajectoryAttntion)]
 
+**Mobius: Text to Seamless Looping Video Generation via Latent Shift** \
+[[Website](https://arxiv.org/abs/2502.20307)]
+[[Project](https://mobius-diffusion.github.io/)] 
+[[Code](https://github.com/YisuiTT/Mobius)]
+
 **GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration** \
 [[Website](https://arxiv.org/abs/2412.04440)]
 [[Project](https://karine-h.github.io/GenMAC/)] 
@@ -7555,6 +7570,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations** \
 [[Website](https://arxiv.org/abs/2411.10818)]
 [[Code](https://github.com/hmrishavbandy/FlipSketch)]
+
+**C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation** \
+[[Website](https://arxiv.org/abs/2502.19868)]
+[[Code](https://github.com/WesLee88524/C-Drag-Official-Repo)]
 
 **IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis** \
 [[Website](https://arxiv.org/abs/2410.04171)]
