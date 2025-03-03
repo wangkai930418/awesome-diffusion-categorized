@@ -934,6 +934,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration** \
 [[Website](https://arxiv.org/abs/2501.10325)]
 
+**Diffusion Restoration Adapter for Real-World Image Restoration** \
+[[Website](https://arxiv.org/abs/2502.20679)]
+
+
 
 ## Colorization
 
@@ -2309,6 +2313,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2306.00950)] 
 [[Code](https://github.com/exx8/differential-diffusion)] 
 
+**MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing** \
+[[Website](https://arxiv.org/abs/2502.21291)]
+[[Code](https://github.com/Eureka-Maggie/MIGE)] 
 
 **Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing** \
 [[Website](https://arxiv.org/abs/2403.13551)]
@@ -3107,6 +3114,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Concept Corrector: Erase concepts on the fly for text-to-image diffusion models** \
 [[Website](https://arxiv.org/abs/2502.16368)] 
+
+**SafeText: Safe Text-to-image Models via Aligning the Text Encoder** \
+[[Website](https://arxiv.org/abs/2502.20623)] 
 
 
 # New Concept Learning
@@ -4701,6 +4711,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models** \
 [[AAAI 2025](https://arxiv.org/abs/2502.14070)] 
+
+**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting** \
+[[CVPR 2025](https://arxiv.org/abs/2502.04412)] 
+
+**DiffBrush:Just Painting the Art by Your Hands** \
+[[Website](https://arxiv.org/abs/2502.20904)] 
 
 **Decoder-Only LLMs are Better Controllers for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.04412)] 
@@ -8280,6 +8296,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation** \
 [[Website](https://arxiv.org/abs/2502.12632)]
+
+**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos** \
+[[Website](https://arxiv.org/abs/2502.21314)]
+
+**Training-free and Adaptive Sparse Attention for Efficient Long Video Generation** \
+[[Website](https://arxiv.org/abs/2502.21079)]
 
 
 # Video Editing 
