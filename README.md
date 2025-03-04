@@ -213,6 +213,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2502.01441)]
 [[Code](https://github.com/quandao10/sLCT/)]
 
+**CacheQuant: Comprehensively Accelerated Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2503.01323)]
+[[Code](https://github.com/BienLuky/CacheQuant)]
+
 **Accelerating Vision Diffusion Transformers with Skip Branches** \
 [[Website](https://arxiv.org/abs/2411.17616)]
 [[Code](https://github.com/OpenSparseLLMs/Skip-DiT)]
@@ -683,6 +687,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2410.18666)]
 [[Code](https://github.com/shallowdream204/DreamClear)]
 
+**Reconciling Stochastic and Deterministic Strategies for Zero-shot Image Restoration using Diffusion Model in Dual** \
+[[CVPR 2025](https://arxiv.org/abs/2503.01288)]
+[[Code](https://github.com/ChongWang1024/RDMD)]
+
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
 [[Code](https://github.com/Algolzw/image-restoration-sde)]
@@ -1071,6 +1079,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[IEE TCSVT 2024](https://arxiv.org/abs/2404.18820)] 
 [[Code](https://github.com/huai-chang/DiffEIC)] 
 
+**Taming Large Multimodal Agents for Ultra-low Bitrate Semantically Disentangled Image Compression** \
+[[CVPR 2025](https://arxiv.org/abs/2503.00399)] 
+[[Code](https://github.com/yang-xidian/SEDIC)] 
 
 **Diffusion-based Extreme Image Compression with Compressed Feature Initialization** \
 [[Website](https://arxiv.org/abs/2410.02640)] 
@@ -1756,6 +1767,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
 [[IJCAI 2024](https://arxiv.org/abs/2404.14162)]
+
+**Fine-Grained Controllable Apparel Showcase Image Generation via Garment-Centric Outpainting** \
+[[Website](https://arxiv.org/abs/2503.01294)]
 
 **GraVITON: Graph based garment warping with attention guided inversion for Virtual-tryon** \
 [[Website](https://arxiv.org/abs/2406.02184)]
@@ -3563,6 +3577,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics** \
 [[Website](https://arxiv.org/abs/2311.09753)] 
 
+**ACCORD: Alleviating Concept Coupling through Dependence Regularization for Text-to-Image Diffusion Personalization** \
+[[Website](https://arxiv.org/abs/2503.01122)] 
+
 **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.11919)] 
 
@@ -4715,6 +4732,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting** \
 [[CVPR 2025](https://arxiv.org/abs/2502.04412)] 
 
+**A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning** \
+[[Website](https://arxiv.org/abs/2503.00897)] 
+
 **DiffBrush:Just Painting the Art by Your Hands** \
 [[Website](https://arxiv.org/abs/2502.20904)] 
 
@@ -5168,6 +5188,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Enhancing Object Coherence in Layout-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.10522)] 
 [[Code](https://github.com/CodeGoat24/EOCNet)]
+
+**ToLo: A Two-Stage, Training-Free Layout-To-Image Generation Framework For High-Overlap Layouts** \
+[[Website](https://arxiv.org/abs/2503.01667)] 
+[[Code](https://github.com/misaka12435/ToLo)]
 
 **Training-free Regional Prompting for Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2411.02395)] 
@@ -6672,6 +6696,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2406.08392)]
 [[Project](https://font-studio.github.io/)] 
 
+**DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2503.01645)]
+
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
 
@@ -8017,6 +8044,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
+
+**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think** \
+[[CVPR 2025](https://arxiv.org/abs/2503.00948)]
 
 **Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion** \
 [[Website](https://arxiv.org/abs/2501.09019)]
