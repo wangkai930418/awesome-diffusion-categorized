@@ -2506,6 +2506,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.14430)]
 [[Project](https://omriavrahami.com/stable-flow/)]
 
+**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
+[[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
+
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
@@ -5213,6 +5216,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.14324)] 
 [[Code](https://github.com/360CVGroup/HiCo_T2I)]
 
+**StageDesigner: Artistic Stage Generation for Scenography via Theater Scripts** \
+[[CVPR 2025](https://arxiv.org/abs/2503.02595)] 
+[[Project](https://deadsmither5.github.io/2025/01/03/StageDesigner/#)] 
 
 **Layered Rendering Diffusion Model for Zero-Shot Guided Image Synthesis** \
 [[ECCV 2024](https://arxiv.org/abs/2311.18435)] 
