@@ -6486,6 +6486,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization** \
 [[Website](https://arxiv.org/abs/2502.09164)] 
 
+**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs//2503.04215)] 
 
 
 
