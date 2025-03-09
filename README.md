@@ -1098,6 +1098,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression** \
 [[AAAI 2025](https://arxiv.org/abs/2412.11379)]
 
+**Invertible Diffusion Models for Compressed Sensing** \
+[[TPAMI 2025](https://arxiv.org/abs/2403.17006)]
+
 **Diffusion-based Perceptual Neural Video Compression with Temporal Diffusion Information Reuse** \
 [[Website](https://arxiv.org/abs/2501.13528)]
 
