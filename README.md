@@ -341,6 +341,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DICE: Distilling Classifier-Free Guidance into Text Embeddings** \
 [[Website](https://arxiv.org/abs/2502.03726)]
 
+**ProReflow: Progressive Reflow with Decomposed Velocity** \
+[[Website](https://arxiv.org/abs/2503.04824)]
+
 **Inference-Time Diffusion Model Distillation** \
 [[Website](https://arxiv.org/abs/2412.08871)]
 
@@ -1346,6 +1349,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TDDSR: Single-Step Diffusion with Two Discriminators for Super Resolution** \
 [[Website](https://arxiv.org/abs/2410.07663)]
+
+**QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2503.05584)]
 
 **ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2410.13807)]
@@ -7122,6 +7128,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://desaixie.github.io/pa-vdm/)] 
 [[Code](https://github.com/desaixie/pa_vdm)]
 
+**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.05638)]
+[[Project](https://trajectorycrafter.github.io/)] 
+[[Code](https://github.com/TrajectoryCrafter/TrajectoryCrafter)]
+
 **TrailBlazer: Trajectory Control for Diffusion-Based Video Generation** \
 [[Website](https://arxiv.org/abs/2401.00896)]
 [[Project](https://hohonu-vicml.github.io/Trailblazer.Page/)] 
@@ -7704,6 +7715,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models** \
 [[Website](https://arxiv.org/abs/2412.04446)]
 [[Project](https://liyizhuo.com/DiCoDe/)]
+
+**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation** \
+[[Website](https://arxiv.org/abs/2503.04606)]
+[[Project](https://landiff.github.io/)]
 
 **History-Guided Video Diffusion** \
 [[Website](https://arxiv.org/abs/2502.06764)]
