@@ -727,6 +727,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
 [[Code](https://github.com/shermanlian/spatial-entropy-loss)]
 
+**FlowDPS: Flow-Driven Posterior Sampling for Inverse Problems** \
+[[Website](https://arxiv.org/abs/2503.08136)]
+[[Code](https://github.com/FlowDPS-Inverse/FlowDPS)]
+
 **Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
 [[Website](https://arxiv.org/abs/2502.09873)]
 [[Code](https://github.com/jp-guo/CODiff)]
@@ -871,6 +875,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Boosting Image Restoration via Priors from Pre-trained Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06793)]
+
+**Seeing Beyond Haze: Generative Nighttime Image Dehazing** \
+[[Website](https://arxiv.org/abs/2503.08073)]
 
 **Inverse Problem Sampling in Latent Space Using Sequential Monte Carlo** \
 [[Website](https://arxiv.org/abs/2502.05908)]
@@ -1115,6 +1122,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2503.00399)] 
 [[Code](https://github.com/yang-xidian/SEDIC)] 
 
+**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing** \
+[[CVPR 2025](https://arxiv.org/abs/2503.08429)] 
+[[Code](https://github.com/FengodChen/DMP-DUN-CVPR2025)] 
+
 **Diffusion-based Extreme Image Compression with Compressed Feature Initialization** \
 [[Website](https://arxiv.org/abs/2410.02640)] 
 [[Code](https://github.com/huai-chang/RDEIC)] 
@@ -1218,6 +1229,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Iterative Token Evaluation and Refinement for Real-World Super-Resolution** \
 [[AAAI 2024](https://arxiv.org/abs/2312.05616)] 
 [[Code](https://github.com/chaofengc/ITER)] 
+
+**MegaSR: Mining Customized Semantics and Expressive Guidance for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2503.08096)] 
+[[Code](https://github.com/striveAgain/MegaSR)] 
 
 **One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation** \
 [[Website](https://arxiv.org/abs/2502.01993)] 
@@ -1436,6 +1451,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Spatial Degradation-Aware and Temporal Consistent Diffusion Model for Compressed Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2502.07381)]
 
+**AdaptSR: Low-Rank Adaptation for Efficient and Scalable Real-World Super-Resolution** \
+[[Website](https://arxiv.org/abs/2503.07748)]
 
 
 # Illusion 
@@ -1711,6 +1728,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.05139)]
 [[Project](https://idm-vton.github.io/)] 
 [[Code](https://github.com/yisol/IDM-VTON)]
+
+**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input** \
+[[Website](https://arxiv.org/abs/2503.08650)]
+[[Project](https://zhenchenwan.github.io/MF-VITON/)] 
+[[Code](https://github.com/ZhenchenWan/MF-VITON-High-Fidelity-Mask-Free-Virtual-Try-On-with-Minimal-Input)]
 
 **D4-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On** \
 [[ECCV 2024](https://arxiv.org/abs/2407.15111)]
@@ -3015,6 +3037,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.01633)] 
 [[Code](https://github.com/120L020904/ACE)]
 
+**ACE: Concept Editing in Diffusion Models without Performance Degradation** \
+[[Website](https://arxiv.org/abs/2503.08116)] 
+[[Code](https://github.com/littlelittlenine/ACE-zero)]
 
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
@@ -3806,6 +3831,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion** \
 [[Website](https://arxiv.org/abs/2502.05606)] 
 
+**Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation** \
+[[Website](https://arxiv.org/abs/2503.08575)] 
+
 
 ## Decomposition
 
@@ -4286,6 +4314,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.07860)] 
 [[Project](https://shihaozhaozsh.github.io/LaVi-Bridge/)] 
 [[Code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)]
+
+**Aligning Text to Image in Diffusion Models is Easier Than You Think** \
+[[Website](https://arxiv.org/abs/2503.08250)] 
+[[Project](https://softrepa.github.io/)] 
+[[Code](https://github.com/softrepa/SoftREPA)]
+
+**Bokeh Diffusion: Defocus Blur Control in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.08434)] 
+[[Project](https://atfortes.github.io/projects/bokeh-diffusion/)] 
+[[Code](https://github.com/atfortes/BokehDiffusion)]
 
 **MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts** \
 [[Website](https://arxiv.org/abs/2410.23332)] 
@@ -4809,6 +4847,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting** \
 [[CVPR 2025](https://arxiv.org/abs/2502.04412)] 
+
+**PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference Time by Leveraging Sparsity** \
+[[Website](https://arxiv.org/abs/2503.07677)] 
 
 **ROCM: RLHF on consistency models** \
 [[Website](https://arxiv.org/abs/2503.06171)] 
@@ -6102,6 +6143,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.15098)] 
 [[Code](https://github.com/Yuanshi9815/OminiControl)]
 
+**OminiControl2: Efficient Conditioning for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2503.08280)] 
+[[Code](https://github.com/Yuanshi9815/OminiControl)]
+
+
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
 [[Project](https://mcm-diffusion.github.io/)] 
@@ -6440,6 +6486,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Yuan: Yielding Unblemished Aesthetics Through A Unified Network for Visual Imperfections Removal in Generated Images** \
 [[Website](https://arxiv.org/abs/2501.08505)] 
 [[Code](https://github.com/YuZhenyuLindy/Yuan)] 
+
+**OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting** \
+[[Website](https://arxiv.org/abs/2503.08677)] 
+[[Code](https://github.com/yeates/OmniPaint-Page/)] 
 
 **AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03028.pdf)] 
@@ -7594,6 +7644,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.15894)]
 [[Project](https://riflex-video.github.io/)]
 [[Code](https://github.com/thu-ml/RIFLEx)] 
+
+**WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2503.08153)]
+[[Project](https://360cvgroup.github.io/WISA/)]
+[[Code](https://github.com/360CVGroup/WISA)] 
+
+**Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling** \
+[[Website](https://arxiv.org/abs/2503.08605)]
+[[Project](https://syncos2025.github.io/)]
+[[Code](https://github.com/subin-kim-cv/SynCoS)] 
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
