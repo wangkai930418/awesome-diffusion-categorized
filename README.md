@@ -1126,6 +1126,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2503.08429)] 
 [[Code](https://github.com/FengodChen/DMP-DUN-CVPR2025)] 
 
+**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling** \
+[[Website](https://arxiv.org/abs/2503.09368)] 
+[[Code](https://github.com/Nikolai10/PerCoV2)] 
+
 **Diffusion-based Extreme Image Compression with Compressed Feature Initialization** \
 [[Website](https://arxiv.org/abs/2410.02640)] 
 [[Code](https://github.com/huai-chang/RDEIC)] 
@@ -2483,6 +2487,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.04050)]
 [[Project](https://partedit.github.io/PartEdit/)] 
 
+**InteractEdit: Zero-Shot Editing of Human-Object Interactions in Images** \
+[[Website](https://arxiv.org/abs/2503.09130)]
+[[Project](https://jiuntian.github.io/interactedit/)] 
+
 **UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics** \
 [[Website](https://arxiv.org/abs/2412.07774)]
 [[Project](https://xavierchen34.github.io/UniReal-Page/)] 
@@ -3214,6 +3222,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SafeText: Safe Text-to-image Models via Aligning the Text Encoder** \
 [[Website](https://arxiv.org/abs/2502.20623)] 
+
+**Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.09446)] 
+
 
 
 # New Concept Learning
@@ -6147,6 +6159,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.08280)] 
 [[Code](https://github.com/Yuanshi9815/OminiControl)]
 
+**UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2503.09277)] 
+[[Code](https://github.com/Xuan-World/UniCombine)]
 
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
@@ -7029,6 +7044,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2402.17485)]
 [[Project](https://humanaigc.github.io/emote-portrait-alive/)] 
 [[Code](https://github.com/HumanAIGC/EMO)]
+
+**PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop** \
+[[Website](https://arxiv.org/abs/2503.09595)]
+[[Project](https://vision-x-nyu.github.io/pisa-experiments.github.io/)] 
+[[Code](https://github.com/vision-x-nyu/pisa-experiments)]
+
+**TPDiff: Temporal Pyramid Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2503.09566)]
+[[Project](https://showlab.github.io/TPDiff/)] 
+[[Code](https://github.com/showlab/TPDiff)]
 
 **T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design** \
 [[Website](https://arxiv.org/abs/2410.05677)]
