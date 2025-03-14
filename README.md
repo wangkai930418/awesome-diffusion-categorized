@@ -177,6 +177,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://t-stitch.github.io/)]
 [[Code](https://github.com/NVlabs/T-Stitch)]
 
+**Accelerating Diffusion Sampling via Exploiting Local Transition Coherence** \
+[[Website](https://arxiv.org/abs/2503.09675)]
+[[Project](https://zhushangwen.github.io/LTC-accel.io/)]
+[[Code](https://github.com/zhushangwen/LTC-Accel)]
+
 **Relational Diffusion Distillation for Efficient Image Generation** \
 [[ACM MM 2024 (Oral)](https://arxiv.org/abs/2410.07679)]
 [[Code](https://github.com/cantbebetter2/RDD)]
@@ -2191,6 +2196,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zwl666666.github.io/infusion/)] 
 [[Code](https://github.com/zwl666666/infusion)] 
 
+**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing** \
+[[Website](https://arxiv.org/abs/2503.10270)] 
+[[Project](https://eff-edit.github.io/)] 
+[[Code](https://github.com/yuriYanZeXuan/EEdit)] 
+
 **StyleBooth: Image Style Editing with Multimodal Instruction** \
 [[Website](https://arxiv.org/abs/2404.12154)] 
 [[Project](https://ali-vilab.github.io/stylebooth-page/)] 
@@ -2363,6 +2373,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing** \
 [[Website](https://arxiv.org/abs/2411.19652)] 
 [[Code](https://github.com/Mowenyii/Uniform-Attention-Maps)] 
+
+**MoEdit: On Learning Quantity Perception for Multi-object Image Editing** \
+[[Website](https://arxiv.org/abs/2503.10112)] 
+[[Code](https://github.com/Tear-kitty/MoEdit)] 
 
 **FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing** \
 [[Website](https://arxiv.org/abs/2408.12429)] 
@@ -2954,6 +2968,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.14159)] 
 [[Project](https://hecoding.github.io/open-world-forgetting/)]
 
+**ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation** \
+[[CVPR 2025](https://arxiv.org/abs/2503.10358)] 
+
 **Class-Incremental Learning using Diffusion Model for Distillation and Replay** \
 [[ICCV 2023 VCL workshop best paper](https://arxiv.org/abs/2306.17560)] 
 
@@ -3089,10 +3106,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.07392)] 
 [[Code](https://github.com/Ouxiang-Li/SPEED)]
 
-<!-- 
-**Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
-[[Website](https://arxiv.org/abs/2412.05980)] 
-[[Code](https://github.com/songyiren725/AntiReference)] -->
+**CASteer: Steering Diffusion Models for Controllable Generation** \
+[[Website](https://arxiv.org/abs/2503.09630)] 
+[[Code](https://github.com/Atmyre/CASteer)]
+
 
 **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
 [[Website](https://arxiv.org/abs/2410.12777)] 
@@ -3639,6 +3656,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
+
+**Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation** \
+[[Website](https://arxiv.org/abs/2503.10125)] 
 
 **FreeTuner: Any Subject in Any Style with Training-free Diffusion** \
 [[Website](https://arxiv.org/abs/2405.14201)] 
@@ -4743,6 +4763,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2502.05153)] 
 [[Project](https://roar-ai.github.io/hummingbird/)] 
 
+**Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.09864)] 
+[[Project](https://hecoding.github.io/colorwave-page/)] 
+
 **Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG** \
 [[Website](https://arxiv.org/abs/2412.09614)] 
 [[Project](https://context-canvas.github.io/)] 
@@ -4859,6 +4883,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting** \
 [[CVPR 2025](https://arxiv.org/abs/2502.04412)] 
+
+**Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.10037)] 
 
 **PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference Time by Leveraging Sparsity** \
 [[Website](https://arxiv.org/abs/2503.07677)] 
@@ -5242,6 +5269,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.17949)] 
 [[Project](https://roictrl.github.io/)] 
 [[Code](https://github.com/showlab/ROICtrl)]
+
+**PlanGen: Towards Unified Layout Planning and Image Generation in Auto-Regressive Vision Language Models** \
+[[Website](https://arxiv.org/abs/2503.10127)] 
+[[Project](https://360cvgroup.github.io/PlanGen/)] 
+[[Code](https://github.com/360CVGroup/PlanGen)]
 
 **CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2412.03859)] 
@@ -6973,54 +7005,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](http://yaniv.nikankin.com/sinfusion/)] 
 [[Code](https://github.com/yanivnik/sinfusion-code)]
 
-
 **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Blattmann_Align_Your_Latents_High-Resolution_Video_Synthesis_With_Latent_Diffusion_Models_CVPR_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2304.08818)]
 [[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] 
 [[Code](https://github.com/srpkdyy/VideoLDM)]
 
-
-**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**  \
-[[ECCV 2024](https://arxiv.org/abs/2403.13802)]
-[[Project](https://taohu.me/zigma/)]
-[[Code](https://github.com/CompVis/zigma)]
-
 **MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
 [[NeurIPS 2022](https://proceedings.neurips.cc/paper_files/paper/2022/hash/944618542d80a63bbec16dfbd2bd689a-Abstract-Conference.html)]
 [[Website](https://arxiv.org/abs/2205.09853)]
 [[Project](https://mask-cond-video-diffusion.github.io/)] 
 [[Code](https://github.com/voletiv/mcvd-pytorch)]
-<!-- [[NeurIPS 2022](https://openreview.net/forum?id=hX5Ia-ION8Y)] -->
-
-
-**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71560)]
-[[Website](https://arxiv.org/abs/2309.13274)]
-[[Code](https://github.com/iva-mzsun/glober)]
-<!-- [[NeurIPS 2023](https://openreview.net/forum?id=TRbklCR2ZW)] -->
-
-**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
-[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70404)]
-[[Website](https://arxiv.org/abs/2309.14494)]
-[[Code](https://github.com/SooLab/Free-Bloom)]
-<!-- [[NeurIPS 2023](https://openreview.net/forum?id=paa2OU5jN8)] -->
-
-**Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.html)]
-[[Website](https://arxiv.org/abs/2303.13744)]
-[[Code](https://github.com/nihaomiao/CVPR23_LFDM)]
-
-**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** \
-[[CVPR 2023](https://arxiv.org/abs/2403.12962)]
-[[Project](https://www.mmlab-ntu.com/project/fresco/)]
-[[Code](https://github.com/williamyang1991/FRESCO)]
-
-
-**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** \
-[[CVPR 2024](https://arxiv.org/abs/2404.16306)]
-[[Project](https://merl.com/research/highlights/TI2V-Zero)] 
-[[Code](https://github.com/merlresearch/TI2V-Zero)]
 
 **Video Diffusion Models** \
 [[ICLR 2022 workshop](https://openreview.net/forum?id=BBelR2NdDZ5)]
@@ -7034,16 +7029,245 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://pi-animator.github.io/)]
 [[Code](https://github.com/open-mmlab/PIA)] 
 
+**GLOBER: Coherent Non-autoregressive Video Generation via GLOBal Guided Video DecodER** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71560)]
+[[Website](https://arxiv.org/abs/2309.13274)]
+[[Code](https://github.com/iva-mzsun/glober)]
+
+**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator** \
+[[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70404)]
+[[Website](https://arxiv.org/abs/2309.14494)]
+[[Code](https://github.com/SooLab/Free-Bloom)]
+
+**Conditional Image-to-Video Generation with Latent Flow Diffusion Models** \
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.html)]
+[[Website](https://arxiv.org/abs/2303.13744)]
+[[Code](https://github.com/nihaomiao/CVPR23_LFDM)]
+
+**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** \
+[[CVPR 2023](https://arxiv.org/abs/2403.12962)]
+[[Project](https://www.mmlab-ntu.com/project/fresco/)]
+[[Code](https://github.com/williamyang1991/FRESCO)]
+
+**TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2404.16306)]
+[[Project](https://merl.com/research/highlights/TI2V-Zero)] 
+[[Code](https://github.com/merlresearch/TI2V-Zero)]
+
 **IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2407.10937)]
 [[Project](https://yhzhai.github.io/idol/)] 
 [[Code](https://github.com/yhZhai/idol)]
 
-
 **EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** \
 [[ECCV 2024](https://arxiv.org/abs/2402.17485)]
 [[Project](https://humanaigc.github.io/emote-portrait-alive/)] 
 [[Code](https://github.com/HumanAIGC/EMO)]
+
+**ZIGMA: A DiT-style Zigzag Mamba Diffusion Model**  \
+[[ECCV 2024](https://arxiv.org/abs/2403.13802)]
+[[Project](https://taohu.me/zigma/)]
+[[Code](https://github.com/CompVis/zigma)]
+
+**Tora: Trajectory-oriented Diffusion Transformer for Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2407.21705)]
+[[Project](https://ali-videoai.github.io/tora_video/)] 
+[[Code](https://github.com/ali-videoai/Tora)]
+
+**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback** \
+[[NeurIPS 2024](https://arxiv.org/abs/2405.18750)]
+[[Project](https://t2v-turbo.github.io/)] 
+[[Code](https://github.com/Ji4chenLi/t2v-turbo)]
+
+**T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design** \
+[[ICLR 2025](https://arxiv.org/abs/2410.05677)]
+[[Project](https://t2v-turbo-v2.github.io/)] 
+[[Code](https://github.com/Ji4chenLi/t2v-turbo)]
+
+**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence** \
+[[ICLR 2025](https://arxiv.org/abs/2407.16655)]
+[[Project](https://aim-uofa.github.io/MovieDreamer/)] 
+[[Code](https://github.com/aim-uofa/MovieDreamer)]
+
+**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation** \
+[[ICLR 2025](https://arxiv.org/abs/2411.04989)]
+[[Project](https://kmcode1.github.io/Projects/SG-I2V/)] 
+[[Code](https://github.com/Kmcode1/SG-I2V)]
+
+**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2407.15642)]
+[[Project](https://maxin-cn.github.io/cinemo_project/)] 
+[[Code](https://github.com/maxin-cn/Cinemo)]
+
+**Identity-Preserving Text-to-Video Generation by Frequency Decomposition** \
+[[CVPR 2025](https://arxiv.org/abs/2411.17440)]
+[[Project](https://pku-yuangroup.github.io/ConsisID/)] 
+[[Code](https://github.com/PKU-YuanGroup/ConsisID)]
+
+**Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning** \
+[[NeurIPS 2024](https://arxiv.org/abs/2410.24219)]
+[[Project](https://pr-ryan.github.io/DEMO-project/)] 
+[[Code](https://github.com/PR-Ryan/DEMO)]
+
+**MotionClone: Training-Free Motion Cloning for Controllable Video Generation** \
+[[ICLR 2025](https://arxiv.org/abs/2406.05338)]
+[[Project](https://bujiazi.github.io/motionclone.github.io/)] 
+[[Code](https://github.com/Bujiazi/MotionClone)]
+
+**TransPixar: Advancing Text-to-Video Generation with Transparency** \
+[[CVPR 2025](https://arxiv.org/abs/2501.03006)]
+[[Project](https://wileewang.github.io/TransPixar/)] 
+[[Code](https://github.com/wileewang/TransPixar)]
+
+**StableAnimator: High-Quality Identity-Preserving Human Image Animation** \
+[[CVPR 2025](https://arxiv.org/abs/2411.17697)]
+[[Project](https://francis-rings.github.io/StableAnimator/)] 
+[[Code](https://github.com/Francis-Rings/StableAnimator)]
+
+**AnimateAnything: Consistent and Controllable Animation for Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2411.10836)]
+[[Project](https://yu-shaonian.github.io/Animate_Anything/)] 
+[[Code](https://github.com/yu-shaonian/AnimateAnything)]
+
+**AniDoc: Animation Creation Made Easier** \
+[[CVPR 2025](https://arxiv.org/abs/2412.14173)]
+[[Project](https://yihao-meng.github.io/AniDoc_demo/)] 
+[[Code](https://github.com/yihao-meng/AniDoc)]
+
+**SF-V: Single Forward Video Generation Model** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.04324)]
+[[Project](https://snap-research.github.io/SF-V/)] 
+[[Code](https://github.com/snap-research/SF-V)]
+
+**SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints** \
+[[ICLR 2025](https://arxiv.org/abs/2412.07760)]
+[[Project](https://jianhongbai.github.io/SynCamMaster/)] 
+[[Code](https://github.com/KwaiVGI/SynCamMaster)]
+
+**Trajectory Attention for Fine-grained Video Motion Control** \
+[[ICLR 2025](https://arxiv.org/abs/2411.19324)]
+[[Project](https://xizaoqu.github.io/trajattn/)] 
+[[Code](https://github.com/xizaoqu/TrajectoryAttntion)]
+
+**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2412.18597)]
+[[Project](https://onevfall.github.io/project_page/ditctrl/)] 
+[[Code](https://github.com/TencentARC/DiTCtrl)]
+
+**VideoTetris: Towards Compositional Text-to-Video Generation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2406.04277)]
+[[Project](https://videotetris.github.io/)] 
+[[Code](https://github.com/YangLing0818/VideoTetris)]
+
+**MotionBooth: Motion-Aware Customized Text-to-Video Generation** \
+[[NeurIPS 2024 Spotlight](https://arxiv.org/abs/2406.17758)]
+[[Project](https://jianzongwu.github.io/projects/motionbooth/)] 
+[[Code](https://github.com/jianzongwu/MotionBooth)]
+
+**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** \
+[[ECCV 2024](https://arxiv.org/abs/2405.20222)]
+[[Project](https://myniuuu.github.io/MOFA_Video/)] 
+[[Code](https://github.com/MyNiuuu/MOFA-Video)]
+
+**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models** \
+[[3DV 2025](https://arxiv.org/abs/2405.20155)]
+[[Project](https://lukas.uzolas.com/MotionDreamer/)] 
+[[Code](https://github.com/lukasuz/MotionDreamer)]
+
+**MotionCraft: Physics-based Zero-Shot Video Generation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2405.13557)]
+[[Project](https://mezzelfo.github.io/MotionCraft/)] 
+[[Code](https://github.com/mezzelfo/MotionCraft)]
+
+**MotionMaster: Training-free Camera Motion Transfer For Video Generation** \
+[[ACM MM 2024](https://arxiv.org/abs/2404.15789)]
+[[Project](https://sjtuplayer.github.io/projects/MotionMaster/)] 
+[[Code](https://github.com/sjtuplayer/MotionMaster)]
+
+**TrailBlazer: Trajectory Control for Diffusion-Based Video Generation** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2401.00896)]
+[[Project](https://hohonu-vicml.github.io/Trailblazer.Page/)] 
+[[Code](https://github.com/hohonu-vicml/Trailblazer)]
+
+**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** \
+[[AAAI 2024](https://arxiv.org/abs/2304.01186)]
+[[Project](https://follow-your-pose.github.io/)] 
+[[Code](https://github.com/mayuelala/FollowYourPose)]
+
+**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos** \
+[[CVPR 2025](https://arxiv.org/abs/2412.03079)]
+[[Project](https://igl-hkust.github.io/Align3R.github.io/)] 
+[[Code](https://github.com/jiah-cloud/Align3R)]
+
+**Breathing Life Into Sketches Using Text-to-Video Priors** \
+[[CVPR 2024 Highlight](https://arxiv.org/abs/2311.13608)]
+[[Project](https://livesketch.github.io/)] 
+[[Code](https://github.com/yael-vinker/live_sketch)]
+
+**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2310.10769)]
+[[Project](https://rq-wu.github.io/projects/LAMP/index.html)] 
+[[Code](https://github.com/RQ-Wu/LAMP)]
+
+**MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer** \
+[[ICML 2024](https://arxiv.org/abs/2311.12052)]
+[[Project](https://boese0601.github.io/magicdance/)] 
+[[Code](https://github.com/Boese0601/MagicDance)]
+
+**LLM-GROUNDED VIDEO DIFFUSION MODELS** \
+[[ICLR 2024](https://arxiv.org/abs/2309.17444)]
+[[Project](https://llm-grounded-video-diffusion.github.io/)] 
+[[Code](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)]
+
+**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling** \
+[[ICLR 2024](https://arxiv.org/abs/2310.15169)]
+[[Project](http://haonanqiu.com/projects/FreeNoise.html)] 
+[[Code](https://github.com/arthur-qiu/LongerCrafter)]
+
+**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation** \
+[[SIGGRAPH 2024](https://arxiv.org/abs/2312.03641)]
+[[Project](https://wzhouxiff.github.io/projects/MotionCtrl/)] 
+[[Code](https://github.com/TencentARC/MotionCtrl)]
+
+**VideoBooth: Diffusion-based Video Generation with Image Prompts** \
+[[CVPR 2024](https://arxiv.org/abs/2312.00777)]
+[[Project](https://vchitect.github.io/VideoBooth-project/)] 
+[[Code](https://github.com/Vchitect/VideoBooth)]
+
+**MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model** \
+[[CVPR 2024](https://arxiv.org/abs/2311.16498)]
+[[Project](https://showlab.github.io/magicanimate/)] 
+[[Code](https://github.com/magic-research/magic-animate)]
+
+**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** \
+[[CVPR 2024](https://arxiv.org/abs/2312.04433)]
+[[Project](https://dreamvideo-t2v.github.io/)] 
+[[Code](https://github.com/damo-vilab/i2vgen-xl)]
+
+**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** \
+[[Website](https://arxiv.org/abs/2410.13830)] 
+[[Project](https://dreamvideo2.github.io/)] 
+[[Code](https://github.com/damo-vilab/i2vgen-xl)]
+
+**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2312.06640)]
+[[Project](https://shangchenzhou.com/projects/upscale-a-video/)] 
+[[Code](https://github.com/sczhou/Upscale-A-Video)]
+
+**FreeInit: Bridging Initialization Gap in Video Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2312.07537)]
+[[Project](https://tianxingwu.github.io/pages/FreeInit/)] 
+[[Code](https://github.com/TianxingWu/FreeInit)]
+
+**StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** \
+[[TOG 2024](https://arxiv.org/abs/2312.00330)]
+[[Project](https://gongyeliu.github.io/StyleCrafter.github.io/)]
+[[Code](https://github.com/GongyeLiu/StyleCrafter)]
+
+**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis** \
+[[CVPR 2024 Highlight](https://arxiv.org/abs/2312.17681)]
+[[Project](https://jeff-liangf.github.io/projects/flowvid/)]
+[[Code](https://github.com/Jeff-LiangF/FlowVid)]
 
 **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop** \
 [[Website](https://arxiv.org/abs/2503.09595)]
@@ -7055,30 +7279,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://showlab.github.io/TPDiff/)] 
 [[Code](https://github.com/showlab/TPDiff)]
 
-**T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design** \
-[[Website](https://arxiv.org/abs/2410.05677)]
-[[Project](https://t2v-turbo-v2.github.io/)] 
-[[Code](https://github.com/Ji4chenLi/t2v-turbo)]
-
-**Tora: Trajectory-oriented Diffusion Transformer for Video Generation** \
-[[Website](https://arxiv.org/abs/2407.21705)]
-[[Project](https://ali-videoai.github.io/tora_video/)] 
-[[Code](https://github.com/ali-videoai/Tora)]
-
 **MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** \
 [[Website](https://arxiv.org/abs/2409.16160)]
 [[Project](https://menyifang.github.io/projects/MIMO/index.html)] 
 [[Code](https://github.com/menyifang/MIMO)]
-
-**MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence** \
-[[Website](https://arxiv.org/abs/2407.16655)]
-[[Project](https://aim-uofa.github.io/MovieDreamer/)] 
-[[Code](https://github.com/aim-uofa/MovieDreamer)]
-
-**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation** \
-[[Website](https://arxiv.org/abs/2411.04989)]
-[[Project](https://kmcode1.github.io/Projects/SG-I2V/)] 
-[[Code](https://github.com/Kmcode1/SG-I2V)]
 
 **Video Diffusion Alignment via Reward Gradients** \
 [[Website](https://arxiv.org/abs/2407.08737)]
@@ -7089,11 +7293,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2407.08701)]
 [[Project](https://live2diff.github.io/)] 
 [[Code](https://github.com/open-mmlab/Live2Diff)]
-
-**Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models** \
-[[Website](https://arxiv.org/abs/2407.15642)]
-[[Project](https://maxin-cn.github.io/cinemo_project/)] 
-[[Code](https://github.com/maxin-cn/Cinemo)]
 
 **TVG: A Training-free Transition Video Generation Method with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.13413)]
@@ -7110,70 +7309,25 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zgctroy.github.io/CamI2V/)] 
 [[Code](https://github.com/ZGCTroy/CamI2V)]
 
-**Identity-Preserving Text-to-Video Generation by Frequency Decomposition** \
-[[Website](https://arxiv.org/abs/2411.17440)]
-[[Project](https://pku-yuangroup.github.io/ConsisID/)] 
-[[Code](https://github.com/PKU-YuanGroup/ConsisID)]
-
-**Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning** \
-[[Website](https://arxiv.org/abs/2410.24219)]
-[[Project](https://pr-ryan.github.io/DEMO-project/)] 
-[[Code](https://github.com/PR-Ryan/DEMO)]
-
 **MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning** \
 [[Website](https://arxiv.org/abs/2409.15179)]
 [[Project](https://mimaface2024.github.io/mimaface.github.io/)] 
 [[Code](https://github.com/MIMAFace2024/MIMAFace)]
-
-**MotionClone: Training-Free Motion Cloning for Controllable Video Generation** \
-[[Website](https://arxiv.org/abs/2406.05338)]
-[[Project](https://bujiazi.github.io/motionclone.github.io/)] 
-[[Code](https://github.com/Bujiazi/MotionClone)]
-
-**TransPixar: Advancing Text-to-Video Generation with Transparency** \
-[[Website](https://arxiv.org/abs/2501.03006)]
-[[Project](https://wileewang.github.io/TransPixar/)] 
-[[Code](https://github.com/wileewang/TransPixar)]
-
-**StableAnimator: High-Quality Identity-Preserving Human Image Animation** \
-[[Website](https://arxiv.org/abs/2411.17697)]
-[[Project](https://francis-rings.github.io/StableAnimator/)] 
-[[Code](https://github.com/Francis-Rings/StableAnimator)]
-
-**AnimateAnything: Consistent and Controllable Animation for Video Generation** \
-[[Website](https://arxiv.org/abs/2411.10836)]
-[[Project](https://yu-shaonian.github.io/Animate_Anything/)] 
-[[Code](https://github.com/yu-shaonian/AnimateAnything)]
 
 **GameGen-X: Interactive Open-world Game Video Generation** \
 [[Website](https://arxiv.org/abs/2411.00769)]
 [[Project](https://gamegen-x.github.io/)] 
 [[Code](https://github.com/GameGen-X/GameGen-X)]
 
-**AniDoc: Animation Creation Made Easier** \
-[[Website](https://arxiv.org/abs/2412.14173)]
-[[Project](https://yihao-meng.github.io/AniDoc_demo/)] 
-[[Code](https://github.com/yihao-meng/AniDoc)]
-
 **VEnhancer: Generative Space-Time Enhancement for Video Generation** \
 [[Website](https://arxiv.org/abs/2407.07667)]
 [[Project](https://vchitect.github.io/VEnhancer-project/)] 
 [[Code](https://github.com/Vchitect/VEnhancer)]
 
-**SF-V: Single Forward Video Generation Model** \
-[[Website](https://arxiv.org/abs/2406.04324)]
-[[Project](https://snap-research.github.io/SF-V/)] 
-[[Code](https://github.com/snap-research/SF-V)]
-
 **Video Motion Transfer with Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2412.07776)]
 [[Project](https://ditflow.github.io/)] 
 [[Code](https://github.com/ditflow/ditflow)]
-
-**SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints** \
-[[Website](https://arxiv.org/abs/2412.07760)]
-[[Project](https://jianhongbai.github.io/SynCamMaster/)] 
-[[Code](https://github.com/KwaiVGI/SynCamMaster)]
 
 **Pyramidal Flow Matching for Efficient Video Generative Modeling** \
 [[Website](https://arxiv.org/abs/2410.05954)]
@@ -7185,11 +7339,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://cangcz.github.io/Anchor-Crafter/)] 
 [[Code](https://github.com/cangcz/AnchorCrafter)]
 
-**Trajectory Attention for Fine-grained Video Motion Control** \
-[[Website](https://arxiv.org/abs/2411.19324)]
-[[Project](https://xizaoqu.github.io/trajattn/)] 
-[[Code](https://github.com/xizaoqu/TrajectoryAttntion)]
-
 **Mobius: Text to Seamless Looping Video Generation via Latent Shift** \
 [[Website](https://arxiv.org/abs/2502.20307)]
 [[Project](https://mobius-diffusion.github.io/)] 
@@ -7199,11 +7348,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.04440)]
 [[Project](https://karine-h.github.io/GenMAC/)] 
 [[Code](https://github.com/Karine-Huang/GenMAC)]
-
-**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation** \
-[[Website](https://arxiv.org/abs/2412.18597)]
-[[Project](https://onevfall.github.io/project_page/ditctrl/)] 
-[[Code](https://github.com/TencentARC/DiTCtrl)]
 
 **CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion** \
 [[Website](https://arxiv.org/abs/2406.05082)]
@@ -7225,55 +7369,25 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://humanaigc.github.io/animate-anyone/)] 
 [[Code](https://github.com/HumanAIGC/AnimateAnyone)]
 
+**Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** \
+[[Website](https://arxiv.org/abs/2502.06145)]
+[[Project](https://humanaigc.github.io/animate-anyone-2/)]
+[[Code](https://github.com/HumanAIGC/AnimateAnyone)]
+
 **MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance** \
 [[Website](https://arxiv.org/abs/2412.05355)]
 [[Project](https://motionshop-diffusion.github.io/)] 
 [[Code](https://github.com/gemlab-vt/motionshop)]
-
-**VideoTetris: Towards Compositional Text-to-Video Generation** \
-[[Website](https://arxiv.org/abs/2406.04277)]
-[[Project](https://videotetris.github.io/)] 
-[[Code](https://github.com/YangLing0818/VideoTetris)]
-
-**T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback** \
-[[Website](https://arxiv.org/abs/2405.18750)]
-[[Project](https://t2v-turbo.github.io/)] 
-[[Code](https://github.com/Ji4chenLi/t2v-turbo)]
 
 **ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation** \
 [[Website](https://arxiv.org/abs/2406.00908)]
 [[Project](https://ssyang2020.github.io/zerosmooth.github.io/)] 
 [[Code](https://github.com/ssyang2020/ZeroSmooth)]
 
-**MotionBooth: Motion-Aware Customized Text-to-Video Generation** \
-[[Website](https://arxiv.org/abs/2406.17758)]
-[[Project](https://jianzongwu.github.io/projects/motionbooth/)] 
-[[Code](https://github.com/jianzongwu/MotionBooth)]
-
 **Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation** \
 [[Website](https://arxiv.org/abs/2412.01316)]
 [[Project](https://presto-video.github.io/)] 
 [[Code](https://github.com/rhymes-ai/Allegro)]
-
-**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model** \
-[[Website](https://arxiv.org/abs/2405.20222)]
-[[Project](https://myniuuu.github.io/MOFA_Video/)] 
-[[Code](https://github.com/MyNiuuu/MOFA-Video)]
-
-**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2405.20155)]
-[[Project](https://lukas.uzolas.com/MotionDreamer/)] 
-[[Code](https://github.com/lukasuz/MotionDreamer)]
-
-**MotionCraft: Physics-based Zero-Shot Video Generation** \
-[[Website](https://arxiv.org/abs/2405.13557)]
-[[Project](https://mezzelfo.github.io/MotionCraft/)] 
-[[Code](https://github.com/mezzelfo/MotionCraft)]
-
-**MotionMaster: Training-free Camera Motion Transfer For Video Generation** \
-[[Website](https://arxiv.org/abs/2404.15789)]
-[[Project](https://sjtuplayer.github.io/projects/MotionMaster/)] 
-[[Code](https://github.com/sjtuplayer/MotionMaster)]
 
 **Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets** \
 [[Website](https://stability.ai/research/stable-video-diffusion-scaling-latent-video-diffusion-models-to-large-datasets)]
@@ -7299,26 +7413,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.05638)]
 [[Project](https://trajectorycrafter.github.io/)] 
 [[Code](https://github.com/TrajectoryCrafter/TrajectoryCrafter)]
-
-**TrailBlazer: Trajectory Control for Diffusion-Based Video Generation** \
-[[Website](https://arxiv.org/abs/2401.00896)]
-[[Project](https://hohonu-vicml.github.io/Trailblazer.Page/)] 
-[[Code](https://github.com/hohonu-vicml/Trailblazer)]
-
-**Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** \
-[[Website](https://arxiv.org/abs/2304.01186)]
-[[Project](https://follow-your-pose.github.io/)] 
-[[Code](https://github.com/mayuelala/FollowYourPose)]
-
-**Align3R: Aligned Monocular Depth Estimation for Dynamic Videos** \
-[[Website](https://arxiv.org/abs/2412.03079)]
-[[Project](https://igl-hkust.github.io/Align3R.github.io/)] 
-[[Code](https://github.com/jiah-cloud/Align3R)]
-
-**Breathing Life Into Sketches Using Text-to-Video Priors** \
-[[Website](https://arxiv.org/abs/2311.13608)]
-[[Project](https://livesketch.github.io/)] 
-[[Code](https://github.com/yael-vinker/live_sketch)]
 
 **Latent Video Diffusion Models for High-Fidelity Long Video Generation** \
 [[Website](https://arxiv.org/abs/2211.13221)]
@@ -7370,26 +7464,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://showlab.github.io/Show-1/)] 
 [[Code](https://github.com/showlab/Show-1)]
 
-**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation** \
-[[Website](https://arxiv.org/abs/2310.10769)]
-[[Project](https://rq-wu.github.io/projects/LAMP/index.html)] 
-[[Code](https://github.com/RQ-Wu/LAMP)]
-
-**MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer** \
-[[Website](https://arxiv.org/abs/2311.12052)]
-[[Project](https://boese0601.github.io/magicdance/)] 
-[[Code](https://github.com/Boese0601/MagicDance)]
-
-**LLM-GROUNDED VIDEO DIFFUSION MODELS** \
-[[Website](https://arxiv.org/abs/2309.17444)]
-[[Project](https://llm-grounded-video-diffusion.github.io/)] 
-[[Code](https://github.com/TonyLianLong/LLM-groundedVideoDiffusion)]
-
-**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling** \
-[[Website](https://arxiv.org/abs/2310.15169)]
-[[Project](http://haonanqiu.com/projects/FreeNoise.html)] 
-[[Code](https://github.com/arthur-qiu/LongerCrafter)]
-
 **VideoCrafter1: Open Diffusion Models for High-Quality Video Generation** \
 [[Website](https://arxiv.org/abs/2310.19512)]
 [[Project](https://ailab-cvc.github.io/videocrafter/)] 
@@ -7415,11 +7489,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://ai-forever.github.io/kandinsky-video/)] 
 [[Code](https://github.com/ai-forever/KandinskyVideo)]
 
-**MotionCtrl: A Unified and Flexible Motion Controller for Video Generation** \
-[[Website](https://arxiv.org/abs/2312.03641)]
-[[Project](https://wzhouxiff.github.io/projects/MotionCtrl/)] 
-[[Code](https://github.com/TencentARC/MotionCtrl)]
-
 **FloVD: Optical Flow Meets Video Diffusion Model for Enhanced Camera-Controlled Video Synthesis** \
 [[Website](https://arxiv.org/abs/2502.08244)]
 [[Project](https://jinwonjoon.github.io/flovd_site/)] 
@@ -7435,16 +7504,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://flowzero-video.github.io/)] 
 [[Code](https://github.com/aniki-ly/FlowZero)]
 
-**VideoBooth: Diffusion-based Video Generation with Image Prompts** \
-[[Website](https://arxiv.org/abs/2312.00777)]
-[[Project](https://vchitect.github.io/VideoBooth-project/)] 
-[[Code](https://github.com/Vchitect/VideoBooth)]
-
-**MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model** \
-[[Website](https://arxiv.org/abs/2311.16498)]
-[[Project](https://showlab.github.io/magicanimate/)] 
-[[Code](https://github.com/magic-research/magic-animate)]
-
 **LivePhoto: Real Image Animation with Text-guided Motion Control** \
 [[Website](https://arxiv.org/abs/2312.02928)]
 [[Project](https://xavierchen34.github.io/LivePhoto-Page/)] 
@@ -7454,11 +7513,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.03793)]
 [[Project](https://vvictoryuki.github.io/animatezero.github.io/)] 
 [[Code](https://github.com/vvictoryuki/AnimateZero)]
-
-**DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** \
-[[Website](https://arxiv.org/abs/2312.04433)]
-[[Project](https://dreamvideo-t2v.github.io/)] 
-[[Code](https://github.com/damo-vilab/i2vgen-xl)]
 
 **Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2312.04483)]
@@ -7470,25 +7524,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dreamoving.github.io/dreamoving/)] 
 [[Code](https://github.com/dreamoving/dreamoving-project)]
 
-**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution** \
-[[Website](https://arxiv.org/abs/2312.06640)]
-[[Project](https://shangchenzhou.com/projects/upscale-a-video/)] 
-[[Code](https://github.com/sczhou/Upscale-A-Video)]
-
-**FreeInit: Bridging Initialization Gap in Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.07537)]
-[[Project](https://tianxingwu.github.io/pages/FreeInit/)] 
-[[Code](https://github.com/TianxingWu/FreeInit)]
-
 **Text2AC-Zero: Consistent Synthesis of Animated Characters using 2D Diffusion** \
 [[Website](https://arxiv.org/abs/2312.07133)]
 [[Project](https://abdo-eldesokey.github.io/text2ac-zero/)]
 [[Code](https://github.com/abdo-eldesokey/text2ac-zero)]
-
-**StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** \
-[[Website](https://arxiv.org/abs/2312.00330)]
-[[Project](https://gongyeliu.github.io/StyleCrafter.github.io/)]
-[[Code](https://github.com/GongyeLiu/StyleCrafter)]
 
 **A Recipe for Scaling up Text-to-Video Generation with Text-free Videos** \
 [[Website](https://arxiv.org/abs/2312.15770)]
@@ -7504,11 +7543,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.08325)]
 [[Project](https://vvictoryuki.github.io/gamefactory/)]
 [[Code](https://github.com/KwaiVGI/GameFactory)]
-
-**FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis** \
-[[Website](https://arxiv.org/abs/2312.17681)]
-[[Project](https://jeff-liangf.github.io/projects/flowvid/)]
-[[Code](https://github.com/Jeff-LiangF/FlowVid)]
 
 **Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions** \
 [[Website](https://arxiv.org/abs/2401.01827)]
@@ -8093,10 +8127,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.06662)] 
 [[Project](https://walt-video-diffusion.github.io/)] 
 
-**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** \
-[[Website](https://arxiv.org/abs/2410.13830)] 
-[[Project](https://dreamvideo2.github.io/)] 
-
 **VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM** \
 [[Website](https://arxiv.org/abs/2401.01256)] 
 [[Project](https://videodrafter.github.io/)] 
@@ -8241,9 +8271,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.13918)]
 [[Project](https://gongyeliu.github.io/videoalign/)]
 
-**Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** \
-[[Website](https://arxiv.org/abs/2502.06145)]
-[[Project](https://humanaigc.github.io/animate-anyone-2/)]
+**Long Context Tuning for Video Generation** \
+[[Website](https://arxiv.org/abs/2503.10589)]
+[[Project](https://guoyww.github.io/projects/long-context-video/)]
+
+**I2V3D: Controllable image-to-video generation with 3D guidance** \
+[[Website](https://arxiv.org/abs/2503.09733)]
+[[Project](https://bestzzhang.github.io/I2V3D/)]
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
@@ -8539,6 +8573,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Generative Video Bi-flow** \
 [[Website](https://arxiv.org/abs/2503.06364)]
 
+**CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance** \
+[[Website](https://arxiv.org/abs/2503.10391)]
+
+**VideoMerge: Towards Training-free Long Video Generation** \
+[[Website](https://arxiv.org/abs/2503.09926)]
 
 
 # Video Editing 
@@ -8933,3 +8972,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning** \
 [[Website](https://arxiv.org/abs/2501.06438)]
+
+**DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image** \
+[[Website](https://arxiv.org/abs/2503.10342)]
