@@ -7213,6 +7213,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://boese0601.github.io/magicdance/)] 
 [[Code](https://github.com/Boese0601/MagicDance)]
 
+**DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** \
+[[ICLR 2054](https://arxiv.org/abs/2412.09349)]
+[[Project](https://lihxxx.github.io/DisPose/)] 
+[[Code](https://github.com/lihxxx/DisPose)]
+
+**DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion** \
+[[ECCV 2024](https://arxiv.org/abs/2409.09605)]
+[[Project](https://dreamm0ver.github.io/)] 
+[[Code](https://github.com/leoShen917/DreamMover)]
+
 **LLM-GROUNDED VIDEO DIFFUSION MODELS** \
 [[ICLR 2024](https://arxiv.org/abs/2309.17444)]
 [[Project](https://llm-grounded-video-diffusion.github.io/)] 
@@ -7297,6 +7307,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2411.16199)]
 [[Project](https://motionprompt.github.io/)]
 [[Code](https://github.com/HyelinNAM/MotionPrompt)] 
+
+**ControlVideo: Training-free Controllable Text-to-Video Generation** \
+[[ICLR 2024](https://arxiv.org/abs/2305.13077)]
+[[Project](https://controlvideov1.github.io/)]
+[[Code](https://github.com/YBYBZhang/ControlVideo)] 
 
 **FIFO-Diffusion: Generating Infinite Videos from Text without Training** \
 [[NeurIPS 2024](https://arxiv.org/abs/2405.11473)]
@@ -7966,6 +7981,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2412.14169)]
 [[Code](https://github.com/baaivision/NOVA)]
 
+**Disentangled Motion Modeling for Video Frame Interpolation** \
+[[AAAI 2025](https://arxiv.org/abs/2406.17256)]
+[[Code](https://github.com/jhlew/momo)]
+
 **STDiff: Spatio-temporal Diffusion for Continuous Stochastic Video Prediction** \
 [[AAAI 2024](https://arxiv.org/abs/2312.06486)]
 [[Code](https://github.com/xiye20/stdiffproject)]
@@ -8269,6 +8288,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Mimir: Improving Video Diffusion Models for Precise Text Understanding** \
 [[Website](https://arxiv.org/abs/2412.03085)]
 [[Project](https://lucaria-academy.github.io/Mimir/)]
+
+**Continuous Video Process: Modeling Videos as Continuous Multi-Dimensional Processes for Video Prediction** \
+[[Website](https://arxiv.org/abs/2412.04929)]
+[[Project](https://www.cs.umd.edu/~gauravsh/cvp/supp/website.html)]
 
 **ModelGrow: Continual Text-to-Video Pre-training with Model Expansion and Language Understanding Enhancement** \
 [[Website](https://arxiv.org/abs/2412.18966)]
