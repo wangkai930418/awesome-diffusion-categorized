@@ -752,6 +752,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2407.11288)]
 [[Code](https://github.com/ualcalar17/ZAPS)]
 
+**Improving Diffusion-based Inverse Algorithms under Few-Step Constraint via Learnable Linear Extrapolation** \
+[[Website](https://arxiv.org/abs/2503.10103)]
+[[Code](https://github.com/weigerzan/LLE_inverse_problem)]
+
 **DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.03810)]
 [[Code](https://github.com/kkkls/DeblurDiff)]
@@ -8278,6 +8282,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **I2V3D: Controllable image-to-video generation with 3D guidance** \
 [[Website](https://arxiv.org/abs/2503.09733)]
 [[Project](https://bestzzhang.github.io/I2V3D/)]
+
+**CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.10592)]
+[[Project](https://hehao13.github.io/Projects-CameraCtrl-II/)]
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
