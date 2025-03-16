@@ -7374,6 +7374,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://diffusion-motion-transfer.github.io/)] 
 [[Code](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer)] 
 
+**Evaluation of Text-to-Video Generation Models: A Dynamics Perspective** \
+[[NeurIPS 2024](https://arxiv.org/abs/2407.01094)]
+[[Project](https://t2veval.github.io/DEVIL/)]
+[[Code](https://github.com/MingXiangL/DEVIL)]
+
+**ToonCrafter: Generative Cartoon Interpolation** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2405.17933v1)]
+[[Project](https://doubiiu.github.io/projects/ToonCrafter/)]
+[[Code](https://github.com/Doubiiu/ToonCrafter)]
+
 **I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models** \
 [[SIGGRAPH 2024](https://arxiv.org/abs/2312.16693)]
 [[Project](https://i2v-adapter-paper.github.io/)]
@@ -7408,6 +7418,21 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2024](https://arxiv.org/abs/2310.20700)]
 [[Project](https://vchitect.github.io/SEINE-project/)]
 [[Code](https://github.com/Vchitect/SEINE)]
+
+**I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength** \
+[[ICLR 2025](https://arxiv.org/abs/2411.06525)]
+[[Project](https://wanquanf.github.io/I2VControlCamera)]
+[[Code](https://github.com/WanquanF/I2VControl-Camera)]
+
+**ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler** \
+[[ICLR 2025](https://arxiv.org/abs/2410.05651)]
+[[Project](https://vibidsampler.github.io/)]
+[[Code](https://github.com/vibidsampler/vibid)]
+
+**Video Probabilistic Diffusion Models in Projected Latent Space** \
+[[CVPR 2023](https://arxiv.org/abs/2302.07685)]
+[[Project](https://sihyun.me/PVDM/)]
+[[Code](https://github.com/sihyun-yu/PVDM)]
 
 **Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation** \
 [[ECCV 2024](https://arxiv.org/abs/2402.13729)]
@@ -7934,6 +7959,21 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://envision-research.github.io/MotionDreamer/)]
 [[Code](https://github.com/EnVision-Research/MotionDreamer)]
 
+**VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping** \
+[[Website](https://arxiv.org/abs/2412.11279)]
+[[Project](https://hao-shao.com/projects/vividface.html)]
+[[Code](https://github.com/deepcs233/VividFace)]
+
+**Free-viewpoint Human Animation with Pose-correlated Reference Selection** \
+[[Website](https://arxiv.org/abs/2412.17290)]
+[[Project](https://harlanhong.github.io/publications/fvhuman/index.html)]
+[[Code](https://github.com/harlanhong/FVHuman)]
+
+**Vivid-ZOO: Multi-View Video Generation with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2406.08659)]
+[[Project](https://hi-zhengcheng.github.io/vividzoo/)]
+[[Code](https://github.com/hi-zhengcheng/vividzoo)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -8017,6 +8057,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation** \
 [[AAAI 2024](https://arxiv.org/abs/2310.07697)]
 [[Code](https://github.com/pengbo807/ConditionVideo)]
+
+**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model** \
+[[CVPR 2025](https://arxiv.org/abs/2411.17459)]
+[[Code](https://github.com/PKU-YuanGroup/WF-VAE)]
 
 **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2305.10874)]
@@ -8221,6 +8265,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MoVideo: Motion-Aware Video Generation with Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2311.11325)]
 [[Project](https://jingyunliang.github.io/MoVideo/)] 
+
+**High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion** \
+[[AAAI 2025](https://arxiv.org/abs/2410.11838)]
+[[Project](https://hifi-diffusion.github.io/)] 
 
 **Human4DiT: Free-view Human Video Generation with 4D Diffusion Transformer** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2405.17405)]
@@ -8445,6 +8493,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Long Context Tuning for Video Generation** \
 [[Website](https://arxiv.org/abs/2503.10589)]
 [[Project](https://guoyww.github.io/projects/long-context-video/)]
+
+**REGEN: Learning Compact Video Embedding with (Re-)Generative Decoder** \
+[[Website](https://arxiv.org/abs/2503.08665)]
+[[Project](https://bespontaneous.github.io/REGEN/)]
+
+**FlexiClip: Locality-Preserving Free-Form Character Animation** \
+[[Website](https://arxiv.org/abs/2501.08676)]
+[[Project](https://creative-gen.github.io/flexiclip.github.io/)]
+
+**Video Creation by Demonstration** \
+[[Website](https://arxiv.org/abs/2412.09551)]
+[[Project](https://delta-diffusion.github.io/)]
 
 **I2V3D: Controllable image-to-video generation with 3D guidance** \
 [[Website](https://arxiv.org/abs/2503.09733)]
@@ -8693,6 +8753,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **APLA: Additional Perturbation for Latent Noise with Adversarial Training Enables Consistency** \
 [[Website](https://arxiv.org/abs/2308.12605)]
 
+**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach** \
+[[Website](https://arxiv.org/abs/2503.03708)]
+
+**MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent** \
+[[Website](https://arxiv.org/abs/2502.03207)]
+
+**High Quality Human Image Animation using Regional Supervision and Motion Blur Condition** \
+[[Website](https://arxiv.org/abs/2409.19580)]
 
 
 
