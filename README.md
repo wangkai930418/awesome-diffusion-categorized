@@ -1528,6 +1528,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://omriavrahami.com/the-chosen-one/)] 
 [[Code](https://github.com/ZichengDuan/TheChosenOne)]
 
+**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance** \
+[[NeurIPS 2024](https://arxiv.org/abs/2404.10267)] 
+[[Project](https://johnneywang.github.io/OneActor-webpage/)] 
+[[Code](https://github.com/JoHnneyWang/OneActor)] 
+
 **DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation** \
 [[Website](https://arxiv.org/abs/2412.07589)]
 [[Project](https://jianzongwu.github.io/projects/diffsensei/)]
@@ -3942,10 +3947,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://photo-maker.github.io/)] 
 [[Code](https://github.com/TencentARC/PhotoMaker)]
 
-**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance** \
-[[NeurIPS 2024](https://arxiv.org/abs/2404.10267)] 
-[[Project](https://johnneywang.github.io/OneActor-webpage/)] 
-[[Code](https://github.com/JoHnneyWang/OneActor)] 
 
 **UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization** \
 [[Website](https://arxiv.org/abs/2408.05939)] 
