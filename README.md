@@ -8036,6 +8036,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://hao-shao.com/projects/vividface.html)]
 [[Code](https://github.com/deepcs233/VividFace)]
 
+**Large Motion Video Autoencoding with Cross-modal Video VAE** \
+[[Website](https://arxiv.org/abs/2412.17805)]
+[[Project](https://yzxing87.github.io/vae/)]
+[[Code](https://github.com/VideoVerses/VideoVAEPlus)]
+
 **Free-viewpoint Human Animation with Pose-correlated Reference Selection** \
 [[Website](https://arxiv.org/abs/2412.17290)]
 [[Project](https://harlanhong.github.io/publications/fvhuman/index.html)]
@@ -8346,9 +8351,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2405.17405)]
 [[Project](https://human4dit.github.io/)] 
 
+**Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation** \
+[[CVPR 2025](https://arxiv.org/abs/2412.07761)]
+[[Project](https://vdm-evfi.github.io/)]
+
 **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** \
 [[Website](https://arxiv.org/abs/2502.01061)]
 [[Project](https://omnihuman-lab.github.io/)]
+
+**InterDyn: Controllable Interactive Dynamics with Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.11785)]
+[[Project](https://interdyn.is.tue.mpg.de/)]
 
 **Mojito: Motion Trajectory and Intensity Control for Video Generation** \
 [[Website](https://arxiv.org/abs/2412.08948)]
@@ -8834,6 +8847,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **High Quality Human Image Animation using Regional Supervision and Motion Blur Condition** \
 [[Website](https://arxiv.org/abs/2409.19580)]
 
+**Instructional Video Generation** \
+[[Website](https://arxiv.org/abs/2412.04189)]
+
+**Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2411.18375)]
 
 
 # Video Editing 
