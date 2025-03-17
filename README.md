@@ -1112,6 +1112,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2023](https://arxiv.org/abs/2309.10810)]
 [[Code](https://github.com/pq-yang/pgdiff)]
 
+**AT-DDPM: Restoring Faces degraded by Atmospheric Turbulence using Denoising Diffusion Probabilistic Models** \
+[[WACV 2023](https://arxiv.org/abs/2208.11284)]
+[[Code](https://github.com/Nithin-GK/AT-DDPM)]
+
+**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration** \
+[[WACV 2025](https://arxiv.org/abs/2311.15445)]
+[[Code](https://github.com/wustl-cig/FLAIR)]
+
 **DifFace: Blind Face Restoration with Diffused Error Contraction** \
 [[Website](https://arxiv.org/abs/2312.15736)]
 [[Code](https://github.com/zsyOAOA/DifFace)]
@@ -1152,6 +1160,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration** \
 [[Website](https://arxiv.org/abs/2411.10508)]
+
+**Face2Face: Label-driven Facial Retouching Restoration** \
+[[Website](https://arxiv.org/abs/2404.14177)]
+
+**WaveFace: Authentic Face Restoration with Efficient Frequency Recovery** \
+[[Website](https://arxiv.org/abs/2403.12760)]
+
+
 
 ## Image Compression
 
