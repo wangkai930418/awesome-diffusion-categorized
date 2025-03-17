@@ -848,6 +848,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.01522)]
 [[Code](https://github.com/donahowe/BD-Diff)]
 
+**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
+[[CVPR 2025](https://arxiv.org/abs/2503.11221)]
+[[Project](https://tianhewu.github.io/A-FINE-page.github.io/)]
+
 **TIP: Text-Driven Image Processing with Semantic and Restoration Instructions** \
 [[ECCV 2024](https://arxiv.org/abs/2312.11595)]
 [[Project](https://chenyangqiqi.github.io/tip/)]
@@ -993,9 +997,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion Restoration Adapter for Real-World Image Restoration** \
 [[Website](https://arxiv.org/abs/2502.20679)]
 
+**Noise Synthesis for Low-Light Image Denoising with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.11262)]
+
 
 
 ## Colorization
+
+**LVCD: Reference-based Lineart Video Colorization with Diffusion Models** \
+[[SIGGRAPH Asia 2024](https://arxiv.org/abs/2409.12960)]
+[[Project](https://luckyhzt.github.io/lvcd)]
+[[Code](https://github.com/luckyhzt/LVCD)]
 
 **ColorFlow: Retrieval-Augmented Image Sequence Colorization** \
 [[Website](https://arxiv.org/abs/2412.11815)]
@@ -1016,6 +1028,20 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.08332)]
 [[Project](https://johanan528.github.io/MangaNinjia/)]
 [[Code](https://github.com/ali-vilab/MangaNinjia)]
+
+**Multimodal Semantic-Aware Automatic Colorization with Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2404.16678)]
+[[Project](https://servuskk.github.io/ColorDiff-Image/)]
+[[Code](https://github.com/servuskk/ColorDiff-Image)]
+
+**VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization** \
+[[Website](https://arxiv.org/abs/2501.09499)]
+[[Project](https://becauseimbatman0.github.io/VanGogh)]
+[[Code](https://github.com/BecauseImBatman0/VanGogh)]
+
+**L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2305.15217)]
+[[Code](https://github.com/changzheng123/L-CAD)]
 
 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** \
 [[Website](https://arxiv.org/abs/2502.19937)]
@@ -1041,6 +1067,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Consistent Video Colorization via Palette Guidance** \
 [[Website](https://arxiv.org/abs/2501.19331)]
+
+**L-C4: Language-Based Video Colorization for Creative and Consistent Color** \
+[[Website](https://arxiv.org/abs/2410.04972)]
+
+**LatentColorization: Latent Diffusion-Based Speaker Video Colorization** \
+[[Website](https://arxiv.org/abs/2405.05707)]
 
 
 
@@ -1162,6 +1194,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Stable Diffusion is a Natural Cross-Modal Decoder for Layered AI-generated Image Compression** \
 [[Website](https://arxiv.org/abs/2412.12982)]
+
+**Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning** \
+[[Website](https://arxiv.org/abs/2503.11321)]
 
 
 ## Super Resolution
@@ -1362,6 +1397,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TASR: Timestep-Aware Diffusion Model for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.03355)] 
 [[Code](https://github.com/SleepyLin/TASR)] 
+
+**Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models** \
+[[Website](https://arxiv.org/abs/2503.11073)] 
+[[Code](https://github.com/nonwhy/PURE)] 
 
 **DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency** \
 [[Website](https://arxiv.org/abs/2501.10110)] 
@@ -2935,6 +2974,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Identity-preserving Distillation Sampling by Fixed-Point Iterator** \
 [[Website](https://arxiv.org/abs/2502.19930)]
+
+**LUSD: Localized Update Score Distillation for Text-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2503.11054)]
+
 
 
 # Continual Learning
@@ -4541,6 +4584,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization** \
 [[CVPR 2024](https://arxiv.org/abs/2404.04650)] 
 [[Code](https://github.com/xiefan-guo/initno)]
+
+**Towards Better Alignment: Training Diffusion Models with Reinforcement Learning Against Sparse Rewards** \
+[[CVPR 2025](https://arxiv.org/abs/2503.11240)] 
+[[Code](https://github.com/hu-zijing/B2-DiffuRL)]
 
 **Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2404.07389)] 
@@ -6408,6 +6455,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://kakituken.github.io/affordance-any.github.io/)] 
 [[Code](https://github.com/KaKituken/affordance-aware-any)]
 
+**MTV-Inpaint: Multi-Task Long Video Inpainting** \
+[[Website](https://arxiv.org/abs/2503.11412)] 
+[[Project](https://mtv-inpaint.github.io/)] 
+[[Code](https://github.com/ysy31415/MTV-Inpaint)]
 
 **A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting** \
 [[Website](https://arxiv.org/abs/2312.03594)] 
@@ -7843,6 +7894,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2404.18620)]
 [[Project](https://y-ichen.github.io/FlexiFilm-Page/)]
 [[Code](https://github.com/Y-ichen/FlexiFilm)] 
+
+**ReCamMaster: Camera-Controlled Generative Rendering from A Single Video** \
+[[Website](https://arxiv.org/abs/2503.11647)]
+[[Project](https://jianhongbai.github.io/ReCamMaster/)]
+[[Code](https://github.com/KwaiVGI/ReCamMaster)] 
 
 **TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2405.04682)]
