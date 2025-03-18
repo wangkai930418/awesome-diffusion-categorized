@@ -4091,6 +4091,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.12312)] 
 [[Code](https://github.com/modelscope/facechain)]
 
+**ModelScope Text-to-Video Technical Report** \
+[[Website](https://arxiv.org/abs/2308.06571)] 
+[[Code](https://github.com/exponentialml/text-to-video-finetuning)] 
+
 **PersonaMagic: Stage-Regulated High-Fidelity Face Customization with Tandem Equilibrium** \
 [[Website](https://arxiv.org/abs/2412.15674)] 
 [[Code](https://github.com/xzhe-Vision/PersonaMagic)] 
@@ -7476,6 +7480,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://yumengli007.github.io/VSTAR/)] 
 [[Code](https://github.com/boschresearch/VSTAR)] 
 
+**Looking Backward: Streaming Video-to-Video Translation with Feature Banks** \
+[[ICLR 2025](https://arxiv.org/abs/2405.15757)]
+[[Project](https://jeff-liangf.github.io/projects/streamv2v/)] 
+[[Code](https://github.com/Jeff-LiangF/streamv2v)] 
+
 **Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models** \
 [[CVPR 2024](https://arxiv.org/abs/2308.13812)]
 [[Project](https://haofei.vip/Dysen-VDM/)]
@@ -8129,6 +8138,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ACM MM 2024](https://arxiv.org/abs/2412.01343)]
 [[Code](https://github.com/XiaominLi1997/MoTrans)]
 
+**Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image** \
+[[ACM MM 2024](https://arxiv.org/abs/2308.10257)]
+[[Code](https://github.com/leoShen917/Make-It-4D]
+
 **Cross-Modal Contextualized Diffusion Models for Text-Guided Visual Generation and Editing** \
 [[ICLR 2024](https://arxiv.org/abs/2402.16627)]
 [[Code](https://github.com/YangLing0818/ContextDiff)]
@@ -8164,6 +8177,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2403.06098)]
 [[Code](https://github.com/WangWenhao0716/VidProM)]
+
+**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model** \
+[[CVPR 2025](https://arxiv.org/abs/2411.17459)]
+[[Code](https://github.com/PKU-YuanGroup/WF-VAE)]
 
 **AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion** \
 [[CVPR 2025](https://arxiv.org/abs/2503.07418)]
@@ -8313,9 +8330,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2405.18003)]
 [[Code](https://github.com/18445864529/MAVIN)]
 
-**WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model** \
-[[CVPR 2025](https://arxiv.org/abs/2411.17459)]
-[[Code](https://github.com/PKU-YuanGroup/WF-VAE)]
+**MegActor: Harness the Power of Raw Video for Vivid Portrait Animation** \
+[[Website](https://arxiv.org/abs/2405.20851)]
+[[Code](https://github.com/megvii-research/megactor)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
@@ -8652,6 +8669,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MotionBridge: Dynamic Video Inbetweening with Flexible Controls** \
 [[Website](https://arxiv.org/abs/2412.13190)]
 [[Project](https://motionbridge.github.io/)]
+
+**Motion-Conditioned Diffusion Model for Controllable Video Synthesis** \
+[[Website](https://arxiv.org/abs/2304.14404)]
+[[Project](https://tsaishien-chen.github.io/MCDiff/)]
+
+**Probabilistic Adaptation of Text-to-Video Models** \
+[[Website](https://arxiv.org/abs/2306.01872)]
+[[Project](https://video-adapter.github.io/video-adapter/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
