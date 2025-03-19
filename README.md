@@ -3094,6 +3094,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2411.05544)] 
 
+**Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond** \
+[[Website](https://arxiv.org/abs/2408.02983)] 
 
 
 # Remove Concept
@@ -3153,6 +3155,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.08116)] 
 [[Code](https://github.com/littlelittlenine/ACE-zero)]
 
+**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models** \
+[[CVPR 2023](https://arxiv.org/abs/2211.05105)] 
+[[Code1](https://github.com/ml-research/safe-latent-diffusion)]
+[[Code2](https://github.com/ml-research/i2p)]
+
+**Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2406.14855)] 
+[[Code](https://github.com/Artanisax/Six-CD)]
+
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
 [[Code](https://github.com/nannullna/safe-diffusion)]
@@ -3197,6 +3208,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.09630)] 
 [[Code](https://github.com/Atmyre/CASteer)]
 
+**Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations** \
+[[Website](https://arxiv.org/abs/2501.19066)] 
+[[Code](https://github.com/kim-dahye/steerers)]
 
 **Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts** \
 [[Website](https://arxiv.org/abs/2410.12777)] 
@@ -3233,6 +3247,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
 [[Website](https://arxiv.org/abs/2412.05980)] 
 [[Code](https://github.com/songyiren725/AntiReference)]
+
+**MUNBa: Machine Unlearning via Nash Bargaining** \
+[[Website](https://arxiv.org/abs/2411.15537)] 
+[[Code](https://github.com/JingWu321/MUNBa)]
+
+**Implicit Concept Removal of Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
+[[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
 
 **RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining** \
 [[Website](https://arxiv.org/abs/2410.09140)] 
