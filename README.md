@@ -1425,6 +1425,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.11073)] 
 [[Code](https://github.com/nonwhy/PURE)] 
 
+**The Power of Context: How Multimodality Improves Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2503.14503)] 
+[[Project](https://mmsr.kfmei.com/)] 
+
 **DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency** \
 [[Website](https://arxiv.org/abs/2501.10110)] 
 [[Project](https://xh9998.github.io/DiffVSR-project/)] 
@@ -3226,6 +3230,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2407.21016)] 
 [[Code](https://github.com/ylingfeng/Add-SD)]
 
+**Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation** \
+[[Website](https://arxiv.org/abs/2412.05980)] 
+[[Code](https://github.com/songyiren725/AntiReference)]
+
 **RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining** \
 [[Website](https://arxiv.org/abs/2410.09140)] 
 [[Project](https://realerasing.github.io/RealEra/)]
@@ -3329,6 +3337,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.09446)] 
 
+**CRCE: Coreference-Retention Concept Erasure in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.14232)] 
+
+**Continual Unlearning for Foundational Text-to-Image Models without Generalization Erosion** \
+[[Website](https://arxiv.org/abs/2503.13769)] 
 
 
 # New Concept Learning
@@ -4029,6 +4042,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://photo-maker.github.io/)] 
 [[Code](https://github.com/TencentARC/PhotoMaker)]
 
+**Concat-ID: Towards Universal Identity-Preserving Video Synthesis** \
+[[Website](https://arxiv.org/abs/2503.14151)] 
+[[Project](https://ml-gsai.github.io/Concat-ID-demo/)] 
+[[Code](https://github.com/ML-GSAI/Concat-ID)]
 
 **UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization** \
 [[Website](https://arxiv.org/abs/2408.05939)] 
@@ -4984,6 +5001,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting** \
 [[CVPR 2025](https://arxiv.org/abs/2502.04412)] 
+
+**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
+[[Website](https://arxiv.org/abs/2503.14275v1)] 
 
 **Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.10037)] 
@@ -7111,6 +7131,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Precise Parameter Localization for Textual Generation in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.09935)]
 
+**TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark** \
+[[Website](https://arxiv.org/abs/2503.13730)]
+
 
 # Video Generation 
 
@@ -8110,6 +8133,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://hi-zhengcheng.github.io/vividzoo/)]
 [[Code](https://github.com/hi-zhengcheng/vividzoo)]
 
+**MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation** \
+[[Website](https://arxiv.org/abs/2503.14428)]
+[[Project](https://hong-yu-zhang.github.io/MagicComp-Page/)]
+[[Code](https://github.com/Hong-yu-Zhang/MagicComp)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -8333,6 +8361,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MegActor: Harness the Power of Raw Video for Vivid Portrait Animation** \
 [[Website](https://arxiv.org/abs/2405.20851)]
 [[Code](https://github.com/megvii-research/megactor)]
+
+**LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.14325)]
+[[Code](https://github.com/westlake-repl/LeanVAE)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
@@ -9061,6 +9093,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://vidtome-diffusion.github.io/)]
 [[Code](https://github.com/lixirui142/VidToMe)] 
 
+**VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation** \
+[[Website](https://arxiv.org/abs/2503.14350)]
+[[Project](https://veggie-gen.github.io/)]
+[[Code](https://github.com/Yui010206/VEGGIE-VidEdit/)] 
 
 **VASE: Object-Centric Appearance and Shape Manipulation of Real Videos** \
 [[Website](https://arxiv.org/abs/2401.02473)]
@@ -9142,6 +9178,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2301.13173)]
 [[Project](https://text-video-edit.github.io/#)] 
 
+
+**WAVE: Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing** \
+[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09682.pdf)]
+[[Project](https://ree1s.github.io/wave/)]
+
+
 **VideoDirector: Precise Video Editing via Text-to-Video Models** \
 [[Website](https://arxiv.org/abs/2411.17592)]
 [[Project](https://anonymous.4open.science/w/c4KzqAbCaz89o0FeWkdya/)]
@@ -9186,9 +9228,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.05003)]
 [[Project](https://generative-video-camera-controls.github.io/)] 
 
-**WAVE: Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing** \
-[[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09682.pdf)]
-[[Project](https://ree1s.github.io/wave/)]
+**FiVE: A Fine-grained Video Editing Benchmark for Evaluating Emerging Diffusion and Rectified Flow Models** \
+[[Website](https://arxiv.org/abs/2503.13684)]
+[[Project](https://sites.google.com/view/five-benchmark)]
 
 **MeDM: Mediating Image Diffusion Models for Video-to-Video Translation with Temporal Correspondence Guidance** \
 [[Website](https://arxiv.org/abs/2308.10079)]
