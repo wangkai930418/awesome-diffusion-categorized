@@ -122,6 +122,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://youngwanlee.github.io/KOALA/)]
 [[Code](https://github.com/youngwanLEE/sdxl-koala)]
 
+**DIMO:Distilling Masked Diffusion Models into One-step Generator** \
+[[Website](https://arxiv.org/abs/2503.15457)]
+[[Project](https://yuanzhi-zhu.github.io/DiMO/)]
+[[Code](https://github.com/yuanzhi-zhu/DiMO)]
+
 **Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation** \
 [[Website](https://arxiv.org/abs/2406.02347)]
 [[Project](https://gojasper.github.io/flash-diffusion-project/)]
@@ -727,6 +732,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2503.01288)]
 [[Code](https://github.com/ChongWang1024/RDMD)]
 
+**Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training** \
+[[AAAI 2025](https://arxiv.org/abs/2503.15017)]
+[[Code](https://github.com/ywxjm/Diff-Dehazer)]
+
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
 [[Code](https://github.com/Algolzw/image-restoration-sde)]
@@ -1003,6 +1012,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Noise Synthesis for Low-Light Image Denoising with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.11262)]
 
+**A Simple Combination of Diffusion Models for Better Quality Trade-Offs in Image Denoising** \
+[[Website](https://arxiv.org/abs/2503.14654)]
+
+**Temporal-Consistent Video Restoration with Pre-trained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.14863)]
 
 
 ## Colorization
@@ -3365,6 +3379,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Continual Unlearning for Foundational Text-to-Image Models without Generalization Erosion** \
 [[Website](https://arxiv.org/abs/2503.13769)] 
 
+**Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization** \
+[[Website](https://arxiv.org/abs/2503.15197)] 
+
+
 
 # New Concept Learning
 
@@ -3910,6 +3928,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **P3S-Diffusion:A Selective Subject-driven Generation Framework via Point Supervision** \
 [[Website](https://arxiv.org/abs/2412.19533)] 
 
+**Efficient Personalization of Quantized Diffusion Model without Backpropagation** \
+[[Website](https://arxiv.org/abs/2503.14868)] 
 
 
 
@@ -4063,6 +4083,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2312.04461)] 
 [[Project](https://photo-maker.github.io/)] 
 [[Code](https://github.com/TencentARC/PhotoMaker)]
+
+**Visual Persona: Foundation Model for Full-Body Human Customization** \
+[[CVPR 2025](https://arxiv.org/abs/2503.15406)] 
+[[Project](https://cvlab-kaist.github.io/Visual-Persona/)] 
+[[Code](https://github.com/cvlab-kaist/Visual-Persona)]
 
 **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** \
 [[Website](https://arxiv.org/abs/2503.14151)] 
@@ -4454,6 +4479,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2406.10210)] 
 [[Project](https://make-it-count-paper.github.io//)] 
 [[Code](https://github.com/Litalby1/make-it-count)]
+
+**TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2503.15283)] 
+[[Project](https://bluedyee.github.io/TF-TI2I_page/)] 
+[[Code](https://github.com/BlueDyee/TF-TI2I)]
 
 **OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction** \
 [[Website](https://arxiv.org/abs/2410.04932)] 
@@ -5821,6 +5851,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **D2Styler: Advancing Arbitrary Style Transfer with Discrete Diffusion Methods** \
 [[Website](https://arxiv.org/abs/2408.03558)] 
 [[Code](https://github.com/Onkarsus13/D2Styler)] 
+
+**Single-Step Bidirectional Unpaired Image Translation Using Implicit Bridge Consistency Distillation** \
+[[Website](https://arxiv.org/abs/2503.15056)] 
+[[Project](https://hyn2028.github.io/project_page/IBCD/index.html)] 
 
 **StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_StyleDiffusion_Controllable_Disentangled_Style_Transfer_via_Diffusion_Models_ICCV_2023_paper.html)]
