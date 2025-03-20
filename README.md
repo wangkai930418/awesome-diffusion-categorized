@@ -16,6 +16,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
     - [Face Restoration](#face-restoration)
     - [Image Compression](#image-compression)
     - [Super Resolution](#super-resolution)
+    - [Personalized Restoration](#personalized-restoration)
 - [Visual Illusion](#illusion)
 - [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
@@ -1111,16 +1112,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jkwang28.github.io/OSDFace-web/)]
 [[Code](https://github.com/jkwang28/OSDFace)]
 
-**ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration** \
-[[Website](https://arxiv.org/abs/2412.05043)]
-[[Project](https://chiweihsiao.github.io/refldm.github.io/)]
-[[Code](https://github.com/ChiWeiHsiao/ref-ldm)]
-
-**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention** \
-[[Website](https://arxiv.org/abs/2412.06753)]
-[[Project](https://snap-research.github.io/InstantRestore/)]
-[[Code](https://github.com/snap-research/InstantRestore)]
-
 **DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration** \
 [[CVPR 2023](https://arxiv.org/abs/2303.06885)]
 [[Code](https://github.com/Kaldwin0106/DR2_Drgradation_Remover)]
@@ -1144,10 +1135,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2410.09864)]
 [[Code](https://github.com/EthanLiang99/AuthFace)]
-
-**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation** \
-[[Website](https://arxiv.org/abs/2411.14125)]
-[[Code](https://github.com/YingJiacheng/RestorerID)]
 
 **Towards Real-World Blind Face Restoration with Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2312.15736)]
@@ -1549,6 +1536,39 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation** \
 [[Website](https://arxiv.org/abs/2503.13358)]
+
+
+## Personalized Restoration
+
+**Restoration by Generation with Constrained Priors** \
+[[CVPR 2024 Highlight](https://arxiv.org/abs/2312.17161)]
+[[Project](https://gen2res.github.io/)]
+[[Code](https://github.com/adobe-research/gen2res)] 
+
+**ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration** \
+[[Website](https://arxiv.org/abs/2412.05043)]
+[[Project](https://chiweihsiao.github.io/refldm.github.io/)]
+[[Code](https://github.com/ChiWeiHsiao/ref-ldm)]
+
+**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention** \
+[[Website](https://arxiv.org/abs/2412.06753)]
+[[Project](https://snap-research.github.io/InstantRestore/)]
+[[Code](https://github.com/snap-research/InstantRestore)]
+
+**Personalized Restoration via Dual-Pivot Tuning** \
+[[Website](https://arxiv.org/abs/2312.17234)]
+[[Project](https://personalized-restoration.github.io/)]
+[[Code](https://github.com/personalized-restoration/personalized-restoration)]
+
+**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation** \
+[[Website](https://arxiv.org/abs/2411.14125)]
+[[Code](https://github.com/YingJiacheng/RestorerID)]
+
+**FaceMe: Robust Blind Face Restoration with Personal Identification** \
+[[AAAI 2025](https://arxiv.org/abs/2501.05177)]
+
+**PFStorer: Personalized Face Restoration and Super-Resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2403.08436)]
 
 
 # Illusion 
