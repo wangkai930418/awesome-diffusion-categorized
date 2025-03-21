@@ -148,6 +148,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://piecewise-rectified-flow.github.io/)]
 [[Code](https://github.com/magic-research/piecewise-rectified-flow)]
 
+**Scale-wise Distillation of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.16397)]
+[[Project](https://yandex-research.github.io/swd/)]
+[[Code](https://github.com/yandex-research/swd)]
+
 **Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models** \
 [[Website](https://doi.org/10.48550/arXiv.2410.11081)]
 [[Project](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
@@ -357,6 +362,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation** \
 [[AAAI 2025](https://arxiv.org/abs/2412.16906)]
+
+**BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers** \
+[[CVPR 2025](https://arxiv.org/abs/2503.15927)]
 
 **Accelerate High-Quality Diffusion Models with Inner Loop Feedback** \
 [[Website](https://arxiv.org/abs/2501.13107)]
@@ -892,6 +900,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Proxies for Distortion and Consistency with Applications for Real-World Image Restoration** \
 [[Website](https://arxiv.org/abs/2501.12102)]
 [[Project](https://man-sean.github.io/elad-website/)]
+
+**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations** \
+[[Website](https://arxiv.org/abs/2503.15868)]
+[[Project](https://codejaeger.github.io/unicorn-gh/)]
 
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2308.13164)]
@@ -2027,6 +2039,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MFP-VTON: Enhancing Mask-Free Person-to-Person Virtual Try-On via Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2502.01626)]
 
+**Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2503.16065)]
+
 
 # Drag Edit
 
@@ -2056,6 +2071,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2306.14435)] 
 [[Project](https://yujun-shi.github.io/projects/dragdiffusion.html)] 
 [[Code](https://github.com/Yujun-Shi/DragDiffusion)]
+
+**PoseTraj: Pose-Aware Trajectory Control in Video Diffusion** \
+[[CVPR 2025](https://arxiv.org/abs/2503.16068)] 
+[[Project](https://robingg1.github.io/Pose-Traj/)] 
+[[Code](https://github.com/robingg1/PoseTraj)]
 
 **InstaDrag: Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos** \
 [[Website](https://arxiv.org/abs/2405.13722)] 
@@ -2277,7 +2297,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dangeng.github.io/motion_guidance/)] 
 [[Code](https://github.com/dangeng/motion_guidance/)] 
 
-
 **TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2408.00735)]
 [[Project](https://turboedit-paper.github.io/)] 
@@ -2287,6 +2306,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2406.14539)] 
 [[Project](https://yandex-research.github.io/invertible-cd/)] 
 [[Code](https://github.com/yandex-research/invertible-cd)] 
+
+**FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing** \
+[[Website](https://arxiv.org/abs/2503.16153)] 
+[[Project](https://wtybest.github.io/projects/FreeFlux/)] 
+[[Code](https://github.com/wtybest/FreeFlux)] 
 
 **Zero-shot Image Editing with Reference Imitation** \
 [[Website](https://arxiv.org/abs/2406.07547)] 
@@ -2584,6 +2608,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2408.00998)]
 [[Code](https://github.com/XiangGao1102/FBSDiff)] 
 
+**Single Image Iterative Subject-driven Generation and Editing** \
+[[Website](https://arxiv.org/abs/2503.16025)]
+[[Code](https://github.com/yairshp/SISO)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -4109,6 +4136,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://cvlab-kaist.github.io/Visual-Persona/)] 
 [[Code](https://github.com/cvlab-kaist/Visual-Persona)]
 
+**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity** \
+[[Website](https://arxiv.org/abs/2503.16418)] 
+[[Project](https://bytedance.github.io/InfiniteYou/)] 
+[[Code](https://github.com/bytedance/InfiniteYou)]
+
 **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** \
 [[Website](https://arxiv.org/abs/2503.14151)] 
 [[Project](https://ml-gsai.github.io/Concat-ID-demo/)] 
@@ -5548,6 +5580,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging** \
 [[CVPR 2024](https://arxiv.org/abs/2403.03485)] 
 [[Code](https://github.com/univ-esuty/noisecollage)]
+
+**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness** \
+[[CVPR 2025](https://arxiv.org/abs/2503.164065)] 
+[[Code](https://github.com/SeungJuCha/VerbDiffe)]
 
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
@@ -8214,6 +8250,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://hong-yu-zhang.github.io/MagicComp-Page/)]
 [[Code](https://github.com/Hong-yu-Zhang/MagicComp)]
 
+**MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance** \
+[[Website](https://arxiv.org/abs/2503.16421)]
+[[Project](https://quanhaol.github.io/magicmotion-site/)]
+[[Code](https://github.com/quanhaol/MagicMotion)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -8297,6 +8338,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation** \
 [[CVPR 2025](https://arxiv.org/abs/2412.04432)]
 [[Code](https://github.com/TencentARC/Divot)]
+
+**EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation** \
+[[CVPR 2025](https://arxiv.org/abs/2503.15831)]
+[[Code](https://github.com/bbldCVer/EDEN)]
 
 **IV-Mixed Sampler: Leveraging Image Diffusion Models for Enhanced Video Synthesis** \
 [[ICLR 2025](https://arxiv.org/abs/2410.04171)]
