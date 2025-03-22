@@ -4517,6 +4517,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
+[[Website](https://arxiv.org/abs/2503.14275v1)] 
+[[Project](https://deepffff.github.io/sadis.github.io/)] 
+[[Code](https://github.com/deepffff/SADis)]
+
 **IP-Composer: Semantic Composition of Visual Concepts** \
 [[Website](https://arxiv.org/abs/2502.13951)] 
 [[Project](https://ip-composer.github.io/IP-Composer/)] 
@@ -5105,9 +5110,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting** \
 [[CVPR 2025](https://arxiv.org/abs/2502.04412)] 
-
-**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
-[[Website](https://arxiv.org/abs/2503.14275v1)] 
 
 **Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.10037)] 
