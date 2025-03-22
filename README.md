@@ -1108,11 +1108,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 ## Face Restoration
 
-**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration** \
+⭐⭐**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration** \
 [[ICLR 2025](https://openreview.net/forum?id=rUxr9Ll5FQ)]
 [[Website](https://arxiv.org/abs/2502.02215)]
 [[Project](https://sen-mao.github.io/InterLCM-Page/)]
 [[Code](https://github.com/sen-mao/InterLCM)]
+[[Demo](https://2lq8im394062.vicp.fun/)]
 
 **DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2308.15070)]
