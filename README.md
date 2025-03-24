@@ -1039,6 +1039,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://luckyhzt.github.io/lvcd)]
 [[Code](https://github.com/luckyhzt/LVCD)]
 
+**MagicColor: Multi-Instance Sketch Colorization** \
+[[Website](https://arxiv.org/abs/2503.16948)]
+[[Project](https://yinhan-zhang.github.io/color/)]
+[[Code](https://github.com/YinHan-Zhang/MagicColor)]
+
 **ColorFlow: Retrieval-Augmented Image Sequence Colorization** \
 [[Website](https://arxiv.org/abs/2412.11815)]
 [[Project](https://zhuang2002.github.io/ColorFlow/)]
@@ -2890,6 +2895,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data** \
 [[Website](https://arxiv.org/abs/2502.14397)]
 
+**DCEdit: Dual-Level Controlled Image Editing via Precisely Localized Semantics** \
+[[Website](https://arxiv.org/abs/2503.16795)]
+
+
 
 ## Diffusion Models Inversion
 
@@ -3075,6 +3084,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LUSD: Localized Update Score Distillation for Text-Guided Image Editing** \
 [[Website](https://arxiv.org/abs/2503.11054)]
 
+**Adams Bashforth Moulton Solver for Inversion and Editing in Rectified Flow** \
+[[Website](https://arxiv.org/abs/2503.16522)]
 
 
 # Continual Learning
@@ -3429,6 +3440,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Detect-and-Guide: Self-regulation of Diffusion Models for Safe Text-to-Image Generation via Guideline Token Optimization** \
 [[Website](https://arxiv.org/abs/2503.15197)] 
+
+**Safe and Reliable Diffusion Models via Subspace Projection** \
+[[Website](https://arxiv.org/abs/2503.16835)] 
 
 
 
@@ -5403,6 +5417,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Reflect-DiT: Inference-Time Scaling for Text-to-Image Diffusion Transformers via In-Context Reflection** \
 [[Website](https://arxiv.org/abs/2503.12271)] 
 
+**When Preferences Diverge: Aligning Diffusion Models with Minority-Aware Adaptive DPO** \
+[[Website](https://arxiv.org/abs/2503.16921)] 
 
 
 
@@ -6556,6 +6572,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Adding Additional Control to One-Step Diffusion with Joint Distribution Matching** \
 [[Website]](https://arxiv.org/abs/2503.06652) 
 
+**UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models** \
+[[Website]](https://arxiv.org/abs/2503.17221) 
+
 
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
@@ -7249,6 +7268,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TextInVision: Text and Prompt Complexity Driven Visual Text Generation Benchmark** \
 [[Website](https://arxiv.org/abs/2503.13730)]
 
+**Zero-Shot Styled Text Image Generation, but Make It Autoregressive** \
+[[Website](https://arxiv.org/abs/2503.17074)]
+
 
 # Video Generation 
 
@@ -7757,6 +7779,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.09566)]
 [[Project](https://showlab.github.io/TPDiff/)] 
 [[Code](https://github.com/showlab/TPDiff)]
+
+**Enabling Versatile Controls for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.16983)]
+[[Project](https://pp-vctrl.github.io/)] 
+[[Code](https://github.com/PaddlePaddle/PaddleMIX/tree/develop/ppdiffusers/examples/ppvctrl)] 
 
 **Customizing Motion in Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.04966)]
@@ -8833,6 +8860,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Probabilistic Adaptation of Text-to-Video Models** \
 [[Website](https://arxiv.org/abs/2306.01872)]
 [[Project](https://video-adapter.github.io/video-adapter/)]
+
+**Decouple and Track: Benchmarking and Improving Video Diffusion Transformers for Motion Transfer** \
+[[Website](https://arxiv.org/abs/2503.17350)]
+[[Project](https://shi-qingyu.github.io/DeT.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
