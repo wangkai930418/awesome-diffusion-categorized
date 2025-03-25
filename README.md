@@ -549,6 +549,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2405.05252)]
 [[Project](https://atedm.github.io/)]
 
+**Training-free Diffusion Acceleration with Bottleneck Sampling** \
+[[Website](https://arxiv.org/abs/2503.18940)]
+[[Project](https://tyfeld.github.io/BottleneckSampling.github.io/)]
+
 **Cache Me if You Can: Accelerating Diffusion Models through Block Caching** \
 [[Website](https://arxiv.org/abs/2312.03209)]
 [[Project](https://github.com/Shenyi-Z/ToCa)]
@@ -1363,6 +1367,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.07149)] 
 [[Code](https://github.com/W-JG/RAP-SR)] 
+
+**Uncertainty-guided Perturbation for Image Super-Resolution Diffusion Model** \
+[[Website](https://arxiv.org/abs/2503.18512)] 
+[[Code](https://github.com/LabShuHangGU/UPSR)] 
 
 **One-Step Effective Diffusion Network for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2406.08177)] 
@@ -2476,6 +2484,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
 [[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
 
+**Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning** \
+[[CVPR 2025](https://arxiv.org/abs/2503.18406)] 
+[[Code](https://github.com/SherryXTChen/Instruct-CLIP)] 
+
 **GroupDiff: Diffusion-based Group Portrait Editing** \
 [[ECCV 2024](https://arxiv.org/abs/2409.14379)] 
 [[Code](https://github.com/yumingj/GroupDiff)] 
@@ -2898,6 +2910,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DCEdit: Dual-Level Controlled Image Editing via Precisely Localized Semantics** \
 [[Website](https://arxiv.org/abs/2503.16795)]
 
+**Guidance Free Image Editing via Explicit Conditioning** \
+[[Website](https://arxiv.org/abs/2503.17593)]
 
 
 ## Diffusion Models Inversion
@@ -3855,6 +3869,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2407.06187)] 
 
+**DynASyn: Multi-Subject Personalization Enabling Dynamic Action Synthesis** \
+[[AAAI 2025](https://arxiv.org/abs/2503.17728)] 
+
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
 
@@ -4732,6 +4749,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://liuxinyv.github.io/HiPrompt/)] 
 [[Code](https://github.com/Liuxinyv/HiPrompt)]
 
+**Towards Transformer-Based Aligned Generation with Self-Coherence Guidance** \
+[[Website](https://arxiv.org/abs/2503.17675)] 
+[[Project](https://scg-diffusion.github.io/scg-diffusion/)] 
+[[Code](https://github.com/wang-shulei/SCG-diffusion-code)]
+
 **Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis** \
 [[Website](https://arxiv.org/abs/2411.17769)] 
 [[Project](https://itsmag11.github.io/Omegance/)] 
@@ -4741,6 +4763,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2404.18919)] 
 [[Project](https://howe140.github.io/theatergen.io/)] 
 [[Code](https://github.com/donahowe/Theatergen)]
+
+**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment** \
+[[CVPR 2025](https://arxiv.org/abs/2503.18454)] 
+[[Code](https://github.com/JaydenLyh/InPO)]
 
 **Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models** \
 [[ICLR 2024](https://arxiv.org/abs/2402.05375)] 
@@ -6125,6 +6151,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.06286)] 
 [[Code](https://github.com/patrick-john-ramos/nada)]
 
+**PDDM: Pseudo Depth Diffusion Model for RGB-PD Semantic Segmentation Based in Complex Indoor Scenes** \
+[[Website](https://arxiv.org/abs/2503.18393)] 
+[[Code](https://github.com/Oleki-xxh/PDDM)]
+
 **EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=YqyTXmF8Y2)]
 [[Website](https://arxiv.org/abs/2401.11739)] 
@@ -6241,6 +6271,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Panoptic Diffusion Models: co-generation of images and segmentation maps** \
 [[Website](https://arxiv.org/abs/2412.02929)] 
+
+**Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models** \
+[[Website](https://arxiv.org/abs/2503.18947)] 
 
 
 
@@ -7720,6 +7753,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://sihyun.me/PVDM/)]
 [[Code](https://github.com/sihyun-yu/PVDM)]
 
+**Can Text-to-Video Generation help Video-Language Alignment?** \
+[[CVPR 2025](https://arxiv.org/abs/2503.18507)]
+[[Project](https://lucazanella.github.io/synvita/)]
+[[Code](https://github.com/lucazanella/synvita)]
+
+
 **Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation** \
 [[ECCV 2024](https://arxiv.org/abs/2402.13729)]
 [[Project](https://hxngiee.github.io/HVDM/)]
@@ -7729,6 +7768,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2403.13802)]
 [[Project](https://taohu.me/zigma/)]
 [[Code](https://github.com/CompVis/zigma)]
+
+**AMD-Hummingbird: Towards an Efficient Text-to-Video Model** \
+[[Website](https://arxiv.org/abs/2503.18559)]
+[[Project](https://www.amd.com/en/developer/resources/technical-articles/amd-hummingbird-0-9b-text-to-video-diffusion-model-with-4-step-inferencing.html)]
+[[Code](https://github.com/AMD-AIG-AIMA/AMD-Hummingbird-T2V)]
 
 **Pix2Gif: Motion-Guided Diffusion for GIF Generation** \
 [[Website](https://arxiv.org/abs/2403.04634)]
@@ -8174,6 +8218,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2409.01595)]
 [[Project](https://liautoad.github.io/DIVE/)]
 [[Code](https://github.com/LiAutoAD/DIVE)] 
+
+**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation** \
+[[Website](https://arxiv.org/abs/2503.18860)]
+[[Project](https://kkakkkka.github.io/HunyuanPortrait/)]
+[[Code](https://github.com/kkakkkka/HunyuanPortrait)] 
 
 **FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation** \
 [[Website](https://arxiv.org/abs/2502.05179)]
@@ -8853,6 +8902,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.13190)]
 [[Project](https://motionbridge.github.io/)]
 
+**Target-Aware Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.18950)]
+[[Project](https://taeksuu.github.io/tavid/)]
+
+**EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation** \
+[[Website](https://arxiv.org/abs/2503.18552)]
+[[Project](https://potentialming.github.io/projects/EvAnimate/)]
+
 **Motion-Conditioned Diffusion Model for Controllable Video Synthesis** \
 [[Website](https://arxiv.org/abs/2304.14404)]
 [[Project](https://tsaishien-chen.github.io/MCDiff/)]
@@ -9117,6 +9174,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Frame-wise Conditioning Adaptation for Fine-Tuning Diffusion Models in Text-to-Video Prediction** \
 [[Website](https://arxiv.org/abs/2503.12953)]
+
+**TransAnimate: Taming Layer Diffusion to Generate RGBA Video** \
+[[Website](https://arxiv.org/abs/2503.17934)]
+
+**LongDiff: Training-Free Long Video Generation in One Go** \
+[[Website](https://arxiv.org/abs/2503.18150)]
+
+**Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks** \
+[[Website](https://arxiv.org/abs/2503.17539)]
+
+**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction** \
+[[Website](https://arxiv.org/abs/2503.18933)]
 
 
 
