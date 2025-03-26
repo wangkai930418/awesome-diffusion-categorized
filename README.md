@@ -193,6 +193,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zhushangwen.github.io/LTC-accel.io/)]
 [[Code](https://github.com/zhushangwen/LTC-Accel)]
 
+**AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset** \
+[[Website](https://arxiv.org/abs/2503.19462)]
+[[Project](https://aejion.github.io/accvideo/)]
+[[Code](https://github.com/aejion/AccVideo/)]
+
 **Relational Diffusion Distillation for Efficient Image Generation** \
 [[ACM MM 2024 (Oral)](https://arxiv.org/abs/2410.07679)]
 [[Code](https://github.com/cantbebetter2/RDD)]
@@ -365,6 +370,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers** \
 [[CVPR 2025](https://arxiv.org/abs/2503.15927)]
+
+**PCM : Picard Consistency Model for Fast Parallel Sampling of Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2503.19731)]
+
+**MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation** \
+[[CVPR 2025](https://arxiv.org/abs/2503.19383)]
 
 **Accelerate High-Quality Diffusion Models with Inner Loop Feedback** \
 [[Website](https://arxiv.org/abs/2501.13107)]
@@ -728,6 +739,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks** \
 [[CVPR 2024](https://arxiv.org/abs/2403.00644)]
 [[Code](https://github.com/yuhaoliu7456/Diff-Plugin)]
+
+**Learning Hazing to Dehazing: Towards Realistic Haze Generation for Real-World Image Dehazing** \
+[[CVPR 2025](https://arxiv.org/abs/2503.19262)]
+[[Code](https://github.com/ruiyi-w/Learning-Hazing-to-Dehazing)]
 
 **Deep Equilibrium Diffusion Restoration with Parallel Sampling** \
 [[CVPR 2024](https://arxiv.org/abs/2311.11600)]
@@ -2529,6 +2544,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[BMVC 2023](https://arxiv.org/abs/2309.11321)]
 [[Code](https://github.com/MunchkinChen/FADING)] 
 
+**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing** \
+[[Website](https://arxiv.org/abs/2503.10639v1)] 
+[[Code](https://github.com/rongyaofang/GoT)] 
+
 **Uniform Attention Maps: Boosting Image Fidelity in Reconstruction and Editing** \
 [[Website](https://arxiv.org/abs/2411.19652)] 
 [[Code](https://github.com/Mowenyii/Uniform-Attention-Maps)] 
@@ -2758,6 +2777,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Stable Flow: Vital Layers for Training-Free Image Editing** \
 [[Website](https://arxiv.org/abs/2411.14430)]
 [[Project](https://omriavrahami.com/stable-flow/)]
+
+**FDS: Frequency-Aware Denoising Score for Text-Guided Latent Diffusion Image Editing** \
+[[Website](https://arxiv.org/abs/2503.19191)]
+[[Project](https://ivrl.github.io/fds-webpage/)]
+
+**FireEdit: Fine-grained Instruction-based Image Editing via Region-aware Vision Language Model** \
+[[Website](https://arxiv.org/abs/2503.19839)]
+[[Project](https://zjgans.github.io/fireedit.github.io/)]
 
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
@@ -3352,6 +3379,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation** \
 [[CVPR 2025](https://arxiv.org/abs/2503.12356)] 
+
+**Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models** \
+[[CVPR 2025](https://arxiv.org/abs/2503.19783)] 
 
 **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** \
 [[Website](https://arxiv.org/abs/2412.20413)] 
@@ -4010,6 +4040,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Efficient Personalization of Quantized Diffusion Model without Backpropagation** \
 [[Website](https://arxiv.org/abs/2503.14868)] 
 
+**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.19902)] 
 
 
 ## Mutiple Concepts
@@ -4558,6 +4590,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.13951)] 
 [[Project](https://ip-composer.github.io/IP-Composer/)] 
 [[Code](https://github.com/ip-composer/IP-Composer/tree/master)]
+
+**Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing** \
+[[Website](https://arxiv.org/abs/2503.19385)] 
+[[Project](https://flow-inference-time-scaling.github.io/)] 
+[[Code](https://github.com/KAIST-Visual-AI-Group/Flow-Inference-Time-Scaling)]
 
 **Region-Adaptive Sampling for Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2502.10389)] 
@@ -7463,6 +7500,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://xizaoqu.github.io/trajattn/)] 
 [[Code](https://github.com/xizaoqu/TrajectoryAttntion)]
 
+**Mask2DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2503.19881)]
+[[Project](https://tianhao-qi.github.io/Mask2DiTProject/)] 
+[[Code](https://github.com/Tianhao-Qi/Mask2DiT)]
+
 **DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation** \
 [[CVPR 2025](https://arxiv.org/abs/2412.18597)]
 [[Project](https://onevfall.github.io/project_page/ditctrl/)] 
@@ -8545,6 +8587,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **REDUCIO! Generating 1024×1024 Video within 16 Seconds using Extremely Compressed Motion Latents** \
 [[Website](https://arxiv.org/abs/2411.13552)]
 [[Code](https://github.com/microsoft/Reducio-VAE)]
+
+**EfficientMT: Efficient Temporal Adaptation for Motion Transfer in Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.19369)]
+[[Code](https://github.com/PrototypeNx/EfficientMT)]
 
 **GRID: Visual Layout Generation** \
 [[Website](https://arxiv.org/abs/2412.10718)]
