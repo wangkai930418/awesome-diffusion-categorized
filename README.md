@@ -488,6 +488,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Inductive Moment Matching** \
 [[Website](https://arxiv.org/abs/2503.07565)]
 
+**High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching** \
+[[Website](https://arxiv.org/abs/2503.20744)]
+
+
 
 ## Train-Free
 
@@ -1459,6 +1463,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.10211)] 
 [[Code](https://github.com/lifengcs/BlindDiff)] 
 
+**Consistency Trajectory Matching for One-Step Generative Super-Resolution** \
+[[Website](https://arxiv.org/abs/2503.20349)] 
+[[Code](https://github.com/LabShuHangGU/CTMSR)] 
+
 **TASR: Timestep-Aware Diffusion Model for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2412.03355)] 
 [[Code](https://github.com/SleepyLin/TASR)] 
@@ -1825,6 +1833,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://tryondiffusion.github.io/)]
 [[Official Code](https://github.com/tryonlabs/tryondiffusion)] 
 [[Unofficial Code](https://github.com/fashn-AI/tryondiffusion)] 
+
+**ITA-MDT: Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On** \
+[[CVPR 2025](https://arxiv.org/abs/2503.20418)]
+[[Project](https://jiwoohong93.github.io/ita-mdt/)]
+[[Code](https://github.com/jiwoohong93/ita-mdt_code)] 
 
 **StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On** \
 [[CVPR 2024](https://arxiv.org/abs/2312.01725)]
@@ -2420,6 +2433,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.04410)] 
 [[Project](https://shi-labs.github.io/Smooth-Diffusion/)] 
 [[Code](https://github.com/SHI-Labs/Smooth-Diffusion)] 
+
+**EditCLIP: Representation Learning for Image Editing** \
+[[Website](https://arxiv.org/abs/2503.20318)] 
+[[Project](https://qianwangx.github.io/EditCLIP/)] 
+[[Code](https://github.com/QianWangX/EditCLIP)] 
 
 **FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction** \
 [[Website](https://arxiv.org/abs/2409.18071)] 
@@ -5052,6 +5070,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.11727)] 
 [[Code](https://github.com/ZiyiZhang27/sdpo)] 
 
+**VPO: Aligning Text-to-Video Generation Models with Prompt Optimization** \
+[[Website](https://arxiv.org/abs/2503.20491)] 
+[[Code](https://github.com/thu-coai/VPO)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -5483,6 +5505,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **When Preferences Diverge: Aligning Diffusion Models with Minority-Aware Adaptive DPO** \
 [[Website](https://arxiv.org/abs/2503.16921)] 
 
+**Reverse Prompt: Cracking the Recipe Inside Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2503.19937)] 
 
 
 ## Spatial Control
@@ -7247,6 +7271,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2406.08392)]
 [[Project](https://font-studio.github.io/)] 
 
+**Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models** \
+[[Website](https://arxiv.org/abs/2503.20198)]
+[[Project](https://fingerrec.github.io/longtextar/)] 
+
 **DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01645)]
 
@@ -8556,6 +8584,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2404.14381)]
 [[Code](https://github.com/OpenNLPLab/TAVGBench)]
 
+**Wan: Open and Advanced Large-Scale Video Generative Models** \
+[[Website](https://arxiv.org/abs/2503.20314)]
+[[Code](https://github.com/Wan-Video/Wan2.1)]
+
+**EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation** \
+[[Website](https://arxiv.org/abs/2503.20268)]
+[[Code](https://github.com/OpenImagingLab/EGVD)]
+
 **OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2409.01199)]
 [[Code](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
@@ -8759,6 +8795,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Free2Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Model** \
 [[Website](https://arxiv.org/abs/2411.17041)]
 [[Project](https://kjm981995.github.io/free2guide/)]
+
+**Video Motion Graphs** \
+[[Website](https://arxiv.org/abs/2503.20218)]
+[[Project](https://h-liu1997.github.io/Video-Motion-Graphs/)]
 
 **CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2406.02509)]
