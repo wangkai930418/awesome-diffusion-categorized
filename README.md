@@ -9300,8 +9300,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction** \
 [[CVPR 2025](https://arxiv.org/abs/2503.18933)]
-[[Project]](https://syncvp.github.io/)
-[[Code]](https://github.com/PallottaEnrico/SyncVP)
+[[Project](https://syncvp.github.io/)] 
+[[Code](https://github.com/PallottaEnrico/SyncVP)]
 
 
 
