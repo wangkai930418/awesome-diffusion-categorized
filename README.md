@@ -302,6 +302,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2405.20750)]
 [[Code](https://github.com/Zyriix/GDD)]
 
+**Optimal Stepsize for Diffusion Sampling** \
+[[Website](https://arxiv.org/abs/2503.21774)]
+[[Code](https://github.com/bebebe666/OptimalSteps)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -1053,6 +1057,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Temporal-Consistent Video Restoration with Pre-trained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.14863)]
+
+**Diffusion Image Prior** \
+[[Website](https://arxiv.org/abs/2503.21410)]
+
+**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration** \
+[[Website](https://arxiv.org/abs/2503.21486)]
+
 
 
 ## Colorization
@@ -2618,6 +2629,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.13551)]
 [[Code](https://github.com/ground-a-score/ground-a-score)] 
 
+**LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2503.21541)]
+[[Code](https://github.com/LOCATEdit/LOCATEdit/)] 
 
 **InstructDiffusion: A Generalist Modeling Interface for Vision Tasks** \
 [[Website](https://arxiv.org/abs/2309.03895)]
@@ -3904,6 +3918,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PALP: Prompt Aligned Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2401.06105)] 
 [[Project](https://prompt-aligned.github.io/)] 
+
+**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.21781)] 
+[[Project](https://jasper0314-huang.github.io/videomage-customization/)] 
 
 **Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.01179)] 
@@ -5866,6 +5884,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **STAY Diffusion: Styled Layout Diffusion Model for Diverse Layout-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2503.12213)] 
+
+**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing** \
+[[Website](https://arxiv.org/abs/2503.21069)] 
+
 
 
 # I2I translation
@@ -8403,6 +8425,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.16421)]
 [[Project](https://quanhaol.github.io/magicmotion-site/)]
 [[Code](https://github.com/quanhaol/MagicMotion)]
+
+**DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation** \
+[[Website](https://arxiv.org/abs/2503.21246)]
+[[Project](https://gulucaptain.github.io/DynamiCtrl/)]
+[[Code](https://github.com/gulucaptain/DynamiCtrl)]
+
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
