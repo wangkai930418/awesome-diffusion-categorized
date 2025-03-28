@@ -7675,6 +7675,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://tianxingwu.github.io/pages/FreeInit/)] 
 [[Code](https://github.com/TianxingWu/FreeInit)]
 
+**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction** \
+[[CVPR 2025](https://arxiv.org/abs/2503.18933)]
+[[Project](https://syncvp.github.io/)] 
+[[Code](https://github.com/PallottaEnrico/SyncVP)]
+
+
 **StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter** \
 [[TOG 2024](https://arxiv.org/abs/2312.00330)]
 [[Project](https://gongyeliu.github.io/StyleCrafter.github.io/)]
@@ -9297,12 +9303,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks** \
 [[Website](https://arxiv.org/abs/2503.17539)]
-
-**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction** \
-[[CVPR 2025](https://arxiv.org/abs/2503.18933)]
-[[Project](https://syncvp.github.io/)] 
-[[Code](https://github.com/PallottaEnrico/SyncVP)]
-
 
 
 # Video Editing 
