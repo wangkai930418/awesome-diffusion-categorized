@@ -1597,6 +1597,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation** \
 [[Website](https://arxiv.org/abs/2503.13358)]
 
+**KernelFusion: Assumption-Free Blind Super-Resolution via Patch Diffusion** \
+[[Website](https://arxiv.org/abs/2503.21907)]
+
 
 ## Personalized Restoration
 
@@ -4332,6 +4335,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EditID: Training-Free Editable ID Customization for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2503.12526)] 
 
+**Meta-LoRA: Meta-Learning LoRA Components for Domain-Aware ID Personalization** \
+[[Website](https://arxiv.org/abs/2503.22352)] 
+
 
 ## General Concept 
 
@@ -4606,6 +4612,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2403.05239)] 
 [[Project](https://hcplayercvpr2024.github.io/)] 
 [[Code](https://github.com/hcplayercvpr2024/hcplayer)] 
+
+**Spatial Transport Optimization by Repositioning Attention Map for Training-Free Text-to-Image Synthesis** \
+[[CVPR 2025](https://arxiv.org/abs/2503.22168)] 
+[[Project](https://micv-yonsei.github.io/storm2025/)] 
+[[Code](https://github.com/MICV-yonsei/STORM)] 
 
 **Training Diffusion Models with Reinforcement Learning** \
 [[ICLR 2024](https://arxiv.org/abs/2305.13301)] 
@@ -4999,6 +5010,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2307.10159)] 
 [[Code](https://github.com/sd-fabric/fabric)]
 
+**IPGO: Indirect Prompt Gradient Optimization on Text-to-Image Generative Models with High Data Efficiency** \
+[[Website](https://arxiv.org/abs/2503.21812)] 
+[[Code](https://github.com/Demos750/IPGO)] 
 
 **Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2305.16223)] 
@@ -5167,6 +5181,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Semantic Guidance Tuning for Text-To-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2312.15964)] 
 [[Project](https://korguy.github.io/)] 
+
+**ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2503.22194)] 
+[[Project](https://origen2025.github.io/)] 
 
 **Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2310.01819)] 
