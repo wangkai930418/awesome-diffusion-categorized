@@ -5067,6 +5067,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.13195)] 
 [[Code](https://github.com/blurgyy/CoMPaSS)]
 
+**LayerCraft: Enhancing Text-to-Image Generation with CoT Reasoning and Layered Object Integration** \
+[[Website](https://arxiv.org/abs/2504.00010)] 
+[[Code](https://github.com/PeterYYZhang/LayerCraft)]
+
 **LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts** \
 [[Website](https://arxiv.org/abs/2310.10640)] 
 [[Code](https://github.com/hananshafi/llmblueprint)]
@@ -6996,6 +7000,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[SIGGRAPH 2024](https://arxiv.org/abs/2407.21017)] 
 [[Project](https://lightchaserx.github.io/matting-by-generation/)]
 
+**TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting** \
+[[CVPR 2025](https://arxiv.org/abs/2504.00996)] 
+[[Project](https://liangbinxie.github.io/projects/TurboFill/)]
 
 **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference** \
 [[NeurIPS 2024](https://arxiv.org/abs/2407.21017)] 
@@ -9116,6 +9123,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TIV-Diffusion: Towards Object-Centric Movement for Text-driven Image to Video Generation** \
 [[AAAI 2025](https://arxiv.org/abs/2412.10275)]
+
+**Hierarchical Flow Diffusion for Efficient Frame Interpolation** \
+[[CVPR 2025](https://arxiv.org/abs/2504.00380)]
 
 **X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention** \
 [[SIGGRAPH 2024](https://arxiv.org/abs/2403.15931)]
