@@ -2379,6 +2379,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://yandex-research.github.io/invertible-cd/)] 
 [[Code](https://github.com/yandex-research/invertible-cd)] 
 
+**ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement** \
+[[Website](https://arxiv.org/abs/2504.01934)] 
+[[Project](https://illume-unified-mllm.github.io/)] 
+[[Code](https://github.com/illume-unified-mllm/ILLUME_plus)] 
+
 **FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing** \
 [[Website](https://arxiv.org/abs/2503.16153)] 
 [[Project](https://wtybest.github.io/projects/FreeFlux/)] 
@@ -4935,6 +4940,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2023](https://arxiv.org/abs/2305.16381)] 
 [[Code](https://github.com/google-research/google-research/tree/master/dpok)]
 
+**Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis** \
+[[Website](https://arxiv.org/abs/2504.01515)] 
+[[Code](https://github.com/ZixuanWang0525/DADG)]
+
 **Diffusion Model Alignment Using Direct Preference Optimization** \
 [[Website](https://arxiv.org/abs/2311.12908)] 
 [[Code](https://github.com/SalesforceAIResearch/DiffusionDPO)]
@@ -5118,6 +5127,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2402.12760)] 
 [[Code](https://github.com/naylenv/uf-fgtg)] 
+
+**Follow the Flow: On Information Flow Across Textual Tokens in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2504.01137)] 
+[[Code](https://github.com/tokeron/lens)] 
 
 **PromptCharm: Text-to-Image Generation through Multi-modal Prompting and Refinement** \
 [[Website](https://arxiv.org/abs/2403.04014)] 
@@ -7045,6 +7058,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Erase Diffusion: Empowering Object Removal Through Calibrating Diffusion Pathways** \
 [[CVPR 2025](https://arxiv.org/abs/2503.07026)] 
+
+**ATA: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting** \
+[[CVPR 2025](https://arxiv.org/abs/2504.01603)] 
 
 **Semantically Consistent Video Inpainting with Conditional Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.00251)] 
