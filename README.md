@@ -891,6 +891,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.11423)]
 [[Code](https://github.com/AlphacatPlus/VmambaIR)]
 
+**InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems** \
+[[Website](https://arxiv.org/abs/2504.01689)]
+[[Code](https://github.com/noamelata/InvFussion)]
+
 **Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2406.19030)]
 [[Code](https://github.com/JosephTiTan/DiffLoss)]
@@ -2240,6 +2244,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing** \
 [[Website](https://arxiv.org/abs/2410.12696)] 
 
+**A Diffusion-Based Framework for Occluded Object Movement** \
+[[Website](https://arxiv.org/abs/2504.01873)] 
 
 
 
@@ -9114,6 +9120,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Target-Aware Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.18950)]
 [[Project](https://taeksuu.github.io/tavid/)]
+
+**DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance** \
+[[Website](https://arxiv.org/abs/2504.01724)]
+[[Project](https://grisoon.github.io/DreamActor-M1/)]
 
 **EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation** \
 [[Website](https://arxiv.org/abs/2503.18552)]
