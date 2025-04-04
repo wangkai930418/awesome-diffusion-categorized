@@ -123,6 +123,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://youngwanlee.github.io/KOALA/)]
 [[Code](https://github.com/youngwanLEE/sdxl-koala)]
 
+**Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression** \
+[[CVPR 2025](https://arxiv.org/abs/2504.02011)]
+[[Project](https://dohyun-as.github.io/Random-Conditioning/)]
+[[Code](https://github.com/dohyun-as/Random-Conditioning)]
+
 **DIMO:Distilling Masked Diffusion Models into One-step Generator** \
 [[Website](https://arxiv.org/abs/2503.15457)]
 [[Project](https://yuanzhi-zhu.github.io/DiMO/)]
@@ -2550,6 +2555,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://xilluill.github.io/projectpages/KV-Edit/)] 
 [[Code](https://github.com/Xilluill/KV-Edit)] 
 
+**FreSca: Unveiling the Scaling Space in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.02154)] 
+[[Project](https://wikichao.github.io/FreSca/)] 
+[[Code](https://github.com/WikiChao/FreSca)] 
+
+**Concept Lancet: Image Editing with Compositional Representation Transplant** \
+[[Website](https://arxiv.org/abs/2504.02828)] 
+[[Project](https://peterljq.github.io/project/colan/)] 
+[[Code](https://github.com/peterljq/Concept-Lancet)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -3759,6 +3774,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://xichenpan.com/kosmosg/)] 
 [[Code](https://github.com/xichenpan/Kosmos-G)]
 
+**SkyReels-A2: Compose Anything in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2504.02436)] 
+[[Project](https://skyworkai.github.io/skyreels-a2.github.io/)] 
+[[Code](https://github.com/SkyworkAI/SkyReels-A2)] 
 
 **Visual Style Prompting with Swapping Self-Attention** \
 [[Website](https://arxiv.org/abs/2402.12974)] 
@@ -4118,6 +4137,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.19902)] 
+
+**Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2504.02612)] 
+
 
 
 ## Mutiple Concepts
@@ -4724,6 +4747,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.08434)] 
 [[Project](https://atfortes.github.io/projects/bokeh-diffusion/)] 
 [[Code](https://github.com/atfortes/BokehDiffusion)]
+
+**Less-to-More Generalization: Unlocking More Controllability by In-Context Generation** \
+[[Website](https://arxiv.org/abs/2504.02160)] 
+[[Project](https://bytedance.github.io/UNO/)] 
+[[Code](https://github.com/bytedance/UNO)]
 
 **MoLE: Enhancing Human-centric Text-to-image Diffusion via Mixture of Low-rank Experts** \
 [[Website](https://arxiv.org/abs/2410.23332)] 
@@ -8677,6 +8705,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2303.08320)]
 [[Code](https://github.com/modelscope/modelscope)]
 
+**ConMo: Controllable Motion Disentanglement and Recomposition for Zero-Shot Motion Transfer** \
+[[Website](https://arxiv.org/abs/2504.02451)]
+[[Code](https://github.com/Andyplus1/ConMo)]
+
 **CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** \
 [[Website](https://arxiv.org/abs/2412.15646)]
 [[Code](https://github.com/RongPiKing/CustomTTT)]
@@ -9405,6 +9437,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Generating, Fast and Slow: Scalable Parallel Video Generation with Video Interface Networks** \
 [[Website](https://arxiv.org/abs/2503.17539)]
+
+**OmniCam: Unified Multimodal Video Generation via Camera Control** \
+[[Website](https://arxiv.org/abs/2504.02312)]
+
+**MG-Gen: Single Image to Motion Graphics Generation with Layer Decomposition** \
+[[Website](https://arxiv.org/abs/2504.02361)]
 
 
 # Video Editing 
