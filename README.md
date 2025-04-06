@@ -271,9 +271,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.09633)]
 [[Code](https://github.com/razvanmatisan/duodiff)]
 
-**Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation** \
-[[Website](https://arxiv.org/abs/2502.05415)]
-[[Code](https://github.com/zhijie-group/Show-o-Turbo)]
+
 
 **A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2405.17403)]
@@ -611,6 +609,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://imagination-research.github.io/distilled-decoding/)]
 [[Code](https://github.com/imagination-research/distilled-decoding)]
 
+**Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation** \
+[[Website](https://arxiv.org/abs/2502.05415)]
+[[Code](https://github.com/zhijie-group/Show-o-Turbo)]
+
 **Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
 [[Website](https://arxiv.org/abs/2410.01699)]
 [[Code](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)]
@@ -622,6 +624,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 # Image Restoration
+
+
+**Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems** \
+[[ECCV 2024 Oral](https://arxiv.org/abs/2407.16125)]
+[[Project](https://mlvlab.github.io/DAVI-project/)]
+[[Code](https://github.com/mlvlab/DAVI)]
+
 
 **Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model** \
 [[ICLR 2023 oral](https://arxiv.org/abs/2212.00490)]
@@ -688,6 +697,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://wangzhiyaoo.github.io/SVFR/)]
 [[Code](https://github.com/wangzhiyaoo/SVFR)]
 
+**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models** \
+[[Website](https://arxiv.org/abs/2407.01519)]
+[[Project](https://jimmycv07.github.io/DiffIR2VR_web/)]
+[[Code](https://github.com/jimmycv07/DiffIR2VR-Zero)]
+
 **Solving Video Inverse Problems Using Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2409.02574)]
 [[Project](https://solving-video-inverse.github.io/main/)]
@@ -708,6 +722,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jiangyitong.github.io/AutoDIR_webpage/)]
 [[Code](https://github.com/jiangyitong/AutoDIR)]
 
+**DiffIR: Efficient Diffusion Model for Image Restoration**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
+[[Website](https://arxiv.org/abs/2303.09472)] 
+[[Code](https://github.com/Zj-BinXia/DiffIR)]
+
 **FlowIE: Efficient Image Enhancement via Rectified Flow** \
 [[CVPR 2024 oral](https://arxiv.org/abs/2406.00508)]
 [[Code](https://github.com/EternalEvan/FlowIE)]
@@ -720,6 +739,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICML 2023 oral](https://arxiv.org/abs/2301.12686)]
 [[Code](https://github.com/sony/gibbsddrm)]
 
+
 **Diffusion Priors for Variational Likelihood Estimation and Image Denoising** \
 [[NeurIPS 2024 Spotlight](https://arxiv.org/abs/2410.17521)]
 [[Code](https://github.com/HUST-Tan/DiffusionVI)]
@@ -728,9 +748,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2312.16519)]
 [[Code](https://github.com/tirer-lab/DDPG)]
 
-**DiffIR: Efficient Diffusion Model for Image Restoration** \
-[[ICCV 2023](https://arxiv.org/abs/2303.09472)]
-[[Code](https://github.com/Zj-BinXia/DiffIR)]
+
 
 **LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2407.08939)]
@@ -764,6 +782,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2311.11600)]
 [[Code](https://github.com/caojiezhang/deqir)]
 
+**An Expectation-Maximization Algorithm for Training Clean Diffusion Models from Corrupted Observations** \
+[[NeurIPS 2024](https://arxiv.org/abs/2407.01014)]
+[[Code](https://github.com/weiminbai/EMDiffusion)]
+
 **ReFIR: Grounding Large Restoration Models with Retrieval Augmentation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.05601)]
 [[Code](https://github.com/csguoh/ReFIR)]
@@ -795,6 +817,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **InstructRestore: Region-Customized Image Restoration with Human Instructions** \
 [[Website](https://arxiv.org/abs/2503.24357)]
 [[Code](https://github.com/shuaizhengliu/InstructRestore)]
+
+**Decoupled Data Consistency with Diffusion Purification for Image Restoration** \
+[[Website](https://arxiv.org/abs/2403.06054)]
+[[Code](https://github.com/morefre/decoupled-data-consistency-with-diffusion-purification-for-image-restoration)]
 
 **Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
 [[Website](https://arxiv.org/abs/2502.09873)]
@@ -948,6 +974,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.15868)]
 [[Project](https://codejaeger.github.io/unicorn-gh/)]
 
+**DREAMCLEAN: RESTORING CLEAN IMAGE USING DEEP DIFFUSION PRIOR** \
+[[ICLR 2025](https://openreview.net/forum?id=6ALuy19mPa)]
+
 **Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model** \
 [[ICCV 2023](https://arxiv.org/abs/2308.13164)]
 
@@ -1079,6 +1108,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Invert2Restore: Zero-Shot Degradation-Blind Image Restoration** \
 [[Website](https://arxiv.org/abs/2503.21486)]
+
+**Blind Inversion using Latent Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2407.01027)]
+
+**CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image** \
+[[Website](https://arxiv.org/abs/2501.14264)]
 
 
 
@@ -1301,10 +1336,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://iterative-refinement.github.io/)] 
 [[Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)] 
 
-**DiffIR: Efficient Diffusion Model for Image Restoration**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
-[[Website](https://arxiv.org/abs/2303.09472)] 
-[[Code](https://github.com/Zj-BinXia/DiffIR)]
 
 **Kalman-Inspired Feature Propagation for Video Face Super-Resolution** \
 [[ECCV 2024](https://arxiv.org/abs/2408.05205)] 
