@@ -802,6 +802,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[AAAI 2025](https://arxiv.org/abs/2503.15017)]
 [[Code](https://github.com/ywxjm/Diff-Dehazer)]
 
+**Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal** \
+[[CVPR 2024](https://arxiv.org/abs/2403.07684)]
+[[Code](https://github.com/scott-yjyang/DiffTTA)]
+
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
 [[Code](https://github.com/Algolzw/image-restoration-sde)]
@@ -809,6 +813,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement** \
 [[CVPR 2024 Workshop NTIRE](https://arxiv.org/abs/2404.09735)]
 [[Code](https://github.com/shermanlian/spatial-entropy-loss)]
+
+**JPEG Artifact Correction using Denoising Diffusion Restoration Models** \
+[[NeurIPS 2022 Workshop](https://arxiv.org/abs/2209.11888)]
+[[Code](https://github.com/bahjat-kawar/ddrm-jpeg)]
 
 **FlowDPS: Flow-Driven Posterior Sampling for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2503.08136)]
@@ -877,6 +885,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Learning A Coarse-to-Fine Diffusion Transformer for Image Restoration** \
 [[Website](https://arxiv.org/abs/2308.08730)]
 [[Code](https://github.com/wlydlut/C2F-DFT)]
+
+**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring** \
+[[Website](https://arxiv.org/abs/2412.09193)]
+[[Code](https://github.com/yzb1997/ExpRDiff)]
 
 **Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling** \
 [[Website](https://arxiv.org/abs/2307.03992)]
@@ -1692,6 +1704,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dangeng.github.io/visual_anagrams/)]
 [[Code](https://github.com/dangeng/visual_anagrams)] 
 
+**The Art of Deception: Color Visual Illusions and Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2412.10122)]
+[[Project](https://alviur.github.io/color-illusion-diffusion/)] 
 
 **Diffusion-based Visual Anagram as Multi-task Learning** \
 [[WACV 2025](https://arxiv.org/abs/2412.02693)]
@@ -1702,9 +1717,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.06184)]
 [[Code](https://github.com/mao1207/RCID)] 
 
-**The Art of Deception: Color Visual Illusions and Diffusion Models** \
-[[Website](https://arxiv.org/abs/2412.10122)]
-[[Project](https://alviur.github.io/color-illusion-diffusion/)] 
 
 **Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2412.09625)]
