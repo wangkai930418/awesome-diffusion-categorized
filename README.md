@@ -309,6 +309,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.21774)]
 [[Code](https://github.com/bebebe666/OptimalSteps)]
 
+**Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.03140)]
+[[Code](https://github.com/GeekGuru123/ProfilingDiT/tree/main)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -4259,6 +4263,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation** \
 [[Website](https://arxiv.org/abs/2503.08575)] 
+
+**FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement** \
+[[Website](https://arxiv.org/abs/2504.03292)] 
+
 
 
 ## Decomposition
@@ -9706,10 +9714,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://text-video-edit.github.io/#)] 
 
 
+**How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models** \
+[[ICLR 2024 Oral](https://arxiv.org/abs/2504.03072)]
+[[Project](https://warpyournoise.github.io/)]
+
 **WAVE: Warping DDIM Inversion Features for Zero-shot Text-to-Video Editing** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09682.pdf)]
 [[Project](https://ree1s.github.io/wave/)]
-
 
 **VideoDirector: Precise Video Editing via Text-to-Video Models** \
 [[Website](https://arxiv.org/abs/2411.17592)]
