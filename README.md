@@ -990,6 +990,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.15868)]
 [[Project](https://codejaeger.github.io/unicorn-gh/)]
 
+**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision** \
+[[Website](https://arxiv.org/abs/2504.04903)]
+[[Project](https://andrew0613.github.io/OmniLV_page/)]
+
 **DREAMCLEAN: RESTORING CLEAN IMAGE USING DEEP DIFFUSION PRIOR** \
 [[ICLR 2025](https://openreview.net/forum?id=6ALuy19mPa)]
 
@@ -1576,6 +1580,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Enhancing Hyperspectral Images via Diffusion Model and Group-Autoencoder Super-resolution Network** \
 [[AAAI 2024](https://arxiv.org/abs/2402.17285)] 
+
+**BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution** \
+[[AAAI 2025](https://arxiv.org/abs/2504.03490)] 
 
 **Detail-Enhancing Framework for Reference-Based Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2405.00431)] 
@@ -2910,6 +2917,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.19839)]
 [[Project](https://zjgans.github.io/fireedit.github.io/)]
 
+**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.05306)]
+[[Project](https://crea-diffusion.github.io/)]
+
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
 
@@ -3000,6 +3011,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing** \
 [[Website](https://arxiv.org/abs/2406.17236)]
 
+**Disentangling Instruction Influence in Diffusion Transformers for Parallel Multi-Instruction-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2504.04784)]
 
 **Achieving Complex Image Edits via Function Aggregation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2408.08495)]
@@ -9494,6 +9507,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MG-Gen: Single Image to Motion Graphics Generation with Layer Decomposition** \
 [[Website](https://arxiv.org/abs/2504.02361)]
+
+**Multi-identity Human Image Animation with Structural Video Diffusion** \
+[[Website](https://arxiv.org/abs/2504.04126)]
 
 
 # Video Editing 
