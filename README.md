@@ -1917,6 +1917,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Text2Story: Advancing Video Storytelling with Text Guidance** \
 [[Website](https://arxiv.org/abs/2503.06310)]
 
+**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling** \
+[[Website](https://arxiv.org/abs/2504.05800)]
+
 
 # Try On
 
@@ -2719,6 +2722,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Differential Diffusion: Giving Each Pixel Its Strength** \
 [[Website](https://arxiv.org/abs/2306.00950)] 
 [[Code](https://github.com/exx8/differential-diffusion)] 
+
+**Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model** \
+[[Website](https://arxiv.org/abs/2504.05594)]
+[[Code](https://github.com/CUC-MIPG/UnifyEdit)] 
 
 **MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing** \
 [[Website](https://arxiv.org/abs/2502.21291)]
@@ -6327,6 +6334,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://segment-me-in-time.github.io/)] 
 [[Code](https://github.com/alimohammadiamirhossein/smite/)]
 
+**Studying Image Diffusion Features for Zero-Shot Video Object Segmentation** \
+[[Website](https://arxiv.org/abs/2504.05468)] 
+[[Project](https://diff-zsvos.compute.dtu.dk/)] 
+[[Code](https://github.com/thanosDelatolas/diff-zvos)]
+
 **Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.21708)] 
 [[Code](https://github.com/XiaRho/MADM)]
@@ -8784,6 +8796,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Real-Time Video Generation with Pyramid Attention Broadcast** \
 [[Website](https://arxiv.org/abs/2408.12588)]
 [[Code](https://github.com/NUS-HPC-AI-Lab/VideoSys)]
+
+**CamContextI2V: Context-aware Controllable Video Generation** \
+[[Website](https://arxiv.org/abs/2504.06022)]
+[[Code](https://github.com/LDenninger/CamContextI2V)]
 
 **Magic-Me: Identity-Specific Video Customized Diffusion** \
 [[Website](https://arxiv.org/abs/2402.09368)]
