@@ -1191,6 +1191,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2401.01456)]
 [[Code](https://github.com/tellurion-kanata/colorizeDiffusion)]
 
+**ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities** \
+[[Website](https://arxiv.org/abs/2504.06895)]
+[[Code](https://github.com/tellurion-kanata/colorizeDiffusion)]
+
 **Diffusing Colors: Image Colorization with Text Guided Diffusion** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2312.04145)]
 [[Project](https://pub.res.lightricks.com/diffusing-colors/)]
@@ -5261,6 +5265,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
 
+**Compass Control: Multi Object Orientation Control for Text-to-Image Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2504.06752)] 
+[[Project](https://rishubhpar.github.io/compasscontrol/)] 
+
 **Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.21638)] 
 [[Project](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/)] 
@@ -7465,6 +7473,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2409.06065)]
 [[Code](https://github.com/koninik/DiffusionPen)] 
 
+**PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering** \
+[[CVPR 2025](https://arxiv.org/abs/2504.06632)]
+[[Project](https://poster-maker.github.io/)] 
+
 **AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2312.02967)]
 [[Project](https://raymond-yeh.com/AmbiGen/)] 
@@ -8043,6 +8055,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://lucazanella.github.io/synvita/)]
 [[Code](https://github.com/lucazanella/synvita)]
 
+**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2504.06861)]
+[[Project](https://djagpal02.github.io/EIDT-V/)]
+[[Code](https://github.com/djagpal02/EIDT-V)]
 
 **Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation** \
 [[ECCV 2024](https://arxiv.org/abs/2402.13729)]
@@ -8816,6 +8832,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Wan: Open and Advanced Large-Scale Video Generative Models** \
 [[Website](https://arxiv.org/abs/2503.20314)]
 [[Code](https://github.com/Wan-Video/Wan2.1)]
+
+**RAGME: Retrieval Augmented Video Generation for Enhanced Motion Realism** \
+[[Website](https://arxiv.org/abs/2504.06672)]
+[[Code](https://github.com/helia95/ragme)]
+
 
 **On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices** \
 [[Website](https://arxiv.org/abs/2503.23796)]
