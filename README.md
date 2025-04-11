@@ -3730,6 +3730,21 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://corleone-huang.github.io/realcustom/)] 
 [[Code](https://github.com/Corleone-Huang/RealCustomProject)] 
 
+**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2309.07986)] 
+[[Project](https://jmhb0.github.io/viewneti/)] 
+[[Code](https://github.com/jmhb0/view_neti)]
+
+**Kosmos-G: Generating Images in Context with Multimodal Large Language Models** \
+[[ICLR 2024](https://arxiv.org/abs/2310.02992)] 
+[[Project](https://xichenpan.com/kosmosg/)] 
+[[Code](https://github.com/xichenpan/Kosmos-G)]
+
+**StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models** \
+[[Eurographics 2025](https://arxiv.org/abs/2502.09064)] 
+[[Project](https://zichongc.github.io/StyleBlend/)] 
+[[Code](https://github.com/zichongc/StyleBlend)] 
+
 **Personalize Anything for Free with Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2503.12590)] 
 [[Project](https://fenghora.github.io/Personalize-Anything-Page/)] 
@@ -3785,11 +3800,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://personalvideo.github.io/)] 
 [[Code](https://github.com/EchoPluto/PersonalVideo)] 
 
-**StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2502.09064)] 
-[[Project](https://zichongc.github.io/StyleBlend/)] 
-[[Code](https://github.com/zichongc/StyleBlend)] 
-
 **CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs//2310.19784)] 
 [[Project](https://jiangyzy.github.io/CustomNet/)] 
@@ -3830,20 +3840,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://julianjuaner.github.io/projects/MagicMirror/)] 
 [[Code](https://github.com/dvlab-research/MagicMirror/)]
 
-**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models** \
-[[Website](https://arxiv.org/abs/2309.07986)] 
-[[Project](https://jmhb0.github.io/viewneti/)] 
-[[Code](https://github.com/jmhb0/view_neti)]
-
 **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** \
 [[Website](https://arxiv.org/abs/2502.08189)] 
 [[Project](https://anycharv.github.io/)] 
 [[Code](https://github.com/AnyCharV/AnyCharV)]
-
-**Kosmos-G: Generating Images in Context with Multimodal Large Language Models** \
-[[Website](https://arxiv.org/abs/2310.02992)] 
-[[Project](https://xichenpan.com/kosmosg/)] 
-[[Code](https://github.com/xichenpan/Kosmos-G)]
 
 **SkyReels-A2: Compose Anything in Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2504.02436)] 
@@ -3888,6 +3888,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2411.04571)] 
 [[Code](https://github.com/Ldhlwh/DomainGallery)]
 
+**TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation** \
+[[ICLR 2025](https://arxiv.org/abs/2410.05591)] 
+[[Code](https://github.com/KwonGihyun/TweedieMix)]
+
+**Concept-centric Personalization with Large-scale Diffusion Priors** \
+[[CVPR 2025](https://arxiv.org/abs/2312.08195)] 
+[[Code](https://github.com/PRIV-Creation/Concept-centric-Personalization)] 
+
 **PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation** \
 [[Website](https://arxiv.org/abs/2501.05823)] 
 [[Code](https://github.com/joyhuyy1412/personahoi)]
@@ -3896,10 +3904,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2401.13974)] 
 [[Code](https://github.com/SalesforceAIResearch/bootpig)]
 
-**TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation** \
-[[Website](https://arxiv.org/abs/2410.05591)] 
-[[Code](https://github.com/KwonGihyun/TweedieMix)]
-
 **AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.15040)] 
 [[Code](https://github.com/Xiang-cd/unet-finetune)]
@@ -3907,10 +3911,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Cross-domain Compositing with Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.10167)] 
 [[Code](https://github.com/cross-domain-compositing/cross-domain-compositing)] 
-
-**Concept-centric Personalization with Large-scale Diffusion Priors** \
-[[Website](https://arxiv.org/abs/2312.08195)] 
-[[Code](https://github.com/PRIV-Creation/Concept-centric-Personalization)] 
 
 **Customization Assistant for Text-to-image Generation** \
 [[Website](https://arxiv.org/abs/2312.03045)] 
@@ -3941,21 +3941,25 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://mingkangz.github.io/logosticker/)] 
 
 **Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** \
-[[Website](https://arxiv.org/abs/2502.07802)] 
+[[CVPR 2025](https://arxiv.org/abs/2502.07802)] 
 [[Project](https://jeff-liangf.github.io/projects/movieweaver/)] 
 
+**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2503.21781)] 
+[[Project](https://jasper0314-huang.github.io/videomage-customization/)] 
 
 **Multi-subject Open-set Personalization in Video Generation** \
-[[Website](https://arxiv.org/abs/2501.06187)] 
+[[CVPR 2025](https://arxiv.org/abs/2501.06187)] 
 [[Project](https://snap-research.github.io/open-set-video-personalization/)] 
+
+**SerialGen: Personalized Image Generation by First Standardization Then Personalization** \
+[[CVPR 2025](https://arxiv.org/abs/2412.01485)] 
+[[Project](https://serialgen.github.io/)] 
+
 
 **RelationBooth: Towards Relation-Aware Customized Object Generation** \
 [[Website](https://arxiv.org/abs/2410.23280)] 
 [[Project](https://shi-qingyu.github.io/RelationBooth/)] 
-
-**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2412.09622)] 
-[[Project](https://loraclr.github.io/)] 
 
 **InstructBooth: Instruction-following Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.03011)] 
@@ -4037,10 +4041,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.13691)] 
 [[Project](https://dreamtuner-diffusion.github.io/)] 
 
-**SerialGen: Personalized Image Generation by First Standardization Then Personalization** \
-[[Website](https://arxiv.org/abs/2412.01485)] 
-[[Project](https://serialgen.github.io/)] 
-
 **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** \
 [[Website](https://arxiv.org/abs/2501.04698)] 
 [[Project](https://yuzhou914.github.io/ConceptMaster/)] 
@@ -4048,10 +4048,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PALP: Prompt Aligned Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2401.06105)] 
 [[Project](https://prompt-aligned.github.io/)] 
-
-**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2503.21781)] 
-[[Project](https://jasper0314-huang.github.io/videomage-customization/)] 
 
 **Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.01179)] 
@@ -4222,6 +4218,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://showlab.github.io/Mix-of-Show/)] 
 [[Code](https://github.com/TencentARC/Mix-of-Show)]
 
+**LatexBlend: Scaling Multi-concept Customized Generation with Latent Textual Blending** \
+[[CVPR 2025 Highlight](https://arxiv.org/abs/2503.06956)] 
+[[Project](https://jinjianrick.github.io/latexblend/)] 
+[[Code](https://github.com/jinjianRick/latexblend)] 
+
 **Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models** \
 [[CVPR 2024](https://arxiv.org/abs/2404.04243)] 
 [[Project](https://mudi-t2i.github.io/)] 
@@ -4231,6 +4232,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2405.13870v1)] 
 [[Project](https://aim-uofa.github.io/FreeCustom/)] 
 [[Code](https://github.com/aim-uofa/FreeCustom)]
+
+**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models** \
+[[ECCV 2024](https://arxiv.org/abs/2403.10983)] 
+[[Project](https://kongzhecn.github.io/omg-project/)] 
+[[Code](https://github.com/kongzhecn/OMG/)]
 
 **MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance** \
 [[Website](https://arxiv.org/abs/2406.07209)] 
@@ -4242,20 +4248,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] 
 [[Code](https://github.com/eclipse-t2i/lambda-eclipse-inference)]
 
-**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2403.10983)] 
-[[Project](https://kongzhecn.github.io/omg-project/)] 
-[[Code](https://github.com/kongzhecn/OMG/)]
-
 **Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition** \
 [[Website](https://arxiv.org/abs/2402.15504)] 
 [[Project](https://danielchyeh.github.io/Gen4Gen/)] 
 [[Code](https://github.com/louisYen/Gen4Gen)]
-
-**LatexBlend: Scaling Multi-concept Customized Generation with Latent Textual Blending** \
-[[Website](https://arxiv.org/abs/2503.06956)] 
-[[Project](https://jinjianrick.github.io/latexblend/)] 
-[[Code](https://github.com/jinjianRick/latexblend)] 
 
 **Non-confusing Generation of Customized Concepts in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.06914)] 
@@ -4281,6 +4277,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2405.17965)] 
 [[Code](https://github.com/junjie-shentu/AttenCraft)] 
+
+**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2412.09622)] 
+[[Project](https://loraclr.github.io/)] 
 
 **FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion** \
 [[Website](https://arxiv.org/abs/2502.05606)] 
