@@ -28,7 +28,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [New Concept Learning](#new-concept-learning)
     - [Multi-Concept](#mutiple-concepts)
     - [Decompostion](#decomposition)
-    - [Human ID](#human-id)
+    - [ID Encoder](#id-encoder)
     - [General Personalization](#general-concept)
 - [T2I augmentation](#t2i-diffusion-model-augmentation)
     - [Spatial Control](#spatial-control)
@@ -4326,7 +4326,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.13833)] 
 
-## Human ID
+## ID encoder
 
 **Inserting Anybody in Diffusion Models via Celeb Basis** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71823)] 
@@ -4457,9 +4457,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2305.13579)] 
 [[Code](https://github.com/drboog/profusion)]
 
+**ID-Booth: Identity-consistent Face Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.07392)] 
+[[Code](https://github.com/dariant/ID-Booth)]
+
 **Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
 [[Website](https://arxiv.org/abs/2403.11781)] 
 [[Project](https://infinite-id.github.io/)] 
+
+**FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation** \
+[[Website](https://arxiv.org/abs/2504.07405)] 
+[[Project](https://flexip-tech.github.io/flexip/#/)] 
+
 
 **DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation** \
 [[Website](https://arxiv.org/abs/2502.13999)] 
