@@ -1087,6 +1087,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AllRestorer: All-in-One Transformer for Image Restoration under Composite Degradations** \
 [[Website](https://arxiv.org/abs/2411.10708)]
 
+**STeP: A General and Scalable Framework for Solving Video Inverse Problems with Spatiotemporal Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2504.07549)]
+
 **DiffMVR: Diffusion-based Automated Multi-Guidance Video Restoration** \
 [[Website](https://arxiv.org/abs/2411.18745)]
 
@@ -2835,6 +2838,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads** \
 [[Website](https://arxiv.org/abs/2411.15034)]
 [[Project](https://yuci-gpt.github.io/headrouter/)] 
+
+**POEM: Precise Object-level Editing via MLLM control** \
+[[Website](https://arxiv.org/abs/2504.08111)]
+[[Project](https://poem.compute.dtu.dk/)] 
 
 **MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.00985)]
@@ -5306,6 +5313,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.03895)] 
 [[Project](https://cvlab-kaist.github.io/NoiseRefine/)] 
 
+**Generating Fine Details of Entity Interactions** \
+[[Website](https://arxiv.org/abs/2504.08714)] 
+[[Project](https://concepts-ai.com/p/detailscribe/)] 
+
 **LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors** \
 [[Website](https://arxiv.org/abs/2412.04460)] 
 [[Project](https://layerfusion.github.io/)] 
@@ -7164,6 +7175,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.02355)] 
 [[Project](https://corrfill.github.io/)]
 
+**DreamFuse: Adaptive Image Fusion with Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2504.08291)] 
+[[Project](https://ll3rd.github.io/DreamFuse/)]
+
 **SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control** \
 [[Website](https://arxiv.org/abs/2312.05039)] 
 [[Project](https://smartmask-gen.github.io/)]
@@ -8649,6 +8664,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://gulucaptain.github.io/DynamiCtrl/)]
 [[Code](https://github.com/gulucaptain/DynamiCtrl)]
 
+**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization** \
+[[Website](https://arxiv.org/abs/2504.08641)]
+[[Project](https://video-msg.github.io/)]
+[[Code](https://github.com/jialuli-luka/Video-MSG)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
@@ -8998,6 +9017,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation** \
 [[CVPR 2025](https://arxiv.org/abs/2412.07761)]
 [[Project](https://vdm-evfi.github.io/)]
+
+**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model** \
+[[Website](https://arxiv.org/abs/2504.08685)]
+[[Project](https://seaweed.video/)]
 
 **OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models** \
 [[Website](https://arxiv.org/abs/2502.01061)]
@@ -9556,6 +9579,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Multi-identity Human Image Animation with Structural Video Diffusion** \
 [[Website](https://arxiv.org/abs/2504.04126)]
+
+**Discriminator-Free Direct Preference Optimization for Video Diffusion** \
+[[Website](https://arxiv.org/abs/2504.08542)]
+
+**TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation** \
+[[Website](https://arxiv.org/abs/2504.08181)]
 
 
 # Video Editing 
