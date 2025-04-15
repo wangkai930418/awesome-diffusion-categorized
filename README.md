@@ -1504,6 +1504,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.09465)] 
 [[Code](https://github.com/yuanzhi-zhu/OFTSR)] 
 
+**Enhanced Semantic Extraction and Guidance for UGC Image Super Resolution** \
+[[Website](https://arxiv.org/abs/2504.09887)] 
+[[Code](https://github.com/Moonsofang/NTIRE-2025-SRlab)] 
+
 **Arbitrary-steps Image Super-resolution via Diffusion Inversion** \
 [[Website](https://arxiv.org/abs/2412.09013)] 
 [[Code](https://github.com/zsyOAOA/InvSR)] 
@@ -2682,6 +2686,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[BMVC 2023](https://arxiv.org/abs/2309.11321)]
 [[Code](https://github.com/MunchkinChen/FADING)] 
 
+**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing** \
+[[Website](https://arxiv.org/abs/2504.10434)] 
+[[Code](https://github.com/hutaiHang/ATM)] 
+
 **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing** \
 [[Website](https://arxiv.org/abs/2503.10639v1)] 
 [[Code](https://github.com/rongyaofang/GoT)] 
@@ -3097,6 +3105,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Training-Free Text-Guided Image Editing with Visual Autoregressive Model** \
 [[Website](https://arxiv.org/abs/2503.23897)]
+
+**SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow** \
+[[Website](https://arxiv.org/abs/2504.09697)]
 
 
 ## Diffusion Models Inversion
@@ -3649,6 +3660,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Safe and Reliable Diffusion Models via Subspace Projection** \
 [[Website](https://arxiv.org/abs/2503.16835)] 
 
+**Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization** \
+[[Website](https://arxiv.org/abs/2504.09039)] 
 
 
 # New Concept Learning
@@ -4031,6 +4044,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
 [[Website](https://arxiv.org/abs/2307.06925)] 
 [[Project](https://datencoder.github.io/)] 
+
+**CamMimic: Zero-Shot Image To Camera Motion Personalized Video Generation Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.09472)] 
+[[Project](https://cammimic.github.io/)] 
 
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09522)] 
@@ -5642,6 +5659,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps** \
 [[Website](https://arxiv.org/abs/2411.15236)] 
 
+**InstructEngine: Instruction-driven Text-to-Image Alignment** \
+[[Website](https://arxiv.org/abs/2504.10329)] 
+
 **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2411.16503)] 
 
@@ -6088,6 +6108,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing** \
 [[Website](https://arxiv.org/abs/2503.21069)] 
+
+**Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2504.10148)] 
 
 
 
@@ -9078,6 +9101,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2408.13423)]
 [[Project](https://confiner2025.github.io/)]
 
+**EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise** \
+[[Website](https://arxiv.org/abs/2504.09789)]
+[[Project](https://research.nvidia.com/labs/genair/equivdm/)]
+
 **Free2Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Model** \
 [[Website](https://arxiv.org/abs/2411.17041)]
 [[Project](https://kjm981995.github.io/free2guide/)]
@@ -9585,6 +9612,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation** \
 [[Website](https://arxiv.org/abs/2504.08181)]
+
+**Analysis of Attention in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2504.10317)]
+
 
 
 # Video Editing 
