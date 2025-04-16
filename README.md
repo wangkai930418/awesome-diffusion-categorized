@@ -207,6 +207,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ACM MM 2024 (Oral)](https://arxiv.org/abs/2410.07679)]
 [[Code](https://github.com/cantbebetter2/RDD)]
 
+**Autoregressive Distillation of Diffusion Transformers** \
+[[CVPR 2025 Oral](https://arxiv.org/abs/2504.11295)]
+[[Code](https://github.com/alsdudrla10/ARD)]
+
 **UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs** \
 [[CVPR 2024](https://arxiv.org/abs/2311.09257)]
 [[Code](https://github.com/xuyanwu/SIDDMs-UFOGen)]
@@ -242,6 +246,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Improved Training Technique for Latent Consistency Models** \
 [[ICLR 2025](https://arxiv.org/abs/2502.01441)]
 [[Code](https://github.com/quandao10/sLCT/)]
+
 
 **CacheQuant: Comprehensively Accelerated Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01323)]
@@ -402,6 +407,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Inference-Time Diffusion Model Distillation** \
 [[Website](https://arxiv.org/abs/2412.08871)]
+
+**Taming Consistency Distillation for Accelerated Human Image Animation** \
+[[Website](https://arxiv.org/abs/2504.11143)]
 
 **Token Pruning for Caching Better: 9 Times Acceleration on Stable Diffusion for Free** \
 [[Website](https://arxiv.org/abs/2501.00375)]
@@ -5746,6 +5754,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **On Geometrical Properties of Text Token Embeddings for Strong Semantic Binding in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2503.23011)] 
 
+**ADT: Tuning Diffusion Models with Adversarial Supervision** \
+[[Website](https://arxiv.org/abs/2504.11423)] 
 
 
 ## Spatial Control
@@ -8167,6 +8177,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://vision-x-nyu.github.io/pisa-experiments.github.io/)] 
 [[Code](https://github.com/vision-x-nyu/pisa-experiments)]
 
+**OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding** \
+[[Website](https://arxiv.org/abs/2504.10825)]
+[[Project](https://tele-ai.github.io/OmniVDiff/)] 
+[[Code](https://github.com/Tele-AI/OmniVDiff)]
+
+
 **TPDiff: Temporal Pyramid Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2503.09566)]
 [[Project](https://showlab.github.io/TPDiff/)] 
@@ -8933,6 +8949,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.19369)]
 [[Code](https://github.com/PrototypeNx/EfficientMT)]
 
+**UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2504.11289)]
+[[Code](https://github.com/ali-vilab/UniAnimate-DiT)]
+
 **GRID: Visual Layout Generation** \
 [[Website](https://arxiv.org/abs/2412.10718)]
 [[Code](https://github.com/Should-AI-Lab/GRID)]
@@ -9603,6 +9623,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MG-Gen: Single Image to Motion Graphics Generation with Layer Decomposition** \
 [[Website](https://arxiv.org/abs/2504.02361)]
+
+**InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation** \
+[[Website](https://arxiv.org/abs/2504.10905)]
+
+**H3AE: High Compression, High Speed, and High Quality AutoEncoder for Video Diffusion Models**
+[[Website](https://arxiv.org/abs/2504.10567)]
 
 **Multi-identity Human Image Animation with Structural Video Diffusion** \
 [[Website](https://arxiv.org/abs/2504.04126)]
