@@ -1155,6 +1155,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://luckyhzt.github.io/lvcd)]
 [[Code](https://github.com/luckyhzt/LVCD)]
 
+**Cobra: Efficient Line Art COlorization with BRoAder References** \
+[[SIGGRAPH 2025](https://arxiv.org/abs/2504.12240)]
+[[Project](https://zhuang2002.github.io/Cobra/)]
+[[Code](https://github.com/Zhuang2002/Cobra)]
+
 **MagicColor: Multi-Instance Sketch Colorization** \
 [[Website](https://arxiv.org/abs/2503.16948)]
 [[Project](https://yinhan-zhang.github.io/color/)]
@@ -4158,6 +4163,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Visual Concept-driven Image Generation with Text-to-Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2402.11487)] 
+
+**Flux Already Knows - Activating Subject-Driven Image Generation without Training** \
+[[Website](https://arxiv.org/abs/2504.11478)] 
 
 **IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2403.13535)] 
@@ -9013,6 +9021,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2312.04557)]
 [[Project](https://www.shoufachen.com/gentron_website/)] 
 
+**The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2504.11739)]
+[[Project](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)] 
+
+**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM** \
+[[AAAI 2025](https://arxiv.org/abs/2504.12048)]
+[[Project](https://modular-cam.github.io/)] 
+
 **Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models** \
 [[ICCV 2023](https://arxiv.org/abs/2305.10474)]
 [[Project](https://research.nvidia.com/labs/dir/pyoco/)] 
@@ -9244,6 +9260,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation** \
 [[Website](https://arxiv.org/abs/2405.16393)]
 [[Project](https://liujl09.github.io/humanvideo_movingbackground/)] 
+
 
 **Dance Any Beat: Blending Beats with Visuals in Dance Video Generation** \
 [[Website](https://arxiv.org/abs/2405.09266)]
@@ -9642,6 +9659,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Analysis of Attention in Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2504.10317)]
 
+**VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate** \
+[[Website](https://arxiv.org/abs/2504.12259)]
+
+**Understanding Attention Mechanism in Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.12027)]
 
 
 # Video Editing 
