@@ -1089,6 +1089,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Flexible and Efficient Diffusion Low Light Enhancer** \
 [[Website](https://arxiv.org/abs/2410.12346)]
 
+**AdaQual-Diff: Diffusion-Based Image Restoration via Adaptive Quality Prompting** \
+[[Website](https://arxiv.org/abs/2504.12605)]
+
 **G2D2: Gradient-guided Discrete Diffusion for image inverse problem solving** \
 [[Website](https://arxiv.org/abs/2410.14710)]
 
@@ -1964,6 +1967,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://rlawjdghek.github.io/StableVITON/)]
 [[Code](https://github.com/rlawjdghek/stableviton)] 
 
+**Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off** \
+[[Website](https://arxiv.org/abs/2504.13078)]
+[[Project](https://rizavelioglu.github.io/tryoffdiff/)]
+[[Code](https://github.com/rizavelioglu/tryoffdiff/)] 
+
 **VTON-HandFit: Virtual Try-on for Arbitrary Hand Pose Guided by Hand Priors Embedding** \
 [[Website](https://arxiv.org/abs/2408.12340)]
 [[Project](https://vton-handfit.github.io/)]
@@ -2799,6 +2807,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2401.03433)] 
 [[Code](https://github.com/jingjiqinggong/specp2p)] 
 
+**SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding** \
+[[Website](https://arxiv.org/abs/2504.12704)] 
+[[Code](https://github.com/smileformylove/SmartFreeEdit)] 
+
+**Image-Editing Specialists: An RLAIF Approach for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.12833)] 
+[[Code](https://github.com/ebenarous/EditSpecialists)] 
+
 **FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing** \
 [[Website](https://arxiv.org/abs/2412.07517)] 
 [[Code](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)] 
@@ -2939,6 +2955,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SOEDiff: Efficient Distillation for Small Object Editing** \
 [[Website](https://arxiv.org/abs/2405.09114)]
 [[Project](https://soediff.github.io/)]
+
+**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models** \
+[[Website](https://arxiv.org/abs/2504.13109)]
+[[Project](https://uniedit-flow.github.io/)]
 
 **Click2Mask: Local Editing with Dynamic Mask Generation** \
 [[Website](https://arxiv.org/abs/2409.08272)]
@@ -3551,6 +3571,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.15537)] 
 [[Code](https://github.com/JingWu321/MUNBa)]
 
+**Set You Straight: Auto-Steering Denoising Trajectories to Sidestep Unwanted Concepts** \
+[[Website](https://arxiv.org/abs/2504.12782)] 
+[[Code](https://github.com/lileyang1210/ANT)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -3883,6 +3907,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://skyworkai.github.io/skyreels-a2.github.io/)] 
 [[Code](https://github.com/SkyworkAI/SkyReels-A2)] 
 
+**InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework** \
+[[Website](https://arxiv.org/abs/2504.12395)] 
+[[Project](https://instantcharacter.github.io/)] 
+[[Code](https://github.com/Tencent/InstantCharacter)] 
+
 **Visual Style Prompting with Swapping Self-Attention** \
 [[Website](https://arxiv.org/abs/2402.12974)] 
 [[Project](https://curryjung.github.io/VisualStylePrompt/)] 
@@ -3940,6 +3969,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AerialBooth: Mutual Information Guidance for Text Controlled Aerial View Synthesis from a Single Image** \
 [[Website](https://arxiv.org/abs/2311.15040)] 
 [[Code](https://github.com/Xiang-cd/unet-finetune)]
+
+**Personalized Text-to-Image Generation with Auto-Regressive Models** \
+[[Website](https://arxiv.org/abs/2504.13162)] 
+[[Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)]
 
 **Cross-domain Compositing with Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.10167)] 
@@ -8135,6 +8168,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://taohu.me/zigma/)]
 [[Code](https://github.com/CompVis/zigma)]
 
+**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation** \
+[[Website](https://arxiv.org/abs/2504.12626)]
+[[Project](https://lllyasviel.github.io/frame_pack_gitpage/)]
+[[Code](https://github.com/lllyasviel/FramePack)]
+
 **AMD-Hummingbird: Towards an Efficient Text-to-Video Model** \
 [[Website](https://arxiv.org/abs/2503.18559)]
 [[Project](https://www.amd.com/en/developer/resources/technical-articles/amd-hummingbird-0-9b-text-to-video-diffusion-model-with-4-step-inferencing.html)]
@@ -9664,6 +9702,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Understanding Attention Mechanism in Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2504.12027)]
+
+**SkyReels-V2: Infinite-length Film Generative Model** \
+[[Website](https://arxiv.org/abs/2504.13074)]
 
 
 # Video Editing 
