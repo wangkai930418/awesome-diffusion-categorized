@@ -1701,6 +1701,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **KernelFusion: Assumption-Free Blind Super-Resolution via Patch Diffusion** \
 [[Website](https://arxiv.org/abs/2503.21907)]
 
+**SupResDiffGAN a new approach for the Super-Resolution task** \
+[[Website](https://arxiv.org/abs/2504.13622)]
+
+
 
 ## Personalized Restoration
 
@@ -3141,6 +3145,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow** \
 [[Website](https://arxiv.org/abs/2504.09697)]
+
+**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2504.13490)]
 
 
 ## Diffusion Models Inversion
@@ -5539,6 +5546,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask** \
 [[Website](https://arxiv.org/abs/2309.04399)] 
+
+**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis** \
+[[Website](https://arxiv.org/abs/2504.13745)] 
 
 **Any-Size-Diffusion: Toward Efficient Text-Driven Synthesis for Any-Size HD Images** \
 [[Website](https://arxiv.org/abs/2308.16582)] 
