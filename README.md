@@ -1014,6 +1014,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Boosting Image Restoration via Priors from Pre-trained Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.06793)]
 
+**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration** \
+[[CVPR 2025](https://arxiv.org/abs/2504.15159)]
+
 **Seeing Beyond Haze: Generative Nighttime Image Dehazing** \
 [[Website](https://arxiv.org/abs/2503.08073)]
 
@@ -3707,6 +3710,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Sculpting Memory: Multi-Concept Forgetting in Diffusion Models via Dynamic Mask and Concept-Aware Optimization** \
 [[Website](https://arxiv.org/abs/2504.09039)] 
 
+**Towards NSFW-Free Text-to-Image Generation via Safety-Constraint Direct Preference Optimization** \
+[[Website](https://arxiv.org/abs/2504.14290)] 
+
+
 
 # New Concept Learning
 
@@ -4562,6 +4569,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Meta-LoRA: Meta-Learning LoRA Components for Domain-Aware ID Personalization** \
 [[Website](https://arxiv.org/abs/2503.22352)] 
 
+**Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis** \
+[[Website](https://arxiv.org/abs/2504.14202)] 
+
 
 ## General Concept 
 
@@ -5145,6 +5155,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion Model Alignment Using Direct Preference Optimization** \
 [[Website](https://arxiv.org/abs/2311.12908)] 
 [[Code](https://github.com/SalesforceAIResearch/DiffusionDPO)]
+
+**SUDO: Enhancing Text-to-Image Diffusion Models with Self-Supervised Direct Preference Optimization** \
+[[Website](https://arxiv.org/abs/2504.14534)] 
+[[Code](https://github.com/SPengLiang/SUDO)]
 
 **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment** \
 [[Website](https://arxiv.org/abs/2410.05255)] 
@@ -7080,6 +7094,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://damo-vilab.github.io/AnyDoor-Page/)]
 [[Code](https://github.com/damo-vilab/AnyDoor)] 
 
+**Insert Anything: Image Insertion via In-Context Editing in DiT** \
+[[Website](https://arxiv.org/abs/2504.15009)] 
+[[Project](https://song-wensong.github.io/insert-anything/)]
+[[Code](https://github.com/song-wensong/insert-anything)] 
+
 **Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion** \
 [[Website](https://arxiv.org/abs/2412.14462)] 
 [[Project](https://kakituken.github.io/affordance-any.github.io/)] 
@@ -7697,6 +7716,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TextCrafter: Accurately Rendering Multiple Texts in Complex Visual Scenes** \
 [[Website](https://arxiv.org/abs/2503.23461)]
+
+**Point-Driven Interactive Text and Image Layer Editing Using Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.14108)]
+
 
 
 # Video Generation 
@@ -9716,6 +9739,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SkyReels-V2: Infinite-length Film Generative Model** \
 [[Website](https://arxiv.org/abs/2504.13074)]
 
+**DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2504.15032)]
+
 
 # Video Editing 
 
@@ -10017,6 +10043,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
+
+**Visual Prompting for One-shot Controllable Video Editing without Inversion** \
+[[CVPR 2025](https://arxiv.org/abs/2504.14335)]
 
 **Edit Temporal-Consistent Videos with Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09091)]
