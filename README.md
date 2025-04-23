@@ -862,6 +862,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.10103)]
 [[Code](https://github.com/weigerzan/LLE_inverse_problem)]
 
+**InstaRevive: One-Step Image Enhancement via Dynamic Score Matching** \
+[[Website](https://arxiv.org/abs/2504.15513)]
+[[Code](https://github.com/EternalEvan/InstaRevive)]
+
 **DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.03810)]
 [[Code](https://github.com/kkkls/DeblurDiff)]
