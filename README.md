@@ -3976,6 +3976,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.05823)] 
 [[Code](https://github.com/joyhuyy1412/personahoi)]
 
+**FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2504.15958)] 
+[[Code](https://github.com/Nihukat/FreeGraftor)]
+
 **BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2401.13974)] 
 [[Code](https://github.com/SalesforceAIResearch/bootpig)]
@@ -4198,6 +4202,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2311.11919)] 
+
+**LLM-Enabled Style and Content Regularization for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2504.15309)] 
 
 **Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization** \
 [[Website](https://arxiv.org/abs/2401.16762)] 
@@ -5451,6 +5458,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2503.22194)] 
 [[Project](https://origen2025.github.io/)] 
+
+**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning** \
+[[Website](https://arxiv.org/abs/2504.16080)] 
+[[Project](https://diffusion-cot.github.io/reflection2perfection/)] 
 
 **Amazing Combinatorial Creation: Acceptable Swap-Sampling for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2310.01819)] 
@@ -7397,7 +7408,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs//2503.04215)] 
 
-
+**DiTPainter: Efficient Video Inpainting with Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2504.15661)] 
 
 # Layout Generation
 
@@ -10158,3 +10170,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image** \
 [[Website](https://arxiv.org/abs/2503.10342)]
+
+**Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework** \
+[[Website](https://arxiv.org/abs/2504.16016)]
