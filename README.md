@@ -3835,6 +3835,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://www.cs.cmu.edu/~syncd-project/)] 
 [[Code](https://github.com/nupurkmr9/syncd-project)] 
 
+**DreamO: A Unified Framework for Image Customization** \
+[[Website](https://arxiv.org/abs/2504.16915)] 
+[[Project](https://mc-e.github.io/project/DreamO/)] 
+[[Code](https://github.com/bytedance/DreamO)]
+
 **EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM** \
 [[Website](https://arxiv.org/abs/2412.09618)] 
 [[Project](https://easyref-gen.github.io/)] 
