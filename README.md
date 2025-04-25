@@ -2722,6 +2722,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.10434)] 
 [[Code](https://github.com/hutaiHang/ATM)] 
 
+**Step1X-Edit: A Practical Framework for General Image Editing** \
+[[Website](https://arxiv.org/abs/2504.17761)] 
+[[Code](https://github.com/stepfun-ai/Step1X-Edit)] 
+
 **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing** \
 [[Website](https://arxiv.org/abs/2503.10639v1)] 
 [[Code](https://github.com/rongyaofang/GoT)] 
@@ -3155,6 +3159,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing** \
 [[Website](https://arxiv.org/abs/2504.13490)]
+
+**Towards Generalized and Training-Free Text-Guided Semantic Manipulation** \
+[[Website](https://arxiv.org/abs/2504.17269)]
+
 
 
 ## Diffusion Models Inversion
@@ -4220,6 +4228,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding** \
 [[Website](https://arxiv.org/abs/2401.15708)] 
+
+**RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image Generation** \
+[[Website](https://arxiv.org/abs/2504.17502)] 
 
 **SeFi-IDE: Semantic-Fidelity Identity Embedding for Personalized Diffusion-Based Generation** \
 [[Website](https://arxiv.org/abs/2402.00631)] 
@@ -9762,6 +9773,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2504.15032)]
+
+**We'll Fix it in Post: Improving Text-to-Video Generation with Neuro-Symbolic Feedback** \
+[[Website](https://arxiv.org/abs/2504.17180)]
 
 
 # Video Editing 
