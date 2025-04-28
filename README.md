@@ -1021,6 +1021,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration** \
 [[CVPR 2025](https://arxiv.org/abs/2504.15159)]
 
+**Dual Prompting Image Restoration with Diffusion Transformers** \
+[[CVPR 2025](https://arxiv.org/abs/2504.17825)]
+
 **Seeing Beyond Haze: Generative Nighttime Image Dehazing** \
 [[Website](https://arxiv.org/abs/2503.08073)]
 
@@ -2127,6 +2130,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.18350)]
 [[Project](https://rizavelioglu.github.io/tryoffdiff/)]
+
+**3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.17414)]
+[[Project](https://2y7c3.github.io/3DV-TON/)]
 
 **Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All** \
 [[Website](https://arxiv.org/abs/2401.13795)]
@@ -5383,6 +5390,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.07860)] 
 [[Code](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)] 
 
+**Text-to-Image Alignment in Denoising-Based Models through Step Selection** \
+[[Website](https://arxiv.org/abs/2504.17525)] 
+[[Code](https://github.com/grimalPaul/gsn-factory)] 
+
 **Aligning Few-Step Diffusion Models with Dense Reward Difference Learning** \
 [[Website](https://arxiv.org/abs/2411.11727)] 
 [[Code](https://github.com/ZiyiZhang27/sdpo)] 
@@ -8333,6 +8344,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2407.08737)]
 [[Project](https://vader-vid.github.io/)] 
 [[Code](https://github.com/mihirp1998/VADER)]
+
+**Subject-driven Video Generation via Disentangled Identity and Motion** \
+[[Website](https://arxiv.org/abs/2504.17816)]
+[[Project](https://carpedkm.github.io/projects/disentangled_sub/index.html)] 
+[[Code](https://github.com/carpedkm/disentangled-subject-to-vid)]
 
 **Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.08701)]
