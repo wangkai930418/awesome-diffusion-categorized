@@ -2745,6 +2745,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.10112)] 
 [[Code](https://github.com/Tear-kitty/MoEdit)] 
 
+**REED-VAE: RE-Encode Decode Training for Iterative Image Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2504.18989)] 
+[[Code](https://github.com/galmog/REED-VAE)] 
+
 **FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing** \
 [[Website](https://arxiv.org/abs/2408.12429)] 
 [[Code](https://github.com/a-new-b/flex_edit)] 
@@ -7548,6 +7552,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2404.11614)]
 [[Project](https://animate-your-word.github.io/demo/)] 
 [[Code](https://github.com/zliucz/animate-your-word)] 
+
+**RepText: Rendering Visual Text via Replicating** \
+[[Website](https://arxiv.org/abs/2504.19724)]
+[[Project](https://reptext.github.io/)] 
+[[Code](https://github.com/Shakker-Labs/RepText)] 
 
 **JoyType: A Robust Design for Multilingual Visual Text Creation** \
 [[Website](https://arxiv.org/abs/2409.17524)]
