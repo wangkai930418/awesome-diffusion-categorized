@@ -2542,6 +2542,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://swap-anything.github.io/)] 
 [[Code](https://github.com/eric-ai-lab/swap-anything)] 
 
+**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2504.20690)] 
+[[Project](https://river-zhang.github.io/ICEdit-gh-pages/)] 
+[[Code](https://github.com/River-Zhang/ICEdit)] 
+
 **EditVal: Benchmarking Diffusion Based Text-Guided Image Editing Methods** \
 [[Website](https://arxiv.org/abs/2310.02426)] 
 [[Project](https://deep-ml-research.github.io/editval/#home)] 
@@ -5868,6 +5873,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ADT: Tuning Diffusion Models with Adversarial Supervision** \
 [[Website](https://arxiv.org/abs/2504.11423)] 
 
+**Marmot: Multi-Agent Reasoning for Multi-Object Self-Correcting in Improving Image-Text Alignment** \
+[[Website](https://arxiv.org/abs/2504.20054)] 
+
 
 ## Spatial Control
 
@@ -7445,6 +7453,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DiTPainter: Efficient Video Inpainting with Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2504.15661)] 
+
+**PixelHacker: Image Inpainting with Structural and Semantic Consistency** \
+[[Website](https://arxiv.org/abs/2504.20438)] 
+
+
 
 # Layout Generation
 
