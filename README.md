@@ -862,6 +862,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.10103)]
 [[Code](https://github.com/weigerzan/LLE_inverse_problem)]
 
+**DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration** \
+[[Website](https://arxiv.org/abs/2504.21487)]
+[[Code](https://github.com/MiliLab/DGSolver)]
+
 **InstaRevive: One-Step Image Enhancement via Dynamic Score Matching** \
 [[Website](https://arxiv.org/abs/2504.15513)]
 [[Code](https://github.com/EternalEvan/InstaRevive)]
@@ -1159,6 +1163,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CDI: Blind Image Restoration Fidelity Evaluation based on Consistency with Degraded Image** \
 [[Website](https://arxiv.org/abs/2501.14264)]
 
+**IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing** \
+[[Website](https://arxiv.org/abs/2504.21385)]
 
 
 ## Colorization
@@ -9329,6 +9335,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Controllable Longer Image Animation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.17306)]
 [[Project](https://wangqiang9.github.io/Controllable.github.io/)]
+
+**ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction** \
+[[Website](https://arxiv.org/abs/2504.21855)]
+[[Project](https://revision-video.github.io/)]
 
 **Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search** \
 [[Website](https://arxiv.org/abs/2501.19252)]
