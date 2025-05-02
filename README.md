@@ -1720,6 +1720,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SupResDiffGAN a new approach for the Super-Resolution task** \
 [[Website](https://arxiv.org/abs/2504.13622)]
 
+**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution** \
+[[Website](https://arxiv.org/abs/2505.00687)]
+
 
 
 ## Personalized Restoration
@@ -5304,6 +5307,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Designing a Better Asymmetric VQGAN for StableDiffusion** \
 [[Website](https://arxiv.org/abs/2306.04632)] 
 [[Code](https://github.com/buxiangzhiren/Asymmetric_VQGAN)]
+
+**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT** \
+[[Website](https://arxiv.org/abs/2505.00703)] 
+[[Code](https://github.com/CaraJ7/T2I-R1)]
 
 **FABRIC: Personalizing Diffusion Models with Iterative Feedback** \
 [[Website](https://arxiv.org/abs/2307.10159)] 
