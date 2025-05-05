@@ -3188,6 +3188,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Generalized and Training-Free Text-Guided Semantic Manipulation** \
 [[Website](https://arxiv.org/abs/2504.17269)]
 
+**InstructAttribute: Fine-grained Object Attributes editing with Instruction** \
+[[Website](https://arxiv.org/abs/2505.00751)]
+
 
 
 ## Diffusion Models Inversion
@@ -5889,6 +5892,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Marmot: Multi-Agent Reasoning for Multi-Object Self-Correcting in Improving Image-Text Alignment** \
 [[Website](https://arxiv.org/abs/2504.20054)] 
 
+**VSC: Visual Search Compositional Text-to-Image Diffusion Model** \
+[[Website](https://arxiv.org/abs/2505.01104)] 
+
 
 ## Spatial Control
 
@@ -7133,16 +7139,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2212.06909)] 
 [[Code](https://github.com/fenglinglwb/PSM)]
 
+**Improving Editability in Image Generation with Layer-wise Memory** \
+[[CVPR 2025](https://arxiv.org/abs/2505.01079)] 
+[[Website](https://carpedkm.github.io/projects/improving_edit/index.html)] 
+[[Code](https://github.com/carpedkm/improving-editability/)]
 
 **Towards Coherent Image Inpainting Using Denoising Diffusion Implicit Models** \
 [[ICML 2023](https://icml.cc/virtual/2023/poster/24127)] 
 [[Website](https://arxiv.org/abs/2304.03322)] 
 [[Code](https://github.com/ucsb-nlp-chang/copaint)]
-
-**Coherent and Multi-modality Image Inpainting via Latent Space Optimization** \
-[[Website](https://arxiv.org/abs/2407.08019)] 
-[[Project](https://pilot-page.github.io/)] 
-[[Code](https://github.com/Lingzhi-Pan/PILOT)]
 
 
 **Inst-Inpaint: Instructing to Remove Objects with Diffusion Models** \
@@ -7150,6 +7155,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](http://instinpaint.abyildirim.com/)] 
 [[Code](https://github.com/abyildirim/inst-inpaint)]
 [[Demo](https://huggingface.co/spaces/abyildirim/inst-inpaint)]
+
+**Coherent and Multi-modality Image Inpainting via Latent Space Optimization** \
+[[Website](https://arxiv.org/abs/2407.08019)] 
+[[Project](https://pilot-page.github.io/)] 
+[[Code](https://github.com/Lingzhi-Pan/PILOT)]
 
 **Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting** \
 [[Website](https://arxiv.org/abs/2404.18598)] 
@@ -7697,6 +7707,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models** \
 [[Website](https://arxiv.org/abs/2503.20198)]
 [[Project](https://fingerrec.github.io/longtextar/)] 
+
+**Generating Animated Layouts as Structured Text Representations** \
+[[Website](https://arxiv.org/abs/2505.00975)]
+[[Project](https://yeonsangshin.github.io/projects/Vaker/)] 
 
 **DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01645)]
@@ -8969,6 +8983,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model** \
 [[CVPR 2025](https://arxiv.org/abs/2411.17459)]
 [[Code](https://github.com/PKU-YuanGroup/WF-VAE)]
+
+**FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis** \
+[[CVPR 2025](https://arxiv.org/abs/2505.01172)]
+[[Code](https://github.com/JosephTiTan/FreePCA)]
 
 **VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2305.10874)]
