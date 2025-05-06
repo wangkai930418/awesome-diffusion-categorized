@@ -2606,6 +2606,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://qianwangx.github.io/EditCLIP/)] 
 [[Code](https://github.com/QianWangX/EditCLIP)] 
 
+**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing** \
+[[Website](https://arxiv.org/abs/2505.02370)] 
+[[Project](https://liming-ai.github.io/SuperEdit/)] 
+[[Code](https://github.com/bytedance/SuperEdit)] 
+
 **FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction** \
 [[Website](https://arxiv.org/abs/2409.18071)] 
 [[Project](https://github.com/hrz2000/FreeEdit)] 
@@ -4350,6 +4355,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation** \
 [[Website](https://arxiv.org/abs/2504.02612)] 
 
+**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** \
+[[Website](https://arxiv.org/abs/2505.02192)] 
+
+**Multi-party Collaborative Attention Control for Image Customization** \
+[[Website](https://arxiv.org/abs/2505.01428)] 
+
 
 
 ## Mutiple Concepts
@@ -4415,6 +4426,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.11627)] 
 [[Code](https://github.com/Young98CN/LoRA_Composer)] 
+
+**MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing** \
+[[Website](https://arxiv.org/abs/2505.02823)] 
+[[Code](https://github.com/guozinan126/MUSAR)] 
 
 **AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
 [[Website](https://arxiv.org/abs/2405.17965)] 
@@ -5319,6 +5334,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2307.10159)] 
 [[Code](https://github.com/sd-fabric/fabric)]
 
+**Improving Physical Object State Representation in Text-to-Image Generative Systems** \
+[[Website](https://arxiv.org/abs/2505.02236)] 
+[[Code](https://github.com/cskyl/Object-State-Bench)] 
+
 **IPGO: Indirect Prompt Gradient Optimization on Text-to-Image Generative Models with High Data Efficiency** \
 [[Website](https://arxiv.org/abs/2503.21812)] 
 [[Code](https://github.com/Demos750/IPGO)] 
@@ -5894,6 +5913,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **VSC: Visual Search Compositional Text-to-Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2505.01104)] 
+
+**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2505.02648)] 
 
 
 ## Spatial Control
