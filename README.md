@@ -1166,6 +1166,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **IDDM: Bridging Synthetic-to-Real Domain Gap from Physics-Guided Diffusion for Real-world Image Dehazing** \
 [[Website](https://arxiv.org/abs/2504.21385)]
 
+**DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor** \
+[[Website](https://arxiv.org/abs/2505.03261)]
+
+
 
 ## Colorization
 
@@ -4642,6 +4646,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis** \
 [[Website](https://arxiv.org/abs/2504.14202)] 
 
+**Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID** \
+[[Website](https://arxiv.org/abs/2505.03557)] 
+
 
 ## General Concept 
 
@@ -4890,6 +4897,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/Sainzerjj/Free-Guidance-Diffusion)]
 
 
+**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability** \
+[[CVPR 2025](https://arxiv.org/abs/2505.03097)] 
+[[Project](https://gudaochangsheng.github.io/MaskUnet-Page/)] 
+[[Code](https://github.com/gudaochangsheng/MaskUnet)]
+
+
 **ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72054)] 
 [[Website](https://arxiv.org/abs/2304.05977)] 
@@ -5046,11 +5059,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2310.03739)] 
 [[Project](https://align-prop.github.io/)] 
 [[Code](https://github.com/mihirp1998/AlignProp/)]
-
-**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability** \
-[[Website](https://arxiv.org/abs/2505.03097)] 
-[[Project](https://gudaochangsheng.github.io/MaskUnet-Page/)] 
-[[Code](https://github.com/gudaochangsheng/MaskUnet)]
 
 **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** \
 [[Website](https://arxiv.org/abs/2310.07653)] 
