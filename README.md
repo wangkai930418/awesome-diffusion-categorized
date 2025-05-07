@@ -5047,6 +5047,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://align-prop.github.io/)] 
 [[Code](https://github.com/mihirp1998/AlignProp/)]
 
+**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability** \
+[[Website](https://arxiv.org/abs/2505.03097)] 
+[[Project](https://gudaochangsheng.github.io/MaskUnet-Page/)] 
+[[Code](https://github.com/gudaochangsheng/MaskUnet)]
+
 **Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models** \
 [[Website](https://arxiv.org/abs/2310.07653)] 
 [[Project](https://minidalle3.github.io/)] 
@@ -5787,6 +5792,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **AUTOMATED FILTERING OF HUMAN FEEDBACK DATA FOR ALIGNING TEXT-TO-IMAGE DIFFUSION MODELS** \
 [[Website](https://arxiv.org/abs/2410.10166)] 
+
+**PiCo: Enhancing Text-Image Alignment with Improved Noise Selection and Precise Mask Control in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.03203)] 
+
+**Distribution-Conditional Generation: From Class Distribution to Creative Generation** \
+[[Website](https://arxiv.org/abs/2505.03667)] 
 
 **Saliency Guided Optimization of Diffusion Latents** \
 [[Website](https://arxiv.org/pdf/2410.10257)] 
@@ -7834,6 +7845,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Point-Driven Interactive Text and Image Layer Editing Using Diffusion Models** \
 [[Website](https://arxiv.org/abs/2504.14108)]
 
+**FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing** \
+[[Website](https://arxiv.org/abs/2505.03329)]
 
 
 # Video Generation 
@@ -8083,6 +8096,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2024](https://arxiv.org/abs/2310.15169)]
 [[Project](http://haonanqiu.com/projects/FreeNoise.html)] 
 [[Code](https://github.com/arthur-qiu/LongerCrafter)]
+
+**FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios** \
+[[SIGGRAPH 2025](https://arxiv.org/abs/2505.03730)]
+[[Project](https://shiyi-zh0408.github.io/projectpages/FlexiAct/)] 
+[[Code](https://github.com/shiyi-zh0408/FlexiAct)]
 
 **MotionCtrl: A Unified and Flexible Motion Controller for Video Generation** \
 [[SIGGRAPH 2024](https://arxiv.org/abs/2312.03641)]
