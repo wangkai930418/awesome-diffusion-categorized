@@ -1727,6 +1727,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution** \
 [[Website](https://arxiv.org/abs/2505.00687)]
 
+**EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution** \
+[[Website](https://arxiv.org/abs/2505.05209)]
+
 
 
 ## Personalized Restoration
@@ -3200,6 +3203,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **InstructAttribute: Fine-grained Object Attributes editing with Instruction** \
 [[Website](https://arxiv.org/abs/2505.00751)]
 
+**MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.05101)]
 
 
 ## Diffusion Models Inversion
@@ -4365,6 +4370,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Multi-party Collaborative Attention Control for Image Customization** \
 [[Website](https://arxiv.org/abs/2505.01428)] 
 
+**PIDiff: Image Customization for Personalized Identities with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.05081)] 
 
 
 ## Mutiple Concepts
@@ -5767,6 +5774,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance** \
 [[Website](https://arxiv.org/abs/2405.15321)] 
+
+**CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion** \
+[[Website](https://arxiv.org/abs/2505.04347)] 
 
 **Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance** \
 [[Website](https://arxiv.org/abs/2406.04551)] 
@@ -7588,6 +7598,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model** \
 [[Website](https://arxiv.org/abs/2409.16689)]
 
+**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2505.04718)]
+
+
 
 # Text Generation
 
@@ -7755,6 +7769,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01645)]
+
+**GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing** \
+[[CVPR 2025](https://arxiv.org/abs/2505.04915)]
 
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
