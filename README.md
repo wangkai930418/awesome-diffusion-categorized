@@ -215,6 +215,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2311.09257)]
 [[Code](https://github.com/xuyanwu/SIDDMs-UFOGen)]
 
+**Accelerating Diffusion Transformer via Increment-Calibrated Caching with Channel-Aware Singular Value Decomposition** \
+[[CVPR 2025](https://arxiv.org/abs/2505.05829)]
+[[Code](https://github.com/ccccczzy/icc)]
+
 **SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow** \
 [[ECCV 2024](https://arxiv.org/abs/2407.12718)]
 [[Code](https://github.com/yuanzhi-zhu/SlimFlow)]
@@ -1383,6 +1387,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Leveraging Diffusion Knowledge for Generative Image Compression with Fractal Frequency-Aware Band Learning** \
 [[Website](https://arxiv.org/abs/2503.11321)]
+
+**Towards Facial Image Compression with Consistency Preserving Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2505.05870)]
 
 
 ## Super Resolution
@@ -5482,6 +5489,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2502.05153)] 
 [[Project](https://roar-ai.github.io/hummingbird/)] 
 
+**InstanceGen: Image Generation with Instance-level Instructions** \
+[[SIGGRAPH 2025](https://arxiv.org/abs/2505.05678)] 
+[[Project](https://tau-vailab.github.io/InstanceGen/)] 
+
 **Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.09864)] 
 [[Project](https://hecoding.github.io/colorwave-page/)] 
@@ -7772,6 +7783,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **GlyphMastero: A Glyph Encoder for High-Fidelity Scene Text Editing** \
 [[CVPR 2025](https://arxiv.org/abs/2505.04915)]
+
+**PICD: Versatile Perceptual Image Compression with Diffusion Rendering** \
+[[CVPR 2025](https://arxiv.org/abs/2505.05853)]
 
 **DECDM: Document Enhancement using Cycle-Consistent Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2311.09625)]
