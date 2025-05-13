@@ -1563,6 +1563,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2311.09919)] 
 [[Code](https://github.com/shiyuan7/DSR-Diff)] 
 
+**Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2505.07071)]
+[[Code](https://github.com/Liu-Zihang/SAMSR)] 
+
 **Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach** \
 [[Website](https://arxiv.org/abs/2412.03017)]
 [[Code](https://github.com/csslc/PiSA-SR)] 
@@ -4380,6 +4384,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PIDiff: Image Customization for Personalized Identities with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2505.05081)] 
 
+**BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** \
+[[Website](https://arxiv.org/abs/2505.06985)] 
+
 
 ## Mutiple Concepts
 
@@ -5413,6 +5420,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2311.15657)] 
 [[Code](https://github.com/chaofengc/texforce)]
 
+**You Only Look One Step: Accelerating Backpropagation in Diffusion Sampling with Gradient Shortcuts** \
+[[Website](https://arxiv.org/abs/2505.07477)] 
+[[Code](https://github.com/deng-ai-lab/SDO)]
+
 **AltDiffusion: A Multilingual Text-to-Image Diffusion Model** \
 [[Website](https://arxiv.org/abs/2308.09991)] 
 [[Code](https://github.com/superhero-7/AltDiffusion)]
@@ -5956,6 +5967,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2505.02648)] 
+
+**HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2505.06512)] 
+
 
 
 ## Spatial Control
@@ -7887,6 +7902,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing** \
 [[Website](https://arxiv.org/abs/2505.03329)]
 
+**HDGlyph: A Hierarchical Disentangled Glyph-Based Framework for Long-Tail Text Rendering in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.06543)]
+
 
 # Video Generation 
 
@@ -9304,6 +9322,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2501.07647)]
 [[Project](https://blobgen-vid2.github.io/)] 
 
+**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2505.07652)]
+[[Project](https://shotadapter.github.io//)]
+
 **Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation** \
 [[CVPR 2025](https://arxiv.org/abs/2412.06016)]
 [[Project](https://hyeonho99.github.io/track4gen/)]
@@ -9787,6 +9809,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LumiSculpt: A Consistency Lighting Control Network for Video Generation** \
 [[Website](https://arxiv.org/abs/2410.22979)]
 
+**Generative Pre-trained Autoregressive Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2505.07344)]
 
 **Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge** \
 [[Website](https://arxiv.org/abs/2411.11343)]
@@ -9928,6 +9952,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **We'll Fix it in Post: Improving Text-to-Video Generation with Neuro-Symbolic Feedback** \
 [[Website](https://arxiv.org/abs/2504.17180)]
+
+**ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images** \
+[[Website](https://arxiv.org/abs/2505.06537)]
+
 
 
 # Video Editing 
@@ -10087,6 +10115,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://francis-rings.github.io/MotionFollower/)]
 [[Code](https://github.com/Francis-Rings/MotionFollower)] 
 
+**DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.07057)]
+[[Project](https://junhaoooxia.github.io/DAPE.github.io/)]
+[[Code](https://github.com/junhaoooxia/DAPE.github.io)] 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
