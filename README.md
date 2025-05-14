@@ -1261,6 +1261,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LatentColorization: Latent Diffusion-Based Speaker Video Colorization** \
 [[Website](https://arxiv.org/abs/2405.05707)]
 
+**Controllable Image Colorization with Instance-aware Texts and Masks** \
+[[Website](https://arxiv.org/abs/2505.08705)]
 
 
 ## Face Restoration
@@ -1344,6 +1346,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 ## Image Compression
+
+**Ultra Lowrate Image Compression with Semantic Residual Coding and Compression-aware Diffusion** \
+[[ICML 2025](https://arxiv.org/abs/2505.08281)] 
+[[Project](https://njuvision.github.io/ResULIC/)] 
+[[Code](https://github.com/NJUVISION/ResULIC)] 
 
 **Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior** \
 [[IEE TCSVT 2024](https://arxiv.org/abs/2404.18820)] 
@@ -3356,6 +3363,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.18756)] 
+
+**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models** \
+[[ICLR 2025](https://arxiv.org/abs/2505.08622)] 
 
 **BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
 [[WACV 2024](https://arxiv.org/abs/2312.05482)] 
@@ -5608,6 +5618,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2404.13686)] 
 [[Project](https://hyper-sd.github.io/)] 
 
+**DanceGRPO: Unleashing GRPO on Visual Generation** \
+[[Website](https://arxiv.org/abs/2505.07818)] 
+[[Project](https://dancegrpo.github.io/)] 
+
 **Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2404.13706)] 
 [[Project](https://cs-people.bu.edu/vpetsiuk/arc/)] 
@@ -7572,6 +7586,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://whaohan.github.io/desigen/)]
 [[Code](https://github.com/whaohan/desigen)]
 
+**PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation** \
+[[CVPR 2024](https://arxiv.org/abs/2505.07843)]
+[[Project](https://thekinsley.github.io/PosterO/)]
+[[Code](https://github.com/theKinsley/PosterO-CVPR2025)]
+
 **DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Levi_DLT_Conditioned_layout_generation_with_Joint_Discrete-Continuous_Diffusion_Layout_Transformer_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.03755)]
@@ -8359,6 +8378,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2411.06525)]
 [[Project](https://wanquanf.github.io/I2VControlCamera)]
 [[Code](https://github.com/WanquanF/I2VControl-Camera)]
+
+**CameraCtrl: Enabling Camera Control for Text-to-Video Generation** \
+[[ICLR 2025](https://arxiv.org/abs/2404.02101v2)]
+[[Project](https://hehao13.github.io/projects-CameraCtrl/)]
+[[Code](https://github.com/hehao13/CameraCtrl)]
 
 **ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler** \
 [[ICLR 2025](https://arxiv.org/abs/2410.05651)]
