@@ -3305,6 +3305,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://aim-uofa.github.io/OIR-Diffusion/)] 
 [[Code](https://github.com/aim-uofa/OIR)] 
 
+**Don't Forget your Inverse DDIM for Image Editing** \
+[[Website](https://arxiv.org/abs/2505.09571)] 
+[[Project](https://guillermogotre.github.io/sage/)] 
+[[Code](https://github.com/guillermogotre/sage)] 
+
 **Taming Rectified Flow for Inversion and Editing** \
 [[Website](https://arxiv.org/abs/2411.04746)] 
 [[Project](https://rf-solver-edit.github.io/)] 
