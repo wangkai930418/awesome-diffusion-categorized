@@ -764,7 +764,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2312.16519)]
 [[Code](https://github.com/tirer-lab/DDPG)]
 
-
+**InstaRevive: One-Step Image Enhancement via Dynamic Score Matching** \
+[[ICLR 2025](https://arxiv.org/abs/2504.15513)]
+[[Code](https://github.com/EternalEvan/InstaRevive)]
 
 **LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2407.08939)]
@@ -869,10 +871,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration** \
 [[Website](https://arxiv.org/abs/2504.21487)]
 [[Code](https://github.com/MiliLab/DGSolver)]
-
-**InstaRevive: One-Step Image Enhancement via Dynamic Score Matching** \
-[[Website](https://arxiv.org/abs/2504.15513)]
-[[Code](https://github.com/EternalEvan/InstaRevive)]
 
 **DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models** \
 [[Website](https://arxiv.org/abs/2502.03810)]
@@ -1379,6 +1377,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Compressed Image Generation with Denoising Diffusion Codebook Models** \
 [[Website](https://arxiv.org/abs/2502.01189)] 
 [[Project](https://ddcm-2025.github.io/)] 
+
+**DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement** \
+[[ICLR 2025](https://openreview.net/forum?id=RL7PycCtAO)]
 
 **Controllable Distortion-Perception Tradeoff Through Latent Diffusion for Neural Image Compression** \
 [[AAAI 2025](https://arxiv.org/abs/2412.11379)]
@@ -2732,6 +2733,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2409.14379)] 
 [[Code](https://github.com/yumingj/GroupDiff)] 
 
+**GDrag:Towards General-Purpose Interactive Editing with Anti-ambiguity Point Diffusion** \
+[[CVPR 2024](https://openreview.net/forum?id=8G3FyfHIko)] 
+[[Code](https://github.com/DaDaY-coder/GDrag)] 
+
 **TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2404.11120)] 
 [[Code](https://github.com/SherryXTChen/TiNO-Edit)] 
@@ -3052,6 +3057,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
+
+**InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation** \
+[[ICLR 2025](https://openreview.net/forum?id=ZkFMe3OPfw)] 
 
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
@@ -3573,6 +3581,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2406.14855)] 
 [[Code](https://github.com/Artanisax/Six-CD)]
 
+**Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate** \
+[[ICLR 2025](https://openreview.net/forum?id=ZRDhBwKs7l)] 
+[[Code](https://github.com/Hyun1A/CPE)]
+
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
 [[Code](https://github.com/nannullna/safe-diffusion)]
@@ -3681,6 +3693,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Fine-Grained Erasure in Text-to-Image Diffusion-based Foundation Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.19783)] 
+
+**Erasing Concept Combination from Text-to-Image Diffusion Model** \
+[[ICLR 2025](https://openreview.net/forum?id=OBjF5I4PWg)] 
+
 
 **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** \
 [[Website](https://arxiv.org/abs/2412.20413)] 
@@ -3856,6 +3872,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://ttchengab.github.io/continuous_3d_words/)] 
 [[Code](https://github.com/ttchengab/continuous_3d_words_code/)]
 
+**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
+[[ICLR 2025](https://arxiv.org/abs/2312.14216)] 
+[[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
+[[Code](https://github.com/briannlongzhao/DreamDistribution)]
+
 **ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2306.04695)] 
 [[Project](https://conceptbed.github.io/)] 
@@ -3985,11 +4006,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2311.13600)] 
 [[Project](https://csgo-gen.github.io/)] 
 [[Code](https://github.com/instantX-research/CSGO)]
-
-**DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.14216)] 
-[[Project](https://briannlongzhao.github.io/DreamDistribution/)] 
-[[Code](https://github.com/briannlongzhao/DreamDistribution)]
 
 **Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2501.03931)] 
@@ -5226,6 +5242,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2411.07132)] 
 [[Code](https://github.com/hutaihang/ToMe)]
 
+**DSPO: Direct Score Preference Optimization for Diffusion Model Alignment** \
+[[ICLR 2025](https://openreview.net/forum?id=xyfb9HHvMe)] 
+[[Code](https://github.com/huaishengzhu/DSPO)]
 
 **Dynamic Prompt Optimizing for Text-to-Image Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2404.04095)] 
@@ -5639,6 +5658,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
 [[Website](https://arxiv.org/abs/2401.02015)] 
 
+**Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds** \
+[[ICLR 2025 Spotlight](https://arxiv.org/abs/2411.18810)] 
+
+**Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models** \
+[[ICLR 2025](https://openreview.net/forum?id=iJi7nz5Cxc)] 
+
 **GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections** \
 [[ECCV 2024](https://arxiv.org/abs/2408.12352)] 
 
@@ -5909,9 +5934,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **QUOTA: Quantifying Objects with Text-to-Image Models for Any Domain** \
 [[Website](https://arxiv.org/abs/2411.19534)] 
 
-**Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds** \
-[[Website](https://arxiv.org/abs/2411.18810)] 
-
 **Cross-Attention Head Position Patterns Can Align with Human Visual Concepts in Text-to-Image Generative Models** \
 [[Website](https://arxiv.org/abs/2412.02237)] 
 
@@ -6077,6 +6099,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://migcproject.github.io/)] 
 [[Code](https://github.com/limuloo/MIGC)]
 
+**3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering** \
+[[ICLR 2025 Spotight](https://arxiv.org/abs/2501.05131)] 
+[[Project](https://limuloo.github.io/3DIS/)] 
+[[Code](https://github.com/limuloo/3DIS)]
+
 **Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language** \
 [[Website](https://arxiv.org/abs/2406.20085)] 
 [[Project](https://yichengchen24.github.io/projects/autocherrypicker/)] 
@@ -6156,11 +6183,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2402.03290)] 
 [[Project](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)] 
 [[Code](https://github.com/frank-xwang/InstanceDiffusion)]
-
-**3DIS-FLUX: simple and efficient multi-instance generation with DiT rendering** \
-[[Website](https://arxiv.org/abs/2501.05131)] 
-[[Project](https://limuloo.github.io/3DIS/)] 
-[[Code](https://github.com/limuloo/3DIS)]
 
 **Coarse-to-Fine Latent Diffusion for Pose-Guided Person Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2402.18078)] 
@@ -9678,6 +9700,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
+
+**X-NeMo: Expressive Neural Motion Reenactment via Disentangled Latent Attention** \
+[[ICLR 2025](https://openreview.net/forum?id=ML8FH4s5Ts)]
 
 **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships** \
 [[ACM MM 2024 Oral](https://arxiv.org/abs/2410.10751)]
