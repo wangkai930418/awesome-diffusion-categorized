@@ -10274,6 +10274,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.03347)]
 [[Project](https://dino-video-editing.github.io/)] 
 
+**InstructVEdit: A Holistic Approach for Instructional Video Editing** \
+[[Website](https://arxiv.org/abs/2503.17641)]
+[[Project](https://o937-blip.github.io/InstructVEdit/)] 
+
 **VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence** \
 [[Website](https://arxiv.org/abs/2312.02087)]
 [[Project](https://videoswap.github.io/)] 
@@ -10434,3 +10438,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Efficient Temporal Consistency in Diffusion-Based Video Editing with Adaptor Modules: A Theoretical Framework** \
 [[Website](https://arxiv.org/abs/2504.16016)]
+
+**InstructVid2Vid: Controllable Video Editing with Natural Language Instructions** \
+[[Website](https://arxiv.org/abs/2305.12328v2)]
+
+
