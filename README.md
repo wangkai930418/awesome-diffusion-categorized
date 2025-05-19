@@ -3232,6 +3232,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2505.05101)]
 
+**GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2505.11493)]
+
+
 
 ## Diffusion Models Inversion
 
@@ -3588,6 +3592,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models** \
 [[ICML 2023 workshop](https://arxiv.org/abs/2307.05977v1)] 
 [[Code](https://github.com/nannullna/safe-diffusion)]
+
+**One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework** \
+[[ICCV 2025](https://arxiv.org/abs/2505.11131)] 
+[[Code](https://github.com/Ferry-Li/Co-Erasing)]
 
 **Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2407.12383)] 
@@ -4418,6 +4426,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** \
 [[Website](https://arxiv.org/abs/2505.06985)] 
 
+**IMAGE-ALCHEMY: Advancing subject fidelity in personalised text-to-image generation** \
+[[Website](https://arxiv.org/abs/2505.10743)] 
+
 
 ## Mutiple Concepts
 
@@ -5246,6 +5257,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://openreview.net/forum?id=xyfb9HHvMe)] 
 [[Code](https://github.com/huaishengzhu/DSPO)]
 
+**Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models** \
+[[ICLR 2025](https://openreview.net/forum?id=iJi7nz5Cxc)] 
+[[Code](https://github.com/G-U-N/Diffusion-NPO)]
+
 **Dynamic Prompt Optimizing for Text-to-Image Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2404.04095)] 
 [[Code](https://github.com/Mowenyii/PAE)]
@@ -5661,9 +5676,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds** \
 [[ICLR 2025 Spotlight](https://arxiv.org/abs/2411.18810)] 
 
-**Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models** \
-[[ICLR 2025](https://openreview.net/forum?id=iJi7nz5Cxc)] 
-
 **GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections** \
 [[ECCV 2024](https://arxiv.org/abs/2408.12352)] 
 
@@ -6012,6 +6024,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HCMA: Hierarchical Cross-model Alignment for Grounded Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2505.06512)] 
 
+**Towards Self-Improvement of Diffusion Models via Group Preference Optimization** \
+[[Website](https://arxiv.org/abs/2505.11070)] 
 
 
 ## Spatial Control
