@@ -203,6 +203,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://aejion.github.io/accvideo/)]
 [[Code](https://github.com/aejion/AccVideo/)]
 
+**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling** \
+[[Website](https://arxiv.org/abs/2505.13358)]
+[[Project](https://sites.google.com/view/koopman-distillation-model/)]
+[[Code](https://github.com/azencot-group/KDM)]
+
 **Relational Diffusion Distillation for Efficient Image Generation** \
 [[ACM MM 2024 (Oral)](https://arxiv.org/abs/2410.07679)]
 [[Code](https://github.com/cantbebetter2/RDD)]
@@ -321,6 +326,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Model Reveals What to Cache: Profiling-Based Feature Reuse for Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2504.03140)]
 [[Code](https://github.com/GeekGuru123/ProfilingDiT/tree/main)]
+
+**Few-Step Diffusion via Score identity Distillation** \
+[[Website](https://arxiv.org/abs/2505.12674)]
+[[Code](https://github.com/mingyuanzhou/SiD-LSG)]
 
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
@@ -517,6 +526,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiTFastAttnV2: Head-wise Attention Compression for Multi-Modality Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2503.22796)]
 
+**Mean Flows for One-step Generative Modeling** \
+[[Website](https://arxiv.org/abs/2505.13447)]
+
+**Faster Video Diffusion with Trainable Sparse Attention** \
+[[Website](https://arxiv.org/abs/2505.13389)]
+
+**Accelerating Diffusion-based Super-Resolution with Dynamic Time-Spatial Sampling** \
+[[Website](https://arxiv.org/abs/2505.12048)]
+
 
 
 ## Train-Free
@@ -557,6 +575,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Agent Attention: On the Integration of Softmax and Linear Attention** \
 [[ECCV 2024](https://arxiv.org/abs/2312.08874)]
 [[Code](https://github.com/LeapLabTHU/Agent-Attention)]
+
+**Attend to Not Attended: Structure-then-Detail Token Merging for Post-training DiT Acceleration** \
+[[CVPR 2025](https://arxiv.org/abs/2505.11707)]
+[[Code](https://github.com/ICTMCG/SDTM)]
 
 **Token Merging for Fast Stable Diffusion** \
 [[CVPRW 2024](https://arxiv.org/abs/2303.17604)]
@@ -1171,6 +1193,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffVQA: Video Quality Assessment Using Diffusion Feature Extractor** \
 [[Website](https://arxiv.org/abs/2505.03261)]
 
+**LatentINDIGO: An INN-Guided Latent Diffusion Algorithm for Image Restoration** \
+[[Website](https://arxiv.org/abs/2505.12935)]
 
 
 ## Colorization
@@ -1399,6 +1423,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Facial Image Compression with Consistency Preserving Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2505.05870)]
 
+**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model** \
+[[Website](https://arxiv.org/abs/2505.13152)]
 
 ## Super Resolution
 
@@ -2350,6 +2376,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RotationDrag: Point-based Image Editing with Rotated Diffusion Features** \
 [[Website](https://arxiv.org/abs/2401.06442)] 
 [[Code](https://github.com/Tony-Lowe/RotationDrag)]
+
+**DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model** \
+[[Website](https://arxiv.org/abs/2505.12427)] 
+[[Code](https://github.com/Sylvie-X/DragLoRA)]
 
 **TrackGo: A Flexible and Efficient Method for Controllable Video Generation** \
 [[Website](https://arxiv.org/abs/2408.11475)] 
@@ -3518,6 +3548,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion Meets Few-shot Class Incremental Learning** \
 [[Website](https://arxiv.org/abs/2503.23402)] 
 
+**How can Diffusion Models Evolve into Continual Generators?** \
+[[Website](https://arxiv.org/abs/2505.11936)] 
+
 
 # Remove Concept
 
@@ -3817,6 +3850,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards NSFW-Free Text-to-Image Generation via Safety-Constraint Direct Preference Optimization** \
 [[Website](https://arxiv.org/abs/2504.14290)] 
 
+**CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.12677)] 
 
 
 # New Concept Learning
@@ -5093,6 +5128,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://compvis.github.io/attribute-control/)] 
 [[Code](https://github.com/CompVis/attribute-control)]
 
+**MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO** \
+[[Website](https://arxiv.org/abs/2505.13031)] 
+[[Project](https://mindomni.github.io/)] 
+[[Code](https://github.com/EasonXiao-888/MindOmni)]
+
 **Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance** \
 [[Website](https://arxiv.org/abs/2403.17377)] 
 [[Project](https://ku-cvlab.github.io/Perturbed-Attention-Guidance/)] 
@@ -6026,6 +6066,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Towards Self-Improvement of Diffusion Models via Group Preference Optimization** \
 [[Website](https://arxiv.org/abs/2505.11070)] 
+
+**NOFT: Test-Time Noise Finetune via Information Bottleneck for Highly Correlated Asset Creation** \
+[[Website](https://arxiv.org/abs/2505.12235)] 
+
+**Self-NPO: Negative Preference Optimization of Diffusion Models by Simply Learning from Itself without Explicit Preference Annotations** \
+[[Website](https://arxiv.org/abs/2505.11777)] 
 
 
 ## Spatial Control
@@ -7148,6 +7194,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.14377)] 
 [[Project](https://relactrl.github.io/RelaCtrl/)] 
 
+**Context-Aware Autoregressive Models for Multi-Conditional Image Generation** \
+[[Website](https://arxiv.org/abs/2505.12274)] 
+[[Project](https://context-ar.github.io/)] 
 
 **Sketch-Guided Scene Image Generation** \
 [[Website](https://arxiv.org/abs/2407.06469)] 
@@ -8531,6 +8580,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://joaanna.github.io/customizing_motion/)] 
 [[Code](https://github.com/adobe-research/custom_motion)] 
 
+**FinePhys: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance** \
+[[Website](https://arxiv.org/abs/2505.13437)]
+[[Project](https://smartdianlab.github.io/projects-FinePhys/)] 
+[[Code](https://github.com/SmartDianLab/FinePhys)] 
+
 **Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** \
 [[Website](https://arxiv.org/abs/2402.03162)]
 [[Project](https://direct-a-video.github.io/)] 
@@ -9026,6 +9080,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://hi-zhengcheng.github.io/vividzoo/)]
 [[Code](https://github.com/hi-zhengcheng/vividzoo)]
 
+**RoPECraft: Training-Free Motion Transfer with Trajectory-Guided RoPE Optimization on Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2505.13344)]
+[[Project](https://berkegokmen1.github.io/RoPECraft/)]
+[[Code](https://github.com/berkegokmen1/RoPECraft)]
+
 **MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation** \
 [[Website](https://arxiv.org/abs/2503.14428)]
 [[Project](https://hong-yu-zhang.github.io/MagicComp-Page/)]
@@ -9450,6 +9509,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation** \
 [[Website](https://arxiv.org/abs/2412.02259)]
 [[Project](https://cheliosoops.github.io/VGoT/)]
+
+**Video-GPT via Next Clip Diffusion** \
+[[Website](https://arxiv.org/abs/2505.12489)]
+[[Project](https://zhuangshaobin.github.io/Video-GPT.github.io/)]
 
 **Fine-gained Zero-shot Video Sampling** \
 [[Website](https://arxiv.org/abs/2407.21475)]
@@ -10024,6 +10087,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ProFashion: Prototype-guided Fashion Video Generation with Multiple Reference Images** \
 [[Website](https://arxiv.org/abs/2505.06537)]
 
+**Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking** \
+[[Website](https://arxiv.org/abs/2505.12667)]
 
 
 # Video Editing 
