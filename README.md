@@ -556,6 +556,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://horseee.github.io/Diffusion_DeepCache/)]
 [[Code](https://github.com/horseee/DeepCache)]
 
+**Grouping First, Attending Smartly: Training-Free Acceleration for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2505.14687)]
+[[Project](https://oliverrensu.github.io/project/GRAT/)]
+[[Code](https://github.com/OliverRensu/GRAT)]
+
 **Faster Diffusion: Rethinking the Role of the Encoder for Diffusion Model Inference** \
 [[NeurIPS 2024](https://arxiv.org/abs/2312.09608)]
 [[Code](https://github.com/hutaihang/faster-diffusion)]
@@ -2847,6 +2852,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2501.08225)] 
 [[Code](https://github.com/YBYBZhang/FramePainter)] 
+
+**Instructing Text-to-Image Diffusion Models via Classifier-Guided Semantic Optimization** \
+[[Website](https://arxiv.org/abs/2505.14254)] 
+[[Code](https://github.com/Chang-yuanyuan/CASO)] 
 
 **Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing** \
 [[Website](https://arxiv.org/abs/2405.14785)] 
@@ -5341,6 +5350,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2023](https://arxiv.org/abs/2305.16381)] 
 [[Code](https://github.com/google-research/google-research/tree/master/dpok)]
 
+**Improving Compositional Generation with Diffusion Models Using Lift Scores** \
+[[ICML 2025](https://arxiv.org/abs/2505.13740)] 
+[[Code](https://github.com/rainorangelemon/complift)]
+
 **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis** \
 [[Website](https://arxiv.org/abs/2504.01515)] 
 [[Code](https://github.com/ZixuanWang0525/DADG)]
@@ -5973,6 +5986,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TKG-DM: Training-free Chroma Key Content Generation Diffusion Model** \
 [[Website](https://arxiv.org/abs/2411.15580)] 
+
+**Replace in Translation: Boost Concept Alignment in Counterfactual Text-to-Image** \
+[[Website](https://arxiv.org/abs/2505.14341)] 
 
 **Unlocking the Potential of Text-to-Image Diffusion with PAC-Bayesian Theory** \
 [[Website](https://arxiv.org/abs/2411.17472)] 
@@ -9703,6 +9719,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.20502)]
 [[Project](https://arlont2v.github.io/)]
 
+**Vid2World: Crafting Video Diffusion Models to Interactive World Models** \
+[[Website](https://arxiv.org/abs/2505.14357)]
+[[Project](https://knightnemo.github.io/vid2world/)]
+
 **HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation** \
 [[Website](https://arxiv.org/abs/2502.04847)]
 [[Project](https://agnjason.github.io/HumanDiT-page/)]
@@ -10089,6 +10109,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Safe-Sora: Safe Text-to-Video Generation via Graphical Watermarking** \
 [[Website](https://arxiv.org/abs/2505.12667)]
+
+**LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2505.14167)]
+
 
 
 # Video Editing 
