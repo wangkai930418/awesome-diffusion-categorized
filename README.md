@@ -285,7 +285,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.09633)]
 [[Code](https://github.com/razvanmatisan/duodiff)]
 
-
+**DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance** \
+[[Website](https://arxiv.org/abs/2505.14708)]
+[[Code](https://github.com/shawnricecake/draft-attention)]
 
 **A Closer Look at Time Steps is Worthy of Triple Speed-Up for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2405.17403)]
@@ -1264,6 +1266,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities** \
 [[Website](https://arxiv.org/abs/2504.06895)]
 [[Code](https://github.com/tellurion-kanata/colorizeDiffusion)]
+
+**Leveraging the Powerful Attention of a Pre-trained Diffusion Model for Exemplar-based Image Colorization** \
+[[Website](https://arxiv.org/abs/2505.15812)]
+[[Code](https://github.com/satoshi-kosugi/powerful-attention)]
 
 **Diffusing Colors: Image Colorization with Text Guided Diffusion** \
 [[SIGGRAPH Asia 2023](https://arxiv.org/abs/2312.04145)]
@@ -3862,6 +3868,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CURE: Concept Unlearning via Orthogonal Representation Editing in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2505.12677)] 
 
+**Responsible Diffusion Models via Constraining Text Embeddings within Safe Regions** \
+[[Website](https://arxiv.org/abs/2505.15427)] 
+
 
 # New Concept Learning
 
@@ -4755,6 +4764,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID** \
 [[Website](https://arxiv.org/abs/2505.03557)] 
+
+**FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion** \
+[[Website](https://arxiv.org/abs/2505.15313)] 
 
 
 ## General Concept 
@@ -6089,6 +6101,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Self-NPO: Negative Preference Optimization of Diffusion Models by Simply Learning from Itself without Explicit Preference Annotations** \
 [[Website](https://arxiv.org/abs/2505.11777)] 
 
+**IA-T2I: Internet-Augmented Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2505.15779)] 
+
+**VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL** \
+[[Website](https://arxiv.org/abs/2505.15791)] 
+
+**Harnessing Caption Detailness for Data-Efficient Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2505.15172)] 
+
+
 
 ## Spatial Control
 
@@ -6731,6 +6753,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.05468)] 
 [[Project](https://diff-zsvos.compute.dtu.dk/)] 
 [[Code](https://github.com/thanosDelatolas/diff-zvos)]
+
+**gen2seg: Generative Models Enable Generalizable Instance Segmentation** \
+[[Website](https://arxiv.org/abs/2505.15263)] 
+[[Project](https://reachomk.github.io/gen2seg/)] 
+[[Code](https://github.com/UCDvision/gen2seg)]
 
 **Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.21708)] 
