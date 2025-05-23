@@ -1409,6 +1409,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2501.09815)] 
 [[Code](https://github.com/jeremyiv/diffc)] 
 
+**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates** \
+[[Website](https://arxiv.org/abs/2505.16091)] 
+[[Code](https://github.com/jp-guo/OSCAR)] 
+
 **Compressed Image Generation with Denoising Diffusion Codebook Models** \
 [[Website](https://arxiv.org/abs/2502.01189)] 
 [[Project](https://ddcm-2025.github.io/)] 
@@ -1436,6 +1440,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model** \
 [[Website](https://arxiv.org/abs/2505.13152)]
+
+**One-Step Diffusion-Based Image Compression with Semantic Distillation** \
+[[Website](https://arxiv.org/abs/2505.16687)]
+
+
 
 ## Super Resolution
 
@@ -1786,7 +1795,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution** \
 [[Website](https://arxiv.org/abs/2505.05209)]
 
+**Creatively Upscaling Images with Global-Regional Priors** \
+[[Website](https://arxiv.org/abs/2505.16976)]
 
+**DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2505.16239)]
 
 ## Personalized Restoration
 
@@ -2135,6 +2148,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2404.01089)]
 [[Code](https://github.com/gal4way/tpd)]
 
+**Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On** \
+[[ICLR 2025](https://arxiv.org/abs/2505.16977)]
+[[Code](https://github.com/HiDream-ai/SPM-Diff)]
+
 **Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**  \
 [[ACM MM 2023](https://arxiv.org/abs/2308.06101)]
 [[Code](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)] 
@@ -2226,6 +2243,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism** \
 [[Website](https://arxiv.org/abs/2412.09822)]
 [[Project](https://zhengjun-ai.github.io/dynamic-tryon-page/)]
+
+**Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction** \
+[[CVPR 2025](https://arxiv.org/abs/2505.16980)]
 
 **FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on** \
 [[IJCAI 2024](https://arxiv.org/abs/2404.14162)]
@@ -3581,6 +3601,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://erasing.baulab.info/)] 
 [[Code](https://github.com/rohitgandikota/erasing)]
 
+**When Are Concepts Erased From Diffusion Models?** \
+[[Website](https://arxiv.org/abs/2505.17013)] 
+[[Project](https://nyu-dice-lab.github.io/when-are-concepts-erased/)] 
+[[Code](https://github.com/kevinlu4588/DiffusionConceptErasure)]
+
 **Paint by Inpaint: Learning to Add Image Objects by Removing Them First** \
 [[Website](https://arxiv.org/abs/2404.18212)] 
 [[Project](https://rotsteinnoam.github.io/Paint-by-Inpaint/)] 
@@ -3870,6 +3895,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Responsible Diffusion Models via Constraining Text Embeddings within Safe Regions** \
 [[Website](https://arxiv.org/abs/2505.15427)] 
+
+**Erased or Dormant? Rethinking Concept Erasure Through Reversibility** \
+[[Website](https://arxiv.org/abs/2505.16174)] 
 
 
 # New Concept Learning
@@ -8653,6 +8681,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://vader-vid.github.io/)] 
 [[Code](https://github.com/mihirp1998/VADER)]
 
+**Training-Free Efficient Video Generation via Dynamic Token Carving** \
+[[Website](https://arxiv.org/abs/2505.16864)]
+[[Project](https://julianjuaner.github.io/projects/jenga/)] 
+[[Code](https://github.com/dvlab-research/Jenga/)]
+
 **Subject-driven Video Generation via Disentangled Identity and Motion** \
 [[Website](https://arxiv.org/abs/2504.17816)]
 [[Project](https://carpedkm.github.io/projects/disentangled_sub/index.html)] 
@@ -9692,6 +9725,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Boximator: Generating Rich and Controllable Motions for Video Synthesis** \
 [[Website](https://arxiv.org/abs/2402.01566)]
 [[Project](https://boximator.github.io/)] 
+
+**M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion** \
+[[Website](https://arxiv.org/abs/2505.16565)]
+[[Project](https://m2svid.github.io/)] 
 
 **I2VControl: Disentangled and Unified Video Motion Synthesis Control** \
 [[Website](https://arxiv.org/abs/2411.17765)]
