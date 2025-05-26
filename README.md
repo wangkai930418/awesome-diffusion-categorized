@@ -752,6 +752,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://solving-video-inverse.github.io/main/)]
 [[Code](https://github.com/solving-video-inverse/codes)]
 
+**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration** \
+[[Website](https://arxiv.org/abs/2505.18047)]
+[[Project](https://sudraj2002.github.io/restorevarpage/)]
+[[Code](https://github.com/sudraj2002/RestoreVAR)]
+
 **Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration** \
 [[Website](https://arxiv.org/abs/2410.04811)]
 [[Project](https://zhu-zhiyu.github.io/FLUX-IR/)]
@@ -1203,6 +1208,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LatentINDIGO: An INN-Guided Latent Diffusion Algorithm for Image Restoration** \
 [[Website](https://arxiv.org/abs/2505.12935)]
 
+**Dual Ascent Diffusion for Inverse Problems** \
+[[Website](https://arxiv.org/abs/2505.17353)]
 
 ## Colorization
 
@@ -1376,6 +1383,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **WaveFace: Authentic Face Restoration with Efficient Frequency Recovery** \
 [[Website](https://arxiv.org/abs/2403.12760)]
 
+**DiffusionReward: Enhancing Blind Face Restoration through Reward Feedback Learning** \
+[[Website](https://arxiv.org/abs/2505.17910)]
 
 
 ## Image Compression
@@ -2623,6 +2632,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zwl666666.github.io/infusion/)] 
 [[Code](https://github.com/zwl666666/infusion)] 
 
+**R-Genie: Reasoning-Guided Generative Image Editing** \
+[[Website](https://arxiv.org/abs/2505.17768)] 
+[[Project](https://dongzhang89.github.io/RGenie.github.io/)] 
+[[Code](https://github.com/HE-Lingfeng/R-Genie-public)] 
+
 **EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing** \
 [[Website](https://arxiv.org/abs/2503.10270)] 
 [[Project](https://eff-edit.github.io/)] 
@@ -3701,6 +3715,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.07389)] 
 [[Code](https://github.com/ddgoodgood/TRCE)]
+
+**T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.17550)] 
+[[Code](https://github.com/VDIGPKU/T2VUnlearning)]
 
 **SPEED: Scalable, Precise, and Efficient Concept Erasure for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.07392)] 
@@ -5167,6 +5185,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://nabla-gfn.github.io/)] 
 [[Code](https://github.com/lzzcd001/nabla-gfn)]
 
+**Scaling Image and Video Generation via Test-Time Evolutionary Search** \
+[[Website](https://arxiv.org/abs/2505.17618)] 
+[[Project](https://tinnerhrhe.github.io/evosearch/)] 
+[[Code](https://github.com/tinnerhrhe/EvoSearch-codes)]
+
 **CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching** \
 [[Website](https://arxiv.org/abs/2404.03653)] 
 [[Project](https://caraj7.github.io/comat/)] 
@@ -5421,6 +5444,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2406.16333)] 
 [[Code](https://github.com/TruthAI-Lab/PCIG)]
+
+**RePrompt: Reasoning-Augmented Reprompting for Text-to-Image Generation via Reinforcement Learning** \
+[[Website](https://arxiv.org/abs/2505.17540)] 
+[[Code](https://github.com/microsoft/DKI_LLM/tree/main/RePrompt)]
 
 **Progressive Compositionality In Text-to-Image Generative Models** \
 [[Website](https://arxiv.org/abs/2410.16719)] 
@@ -7850,6 +7877,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://animate-your-word.github.io/demo/)] 
 [[Code](https://github.com/zliucz/animate-your-word)] 
 
+**TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis** \
+[[Website](https://arxiv.org/abs/2505.17778)]
+[[Project](https://yyyyyxie.github.io/textflux-site/)] 
+[[Code](https://github.com/yyyyyxie/textflux)] 
+
 **RepText: Rendering Visual Text via Replicating** \
 [[Website](https://arxiv.org/abs/2504.19724)]
 [[Project](https://reptext.github.io/)] 
@@ -8711,6 +8743,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zgctroy.github.io/CamI2V/)] 
 [[Code](https://github.com/ZGCTroy/CamI2V)]
 
+**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** \
+[[Website](https://arxiv.org/abs/2505.18078)]
+[[Project](https://dancetog.github.io/)] 
+[[Code](https://github.com/yisuanwang/DanceTog)]
+
 **MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning** \
 [[Website](https://arxiv.org/abs/2409.15179)]
 [[Project](https://mimaface2024.github.io/mimaface.github.io/)] 
@@ -9381,6 +9418,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.06672)]
 [[Code](https://github.com/helia95/ragme)]
 
+**InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO** \
+[[Website](https://arxiv.org/abs/2505.17574)]
+[[Code](https://github.com/MAPLE-AIGC/InfLVG)]
 
 **On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices** \
 [[Website](https://arxiv.org/abs/2503.23796)]
@@ -9593,6 +9633,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Fine-gained Zero-shot Video Sampling** \
 [[Website](https://arxiv.org/abs/2407.21475)]
 [[Project](https://densechen.github.io/zss/)]
+
+**Model Already Knows the Best Noise: Bayesian Active Noise Selection via Attention in Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2505.17561)]
+[[Project](https://anse-project.github.io/anse-project/)]
 
 **Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis** \
 [[Website](https://arxiv.org/abs/2402.14797v1)]
