@@ -1,15 +1,15 @@
 <!-- The superlink doesn't support uppercases -->
 
-# PostDoc position in LAMP group
+<!-- # PostDoc position in LAMP group
 
-We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-news/c/penSOI3751Y?pli=1) working on Diffusion Models.
+We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-news/c/penSOI3751Y?pli=1) working on Diffusion Models. -->
 
 # Awesome Diffusion Categorized
 
 ## Contents
 
 - [Accelerate](#accelerate)
-    - [Trainig-Free](#train-free)
+    - [Train-Free](#train-free)
     - [AR model](#ar-model)
 - [Image Restoration](#image-restoration)
     - [Colorization](#colorization)
@@ -5067,7 +5067,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://gudaochangsheng.github.io/MaskUnet-Page/)] 
 [[Code](https://github.com/gudaochangsheng/MaskUnet)]
 
-
 **ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/72054)] 
 [[Website](https://arxiv.org/abs/2304.05977)] 
@@ -5099,6 +5098,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2503.22168)] 
 [[Project](https://micv-yonsei.github.io/storm2025/)] 
 [[Code](https://github.com/MICV-yonsei/STORM)] 
+
+**Decouple-Then-Merge: Finetune Diffusion Models as Multi-Task Learning** \
+[[CVPR 2025](https://arxiv.org/abs/2410.06664)] 
+[[Project](https://mqleet.github.io/DeMe_Project/)] 
+[[Code](https://github.com/MqLeet/DeMe)]
 
 **Training Diffusion Models with Reinforcement Learning** \
 [[ICLR 2024](https://arxiv.org/abs/2305.13301)] 
