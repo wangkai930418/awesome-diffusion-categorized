@@ -537,6 +537,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Accelerating Diffusion-based Super-Resolution with Dynamic Time-Spatial Sampling** \
 [[Website](https://arxiv.org/abs/2505.12048)]
 
+**SRDiffusion: Accelerate Video Diffusion Inference via Sketching-Rendering Cooperation** \
+[[Website](https://arxiv.org/abs/2505.19151)]
+
+**Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation** \
+[[Website](https://arxiv.org/abs/2505.18875)]
+
 
 
 ## Train-Free
@@ -1211,6 +1217,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Dual Ascent Diffusion for Inverse Problems** \
 [[Website](https://arxiv.org/abs/2505.17353)]
 
+**Restoring Real-World Images with an Internal Detail Enhancement Diffusion Model** \
+[[Website](https://arxiv.org/abs/2505.18674)]
+
+**HAODiff: Human-Aware One-Step Diffusion via Dual-Prompt Guidance** \
+[[Website](https://arxiv.org/abs/2505.19742)]
+
+
 ## Colorization
 
 **LVCD: Reference-based Lineart Video Colorization with Diffusion Models** \
@@ -1339,6 +1352,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration** \
 [[WACV 2025](https://arxiv.org/abs/2311.15445)]
 [[Code](https://github.com/wustl-cig/FLAIR)]
+
+**HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model** \
+[[Website](https://arxiv.org/abs/2505.18469)]
+[[Code](https://github.com/jkwang28/HonestFacee)]
 
 **DifFace: Blind Face Restoration with Diffused Error Contraction** \
 [[Website](https://arxiv.org/abs/2312.15736)]
@@ -1809,6 +1826,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2505.16239)]
+
+**UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space** \
+[[Website](https://arxiv.org/abs/2505.19958)]
+
+**Chain-of-Zoom: Extreme Super-Resolution via Scale Autoregression and Preference Alignment** \
+[[Website](https://arxiv.org/abs/2505.18600)]
+
 
 ## Personalized Restoration
 
@@ -3314,6 +3338,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **GIE-Bench: Towards Grounded Evaluation for Text-Guided Image Editing** \
 [[Website](https://arxiv.org/abs/2505.11493)]
 
+**MIND-Edit: MLLM Insight-Driven Editing via Language-Vision Projection** \
+[[Website](https://arxiv.org/abs/2505.19149)]
+
+**Beyond Editing Pairs: Fine-Grained Instructional Image Editing via Multi-Scale Learnable Regions**
+[[Website](https://arxiv.org/abs/2505.19352)]
+
+**Affective Image Editing: Shaping Emotional Factors via Text Descriptions** \
+[[Website](https://arxiv.org/abs/2505.18699)]
 
 
 ## Diffusion Models Inversion
@@ -3916,6 +3948,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Erased or Dormant? Rethinking Concept Erasure Through Reversibility** \
 [[Website](https://arxiv.org/abs/2505.16174)] 
+
+**Erasing Concepts, Steering Generations: A Comprehensive Survey of Concept Suppression** \
+[[Website](https://arxiv.org/abs/2505.19398)] 
+
+**Enhancing Text-to-Image Diffusion Transformer via Split-Text Conditioning** \
+[[Website](https://arxiv.org/abs/2505.19261)] 
+
+**Localizing Knowledge in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2505.18832)] 
 
 
 # New Concept Learning
@@ -4528,6 +4569,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **IMAGE-ALCHEMY: Advancing subject fidelity in personalised text-to-image generation** \
 [[Website](https://arxiv.org/abs/2505.10743)] 
 
+**Regularized Personalization of Text-to-Image Diffusion Models without Distributional Drift** \
+[[Website](https://arxiv.org/abs/2505.19519)] 
+
+**In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation** \
+[[Website](https://arxiv.org/abs/2505.20271)] 
+
 
 ## Mutiple Concepts
 
@@ -4561,6 +4608,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2406.07209)] 
 [[Project](https://ms-diffusion.github.io/)] 
 [[Code](https://github.com/MS-Diffusion/MS-Diffusion)]
+
+**Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter** \
+[[Website](https://arxiv.org/abs/2505.18612)] 
+[[Project](https://weizhi-zhong.github.io/Mod-Adapter/)] 
+[[Code](https://github.com/Weizhi-Zhong/Mod-Adapter)]
 
 **λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space** \
 [[Website](https://arxiv.org/abs/2402.05195)] 
@@ -5561,6 +5613,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2310.09247)] 
 [[Code](https://github.com/yandex-research/text-to-img-hypernymy)]
 
+**Step-level Reward for Free in RL-based T2I Diffusion Model Fine-tuning** \
+[[Website](https://arxiv.org/abs/2505.19196)] 
+[[Code](https://github.com/Lil-Shake/CoCA)]
+
+**Diffusion Blend: Inference-Time Multi-Preference Alignment for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.18547)] 
+[[Code](https://github.com/bluewoods127/DB-2025)]
+
 **TraDiffusion: Trajectory-Based Training-Free Image Generation** \
 [[Website](https://arxiv.org/abs/2408.09739)] 
 [[Code](https://github.com/och-mac/TraDiffusion)]
@@ -5712,6 +5772,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2410.01731)] 
 [[Project](https://comfygen-paper.github.io/)] 
+
+**CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design** \
+[[Website](https://arxiv.org/abs/2505.19114)] 
+[[Project](https://huizhang0812.github.io/CreatiDesign/)] 
+
 
 **LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2407.00737)] 
@@ -6169,6 +6234,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Harnessing Caption Detailness for Data-Efficient Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2505.15172)] 
 
+**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion** \
+[[Website](https://arxiv.org/abs/2505.20053)] 
+
+**Alchemist: Turning Public Text-to-Image Data into Generative Gold** \
+[[Website](https://arxiv.org/abs/2505.19297)]
+
+**Rethinking Direct Preference Optimization in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.18736)]
 
 
 ## Spatial Control
@@ -7088,6 +7161,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2406.07540)] 
 [[Project](https://genforce.github.io/ctrl-x/)] 
 [[Code](https://github.com/genforce/ctrl-x)]
+
+**Jodi: Unification of Visual Generation and Understanding via Joint Modeling** \
+[[Website](https://arxiv.org/abs/2505.19084)] 
+[[Project](https://vipl-genun.github.io/Project-Jodi/)] 
+[[Code](https://github.com/VIPL-GENUN/Jodi)]
 
 **Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model** \
 [[Website](https://arxiv.org/abs/2404.09967)] 
@@ -8121,6 +8199,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HDGlyph: A Hierarchical Disentangled Glyph-Based Framework for Long-Tail Text Rendering in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2505.06543)]
 
+**TextDiffuser-RL: Efficient and Robust Text Layout Optimization for High-Fidelity Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2505.19291)]
+
 
 # Video Generation 
 
@@ -8455,6 +8536,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2411.16199)]
 [[Project](https://motionprompt.github.io/)]
 [[Code](https://github.com/HyelinNAM/MotionPrompt)] 
+
+**MotionPro: A Precise Motion Controller for Image-to-Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2505.20287)]
+[[Project](https://zhw-zhang.github.io/MotionPro-page/)]
+[[Code](https://github.com/HiDream-ai/MotionPro)] 
 
 **ControlVideo: Training-free Controllable Text-to-Video Generation** \
 [[ICLR 2024](https://arxiv.org/abs/2305.13077)]
@@ -9410,6 +9496,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.11535)]
 [[Code](https://github.com/liujianzhi/echoreel)]
 
+**VORTA: Efficient Video Diffusion via Routing Sparse Attention** \
+[[Website](https://arxiv.org/abs/2505.18809)]
+[[Code](https://github.com/wenhao728/VORTA)]
+
 **TAVGBench: Benchmarking Text to Audible-Video Generation** \
 [[Website](https://arxiv.org/abs/2404.14381)]
 [[Code](https://github.com/OpenNLPLab/TAVGBench)]
@@ -10225,6 +10315,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2505.14167)]
 
+**Dynamic-I2V: Exploring Image-to-Video Generaion Models via Multimodal LLM** \
+[[Website](https://arxiv.org/abs/2505.19901)]
 
 
 # Video Editing 
@@ -10657,4 +10749,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **InstructVid2Vid: Controllable Video Editing with Natural Language Instructions** \
 [[Website](https://arxiv.org/abs/2305.12328v2)]
 
+**REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing** \
+[[Website](https://arxiv.org/abs/2505.18880)]
 
