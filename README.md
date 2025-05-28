@@ -333,6 +333,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.12674)]
 [[Code](https://github.com/mingyuanzhou/SiD-LSG)]
 
+**FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation** \
+[[Website](https://arxiv.org/abs/2505.20353)]
+[[Code](https://github.com/NoakLiu/FastCache-xDiT)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -543,6 +547,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation** \
 [[Website](https://arxiv.org/abs/2505.18875)]
 
+**RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy** \
+[[Website](https://arxiv.org/abs/2505.21036)]
 
 
 ## Train-Free
@@ -1069,6 +1075,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Dual Prompting Image Restoration with Diffusion Transformers** \
 [[CVPR 2025](https://arxiv.org/abs/2504.17825)]
+
+**Integrating Intermediate Layer Optimization and Projected Gradient Descent for Solving Inverse Problems with Diffusion Models** \
+[[ICML 2025](https://arxiv.org/abs/2505.20789)]
 
 **Seeing Beyond Haze: Generative Nighttime Image Dehazing** \
 [[Website](https://arxiv.org/abs/2503.08073)]
@@ -2037,6 +2046,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.10899)]
 [[Project](https://magicscroll.github.io/)]
 
+**ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation** \
+[[Website](https://arxiv.org/abs/2505.20626)]
+[[Project](https://jbruner23.github.io/consistyle/)]
+
 **Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
 [[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
 
@@ -2240,6 +2253,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Fashion-VDM: Video Diffusion Model for Virtual Try-On** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2411.00225)]
 [[Project](https://johannakarras.github.io/Fashion-VDM/)]
+
+**MagicTryOn: Harnessing Diffusion Transformer for Garment-Preserving Video Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2505.21325)]
+[[Project](https://vivocameraresearch.github.io/magictryon/)]
 
 **Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos** \
 [[Website](https://arxiv.org/abs/2404.17571)]
@@ -4575,6 +4592,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation** \
 [[Website](https://arxiv.org/abs/2505.20271)] 
 
+**Create Anything Anywhere: Layout-Controllable Personalized Diffusion Model for Multiple Subjects** \
+[[Website](https://arxiv.org/abs/2505.20909)] 
+
+**DreamBoothDPO: Improving Personalized Generation using Direct Preference Optimization** \
+[[Website](https://arxiv.org/abs/2505.20975)] 
+
+**FastFace: Tuning Identity Preservation in Distilled Diffusion via Guidance and Attention** \
+[[Website](https://arxiv.org/abs/2505.21144)] 
+
 
 ## Mutiple Concepts
 
@@ -5340,6 +5366,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.04655)] 
 [[Project](https://eclipse-t2i.vercel.app/)] 
 [[Code](https://github.com/eclipse-t2i/eclipse-inference)]
+
+**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation** \
+[[Website](https://arxiv.org/abs/2505.21488)] 
+[[Project](https://omer11a.github.io/be-decisive/)] 
+[[Code](https://github.com/omer11a/be-decisive)]
+
+**Not All Thats Rare Is Lost: Causal Paths to Rare Concept Synthesis** \
+[[Website](https://arxiv.org/abs/2505.20808)] 
+[[Project](https://basiclab.github.io/RAP/)] 
+[[Code](https://github.com/basiclab/RAP)]
 
 **MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion** \
 [[Website](https://arxiv.org/abs/2402.12741)] 
@@ -6242,6 +6278,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Rethinking Direct Preference Optimization in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2505.18736)]
+
+**ISAC: Training-Free Instance-to-Semantic Attention Control for Improving Multi-Instance Generation** \
+[[Website](https://arxiv.org/abs/2505.20935)]
+
+**Policy Optimized Text-to-Image Pipeline Design** \
+[[Website](https://arxiv.org/abs/2505.21478)]
 
 
 ## Spatial Control
@@ -7841,6 +7883,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PixelHacker: Image Inpainting with Structural and Semantic Consistency** \
 [[Website](https://arxiv.org/abs/2504.20438)] 
 
+**Geometry-Editable and Appearance-Preserving Object Compositon** \
+[[Website](https://arxiv.org/abs/2505.20914)] 
+
 
 
 # Layout Generation
@@ -8201,6 +8246,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TextDiffuser-RL: Efficient and Robust Text Layout Optimization for High-Fidelity Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2505.19291)]
+
+**OrienText: Surface Oriented Textual Image Generation** \
+[[Website](https://arxiv.org/abs/2505.20958)]
 
 
 # Video Generation 
@@ -9083,6 +9131,26 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://maxin-cn.github.io/latte_project/)]
 [[Code](https://github.com/maxin-cn/Latte)]
 
+**Incorporating Flexible Image Conditioning into Text-to-Video Diffusion Models without Training** \
+[[Website](https://arxiv.org/abs/2505.20629)]
+[[Project](https://bolinlai.github.io/projects/FlexTI2V/)]
+[[Code](https://github.com/BolinLai/FlexTI2V)]
+
+**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2505.21491)]
+[[Project](https://uva-computer-vision-lab.github.io/Frame-In-N-Out/)]
+[[Code](https://github.com/UVA-Computer-Vision-Lab/FrameINO)]
+
+**Frame-Level Captions for Long Video Generation with Complex Multi Scenes** \
+[[Website](https://arxiv.org/abs/2505.20827)]
+[[Project](https://zgctroy.github.io/frame-level-captions/)]
+[[Code](https://github.com/ZGCTroy/frame-level-captions)]
+
+**Minute-Long Videos with Dual Parallelisms** \
+[[Website](https://arxiv.org/abs/2505.21070)]
+[[Project](https://dualparal-project.github.io/dualparal.github.io/)]
+[[Code](https://github.com/DualParal-Project/DualParal)]
+
 **WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens** \
 [[Website](https://arxiv.org/abs/2401.09985)]
 [[Project](https://world-dreamer.github.io/)]
@@ -9427,6 +9495,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data** \
 [[Website](https://arxiv.org/abs/2408.10119)]
 [[Code](https://github.com/yangxy/Factorized-Dreamer/)]
+
+**Sci-Fi: Symmetric Constraint for Frame Inbetweening** \
+[[Website](https://arxiv.org/abs/2505.21205)]
+[[Code](https://github.com/GVCLab/Sci-Fi)]
 
 **Open-Sora: Democratizing Efficient Video Production for All** \
 [[Website](https://arxiv.org/abs/2412.20404)]
