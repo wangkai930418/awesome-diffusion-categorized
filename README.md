@@ -1031,6 +1031,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.01522)]
 [[Code](https://github.com/donahowe/BD-Diff)]
 
+**IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models** \
+[[Website](https://arxiv.org/abs/2505.24406)]
+[[Code](https://github.com/HashWang-null/IRBridge)]
+
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
 [[Project](https://tianhewu.github.io/A-FINE-page.github.io/)]
@@ -3389,6 +3393,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FlowAlign: Trajectory-Regularized, Inversion-Free Flow-based Image Editing** \
 [[Website](https://arxiv.org/abs/2505.23145)]
+
+**Cora: Correspondence-aware image editing using few step diffusion** \
+[[Website](https://arxiv.org/abs/2505.23907)]
+
 
 ## Diffusion Models Inversion
 
@@ -5930,6 +5938,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.22407)] 
 [[Project](https://jadenpan0.github.io/srrl.github.io/)] 
 
+**ComposeAnything: Composite Object Priors for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2505.24086)] 
+[[Project](https://zeeshank95.github.io/composeanything/ca.html)] 
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -7672,6 +7684,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://val.cds.iisc.ac.in/reflecting-reality.github.io/)]
 [[Code](https://github.com/val-iisc/Reflecting-Reality)]
 
+**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal** \
+[[Website](https://arxiv.org/abs/2505.24873)]
+[[Project](https://minimax-remover.github.io/)]
+[[Code](https://github.com/zibojia/MiniMax-Remover)]
+
 **Improving Text-guided Object Inpainting with Semantic Pre-inpainting**\
 [[ECCV 2024](https://arxiv.org/abs/2409.08260)] 
 [[Code](https://github.com/Nnn-s/CATdiffusion)] 
@@ -8315,6 +8332,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TextSR: Diffusion Super-Resolution with Multilingual OCR Guidance** \
 [[Website](https://arxiv.org/abs/2505.23119)]
+
+**EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering** \
+[[Website](https://arxiv.org/abs/2505.24417)]
 
 
 # Video Generation 
@@ -10498,6 +10518,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer** \
 [[Website](https://arxiv.org/abs/2505.23171)]
+
+**Interactive Video Generation via Domain Adaptation** \
+[[Website](https://arxiv.org/abs/2505.24253)]
+
 
 
 # Video Editing 
