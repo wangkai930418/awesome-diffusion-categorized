@@ -346,6 +346,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.20353)]
 [[Code](https://github.com/NoakLiu/FastCache-xDiT)]
 
+**SenseFlow: Scaling Distribution Matching for Flow-based Text-to-Image Distillation** \
+[[Website](https://arxiv.org/abs/2506.00523)]
+[[Code](https://github.com/XingtongGe/SenseFlow)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -558,6 +562,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **RainFusion: Adaptive Video Generation Acceleration via Multi-Dimensional Visual Redundancy** \
 [[Website](https://arxiv.org/abs/2505.21036)]
+
+**Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2506.00329)]
+
 
 
 ## Train-Free
@@ -1252,6 +1260,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP** \
 [[Website](https://arxiv.org/abs/2505.23743)]
 
+**Latent Guidance in Diffusion Models for Perceptual Evaluations** \
+[[Website](https://arxiv.org/abs/2506.00327)]
+
 
 ## Colorization
 
@@ -1397,6 +1408,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Real-World Blind Face Restoration with Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2312.15736)]
 [[Code](https://github.com/chenxx89/BFRffusion)]
+
+**QuantFace: Low-Bit Post-Training Quantization for One-Step Diffusion Face Restoration** \
+[[Website](https://arxiv.org/abs/2506.00820)]
+[[Code](https://github.com/jiatongli2024/QuantFace)]
 
 **Towards Unsupervised Blind Face Restoration using Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2410.04618)]
@@ -2760,6 +2775,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://ezioby.github.io/edicho/)] 
 [[Code](https://github.com/EzioBy/edicho)] 
 
+**IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout** \
+[[Website](https://arxiv.org/abs/2506.01949)] 
+[[Project](https://revive234.github.io/IMAGHarmony.github.io/)] 
+[[Code](https://github.com/muzishen/IMAGHarmony)] 
+
 **Towards Small Object Editing: A Benchmark Dataset and A Training-Free Approach** \
 [[Website](https://arxiv.org/abs/2411.01545)] 
 [[Project](https://soebench.github.io/)] 
@@ -3201,6 +3221,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2504.05306)]
 [[Project](https://crea-diffusion.github.io/)]
+
+**DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing** \
+[[Website](https://arxiv.org/abs/2506.01430)]
+[[Project](https://xiechenxi99.github.io/DNAEdit/)]
 
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
@@ -5477,6 +5501,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://howe140.github.io/theatergen.io/)] 
 [[Code](https://github.com/donahowe/Theatergen)]
 
+**Image Generation from Contextually-Contradictory Prompts** \
+[[Website](https://arxiv.org/abs/2506.01929)] 
+[[Project](https://tdpc2025.github.io/SAP/)] 
+[[Code](https://github.com/TDPC2025/SAP)]
+
+**TaxaDiffusion: Progressively Trained Diffusion Model for Fine-Grained Species Generation** \
+[[Website](https://arxiv.org/abs/2506.01923)] 
+[[Project](https://amink8.github.io/TaxaDiffusion/)] 
+[[Code](https://github.com/aminK8/TaxaDiffusion)]
+
 **InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment** \
 [[CVPR 2025](https://arxiv.org/abs/2503.18454)] 
 [[Code](https://github.com/JaydenLyh/InPO)]
@@ -5797,6 +5831,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.22569)] 
 [[Code](https://github.com/ControlGenAI/ImageReFL)] 
 
+**NoiseAR: AutoRegressing Initial Noise Prior for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.01337)] 
+[[Code](https://github.com/HKUST-SAIL/NoiseAR/)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -5893,6 +5931,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2503.22194)] 
 [[Project](https://origen2025.github.io/)] 
+
+**Dual-Process Image Generation** \
+[[Website](https://arxiv.org/abs/2506.01955)] 
+[[Project](https://dual-process.github.io/)] 
 
 **From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning** \
 [[Website](https://arxiv.org/abs/2504.16080)] 
@@ -9112,6 +9154,26 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://videocomposer.github.io/)] 
 [[Code](https://github.com/damo-vilab/videocomposer)]
 
+**FlowMo: Variance-Based Flow Guidance for Coherent Motion in Video Generation** \
+[[Website](https://arxiv.org/abs/2506.01144)]
+[[Project](https://arielshaulov.github.io/FlowMo/)] 
+[[Code](https://github.com/arielshaulov/FlowMo)]
+
+**Temporal In-Context Fine-Tuning for Versatile Control of Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.00996)]
+[[Project](https://kinam0252.github.io/TIC-FT/)] 
+[[Code](https://github.com/kinam0252/TIC-FT)]
+
+**DiffuseSlide: Training-Free High Frame Rate Video Generation Diffusion** \
+[[Website](https://arxiv.org/abs/2506.01454)]
+[[Project](https://geunminhwang.github.io/DiffuseSlide/)] 
+[[Code](https://github.com/GeunminHwang/DiffuseSlide)]
+
+**Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks** \
+[[Website](https://arxiv.org/abs/2506.01758)]
+[[Project](https://leeruibin.github.io/MfMPage/)] 
+[[Code](https://github.com/leeruibin/MfM)]
+
 **DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** \
 [[Website](https://arxiv.org/abs/2304.06025)]
 [[Project](https://grail.cs.washington.edu/projects/dreampose/)] 
@@ -9883,6 +9945,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.01061)]
 [[Project](https://omnihuman-lab.github.io/)]
 
+**Playing with Transformer at 30+ FPS via Next-Frame Diffusion** \
+[[Website](https://arxiv.org/abs/2506.01380)]
+[[Project](https://nextframed.github.io/)]
+
 **InterDyn: Controllable Interactive Dynamics with Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2412.11785)]
 [[Project](https://interdyn.is.tue.mpg.de/)]
@@ -10522,6 +10588,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Interactive Video Generation via Domain Adaptation** \
 [[Website](https://arxiv.org/abs/2505.24253)]
 
+**OmniV2V: Versatile Video Generation and Editing via Dynamic Content Manipulation** \
+[[Website](https://arxiv.org/abs/2506.01801)]
+
 
 
 # Video Editing 
@@ -10690,6 +10759,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.23134)]
 [[Project](https://zero2hero-project.github.io/)]
 [[Code](https://github.com/Tonniia/Zero2Hero)] 
+
+**Motion-Aware Concept Alignment for Consistent Video Editing** \
+[[Website](https://arxiv.org/abs/2506.01004)]
+[[Project](https://zhangt-tech.github.io/MoCA-Page/)]
+[[Code](https://github.com/ZhangT-tech/MoCA-Video)] 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
