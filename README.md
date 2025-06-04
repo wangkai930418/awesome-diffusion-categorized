@@ -10884,8 +10884,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 **Shape-Aware Text-Driven Layered Video Editing** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Shape-Aware_Text-Driven_Layered_Video_Editing_CVPR_2023_paper.html
-)]
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Shape-Aware_Text-Driven_Layered_Video_Editing_CVPR_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2301.13173)]
 [[Project](https://text-video-edit.github.io/#)] 
 
