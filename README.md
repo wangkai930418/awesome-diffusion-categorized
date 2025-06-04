@@ -213,6 +213,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://nvlabs.github.io/Fast-dLLM/)]
 [[Code](https://github.com/NVlabs/Fast-dLLM)]
 
+**One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2505.21960)]
+[[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)]
+[[Code](https://github.com/sen-mao/Loopfree)]
+
 **Relational Diffusion Distillation for Efficient Image Generation** \
 [[ACM MM 2024 (Oral)](https://arxiv.org/abs/2410.07679)]
 [[Code](https://github.com/cantbebetter2/RDD)]
@@ -229,9 +234,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2505.05829)]
 [[Code](https://github.com/ccccczzy/icc)]
 
-**One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
-[[CVPR 2025](https://arxiv.org/abs/2505.21960)]
-[[Code](https://github.com/sen-mao/Loopfree)]
 
 **SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow** \
 [[ECCV 2024](https://arxiv.org/abs/2407.12718)]
@@ -1920,14 +1922,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # Illusion 
 
+**The Art of Deception: Color Visual Illusions and Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2412.10122)]
+[[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Gomez-Villa_The_Art_of_Deception_Color_Visual_Illusions_and_Diffusion_Models_CVPR_2025_paper.html)] 
+[[Code](https://alviur.github.io/color-illusion-diffusion/)] 
+
 **Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2311.17919)]
 [[Project](https://dangeng.github.io/visual_anagrams/)]
 [[Code](https://github.com/dangeng/visual_anagrams)] 
-
-**The Art of Deception: Color Visual Illusions and Diffusion Models** \
-[[CVPR 2025](https://arxiv.org/abs/2412.10122)]
-[[Project](https://alviur.github.io/color-illusion-diffusion/)] 
 
 **Diffusion-based Visual Anagram as Multi-task Learning** \
 [[WACV 2025](https://arxiv.org/abs/2412.02693)]
