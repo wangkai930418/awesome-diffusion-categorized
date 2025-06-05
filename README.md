@@ -683,6 +683,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Fast constrained sampling in pre-trained diffusion models** \
 [[Website](https://arxiv.org/abs/2410.18804)]
 
+**Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas** \
+[[Website](https://arxiv.org/abs/2506.03275)]
 
 ## AR model
 
@@ -1273,6 +1275,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Solving Inverse Problems with FLAIR** \
 [[Website](https://arxiv.org/abs/2506.02680)]
+
+**Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach** \
+[[Website](https://arxiv.org/abs/2506.03979)]
 
 
 
@@ -2902,6 +2907,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://boese0601.github.io/bytemorph/)] 
 [[Code](https://github.com/ByteDance-Seed/BM-code)] 
 
+**RefEdit: A Benchmark and Method for Improving Instruction-based Image Editing Model on Referring Expressions** \
+[[Website](https://arxiv.org/abs/2506.03448)] 
+[[Project](https://refedit.vercel.app/)] 
+[[Code](https://github.com/bimsarapathiraja/refedit)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -3095,6 +3105,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.16025)]
 [[Code](https://github.com/yairshp/SISO)] 
 
+**Image Editing As Programs with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.04158)]
+[[Code](https://github.com/YujiaHu1109/IEAP)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -3115,6 +3129,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TurboEdit: Instant text-based image editing** \
 [[ECCV 2024](https://arxiv.org/abs/2408.08332)]
 [[Project](https://betterze.github.io/TurboEdit/)] 
+
+**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers** \
+[[CVPR 2025](https://arxiv.org/abs/2412.09611)]
+[[Project](https://fluxspace.github.io/)] 
 
 **Novel Object Synthesis via Adaptive Text-Image Harmony** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.20823)]
@@ -3163,10 +3181,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2411.07232)]
 [[Project](https://research.nvidia.com/labs/par/addit/)] 
-
-**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers** \
-[[Website](https://arxiv.org/abs/2412.09611)]
-[[Project](https://fluxspace.github.io/)] 
 
 **SeedEdit: Align Image Re-Generation to Image Editing** \
 [[Website](https://arxiv.org/abs/2411.06686)]
@@ -4387,6 +4401,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2412.01485)] 
 [[Project](https://serialgen.github.io/)] 
 
+**Negative-Guided Subject Fidelity Optimization for Zero-Shot Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2506.03621)] 
+[[Project](https://subjectfidelityoptimization.github.io/)] 
 
 **RelationBooth: Towards Relation-Aware Customized Object Generation** \
 [[Website](https://arxiv.org/abs/2410.23280)] 
@@ -5546,6 +5563,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jaydenlyh.github.io/SmPO-project-page/)] 
 [[Code](https://github.com/JaydenLyh/SmPO)]
 
+**Minority-Focused Text-to-Image Generation via Prompt Optimization** \
+[[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
+[[Code](https://github.com/soobin-um/MinorityPrompt)]
+
 **InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment** \
 [[CVPR 2025](https://arxiv.org/abs/2503.18454)] 
 [[Code](https://github.com/JaydenLyh/InPO)]
@@ -6053,6 +6074,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting** \
 [[CVPR 2025](https://arxiv.org/abs/2502.04412)] 
+
+**Crafting Parts for Expressive Object Composition** \
+[[CVPR 2025](https://arxiv.org/abs/2406.10197)] 
 
 **Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.10037)] 
@@ -7494,6 +7518,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.09277)] 
 [[Code](https://github.com/Xuan-World/UniCombine)]
 
+**ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning** \
+[[Website](https://arxiv.org/abs/2506.03596)] 
+[[Code](https://github.com/Maplebb/ControlThinker)]
+
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
 [[Project](https://mcm-diffusion.github.io/)] 
@@ -8890,6 +8918,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://sihyun.me/PVDM/)]
 [[Code](https://github.com/sihyun-yu/PVDM)]
 
+**LayerFlow: A Unified Model for Layer-aware Video Generation** \
+[[SIGGRAPH 2025](https://arxiv.org/abs/2506.04228)]
+[[Project](https://sihuiji.github.io/LayerFlow-Page/)]
+[[Code](https://github.com/SihuiJi/LayerFlow)]
+
 **Can Text-to-Video Generation help Video-Language Alignment?** \
 [[CVPR 2025](https://arxiv.org/abs/2503.18507)]
 [[Project](https://lucazanella.github.io/synvita/)]
@@ -10063,6 +10096,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.09856)]
 [[Project](https://lineargen.github.io/)]
 
+**DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.03517)]
+[[Project](https://snap-research.github.io/DenseDPO/)]
+
+**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2506.04213)]
+[[Project](https://fulldit2.github.io/)]
+
 **Training-free Long Video Generation with Chain of Diffusion Model Experts** \
 [[Website](https://arxiv.org/abs/2408.13423)]
 [[Project](https://confiner2025.github.io/)]
@@ -10972,6 +11013,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing** \
 [[Website](https://arxiv.org/abs/2411.15260)]
 [[Project](https://inkosizhong.github.io/VIVID/)]
+
+**UNIC: Unified In-Context Video Editing** \
+[[Website](https://arxiv.org/abs/2506.04216)]
+[[Project](https://zixuan-ye.github.io/UNIC/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
