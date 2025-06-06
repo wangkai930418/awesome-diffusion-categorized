@@ -1459,7 +1459,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 ## Face Restoration
 
-⭐⭐**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration** \
+**InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration** \
 [[ICLR 2025](https://openreview.net/forum?id=rUxr9Ll5FQ)]
 [[Website](https://arxiv.org/abs/2502.02215)]
 [[Project](https://sen-mao.github.io/InterLCM-Page/)]
@@ -2029,19 +2029,19 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # Storytelling
 
-⭐⭐**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt** \
+**One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt** \
 [[ICLR 2025](https://openreview.net/forum?id=cD1kl2QKv1)]
 [[Website](https://arxiv.org/abs/2501.13554)]
 [[Project](https://byliutao.github.io/1Prompt1Story.github.io/)]
 [[Code](https://github.com/byliutao/1Prompt1Story)] 
 
 
-⭐⭐**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models** \
+**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2306.00973)]
 [[Project](https://haoningwu3639.github.io/StoryGen_Webpage/)]
 [[Code](https://github.com/haoningwu3639/StoryGen)] 
 
-⭐⭐**Training-Free Consistent Text-to-Image Generation** \
+**Training-Free Consistent Text-to-Image Generation** \
 [[SIGGRAPH 2024](https://arxiv.org/abs/2402.03286)]
 [[Project](https://consistory-paper.github.io/)] 
 [[Code](https://github.com/kousw/experimental-consistory)]
@@ -2624,14 +2624,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 # Text Guided Image Editing
-⭐⭐⭐**Prompt-to-Prompt Image Editing with Cross Attention Control** \
+**Prompt-to-Prompt Image Editing with Cross Attention Control** \
 [[ICLR 2023](https://openreview.net/forum?id=_CDixzkzeyb)] 
 [[Website](https://arxiv.org/abs/2211.09794)] 
 [[Project](https://prompt-to-prompt.github.io/)] 
 [[Code](https://github.com/google/prompt-to-prompt)] 
 [[Replicate Demo](https://replicate.com/cjwbw/prompt-to-prompt)]
 
-⭐⭐⭐**Zero-shot Image-to-Image Translation** \
+**Zero-shot Image-to-Image Translation** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.03027)] 
 [[Project](https://pix2pixzero.github.io/)] 
 [[Code](https://github.com/pix2pixzero/pix2pix-zero)] 
@@ -2639,7 +2639,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/v0.16.0/api/pipelines/stable_diffusion/pix2pix_zero)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_pix2pix_zero.py)]
 
-⭐⭐**InstructPix2Pix: Learning to Follow Image Editing Instructions** \
+**InstructPix2Pix: Learning to Follow Image Editing Instructions** \
 [[CVPR 2023 (Highlight)](https://openaccess.thecvf.com/content/CVPR2023/html/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2211.09800)] 
 [[Project](https://www.timothybrooks.com/instruct-pix2pix/)] 
@@ -2648,7 +2648,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Official Code](https://github.com/timothybrooks/instruct-pix2pix)]
 [[Dataset](http://instruct-pix2pix.eecs.berkeley.edu/)]
 
-⭐⭐**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation** \
+**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Tumanyan_Plug-and-Play_Diffusion_Features_for_Text-Driven_Image-to-Image_Translation_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2211.12572)]
 [[Project](https://pnp-diffusion.github.io/sm/index.html)] 
@@ -2657,20 +2657,20 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Replicate Demo](https://replicate.com/daanelson/plug_and_play_image_translation)] 
 [[Demo](https://huggingface.co/spaces/hysts/PnP-diffusion-features)] 
 
-⭐**DiffEdit: Diffusion-based semantic image editing with mask guidance** \
+**DiffEdit: Diffusion-based semantic image editing with mask guidance** \
 [[ICLR 2023](https://openreview.net/forum?id=3lge0p5o-M-)] 
 [[Website](https://arxiv.org/abs/2210.11427)] 
 [[Unofficial Code](https://paperswithcode.com/paper/diffedit-diffusion-based-semantic-image)]
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/diffedit)] 
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_diffedit.py)] 
 
-⭐**Imagic: Text-Based Real Image Editing with Diffusion Models** \
+**Imagic: Text-Based Real Image Editing with Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Kawar_Imagic_Text-Based_Real_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2210.09276)] 
 [[Project](https://imagic-editing.github.io/)] 
 [[Diffusers](https://github.com/huggingface/diffusers/tree/main/examples/community#imagic-stable-diffusion)]
 
-⭐**Inpaint Anything: Segment Anything Meets Image Inpainting** \
+**Inpaint Anything: Segment Anything Meets Image Inpainting** \
 [[Website](https://arxiv.org/abs/2304.06790)] 
 [[Code 1](https://github.com/geekyutao/Inpaint-Anything)] 
 [[Code 2](https://github.com/sail-sg/EditAnything)] 
@@ -3515,29 +3515,29 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 ## Diffusion Models Inversion
 
-⭐⭐⭐**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
+**Null-text Inversion for Editing Real Images using Guided Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Mokady_NULL-Text_Inversion_for_Editing_Real_Images_Using_Guided_Diffusion_Models_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2211.09794)] 
 [[Project](https://null-text-inversion.github.io/)] 
 [[Code](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images)]
 
-⭐⭐**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
+**Direct Inversion: Boosting Diffusion-based Editing with 3 Lines of Code** \
 [[ICLR 2024](https://openreview.net/forum?id=FoMZ4ljhVw)] 
 [[Website](https://arxiv.org/abs/2310.01506)] 
 [[Project](https://cure-lab.github.io/PnPInversion/)] 
 [[Code](https://github.com/cure-lab/DirectInversion/tree/main)] 
 
-⭐**Inversion-Based Creativity Transfer with Diffusion Models** \
+**Inversion-Based Creativity Transfer with Diffusion Models** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Inversion-Based_Style_Transfer_With_Diffusion_Models_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2211.13203)] 
 [[Code](https://github.com/zyxElsa/InST)] 
 
-⭐**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
+**EDICT: Exact Diffusion Inversion via Coupled Transformations** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Wallace_EDICT_Exact_Diffusion_Inversion_via_Coupled_Transformations_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2211.12446)] 
 [[Code](https://github.com/salesforce/edict)] 
 
-⭐**Improving Negative-Prompt Inversion via Proximal Guidance** \
+**Improving Negative-Prompt Inversion via Proximal Guidance** \
 [[Website](https://arxiv.org/abs/2306.05414)] 
 [[Code](https://github.com/phymhan/prompt-to-prompt)] 
 
@@ -5318,7 +5318,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # T2I Diffusion Model augmentation
 
-⭐⭐⭐**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
+**Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2301.13826)] 
 [[Project](https://yuval-alaluf.github.io/Attend-and-Excite/)] 
 [[Official Code](https://github.com/yuval-alaluf/Attend-and-Excite)] 
@@ -6958,13 +6958,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # I2I translation
 
-⭐⭐⭐**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
+**SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations** \
 [[ICLR 2022](https://openreview.net/forum?id=aBsCjcPu_tE)] 
 [[Website](https://arxiv.org/abs/2108.01073)] 
 [[Project](https://sde-image-editing.github.io/)] 
 [[Code](https://github.com/ermongroup/SDEdit)] 
 
-⭐⭐⭐**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** \
+**DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** \
 [[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)]
 [[Website](https://arxiv.org/abs/2110.02711)]
 [[Code](https://github.com/gwang-kim/DiffusionCLIP)]
@@ -7438,7 +7438,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # Additional conditions 
 
-⭐⭐⭐**Adding Conditional Control to Text-to-Image Diffusion Models** \
+**Adding Conditional Control to Text-to-Image Diffusion Models** \
 [[ICCV 2023 best paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2302.05543)] 
 [[Official Code](https://github.com/lllyasviel/controlnet)]
@@ -7446,7 +7446,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/controlnet)] 
 
 
-⭐⭐**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
+**T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.08453)] 
 [[Official Code](https://github.com/TencentARC/T2I-Adapter)]
 [[Diffusers Code](https://github.com/huggingface/diffusers/tree/main/examples/t2i_adapter)] 
@@ -8294,14 +8294,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # Text Generation
 
-⭐⭐**TextDiffuser: Diffusion Models as Text Painters** \
+**TextDiffuser: Diffusion Models as Text Painters** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70636)]
 [[Website](https://arxiv.org/abs/2305.10855)]
 [[Project](https://jingyechen.github.io/textdiffuser/)] 
 [[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)] 
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=ke3RgcDmfO)] -->
 
-⭐⭐**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** \
+**TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** \
 [[ECCV 2024 Oral](https://arxiv.org/abs/2311.16465)]
 [[Project](https://jingyechen.github.io/textdiffuser2/)] 
 [[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)] 
