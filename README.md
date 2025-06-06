@@ -8203,6 +8203,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://seonmip.github.io/kinety/)] 
 [[Code](https://github.com/SeonmiP/KineTy)] 
 
+**TextCenGen: Attention-Guided Text-Centric Background Adaptation for Text-to-Image Generation** \
+[[ICML 2025](https://arxiv.org/abs/2404.11824)]
+[[Project](https://tianyilt.github.io/textcengen/)] 
+[[Code](https://github.com/tianyilt/textcengen_background_adapt)] 
+
 **Dynamic Typography: Bringing Text to Life via Video Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2404.11614)]
 [[Project](https://animate-your-word.github.io/demo/)] 
