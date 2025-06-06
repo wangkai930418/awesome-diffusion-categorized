@@ -4997,6 +4997,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FaceCrafter: Identity-Conditional Diffusion with Disentangled Control over Facial Pose, Expression, and Emotion** \
 [[Website](https://arxiv.org/abs/2505.15313)] 
 
+**IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait** \
+[[Website](https://arxiv.org/abs/2501.17159)] 
+
 
 ## General Concept 
 
