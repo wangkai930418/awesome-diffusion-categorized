@@ -8,6 +8,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 ## Contents
 
+- [Visual Illusion](#illusion)
+- [Color](#color-in-generation)
 - [Accelerate](#accelerate)
     - [Train-Free](#train-free)
     - [AR model](#ar-model)
@@ -17,7 +19,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
     - [Image Compression](#image-compression)
     - [Super Resolution](#super-resolution)
     - [Personalized Restoration](#personalized-restoration)
-- [Visual Illusion](#illusion)
 - [Storytelling](#storytelling)
 - [Virtual Try On](#try-on)
 - [Drag Edit](#drag-edit)
@@ -30,6 +31,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
     - [Decompostion](#decomposition)
     - [ID Encoder](#id-encoder)
     - [General Personalization](#general-concept)
+    - [AR-based](#ar-based)
+    - [Video Customization](#video-customization)
 - [T2I augmentation](#t2i-diffusion-model-augmentation)
     - [Spatial Control](#spatial-control)
 - [Image Translation](#i2i-translation)
@@ -41,6 +44,67 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Text Generation](#text-generation)
 - [Video Generation](#video-generation)
 - [Video Editing](#video-editing)
+
+
+# Illusion 
+
+**The Art of Deception: Color Visual Illusions and Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2412.10122)]
+[[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Gomez-Villa_The_Art_of_Deception_Color_Visual_Illusions_and_Diffusion_Models_CVPR_2025_paper.html)] 
+[[Code](https://alviur.github.io/color-illusion-diffusion/)] 
+
+**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models** \
+[[CVPR 2024](https://arxiv.org/abs/2311.17919)]
+[[Project](https://dangeng.github.io/visual_anagrams/)]
+[[Code](https://github.com/dangeng/visual_anagrams)] 
+
+**Diffusion-based Visual Anagram as Multi-task Learning** \
+[[WACV 2025](https://arxiv.org/abs/2412.02693)]
+[[Code](https://github.com/Pixtella/Anagram-MTL)] 
+
+
+**Evaluating Model Perception of Color Illusions in Photorealistic Scenes** \
+[[Website](https://arxiv.org/abs/2412.06184)]
+[[Code](https://github.com/mao1207/RCID)] 
+
+
+**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2412.09625)]
+[[Project](https://3d-multiview-illusion.github.io/)] 
+
+
+**Factorized Diffusion: Perceptual Illusions by Noise Decomposition** \
+[[ECCV 2024](https://arxiv.org/abs/2404.11615)]
+
+**PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model** \
+[[CVPR 2025](https://arxiv.org/abs/2503.06186)]
+
+**Diffusion Illusions: Hiding Images in Plain Sight** \
+[[Website](https://arxiv.org/abs/2312.03817)]
+
+# Color in Generation
+
+**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
+[[Website](https://arxiv.org/abs/2503.14275)]
+[[Project](https://deepffff.github.io/sadis.github.io/)]
+[[Code](https://github.com/deepffff/SADis)]
+
+**Color Conditional Generation with Sliced Wasserstein Guidance** \
+[[Website](https://arxiv.org/abs/2503.19034)]
+[[Code](https://github.com/alobashev/sw-guidance/)]
+
+**Evaluating Model Perception of Color Illusions in Photorealistic Scenes** \
+[[Website](https://arxiv.org/abs/2412.06184)]
+[[Code](https://github.com/mao1207/RCID)]
+
+**DiffBrush:Just Painting the Art by Your Hands** \
+[[Website](https://arxiv.org/abs/2502.20904)]
+
+**GenColor: Generative Color-Concept Association in Visual Design** \
+[[Website](https://arxiv.org/abs/2503.03236)]
+
+**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2409.02429)]
 
 
 # Accelerate
@@ -1952,41 +2016,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.21905)]
 
 
-# Illusion 
-
-**The Art of Deception: Color Visual Illusions and Diffusion Models** \
-[[CVPR 2025](https://arxiv.org/abs/2412.10122)]
-[[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Gomez-Villa_The_Art_of_Deception_Color_Visual_Illusions_and_Diffusion_Models_CVPR_2025_paper.html)] 
-[[Code](https://alviur.github.io/color-illusion-diffusion/)] 
-
-**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models** \
-[[CVPR 2024](https://arxiv.org/abs/2311.17919)]
-[[Project](https://dangeng.github.io/visual_anagrams/)]
-[[Code](https://github.com/dangeng/visual_anagrams)] 
-
-**Diffusion-based Visual Anagram as Multi-task Learning** \
-[[WACV 2025](https://arxiv.org/abs/2412.02693)]
-[[Code](https://github.com/Pixtella/Anagram-MTL)] 
-
-
-**Evaluating Model Perception of Color Illusions in Photorealistic Scenes** \
-[[Website](https://arxiv.org/abs/2412.06184)]
-[[Code](https://github.com/mao1207/RCID)] 
-
-
-**Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors** \
-[[Website](https://arxiv.org/abs/2412.09625)]
-[[Project](https://3d-multiview-illusion.github.io/)] 
-
-
-**Factorized Diffusion: Perceptual Illusions by Noise Decomposition** \
-[[ECCV 2024](https://arxiv.org/abs/2404.11615)]
-
-**PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model** \
-[[CVPR 2025](https://arxiv.org/abs/2503.06186)]
-
-**Diffusion Illusions: Hiding Images in Plain Sight** \
-[[Website](https://arxiv.org/abs/2312.03817)]
 
 
 # Storytelling
@@ -4249,10 +4278,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://hiper0.github.io/)] 
 [[Code](https://github.com/HiPer0/HiPer)]
 
-**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation** \
-[[Website](https://arxiv.org/abs/2411.17048)] 
-[[Project](https://personalvideo.github.io/)] 
-[[Code](https://github.com/EchoPluto/PersonalVideo)] 
 
 **CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs//2310.19784)] 
@@ -4283,21 +4308,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2311.13600)] 
 [[Project](https://csgo-gen.github.io/)] 
 [[Code](https://github.com/instantX-research/CSGO)]
-
-**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** \
-[[Website](https://arxiv.org/abs/2501.03931)] 
-[[Project](https://julianjuaner.github.io/projects/MagicMirror/)] 
-[[Code](https://github.com/dvlab-research/MagicMirror/)]
-
-**AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** \
-[[Website](https://arxiv.org/abs/2502.08189)] 
-[[Project](https://anycharv.github.io/)] 
-[[Code](https://github.com/AnyCharV/AnyCharV)]
-
-**SkyReels-A2: Compose Anything in Video Diffusion Transformers** \
-[[Website](https://arxiv.org/abs/2504.02436)] 
-[[Project](https://skyworkai.github.io/skyreels-a2.github.io/)] 
-[[Code](https://github.com/SkyworkAI/SkyReels-A2)] 
 
 **InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework** \
 [[Website](https://arxiv.org/abs/2504.12395)] 
@@ -4342,9 +4352,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2411.04571)] 
 [[Code](https://github.com/Ldhlwh/DomainGallery)]
 
-**TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation** \
-[[ICLR 2025](https://arxiv.org/abs/2410.05591)] 
-[[Code](https://github.com/KwonGihyun/TweedieMix)]
+
 
 **Concept-centric Personalization with Large-scale Diffusion Priors** \
 [[CVPR 2025](https://arxiv.org/abs/2312.08195)] 
@@ -4366,9 +4374,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2311.15040)] 
 [[Code](https://github.com/Xiang-cd/unet-finetune)]
 
-**Personalized Text-to-Image Generation with Auto-Regressive Models** \
-[[Website](https://arxiv.org/abs/2504.13162)] 
-[[Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)]
 
 **Cross-domain Compositing with Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2302.10167)] 
@@ -4402,18 +4407,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2407.13752)] 
 [[Project](https://mingkangz.github.io/logosticker/)] 
 
-**Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** \
-[[CVPR 2025](https://arxiv.org/abs/2502.07802)] 
-[[Project](https://jeff-liangf.github.io/projects/movieweaver/)] 
-
-**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** \
-[[CVPR 2025](https://arxiv.org/abs/2503.21781)] 
-[[Project](https://jasper0314-huang.github.io/videomage-customization/)] 
-
-**Multi-subject Open-set Personalization in Video Generation** \
-[[CVPR 2025](https://arxiv.org/abs/2501.06187)] 
-[[Project](https://snap-research.github.io/open-set-video-personalization/)] 
-
 **SerialGen: Personalized Image Generation by First Standardization Then Personalization** \
 [[CVPR 2025](https://arxiv.org/abs/2412.01485)] 
 [[Project](https://serialgen.github.io/)] 
@@ -4446,17 +4439,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.06354)] 
 [[Project](https://portraitbooth.github.io/)] 
 
-**Dynamic Concepts Personalization from Single Videos** \
-[[Website](https://arxiv.org/abs/2502.14844)] 
-[[Project](https://snap-research.github.io/dynamic_concepts/)] 
-
 **Subject-driven Text-to-Image Generation via Apprenticeship Learning** \
 [[Website](https://arxiv.org/abs/2304.00186)] 
 [[Project](https://open-vision-language.github.io/suti/)] 
 
-**Orthogonal Adaptation for Modular Customization of Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.02432)] 
-[[Project](https://ryanpo.com/ortha/)] 
+
 
 **Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation** \
 [[Website](https://arxiv.org/abs/2306.08247)] 
@@ -4478,13 +4465,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.08192)] 
 [[Project](https://sites.google.com/view/hybridboot/)] 
 
-**SUGAR: Subject-Driven Video Customization in a Zero-Shot Manner** \
-[[Website](https://arxiv.org/abs/2412.10533)] 
-[[Project](https://yufanzhou.com/SUGAR/)] 
-
-**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** \
-[[Website](https://arxiv.org/abs/2503.23951)] 
-[[Project](https://fdchen24.github.io/JointTuner-Website/)] 
 
 **Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models** \
 [[Website](https://arxiv.org/abs/2307.06925)] 
@@ -4494,9 +4474,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.09472)] 
 [[Project](https://cammimic.github.io/)] 
 
-**$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2303.09522)] 
-[[Project](https://prompt-plus.github.io/)] 
+
 
 **PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.05793)] 
@@ -4509,10 +4487,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DreamTuner: Single Image is Enough for Subject-Driven Generation** \
 [[Website](https://arxiv.org/abs/2312.13691)] 
 [[Project](https://dreamtuner-diffusion.github.io/)] 
-
-**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** \
-[[Website](https://arxiv.org/abs/2501.04698)] 
-[[Project](https://yuzhou914.github.io/ConceptMaster/)] 
 
 **PALP: Prompt Aligned Personalization of Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2401.06105)] 
@@ -4535,9 +4509,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
-
-**Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation** \
-[[Website](https://arxiv.org/abs/2503.10125)] 
 
 **FreeTuner: Any Subject in Any Style with Training-free Diffusion** \
 [[Website](https://arxiv.org/abs/2405.14201)] 
@@ -4566,8 +4537,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Face0: Instantaneously Conditioning a Text-to-Image Model on a Face** \
 [[Website](https://arxiv.org/abs/2306.06638v1)] 
 
-**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers** \
-[[Website](https://arxiv.org/abs/2502.06527)] 
+
 
 **MagiCapture: High-Resolution Multi-Concept Portrait Customization** \
 [[Website](https://arxiv.org/abs/2309.06895)] 
@@ -4683,12 +4653,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.19902)] 
 
-**Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation** \
-[[Website](https://arxiv.org/abs/2504.02612)] 
-
-**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** \
-[[Website](https://arxiv.org/abs/2505.02192)] 
-
 **Multi-party Collaborative Attention Control for Image Customization** \
 [[Website](https://arxiv.org/abs/2505.01428)] 
 
@@ -4779,6 +4743,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[AAAI 2025](https://arxiv.org/abs/2409.17920)] 
 [[Code](https://github.com/hqhQAQ/MIP-Adapter)]
 
+**TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation** \
+[[ICLR 2025](https://arxiv.org/abs/2410.05591)] 
+[[Code](https://github.com/KwonGihyun/TweedieMix)]
+
 **Cached Multi-Lora Composition for Multi-Concept Image Generation** \
 [[Website](https://arxiv.org/abs/2502.04923)] 
 [[Code](https://github.com/Yqcca/CMLoRA)]
@@ -4795,13 +4763,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.02823)] 
 [[Code](https://github.com/guozinan126/MUSAR)] 
 
-**AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
-[[Website](https://arxiv.org/abs/2405.17965)] 
-[[Code](https://github.com/junjie-shentu/AttenCraft)] 
 
 **LoRACLR: Contrastive Adaptation for Customization of Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2412.09622)] 
 [[Project](https://loraclr.github.io/)] 
+
+**Orthogonal Adaptation for Modular Customization of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.02432)] 
+[[Project](https://ryanpo.com/ortha/)] 
 
 **LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers** \
 [[Website](https://arxiv.org/abs/2505.23758)] 
@@ -4839,6 +4808,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2405.01536)] 
 [[Project](https://paircustomization.github.io/)] 
 [[Code](https://github.com/PairCustomization/PairCustomization)]
+
+**Decoupled Textual Embeddings for Customized Image Generation** \
+[[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
+[[Code](https://github.com/PrototypeNx/DETEX)]
+
+**AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization** \
+[[Website](https://arxiv.org/abs/2405.17965)] 
+[[Code](https://github.com/junjie-shentu/AttenCraft)] 
 
 **CusConcept: Customized Visual Concept Decomposition with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2410.00398)] 
@@ -5161,9 +5138,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
 [[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
 
-**Decoupled Textual Embeddings for Customized Image Generation** \
-[[AAAI 2024](https://arxiv.org/abs/2312.11826)] 
-[[Code](https://github.com/PrototypeNx/DETEX)]
 
 **Cross Initialization for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.15905)] 
@@ -5182,6 +5156,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2304.05265)] 
 [[Code](https://github.com/jnzju/COTI)]
 
+**$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2303.09522)] 
+[[Project](https://prompt-plus.github.io/)] 
+
 **Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation** \
 [[Website](https://arxiv.org/abs/2502.05895)] 
 
@@ -5189,6 +5167,144 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.06632)] 
 
 
+## AR-based
+
+**Personalized Text-to-Image Generation with Auto-Regressive Models** \
+[[Website](https://arxiv.org/abs/2504.13162)] 
+[[Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)]
+
+**Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation** \
+[[Website](https://arxiv.org/abs/2503.10125)] 
+
+**Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation** \
+[[Website](https://arxiv.org/abs/2504.02612)] 
+
+
+## Video Customization
+
+**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** \
+[[AAAI 2025](https://arxiv.org/abs/2408.13239)]
+[[Project](https://customcrafter.github.io/)] 
+[[Code](https://github.com/WuTao-CS/CustomCrafter)] 
+
+**PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation** \
+[[Website](https://arxiv.org/abs/2411.17048)] 
+[[Project](https://personalvideo.github.io/)] 
+[[Code](https://github.com/EchoPluto/PersonalVideo)] 
+
+**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** \
+[[Website](https://arxiv.org/abs/2410.13830)] 
+[[Project](https://dreamvideo2.github.io/)] 
+[[Code](https://github.com/damo-vilab/i2vgen-xl)]
+
+**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching** \
+[[Website](https://arxiv.org/abs/2502.13234)]
+[[Project](https://www.csie.ntu.edu.tw/~b09902097/motionmatcher/)]
+[[Code](https://github.com/b09902097/motionmatcher)] 
+
+**VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2312.00845)]
+[[Project](https://video-motion-customization.github.io/)]
+[[Code](https://github.com/HyeonHo99/Video-Motion-Customization)] 
+
+**Motion Inversion for Video Customization** \
+[[Website](https://arxiv.org/abs/2403.20193)]
+[[Project](https://wileewang.github.io/MotionInversion/)] 
+[[Code](https://github.com/EnVision-Research/MotionInversion)]
+
+**AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** \
+[[Website](https://arxiv.org/abs/2502.08189)] 
+[[Project](https://anycharv.github.io/)] 
+[[Code](https://github.com/AnyCharV/AnyCharV)]
+
+**Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2501.03931)] 
+[[Project](https://julianjuaner.github.io/projects/MagicMirror/)] 
+[[Code](https://github.com/dvlab-research/MagicMirror/)]
+
+**SkyReels-A2: Compose Anything in Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2504.02436)] 
+[[Project](https://skyworkai.github.io/skyreels-a2.github.io/)] 
+[[Code](https://github.com/SkyworkAI/SkyReels-A2)] 
+
+**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** \
+[[Website](https://arxiv.org/abs/2402.03162)]
+[[Project](https://direct-a-video.github.io/)] 
+[[Code](https://github.com/ysy31415/direct_a_video)] 
+
+**MotionDirector: Motion Customization of Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2310.08465)]
+[[Project](https://showlab.github.io/MotionDirector/)] 
+[[Code](https://github.com/showlab/MotionDirector)]
+
+**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
+[[Website](https://arxiv.org/abs/2306.00943)]
+[[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
+[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
+
+**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2412.19645)]
+[[Project](https://wutao-cs.github.io/VideoMaker/)]
+[[Code](https://github.com/WuTao-CS/VideoMaker)]
+
+**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** \
+[[Website](https://arxiv.org/abs/2409.16160)]
+[[Project](https://menyifang.github.io/projects/MIMO/index.html)] 
+[[Code](https://github.com/menyifang/MIMO)]
+
+**Magic-Me: Identity-Specific Video Customized Diffusion** \
+[[Website](https://arxiv.org/abs/2402.09368)]
+[[Code](https://github.com/Zhen-Dong/Magic-Me)]
+
+**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence** \
+[[Website](https://arxiv.org/abs/2312.02087)]
+[[Project](https://videoswap.github.io/)] 
+
+**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** \
+[[Website](https://arxiv.org/abs/2412.15646)]
+[[Code](https://github.com/RongPiKing/CustomTTT)]
+
+**Multi-subject Open-set Personalization in Video Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2501.06187)] 
+[[Project](https://snap-research.github.io/open-set-video-personalization/)] 
+
+**Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** \
+[[CVPR 2025](https://arxiv.org/abs/2502.07802)] 
+[[Project](https://jeff-liangf.github.io/projects/movieweaver/)] 
+
+**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** \
+[[CVPR 2025](https://arxiv.org/abs/2503.21781)] 
+[[Project](https://jasper0314-huang.github.io/videomage-customization/)] 
+
+**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2402.14780)]
+[[Project](https://anonymous-314.github.io/)]
+
+**SUGAR: Subject-Driven Video Customization in a Zero-Shot Manner** \
+[[Website](https://arxiv.org/abs/2412.10533)] 
+[[Project](https://yufanzhou.com/SUGAR/)] 
+
+**MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis** \
+[[Website](https://arxiv.org/abs/2410.20974)]
+[[Project](https://moviecharacter.github.io/)]
+
+**ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** \
+[[Website](https://arxiv.org/abs/2501.04698)] 
+[[Project](https://yuzhou914.github.io/ConceptMaster/)] 
+
+**Dynamic Concepts Personalization from Single Videos** \
+[[Website](https://arxiv.org/abs/2502.14844)] 
+[[Project](https://snap-research.github.io/dynamic_concepts/)] 
+
+**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** \
+[[Website](https://arxiv.org/abs/2503.23951)] 
+[[Project](https://fdchen24.github.io/JointTuner-Website/)] 
+
+**DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** \
+[[Website](https://arxiv.org/abs/2505.02192)] 
+
+**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2502.06527)] 
 
 
 # T2I Diffusion Model augmentation
@@ -8739,10 +8855,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dreamvideo-t2v.github.io/)] 
 [[Code](https://github.com/damo-vilab/i2vgen-xl)]
 
-**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** \
-[[Website](https://arxiv.org/abs/2410.13830)] 
-[[Project](https://dreamvideo2.github.io/)] 
-[[Code](https://github.com/damo-vilab/i2vgen-xl)]
 
 **Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution** \
 [[CVPR 2024](https://arxiv.org/abs/2312.06640)]
@@ -8905,10 +9017,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://instructvideo.github.io/)] 
 [[Code](https://github.com/ali-vilab/VGen/blob/main/doc/InstructVideo.md)] 
 
-**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** \
-[[AAAI 2025](https://arxiv.org/abs/2408.13239)]
-[[Project](https://customcrafter.github.io/)] 
-[[Code](https://github.com/WuTao-CS/CustomCrafter)] 
+
 
 **Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2406.01900)]
@@ -9046,10 +9155,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://smartdianlab.github.io/projects-FinePhys/)] 
 [[Code](https://github.com/SmartDianLab/FinePhys)] 
 
-**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion** \
-[[Website](https://arxiv.org/abs/2402.03162)]
-[[Project](https://direct-a-video.github.io/)] 
-[[Code](https://github.com/ysy31415/direct_a_video)] 
+
 
 **ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2402.04324)]
@@ -9061,10 +9167,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://noise-rectification.github.io/)] 
 [[Code](https://github.com/alimama-creative/Noise-Rectification)] 
 
-**MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** \
-[[Website](https://arxiv.org/abs/2409.16160)]
-[[Project](https://menyifang.github.io/projects/MIMO/index.html)] 
-[[Code](https://github.com/menyifang/MIMO)]
+
 
 **Video Diffusion Alignment via Reward Gradients** \
 [[Website](https://arxiv.org/abs/2407.08737)]
@@ -9191,10 +9294,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)]
 [[Code](https://github.com/Stability-AI/generative-models)]
 
-**Motion Inversion for Video Customization** \
-[[Website](https://arxiv.org/abs/2403.20193)]
-[[Project](https://wileewang.github.io/MotionInversion/)] 
-[[Code](https://github.com/EnVision-Research/MotionInversion)]
 
 **MagicAvatar: Multimodal Avatar Generation and Animation** \
 [[Website](https://arxiv.org/abs/2308.14748)]
@@ -9221,10 +9320,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://aivideo.hunyuan.tencent.com/)] 
 [[Code](https://github.com/Tencent/HunyuanVideo)]
 
-**Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** \
-[[Website](https://arxiv.org/abs/2306.00943)]
-[[Project](https://doubiiu.github.io/projects/Make-Your-Video/)] 
-[[Code](https://github.com/VideoCrafter/Make-Your-Video)]
+
 
 **RepVideo: Rethinking Cross-Layer Representation for Video Generation** \
 [[Website](https://arxiv.org/abs/2501.08994)]
@@ -9496,10 +9592,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jshilong.github.io/flashvideo-page/)]
 [[Code](https://github.com/FoundationVision/FlashVideo)] 
 
-**MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching** \
-[[Website](https://arxiv.org/abs/2502.13234)]
-[[Project](https://www.csie.ntu.edu.tw/~b09902097/motionmatcher/)]
-[[Code](https://github.com/b09902097/motionmatcher)] 
 
 **RIFLEx: A Free Lunch for Length Extrapolation in Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2502.15894)]
@@ -9516,10 +9608,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://syncos2025.github.io/)]
 [[Code](https://github.com/subin-kim-cv/SynCoS)] 
 
-**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2412.19645)]
-[[Project](https://wutao-cs.github.io/VideoMaker/)]
-[[Code](https://github.com/WuTao-CS/VideoMaker)]
+
 
 **History-Guided Video Diffusion** \
 [[Website](https://arxiv.org/abs/2502.06764)]
@@ -9834,9 +9923,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.02451)]
 [[Code](https://github.com/Andyplus1/ConMo)]
 
-**CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training** \
-[[Website](https://arxiv.org/abs/2412.15646)]
-[[Code](https://github.com/RongPiKing/CustomTTT)]
+
 
 **LTX-Video: Realtime Video Latent Diffusion** \
 [[Website](https://arxiv.org/abs/2501.00103)]
@@ -9850,9 +9937,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.06022)]
 [[Code](https://github.com/LDenninger/CamContextI2V)]
 
-**Magic-Me: Identity-Specific Video Customized Diffusion** \
-[[Website](https://arxiv.org/abs/2402.09368)]
-[[Code](https://github.com/Zhen-Dong/Magic-Me)]
+
 
 **EchoReel: Enhancing Action Generation of Existing Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2403.11535)]
@@ -10307,9 +10392,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.04364)]
 [[Project](https://videoguide2025.github.io/)] 
 
-**MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis** \
-[[Website](https://arxiv.org/abs/2410.20974)]
-[[Project](https://moviecharacter.github.io/)]
+
 
 **ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation** \
 [[Website](https://arxiv.org/abs/2410.20502)]
@@ -10822,10 +10905,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://make-a-protagonist.github.io/)] 
 [[Code](https://github.com/Make-A-Protagonist/Make-A-Protagonist)]
 
-**MotionDirector: Motion Customization of Text-to-Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2310.08465)]
-[[Project](https://showlab.github.io/MotionDirector/)] 
-[[Code](https://github.com/showlab/MotionDirector)]
 
 **EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing** \
 [[Website](https://arxiv.org/abs/2403.16111)]
@@ -10850,10 +10929,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://francis-rings.github.io/MotionEditor/)]
 [[Code](https://github.com/Francis-Rings/MotionEditor)] 
 
-**VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2312.00845)]
-[[Project](https://video-motion-customization.github.io/)]
-[[Code](https://github.com/HyeonHo99/Video-Motion-Customization)] 
 
 **MagicStick: Controllable Video Editing via Control Handle Transformations** \
 [[Website](https://arxiv.org/abs/2312.03047)]
@@ -11008,9 +11083,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.17641)]
 [[Project](https://o937-blip.github.io/InstructVEdit/)] 
 
-**VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence** \
-[[Website](https://arxiv.org/abs/2312.02087)]
-[[Project](https://videoswap.github.io/)] 
+
 
 **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** \
 [[Website](https://arxiv.org/abs/2306.07954)]
@@ -11032,9 +11105,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.03621)]
 [[Project](https://dynvfx.github.io/)]
 
-**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** \
-[[Website](https://arxiv.org/abs/2402.14780)]
-[[Project](https://anonymous-314.github.io/)]
+
 
 **DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing** \
 [[Website](https://arxiv.org/abs/2403.12002)]
