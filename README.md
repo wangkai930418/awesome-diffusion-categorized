@@ -84,6 +84,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # Color in Generation
 
+**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement** \
+[[ECCV 2024](https://arxiv.org/abs/2407.07197)] 
+[[Project](https://moatifbutt.github.io/colorpeel/)]
+[[Code](https://github.com/moatifbutt/color-peel)]
+
 **Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
 [[Website](https://arxiv.org/abs/2503.14275)]
 [[Project](https://deepffff.github.io/sadis.github.io/)]
@@ -96,6 +101,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Evaluating Model Perception of Color Illusions in Photorealistic Scenes** \
 [[Website](https://arxiv.org/abs/2412.06184)]
 [[Code](https://github.com/mao1207/RCID)]
+
+**Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.09864)]
+[[Project](https://hecoding.github.io/colorwave-page/)]
 
 **DiffBrush:Just Painting the Art by Your Hands** \
 [[Website](https://arxiv.org/abs/2502.20904)]
@@ -4119,10 +4128,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # New Concept Learning
 
-**ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement** \
-[[ECCV 2024](https://arxiv.org/abs/2407.07197)] 
-[[Project](https://moatifbutt.github.io/colorpeel/)]
-[[Code](https://github.com/moatifbutt/color-peel)]
+
 
 **ReVersion: Diffusion-Based Relation Inversion from Images** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2303.13495)] 
