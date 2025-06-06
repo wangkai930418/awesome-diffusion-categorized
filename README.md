@@ -811,6 +811,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jiangyitong.github.io/AutoDIR_webpage/)]
 [[Code](https://github.com/jiangyitong/AutoDIR)]
 
+**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training** \
+[[Website](https://arxiv.org/abs/2506.05301)]
+[[Project](https://iceclear.github.io/projects/seedvr2/)]
+[[Code](https://github.com/IceClear/SeedVR2)]
+
 **DiffIR: Efficient Diffusion Model for Image Restoration**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2303.09472)] 
@@ -1332,6 +1337,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2305.15217)]
 [[Code](https://github.com/changzheng123/L-CAD)]
 
+**SSIMBaD: Sigma Scaling with SSIM-Guided Balanced Diffusion for AnimeFace Colorization** \
+[[Website](https://arxiv.org/abs/2506.04283)]
+[[Code](https://github.com/Giventicket/SSIMBaD-Sigma-Scaling-with-SSIM-Guided-Balanced-Diffusion-for-AnimeFace-Colorization)]
+
 **Image Referenced Sketch Colorization Based on Animation Creation Workflow** \
 [[Website](https://arxiv.org/abs/2502.19937)]
 [[Code](https://github.com/tellurion-kanata/colorizeDiffusion)]
@@ -1755,6 +1764,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models** \
 [[Website](https://arxiv.org/abs/2503.11073)] 
 [[Code](https://github.com/nonwhy/PURE)] 
+
+**Text-Aware Real-World Image Super-Resolution via Diffusion Model with Joint Segmentation Decoders** \
+[[Website](https://arxiv.org/abs/2506.04641)] 
+[[Code](https://github.com/mingcv/TADiSR)] 
 
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
@@ -3261,6 +3274,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DNAEdit: Direct Noise Alignment for Text-Guided Rectified Flow Editing** \
 [[Website](https://arxiv.org/abs/2506.01430)]
 [[Project](https://xiechenxi99.github.io/DNAEdit/)]
+
+**SeedEdit 3.0: Fast and High-Quality Generative Image Editing** \
+[[Website](https://arxiv.org/abs/2506.05083)]
+[[Project](https://seed.bytedance.com/en/tech/seededit)]
 
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
@@ -9639,6 +9656,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://gseancdat.github.io/projects/PoseFuse3D_KI)]
 [[Code](https://github.com/GSeanCDAT/PoseFuse3D-KI)]
 
+**Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning** \
+[[Website](https://arxiv.org/abs/2506.05207)]
+[[Project](https://follow-your-motion.github.io/)]
+[[Code](https://github.com/mayuelala/FollowYourMotion)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
@@ -10095,6 +10116,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity** \
 [[Website](https://arxiv.org/abs/2412.09856)]
 [[Project](https://lineargen.github.io/)]
+
+**FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion** \
+[[Website](https://arxiv.org/abs/2506.04648)]
+[[Project](https://fps.ziplab.co/)]
+
+**Astraea: A GPU-Oriented Token-wise Acceleration Framework for Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2506.05096)]
+[[Project](https://astraea-project.github.io/ASTRAEA/)]
 
 **DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.03517)]
@@ -11017,6 +11046,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UNIC: Unified In-Context Video Editing** \
 [[Website](https://arxiv.org/abs/2506.04216)]
 [[Project](https://zixuan-ye.github.io/UNIC/)]
+
+**FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing** \
+[[Website](https://arxiv.org/abs/2506.05046)]
+[[Project](https://flowdirector-edit.github.io/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
