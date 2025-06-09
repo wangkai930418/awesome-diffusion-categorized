@@ -1357,6 +1357,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach** \
 [[Website](https://arxiv.org/abs/2506.03979)]
 
+**Restereo: Diffusion stereo video generation and restoration** \
+[[Website](https://arxiv.org/abs/2506.06023)]
+
+**UniRes: Universal Image Restoration for Complex Degradations** \
+[[Website](https://arxiv.org/abs/2506.05599)]
 
 
 ## Colorization
@@ -2487,6 +2492,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2503.16065)]
 
+**ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On** \
+[[Website](https://arxiv.org/abs/2506.05858)]
 
 # Drag Edit
 
@@ -6178,6 +6185,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.22407)] 
 [[Project](https://jadenpan0.github.io/srrl.github.io/)] 
 
+**FocusDiff: Advancing Fine-Grained Text-Image Alignment for Autoregressive Visual Generation through RL** \
+[[Website](https://arxiv.org/abs/2506.05501)] 
+[[Project](https://focusdiff.github.io/)] 
+
 **ComposeAnything: Composite Object Priors for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2505.24086)] 
 [[Project](https://zeeshank95.github.io/composeanything/ca.html)] 
@@ -8465,6 +8476,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Generating Animated Layouts as Structured Text Representations** \
 [[Website](https://arxiv.org/abs/2505.00975)]
 [[Project](https://yeonsangshin.github.io/projects/Vaker/)] 
+
+**FontAdapter: Instant Font Adaptation in Visual Text Generation** \
+[[Website](https://arxiv.org/abs/2506.05843)]
+[[Project](https://fontadapter.github.io/)] 
 
 **DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01645)]
@@ -11041,10 +11056,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.05433)]
 [[Code](https://github.com/jidantang55/AdaFlow)]
 
+**FADE: Frequency-Aware Diffusion Model Factorization for Video Editing** \
+[[Website](https://arxiv.org/abs/2506.05934)]
+[[Code](https://github.com/EternalEvan/FADE)]
 
 **Shape-Aware Text-Driven Layered Video Editing** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Lee_Shape-Aware_Text-Driven_Layered_Video_Editing_CVPR_2023_paper.html)]
-[[Website](https://arxiv.org/abs/2301.13173)]
+[[CVPR 2023](https://arxiv.org/abs/2301.13173)]
 [[Project](https://text-video-edit.github.io/#)] 
 
 
