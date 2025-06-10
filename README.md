@@ -1992,6 +1992,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **One-Step Diffusion-based Real-World Image Super-Resolution with Visual Perception Distillation** \
 [[Website](https://arxiv.org/abs/2506.02605)]
 
+**Self-Cascaded Diffusion Models for Arbitrary-Scale Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2506.07813)]
 
 
 ## Personalized Restoration
@@ -2627,6 +2629,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **A Diffusion-Based Framework for Occluded Object Movement** \
 [[Website](https://arxiv.org/abs/2504.01873)] 
 
+**DragNeXt: Rethinking Drag-Based Image Editing** \
+[[Website](https://arxiv.org/abs/2506.07611)] 
 
 
 
@@ -3166,6 +3170,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Image Editing As Programs with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.04158)]
 [[Code](https://github.com/YujiaHu1109/IEAP)] 
+
+**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing** \
+[[Website](https://arxiv.org/abs/2506.07992)]
+[[Code](https://github.com/xudonmao/PairEdit)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -4396,6 +4404,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.03045)] 
 [[Code](https://github.com/drboog/profusion)] 
 
+**AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
+[[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
+[[Project](https://assetdropper.github.io/)] 
+
 **HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01439.pdf)] 
 [[Project](https://sites.google.com/view/hybridbooth)] 
@@ -4698,6 +4710,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Identity-Preserving Text-to-Image Generation via Dual-Level Feature Decoupling and Expert-Guided Fusion** \
 [[Website](https://arxiv.org/abs/2505.22360)] 
+
+**Noise Consistency Regularization for Improved Subject-Driven Image Synthesis** \
+[[Website](https://arxiv.org/abs/2506.06483)] 
+
 
 ## Mutiple Concepts
 
@@ -5316,6 +5332,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.23951)] 
 [[Project](https://fdchen24.github.io/JointTuner-Website/)] 
 
+**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** \
+[[Website](https://arxiv.org/abs/2506.07848)] 
+[[Project](https://sjtuplayer.github.io/projects/PolyVivid/)] 
+
 **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** \
 [[Website](https://arxiv.org/abs/2505.02192)] 
 
@@ -5711,6 +5731,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.02698)] 
 [[Project](https://jaydenlyh.github.io/SmPO-project-page/)] 
 [[Code](https://github.com/JaydenLyh/SmPO)]
+
+**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2506.07986)] 
+[[Project](https://vchitect.github.io/TACA/)] 
+[[Code](https://github.com/Vchitect/TACA)]
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
@@ -9779,6 +9804,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://follow-your-motion.github.io/)]
 [[Code](https://github.com/mayuelala/FollowYourMotion)]
 
+**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion** \
+[[Website](https://arxiv.org/abs/2506.08009)]
+[[Project](https://self-forcing.github.io/)]
+[[Code](https://github.com/guandeh17/Self-Forcing)]
+
+**Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.07177)]
+[[Project](https://frame-guidance-video.github.io/)]
+[[Code](https://github.com/agwmon/frame-guidance)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -10838,6 +10873,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Motion aware video generative model** \
 [[Website](https://arxiv.org/abs//2506.02244)]
 
+**Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion** \
+[[Website](https://arxiv.org/abs/2506.07136)]
+
 
 
 # Video Editing 
@@ -11131,6 +11169,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.03621)]
 [[Project](https://dynvfx.github.io/)]
 
+**TV-LiVE: Training-Free, Text-Guided Video Editing via Layer Informed Vitality Exploitation** \
+[[Website](https://arxiv.org/abs/2506.07205)]
+[[Project](https://emjay73.github.io/TV_LiVE/)]
 
 
 **DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing** \
@@ -11280,3 +11321,5 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **REGen: Multimodal Retrieval-Embedded Generation for Long-to-Short Video Editing** \
 [[Website](https://arxiv.org/abs/2505.18880)]
 
+**Consistent Video Editing as Flow-Driven Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2506.07713)]
