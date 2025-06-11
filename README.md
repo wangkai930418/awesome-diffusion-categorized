@@ -286,9 +286,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://nvlabs.github.io/Fast-dLLM/)]
 [[Code](https://github.com/NVlabs/Fast-dLLM)]
 
+**MagCache: Fast Video Generation with Magnitude-Aware Cache** \
+[[Website](https://arxiv.org/abs/2506.09045)]
+[[Project](https://zehong-ma.github.io/MagCache/)]
+[[Code](https://github.com/Zehong-Ma/MagCache)]
+
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
-[[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)]
+<!-- [[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)] -->
 [[Code](https://github.com/sen-mao/Loopfree)]
 
 **Relational Diffusion Distillation for Efficient Image Generation** \
@@ -598,7 +603,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.01505)]
 
 **Ditto: Accelerating Diffusion Model via Temporal Value Similarity** \
-[[Website](https://arxiv.org/abs/2501.11211)]
+[[Website](https://arxMagCache: Fast Video Generation with Magnitude-Aware Cache
+iv.org/abs/2501.11211)]
 
 **Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2411.09998)]
@@ -1643,6 +1649,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2408.05205)] 
 [[Project](https://jnjaby.github.io/projects/KEEP/)] 
 [[Code](https://github.com/jnjaby/KEEP)] 
+
+**LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only four RTX4090S** \
+[[Website](https://arxiv.org/abs/2506.08529)] 
+[[Project](https://kopperx.github.io/projects/liftvsr/  )] 
+[[Code](https://github.com/kopperx/LiftVSR)] 
 
 **HoliSDiP: Image Super-Resolution via Holistic Semantics and Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2411.18662)] 
@@ -5736,6 +5747,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.07986)] 
 [[Project](https://vchitect.github.io/TACA/)] 
 [[Code](https://github.com/Vchitect/TACA)]
+
+**CuRe: Cultural Gaps in the Long Tail of Text-to-Image Systems** \
+[[Website](https://arxiv.org/abs/2506.08071)] 
+[[Project](https://aniketrege.github.io/cure/)] 
+[[Code](https://github.com/aniketrege/cure)]
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
@@ -10451,6 +10467,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.04364)]
 [[Project](https://videoguide2025.github.io/)] 
 
+**Enhancing Motion Dynamics of Image-to-Video Models via Adaptive Low-Pass Guidance** \
+[[Website](https://arxiv.org/abs/2506.08456)]
+[[Project](https://choi403.github.io/ALG/)] 
 
 
 **ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation** \
