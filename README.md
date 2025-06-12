@@ -509,6 +509,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation** \
 [[CVPR 2025](https://arxiv.org/abs/2503.19383)]
 
+**Revisiting Diffusion Models: From Generative Pre-training to One-Step Generation** \
+[[ICML 2025](https://arxiv.org/abs/2506.09376)]
+
 **Accelerate High-Quality Diffusion Models with Inner Loop Feedback** \
 [[Website](https://arxiv.org/abs/2501.13107)]
 
@@ -895,10 +898,10 @@ iv.org/abs/2501.11211)]
 [[Project](https://iceclear.github.io/projects/seedvr2/)]
 [[Code](https://github.com/IceClear/SeedVR2)]
 
-**DiffIR: Efficient Diffusion Model for Image Restoration**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)]
-[[Website](https://arxiv.org/abs/2303.09472)] 
-[[Code](https://github.com/Zj-BinXia/DiffIR)]
+**Text-Aware Image Restoration with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.09993)]
+[[Project](https://cvlab-kaist.github.io/TAIR/)]
+[[Code](https://github.com/cvlab-kaist/TAIR)]
 
 **FlowIE: Efficient Image Enhancement via Rectified Flow** \
 [[CVPR 2024 oral](https://arxiv.org/abs/2406.00508)]
@@ -916,6 +919,11 @@ iv.org/abs/2501.11211)]
 **Diffusion Priors for Variational Likelihood Estimation and Image Denoising** \
 [[NeurIPS 2024 Spotlight](https://arxiv.org/abs/2410.17521)]
 [[Code](https://github.com/HUST-Tan/DiffusionVI)]
+
+**DiffIR: Efficient Diffusion Model for Image Restoration**\
+<!-- [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)] -->
+[[ICCV 2023](https://arxiv.org/abs/2303.09472)] 
+[[Code](https://github.com/Zj-BinXia/DiffIR)]
 
 **Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance** \
 [[CVPR 2024](https://arxiv.org/abs/2312.16519)]
@@ -2146,6 +2154,9 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2409.12576)]
 [[Code](https://github.com/RedAIGC/StoryMaker)]
 
+**Consistent Story Generation with Asymmetry Zigzag Sampling** \
+[[Website](https://arxiv.org/abs/2506.09612)]
+[[Code](https://github.com/Mingxiao-Li/Asymmetry-Zigzag-StoryDiffusion)]
 
 **SEED-Story: Multimodal Long Story Generation with Large Language Model** \
 [[Website](https://arxiv.org/abs/2407.08683)]
@@ -3997,6 +4008,10 @@ iv.org/abs/2501.11211)]
 **Set You Straight: Auto-Steering Denoising Trajectories to Sidestep Unwanted Concepts** \
 [[Website](https://arxiv.org/abs/2504.12782)] 
 [[Code](https://github.com/lileyang1210/ANT)]
+
+**SAGE: Exploring the Boundaries of Unsafe Concept Domain with Semantic-Augment Erasing** \
+[[Website](https://arxiv.org/abs/2506.09363)] 
+[[Code](https://github.com/KevinLight831/SAGE)]
 
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
@@ -9673,7 +9688,10 @@ iv.org/abs/2501.11211)]
 [[Project](https://syncos2025.github.io/)]
 [[Code](https://github.com/subin-kim-cv/SynCoS)] 
 
-
+**Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.09229)]
+[[Project](https://crepavideo.github.io/)]
+[[Code](https://github.com/deepshwang/crepa)] 
 
 **History-Guided Video Diffusion** \
 [[Website](https://arxiv.org/abs/2502.06764)]
@@ -10213,6 +10231,14 @@ iv.org/abs/2501.11211)]
 **Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation** \
 [[CVPR 2025](https://arxiv.org/abs/2412.07761)]
 [[Project](https://vdm-evfi.github.io/)]
+
+**Seedance 1.0: Exploring the Boundaries of Video Generation Models** \
+[[Website](https://arxiv.org/abs/2506.09113)]
+[[Project](https://seed.bytedance.com/en/seedance)]
+
+**Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation** \
+[[Website](https://arxiv.org/abs/2506.09350)]
+[[Project](https://seaweed-apt.com/2)]
 
 **Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model** \
 [[Website](https://arxiv.org/abs/2504.08685)]
