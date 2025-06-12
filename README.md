@@ -779,6 +779,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2502.05415)]
 [[Code](https://github.com/zhijie-group/Show-o-Turbo)]
 
+**SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping** \
+[[Website](https://www.arxiv.org/abs/2506.08908)]
+[[Code](https://github.com/fakerone-li/SkipVAR)]
+
 **Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
 [[Website](https://arxiv.org/abs/2410.01699)]
 [[Code](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)]
