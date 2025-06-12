@@ -1912,8 +1912,6 @@ iv.org/abs/2501.11211)]
 **Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning** \
 [[Website](https://arxiv.org/abs/2412.06978)]
 
-**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios** \
-[[Website](https://arxiv.org/abs/2503.07232)]
 
 **YODA: You Only Diffuse Areas. An Area-Masked Diffusion Approach For Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2308.07977)]
@@ -8433,6 +8431,10 @@ iv.org/abs/2501.11211)]
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02357.pdf)]
 [[Code](https://github.com/shreygithub/DCDM)] 
 
+**Diffusion-based Blind Text Image Super-Resolution** \
+[[CVPR 2024](https://arxiv.org/abs/2312.08886)]
+[[Code](https://github.com/YuzheZhang-1999/DiffTSR)] 
+
 **HFH-Font: Few-shot Chinese Font Synthesis with Higher Quality, Faster Speed, and Higher Resolution** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2410.06488)]
 [[Code](https://github.com/grovessss/HFH-Font)] 
@@ -8582,6 +8584,9 @@ iv.org/abs/2501.11211)]
 
 **DiffCJK: Conditional Diffusion Model for High-Quality and Wide-coverage CJK Character Generation** \
 [[Website](https://arxiv.org/abs/2404.05212)]
+
+**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios** \
+[[Website](https://arxiv.org/abs/2503.07232)]
 
 **CLII: Visual-Text Inpainting via Cross-Modal Predictive Interaction** \
 [[Website](https://arxiv.org/abs/2407.16204)]
