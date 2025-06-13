@@ -35,6 +35,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
     - [Video Customization](#video-customization)
 - [T2I augmentation](#t2i-diffusion-model-augmentation)
     - [Spatial Control](#spatial-control)
+    - [Poster](#poster)
 - [Image Translation](#i2i-translation)
 - [Seg & Detect & Track](#segmentation-detection-tracking)
 - [Adding Conditions](#additional-conditions)
@@ -654,6 +655,8 @@ iv.org/abs/2501.11211)]
 **Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2506.00329)]
 
+**Accelerating Diffusion Large Language Models with SlowFast: The Three Golden Principles** \
+[[Website](https://arxiv.org/abs/2506.10848)]
 
 
 ## Train-Free
@@ -3356,6 +3359,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2506.05083)]
 [[Project](https://seed.bytedance.com/en/tech/seededit)]
 
+**VINCIE: Unlocking In-context Image Editing from Video** \
+[[Website](https://arxiv.org/abs/2506.10941)]
+[[Project](https://vincie2025.github.io/)]
+
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
 
@@ -4741,6 +4748,9 @@ iv.org/abs/2501.11211)]
 
 **Noise Consistency Regularization for Improved Subject-Driven Image Synthesis** \
 [[Website](https://arxiv.org/abs/2506.06483)] 
+
+**AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I Adversarial Patches** \
+[[Website](https://arxiv.org/abs/2506.09538)] 
 
 
 ## Mutiple Concepts
@@ -7023,7 +7033,20 @@ iv.org/abs/2501.11211)]
 **Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2504.10148)] 
 
+## Poster
 
+**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework** \
+[[Website](https://arxiv.org/abs/2506.10741)] 
+[[Project](https://ephemeral182.github.io/PosterCraft/)] 
+[[Code](https://github.com/Ephemeral182/PosterCraft)]
+
+**CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation** \
+[[Website](https://arxiv.org/abs/2506.10890)] 
+[[Code](https://github.com/graphic-design-ai/creatiposter)] 
+
+**POSTA: A Go-to Framework for Customized Artistic Poster Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2503.14908)] 
+[[Project](https://haoyuchen.com/POSTA)] 
 
 # I2I translation
 
@@ -9857,6 +9880,12 @@ iv.org/abs/2501.11211)]
 [[Project](https://frame-guidance-video.github.io/)]
 [[Code](https://github.com/agwmon/frame-guidance)]
 
+**GigaVideo-1: Advancing Video Generation via Automatic Feedback with 4 GPU-Hours Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2506.10639)]
+[[Project](https://gigavideo-1.github.io/)]
+[[Code](https://github.com/GigaAI-research/GigaVideo-1)]
+
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -10591,6 +10620,14 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2506.02497)]
 [[Project](https://jiahaochen1.github.io/LumosFlow/)]
 
+**M4V: Multi-Modal Mamba for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2506.10915)]
+[[Project](https://huangjch526.github.io/M4V_project/)]
+
+**DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2506.10568)]
+[[Project](https://submit2025-dream.github.io/DreamActor-H1/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -11095,6 +11132,11 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2506.01004)]
 [[Project](https://zhangt-tech.github.io/MoCA-Page/)]
 [[Code](https://github.com/ZhangT-tech/MoCA-Video)] 
+
+**LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2506.10082)]
+[[Project](https://cjeen.github.io/LoraEditPaper/)]
+[[Code](https://github.com/cjeen/LoRAEdit)] 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
