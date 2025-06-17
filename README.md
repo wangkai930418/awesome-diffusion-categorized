@@ -1384,6 +1384,9 @@ iv.org/abs/2501.11211)]
 **UniRes: Universal Image Restoration for Complex Degradations** \
 [[Website](https://arxiv.org/abs/2506.05599)]
 
+**Zero-Shot Solving of Imaging Inverse Problems via Noise-Refined Likelihood Guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.13391)]
+
 
 ## Colorization
 
@@ -2241,6 +2244,13 @@ iv.org/abs/2501.11211)]
 **Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling** \
 [[Website](https://arxiv.org/abs/2504.05800)]
 
+**ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.12198)]
+
+**Retrieval Augmented Comic Image Generation** \
+[[Website](https://arxiv.org/abs/2506.12517)]
+
+
 
 # Try On
 
@@ -2612,6 +2622,10 @@ iv.org/abs/2501.11211)]
 **DragLoRA: Online Optimization of LoRA Adapters for Drag-based Image Editing in Diffusion Model** \
 [[Website](https://arxiv.org/abs/2505.12427)] 
 [[Code](https://github.com/Sylvie-X/DragLoRA)]
+
+**AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing** \
+[[Website](https://arxiv.org/abs/2506.13301)] 
+[[Code](https://github.com/GPlaying/AttentionDrag)]
 
 **TrackGo: A Flexible and Efficient Method for Controllable Video Generation** \
 [[Website](https://arxiv.org/abs/2408.11475)] 
@@ -6668,6 +6682,8 @@ iv.org/abs/2501.11211)]
 **Rhetorical Text-to-Image Generation via Two-layer Diffusion Policy Optimization** \
 [[Website](https://arxiv.org/abs/2505.22792)]
 
+**A Minimalist Method for Fine-tuning Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.12036)]
 
 ## Spatial Control
 
@@ -8197,6 +8213,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2403.18818)] 
 [[Project](https://objectdrop.github.io/)]
 
+**EraserDiT: Fast Video Inpainting with Diffusion Transformer Model** \
+[[Website](https://arxiv.org/abs/2506.12853)] 
+[[Project](https://jieliu95.github.io/EraserDiT_demo/)]
+
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization** \
 [[ACM MM 2024](https://arxiv.org/abs/2408.03637)] 
 
@@ -8304,6 +8324,9 @@ iv.org/abs/2501.11211)]
 
 **Geometry-Editable and Appearance-Preserving Object Compositon** \
 [[Website](https://arxiv.org/abs/2505.20914)] 
+
+**Towards Seamless Borders: A Method for Mitigating Inconsistencies in Image Inpainting and Outpainting** \
+[[Website](https://arxiv.org/abs/2506.12530)] 
 
 
 
@@ -11419,3 +11442,6 @@ iv.org/abs/2501.11211)]
 
 **Consistent Video Editing as Flow-Driven Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2506.07713)]
+
+**Good Noise Makes Good Edits: A Training-Free Diffusion-Based Video Editing with Image and Text Prompts** \
+[[Website](https://arxiv.org/abs/2506.12520)]
