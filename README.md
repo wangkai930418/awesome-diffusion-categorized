@@ -3015,6 +3015,11 @@ iv.org/abs/2501.11211)]
 [[Project](https://refedit.vercel.app/)] 
 [[Code](https://github.com/bimsarapathiraja/refedit)] 
 
+**Balancing Preservation and Modification: A Region and Semantic Aware Metric for Instruction-Based Image Editing** \
+[[Website](https://arxiv.org/abs/2506.13827)] 
+[[Project](https://joyli-x.github.io/BPM/)] 
+[[Code](https://github.com/joyli-x/BPM)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -6685,6 +6690,10 @@ iv.org/abs/2501.11211)]
 **A Minimalist Method for Fine-tuning Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.12036)]
 
+**DreamLight: Towards Harmonious and Consistent Image Relighting** \
+[[Website](https://arxiv.org/abs/2506.14549)]
+
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -10193,6 +10202,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2505.22980)]
 [[Code](https://github.com/aimansnigdha/MOVi)]
 
+**Causally Steered Diffusion for Automated Video Counterfactual Generation** \
+[[Website](https://arxiv.org/abs/2506.14404)]
+[[Code](https://github.com/nysp78/counterfactual-video-generation   )]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -10650,6 +10663,10 @@ iv.org/abs/2501.11211)]
 **DreamActor-H1: High-Fidelity Human-Product Demonstration Video Generation via Motion-designed Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2506.10568)]
 [[Project](https://submit2025-dream.github.io/DreamActor-H1/)]
+
+**VideoMAR: Autoregressive Video Generatio with Continuous Tokens** \
+[[Website](https://arxiv.org/abs/2506.14168)]
+[[Project](https://yuhuustc.github.io//projects/VideoMAR.html)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
