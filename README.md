@@ -292,6 +292,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zehong-ma.github.io/MagCache/)]
 [[Code](https://github.com/Zehong-Ma/MagCache)]
 
+**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model** \
+[[Website](https://arxiv.org/abs/2506.15682)]
+[[Project](https://aniaggarwal.github.io/ecad/)]
+[[Code](https://github.com/aniaggarwal/ecad)]
+
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
 <!-- [[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)] -->
@@ -491,6 +496,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device** \
 [[Website](https://arxiv.org/abs/2412.10494)]
 [[Project](https://snap-research.github.io/snapgen-v/)]
+
+**Align Your Flow: Scaling Continuous-Time Flow Map Distillation** \
+[[Website](https://arxiv.org/abs/2506.14603)]
+[[Project](https://research.nvidia.com/labs/toronto-ai/AlignYourFlow/)]
 
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
@@ -1875,6 +1884,10 @@ iv.org/abs/2501.11211)]
 **Text-Aware Real-World Image Super-Resolution via Diffusion Model with Joint Segmentation Decoders** \
 [[Website](https://arxiv.org/abs/2506.04641)] 
 [[Code](https://github.com/mingcv/TADiSR)] 
+
+**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2506.15591)] 
+[[Code](https://github.com/yjsunnn/DLoRAL)] 
 
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
@@ -6943,6 +6956,9 @@ iv.org/abs/2501.11211)]
 
 **DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception** \
 [[CVPR 2024](https://arxiv.org/abs/2403.13304)] 
+
+**Control and Realism: Best of Both Worlds in Layout-to-Image without Training** \
+[[ICML 2025](https://arxiv.org/abs/2506.15563)] 
 
 **Guided Image Synthesis via Initial Image Editing in Diffusion Model** \
 [[ACM MM 2023](https://arxiv.org/abs/2305.03382)] 
