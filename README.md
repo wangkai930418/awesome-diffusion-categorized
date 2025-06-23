@@ -297,6 +297,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://aniaggarwal.github.io/ecad/)]
 [[Code](https://github.com/aniaggarwal/ecad)]
 
+
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
 <!-- [[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)] -->
@@ -1216,6 +1217,12 @@ iv.org/abs/2501.11211)]
 **Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration** \
 [[CVPR 2025](https://arxiv.org/abs/2504.15159)]
 
+**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration** \
+[[CVPR 2025](https://arxiv.org/abs/2506.16960)]
+
+**Reversing Flow for Image Restoration** \
+[[CVPR 2025](https://arxiv.org/abs/2506.16961)]
+
 **Dual Prompting Image Restoration with Diffusion Transformers** \
 [[CVPR 2025](https://arxiv.org/abs/2504.17825)]
 
@@ -1624,6 +1631,11 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2505.16091)] 
 [[Code](https://github.com/jp-guo/OSCAR)] 
 
+**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates** \
+[[Website](https://arxiv.org/abs/2506.16572)] 
+[[Code](https://github.com/Freemasti/DiffO)] 
+
+
 **Compressed Image Generation with Denoising Diffusion Codebook Models** \
 [[Website](https://arxiv.org/abs/2502.01189)] 
 [[Project](https://ddcm-2025.github.io/)] 
@@ -1655,6 +1667,8 @@ iv.org/abs/2501.11211)]
 **One-Step Diffusion-Based Image Compression with Semantic Distillation** \
 [[Website](https://arxiv.org/abs/2505.16687)]
 
+**Fast Training-free Perceptual Image Compression** \
+[[Website](https://arxiv.org/abs/2506.16102)]
 
 
 ## Super Resolution
@@ -3589,6 +3603,9 @@ iv.org/abs/2501.11211)]
 
 **Cora: Correspondence-aware image editing using few step diffusion** \
 [[Website](https://arxiv.org/abs/2505.23907)]
+
+**FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation** \
+[[Website](https://arxiv.org/abs/2506.16806)]
 
 
 ## Diffusion Models Inversion
@@ -6139,6 +6156,10 @@ iv.org/abs/2501.11211)]
 **NoiseAR: AutoRegressing Initial Noise Prior for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.01337)] 
 [[Code](https://github.com/HKUST-SAIL/NoiseAR/)] 
+
+**Reward-Agnostic Prompt Optimization for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.16853)] 
+[[Code](https://github.com/seminkim/RATTPO)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
@@ -10218,6 +10239,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2505.22980)]
 [[Code](https://github.com/aimansnigdha/MOVi)]
 
+**Emergent Temporal Correspondences from Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2506.17220)]
+[[Code](https://github.com/cvlab-kaist/DiffTrack)]
+
 **Causally Steered Diffusion for Automated Video Counterfactual Generation** \
 [[Website](https://arxiv.org/abs/2506.14404)]
 [[Code](https://github.com/nysp78/counterfactual-video-generation   )]
@@ -10684,6 +10709,14 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2506.14168)]
 [[Project](https://yuhuustc.github.io//projects/VideoMAR.html)]
 
+**Controllable and Expressive One-Shot Video Head Swapping** \
+[[Website](https://arxiv.org/abs/2506.16852)]
+[[Project](https://humanaigc.github.io/SwapAnyHead/)]
+
+**Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition** \
+[[Website](https://arxiv.org/abs/2506.17201)]
+[[Project](https://hunyuan-gamecraft.github.io/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -11023,6 +11056,11 @@ iv.org/abs/2501.11211)]
 **Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion** \
 [[Website](https://arxiv.org/abs/2506.07136)]
 
+**FastInit: Fast Noise Initialization for Temporally Consistent Video Generation** \
+[[Website](https://arxiv.org/abs/2506.16119)]
+
+**EchoShot: Multi-Shot Portrait Video Generation** \
+[[Website](https://arxiv.org/abs/2506.15838)]
 
 
 # Video Editing 
