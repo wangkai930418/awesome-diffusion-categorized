@@ -441,6 +441,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.03065)]
 [[Code](https://github.com/Peyton-Chen/Sparse-vDiT)]
 
+**Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.18251)]
+[[Code](https://github.com/deep-optimization/Morse)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -2229,6 +2233,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2505.20626)]
 [[Project](https://jbruner23.github.io/consistyle/)]
 
+**Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.18900)]
+[[Project](https://auditandrepair.github.io/)]
+
 **Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
 [[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
 
@@ -3607,6 +3615,9 @@ iv.org/abs/2501.11211)]
 **FOCUS: Unified Vision-Language Modeling for Interactive Editing Driven by Referential Segmentation** \
 [[Website](https://arxiv.org/abs/2506.16806)]
 
+**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing** \
+[[Website](https://arxiv.org/abs/2506.18438)]
+
 
 ## Diffusion Models Inversion
 
@@ -4224,10 +4235,12 @@ iv.org/abs/2501.11211)]
 **TRACE: Trajectory-Constrained Concept Erasure in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2505.23312)] 
 
+**NSFW-Classifier Guided Prompt Sanitization for Safe Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2506.18325)] 
+
+
 
 # New Concept Learning
-
-
 
 **ReVersion: Diffusion-Based Relation Inversion from Images** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2303.13495)] 
@@ -4901,6 +4914,8 @@ iv.org/abs/2501.11211)]
 **FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement** \
 [[Website](https://arxiv.org/abs/2504.03292)] 
 
+**ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation** \
+[[Website](https://arxiv.org/abs/2506.18493)] 
 
 
 ## Decomposition
@@ -9954,6 +9969,10 @@ iv.org/abs/2501.11211)]
 [[Project](https://gigavideo-1.github.io/)]
 [[Code](https://github.com/GigaAI-research/GigaVideo-1)]
 
+**DreamJourney: Perpetual View Generation with Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.17705)]
+[[Project](https://dream-journey.vercel.app/)]
+[[Code](https://github.com/HiDream-ai/DreamJourney)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
@@ -10716,6 +10735,10 @@ iv.org/abs/2501.11211)]
 **Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition** \
 [[Website](https://arxiv.org/abs/2506.17201)]
 [[Project](https://hunyuan-gamecraft.github.io/)]
+
+**FramePrompt: In-context Controllable Animation with Zero Structural Changes** \
+[[Website](https://arxiv.org/abs/2506.17301)]
+[[Project](https://frameprompt.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
