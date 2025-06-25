@@ -506,6 +506,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.14603)]
 [[Project](https://research.nvidia.com/labs/toronto-ai/AlignYourFlow/)]
 
+**Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation** \
+[[Website](https://arxiv.org/abs/2506.19348)]
+[[Project](https://euminds.github.io/motionecho/)]
+
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
 
@@ -621,8 +625,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.01505)]
 
 **Ditto: Accelerating Diffusion Model via Temporal Value Similarity** \
-[[Website](https://arxMagCache: Fast Video Generation with Magnitude-Aware Cache
-iv.org/abs/2501.11211)]
+[[Website](https://arxiv.org/abs/2501.11211)]
 
 **Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training** \
 [[Website](https://arxiv.org/abs/2411.09998)]
@@ -671,6 +674,10 @@ iv.org/abs/2501.11211)]
 
 **Accelerating Diffusion Large Language Models with SlowFast: The Three Golden Principles** \
 [[Website](https://arxiv.org/abs/2506.10848)]
+
+**Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation** \
+[[Website](https://arxiv.org/abs/2506.18999)]
+
 
 
 ## Train-Free
@@ -1911,6 +1918,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2503.14503)] 
 [[Project](https://mmsr.kfmei.com/)] 
 
+**SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2506.19838)] 
+[[Project](https://simplegvr.github.io/)] 
+
 **DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.23580)] 
 [[Project](https://adam-duan.github.io/projects/dit4sr/)] 
@@ -2218,7 +2229,7 @@ iv.org/abs/2501.11211)]
 [[Code](https://github.com/muzishen/RCDMs)]
 
 **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion** \
-[[Website](https://arxiv.org/abs/2407.12899)]
+[[Website](https://arxiv.org/abs/2407.12899)]   
 [[Project](https://dream-xyz.github.io/dreamstory)]
 
 **Multi-Shot Character Consistency for Text-to-Video Generation** \
@@ -3256,6 +3267,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2506.07992)]
 [[Code](https://github.com/xudonmao/PairEdit)] 
 
+**Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models** \
+[[Website](https://arxiv.org/abs/2506.19103)]
+[[Code](https://github.com/ControlGenAI/Inverse-and-Edit/)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -3419,6 +3434,9 @@ iv.org/abs/2501.11211)]
 
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
+
+**SceneCrafter: Controllable Multi-View Driving Scene Editing** \
+[[CVPR 2025](https://arxiv.org/abs/2506.19488   )] 
 
 **InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation** \
 [[ICLR 2025](https://openreview.net/forum?id=ZkFMe3OPfw)] 
@@ -7833,6 +7851,10 @@ iv.org/abs/2501.11211)]
 [[Website](https://arxiv.org/abs/2506.03596)] 
 [[Code](https://github.com/Maplebb/ControlThinker)]
 
+**Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls** \
+[[Website](https://arxiv.org/abs/2506.19741)] 
+[[Code](https://github.com/Luo-Yihong/NCT   )]
+
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
 [[Project](https://mcm-diffusion.github.io/)] 
@@ -10264,7 +10286,11 @@ iv.org/abs/2501.11211)]
 
 **Causally Steered Diffusion for Automated Video Counterfactual Generation** \
 [[Website](https://arxiv.org/abs/2506.14404)]
-[[Code](https://github.com/nysp78/counterfactual-video-generation   )]
+[[Code](https://github.com/nysp78/counterfactual-video-generation)]
+
+**Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation** \
+[[Website](https://arxiv.org/abs/2506.19852)]
+[[Code](https://github.com/mit-han-lab/radial-attention)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
