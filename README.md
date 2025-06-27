@@ -5962,7 +5962,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/aimagelab/MAD)]
 
 **Alfie: Democratising RGBA Image Generation With No $$$** \
-[[ECCV 2024](https://arxiv.org/abs/2408.14826)] 
+[[ECCVW 2024](https://arxiv.org/abs/2408.14826)] 
 [[Code](https://github.com/aimagelab/Alfie)]
 
 **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis** \
