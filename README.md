@@ -5957,6 +5957,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICML 2025](https://arxiv.org/abs/2505.13740)] 
 [[Code](https://github.com/rainorangelemon/complift)]
 
+**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas** \
+[[ECCV 2024](https://arxiv.org/abs/2408.15660)] 
+[[Code](https://github.com/aimagelab/MAD)]
+
+**Alfie: Democratising RGBA Image Generation With No $$$** \
+[[ECCV 2024](https://arxiv.org/abs/2408.14826)] 
+[[Code](https://github.com/aimagelab/Alfie)]
+
 **Training-free Dense-Aligned Diffusion Guidance for Modular Conditional Image Synthesis** \
 [[Website](https://arxiv.org/abs/2504.01515)] 
 [[Code](https://github.com/ZixuanWang0525/DADG)]
