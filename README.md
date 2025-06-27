@@ -1009,6 +1009,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2503.01288)]
 [[Code](https://github.com/ChongWang1024/RDMD)]
 
+**Learning to See in the Extremely Dark** \
+[[ICCV 2025](https://arxiv.org/abs/2506.21132)]
+[[Code](https://github.com/JianghaiSCU/SIED)]
+
 **Exploiting Diffusion Prior for Real-World Image Dehazing with Unpaired Training** \
 [[AAAI 2025](https://arxiv.org/abs/2503.15017)]
 [[Code](https://github.com/ywxjm/Diff-Dehazer)]
@@ -2580,6 +2584,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On** \
 [[Website](https://arxiv.org/abs/2506.05858)]
 
+**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter** \
+[[Website](https://arxiv.org/abs/2506.21270)]
+
+
 # Drag Edit
 
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
@@ -3455,6 +3463,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
 
+**From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
+[[Website](https://arxiv.org/abs/2506.20977)]
+
 **Learning Feature-Preserving Portrait Editing from Generated Pairs** \
 [[Website](https://arxiv.org/abs/2407.20455)]
 
@@ -3635,6 +3646,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing** \
 [[Website](https://arxiv.org/abs/2506.18438)]
+
+**Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling** \
+[[Website](https://arxiv.org/abs/2506.21045)]
 
 
 ## Diffusion Models Inversion
@@ -4885,6 +4899,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2405.06914)] 
 [[Project](https://clif-official.github.io/clif/)] 
 [[Code](https://github.com/clif-official/clif_code)] 
+
+**XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation** \
+[[Website](https://arxiv.org/abs/2506.21416)] 
+[[Project](https://bytedance.github.io/XVerse/)] 
+[[Code](https://github.com/bytedance/XVerse)] 
 
 **Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation** \
 [[AAAI 2025](https://arxiv.org/abs/2409.17920)] 
@@ -7974,6 +7993,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UniCon: Unidirectional Information Flow for Effective Control of Large-Scale Diffusion Models** \
 [[Website]](https://arxiv.org/abs/2503.17221) 
 
+**Rethink Sparse Signals for Pose-guided Text-to-image Generation** \
+[[Website]](https://arxiv.org/abs/2506.20983) 
+
 
 # Few-Shot 
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
@@ -8556,6 +8578,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://udifftext.github.io/)] 
 [[Code](https://github.com/ZYM-PKU/UDiffText)] 
 
+
+
 **One-Shot Diffusion Mimicker for Handwritten Text Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2409.04004)]
 [[Code](https://github.com/dailenson/One-DM)] 
@@ -8671,6 +8695,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FontAdapter: Instant Font Adaptation in Visual Text Generation** \
 [[Website](https://arxiv.org/abs/2506.05843)]
 [[Project](https://fontadapter.github.io/)] 
+
+**WordCon: Word-level Typography Control in Scene Text Rendering** \
+[[Website](https://arxiv.org/abs/2506.21276)]
+[[Project](https://wendashi.github.io/WordCon-Page/)] 
 
 **DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01645)]
@@ -9996,6 +10024,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dream-journey.vercel.app/)]
 [[Code](https://github.com/HiDream-ai/DreamJourney)]
 
+**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character** \
+[[Website](https://arxiv.org/abs/2506.21272)]
+[[Project](https://jayleejia.github.io/FairyGen/)]
+[[Code](https://github.com/GVCLab/FairyGen)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -11280,6 +11313,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.10082)]
 [[Project](https://cjeen.github.io/LoraEditPaper/)]
 [[Code](https://github.com/cjeen/LoRAEdit)] 
+
+**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing** \
+[[Website](https://arxiv.org/abs/2506.20967)]
+[[Project](https://dfvedit.github.io/)]
+[[Code](https://github.com/LinglingCai0314/DFVEdit)] 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
