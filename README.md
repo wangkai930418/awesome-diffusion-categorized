@@ -1418,6 +1418,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Zero-Shot Solving of Imaging Inverse Problems via Noise-Refined Likelihood Guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.13391)]
 
+**Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration** \
+[[Website](https://arxiv.org/abs/2506.21722)]
+
+
 
 ## Colorization
 
@@ -1629,6 +1633,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing** \
 [[CVPR 2025](https://arxiv.org/abs/2503.08429)] 
 [[Code](https://github.com/FengodChen/DMP-DUN-CVPR2025)] 
+
+**StableCodec: Taming One-Step Diffusion for Extreme Image Compression** \
+[[ICCV 2025](https://arxiv.org/abs/2506.21977)] 
+[[Code](https://github.com/LuizScarlet/StableCodec)] 
 
 **PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling** \
 [[Website](https://arxiv.org/abs/2503.09368)] 
