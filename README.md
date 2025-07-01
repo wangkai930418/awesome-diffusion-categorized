@@ -1946,6 +1946,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
 
+**TurboVSR: Fantastic Video Upscalers and Where to Find Them** \
+[[ICCV 2025](https://arxiv.org/abs/2506.23618)]
+
 **Text-guided Explorable Image Super-resolution** \
 [[CVPR 2024](https://arxiv.org/abs/2403.01124)] 
 
@@ -2075,7 +2078,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Self-Cascaded Diffusion Models for Arbitrary-Scale Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2506.07813)]
-
 
 ## Personalized Restoration
 
@@ -2259,6 +2261,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.18900)]
 [[Project](https://auditandrepair.github.io/)]
+
+**Why Settle for One? Text-to-ImageSet Generation and Evaluation** \
+[[Website](https://arxiv.org/abs/2506.23275)]
+[[Project](https://chengyou-jia.github.io/T2IS-Home/)]
 
 **Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
 [[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
@@ -5335,6 +5341,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2304.05265)] 
 [[Code](https://github.com/jnzju/COTI)]
 
+**Mitigating Semantic Collapse in Generative Personalization with a Surprisingly Simple Test-Time Embedding Adjustment** \
+[[Website](https://arxiv.org/abs/2506.22685)] 
+[[Code](https://anonymous.4open.science/r/Embedding-Adjustment/README.md)]
+
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09522)] 
 [[Project](https://prompt-plus.github.io/)] 
@@ -5430,6 +5440,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2409.16160)]
 [[Project](https://menyifang.github.io/projects/MIMO/index.html)] 
 [[Code](https://github.com/menyifang/MIMO)]
+
+**Proteus-ID: ID-Consistent and Motion-Coherent Video Customization** \
+[[Website](https://arxiv.org/abs/2506.23729)]
+[[Project](https://grenoble-zhang.github.io/Proteus-ID/)] 
+[[Code](https://github.com/grenoble-zhang/Proteus-ID)]
+
+**OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions** \
+[[Website](https://arxiv.org/abs/2506.23361)]
+[[Project](https://caiyuanhao1998.github.io/project/OmniVCus/)] 
+[[Code](https://github.com/caiyuanhao1998/Open-OmniVCus)]
 
 **Magic-Me: Identity-Specific Video Customized Diffusion** \
 [[Website](https://arxiv.org/abs/2402.09368)]
@@ -6420,6 +6440,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Crafting Parts for Expressive Object Composition** \
 [[CVPR 2025](https://arxiv.org/abs/2406.10197)] 
 
+**Preserve Anything: Controllable Image Synthesis with Object Preservation** \
+[[ICCV 2025](https://arxiv.org/abs/2506.22531)] 
+
 **Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.10037)] 
 
@@ -6794,6 +6817,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamLight: Towards Harmonious and Consistent Image Relighting** \
 [[Website](https://arxiv.org/abs/2506.14549)]
+
+**VisualPrompter: Prompt Optimization with Visual Feedback for Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2506.23138)]   
 
 
 ## Spatial Control
@@ -8347,6 +8373,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ATA: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting** \
 [[CVPR 2025](https://arxiv.org/abs/2504.01603)] 
 
+**MTADiffusion: Mask Text Alignment Diffusion Model for Object Inpainting** \
+[[CVPR 2025](https://arxiv.org/abs/2506.23482)] 
+
 **Semantically Consistent Video Inpainting with Conditional Diffusion Models** \
 [[Website](https://arxiv.org/abs/2405.00251)] 
 
@@ -8594,7 +8623,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://udifftext.github.io/)] 
 [[Code](https://github.com/ZYM-PKU/UDiffText)] 
 
-
+**Calligrapher: Freestyle Text Image Customization** \
+[[Website](https://arxiv.org/abs/2506.24123)]
+[[Project](https://calligrapher2025.github.io/Calligrapher/)] 
+[[Code](https://github.com/Calligrapher2025/Calligrapher)] 
 
 **One-Shot Diffusion Mimicker for Handwritten Text Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2409.04004)]
@@ -10341,6 +10373,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.19852)]
 [[Code](https://github.com/mit-han-lab/radial-attention)]
 
+**VMoBA: Mixture-of-Block Attention for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2506.23858)]
+[[Code](https://github.com/KwaiVGI/VMoBA)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -10814,6 +10850,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FramePrompt: In-context Controllable Animation with Zero Structural Changes** \
 [[Website](https://arxiv.org/abs/2506.17301)]
 [[Project](https://frameprompt.github.io/)]
+
+**SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation** \
+[[Website](https://arxiv.org/abs/2506.23690)]
+[[Project](https://lucaria-academy.github.io/SynMotion/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
@@ -11334,6 +11374,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.20967)]
 [[Project](https://dfvedit.github.io/)]
 [[Code](https://github.com/LinglingCai0314/DFVEdit)] 
+
+**STR-Match: Matching SpatioTemporal Relevance Score for Training-Free Video Editing** \
+[[Website](https://arxiv.org/abs/2506.22868)]
+[[Project](https://jslee525.github.io/str-match/)]
+[[Code](https://github.com/jslee525/STR-Match_official)] 
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
