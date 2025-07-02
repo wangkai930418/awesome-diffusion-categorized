@@ -1421,6 +1421,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Elucidating and Endowing the Diffusion Training Paradigm for General Image Restoration** \
 [[Website](https://arxiv.org/abs/2506.21722)]
 
+**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling** \
+[[Website](https://arxiv.org/abs/2507.00790)]
 
 
 ## Colorization
@@ -1708,6 +1710,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://iterative-refinement.github.io/)] 
 [[Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)] 
 
+**DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution** \
+[[ECCV 2024](https://arxiv.org/abs/2507.01012)] 
+[[Project](https://kongzhecn.github.io/projects/dam-vsr/)] 
+[[Code](https://github.com/kongzhecn/DAM-VSR)] 
 
 **Kalman-Inspired Feature Propagation for Video Face Super-Resolution** \
 [[ECCV 2024](https://arxiv.org/abs/2408.05205)] 
@@ -8874,6 +8880,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **EasyText: Controllable Diffusion Transformer for Multilingual Text Rendering** \
 [[Website](https://arxiv.org/abs/2505.24417)]
+
+**UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis** \
+[[Website](https://arxiv.org/abs/2507.00992)]
 
 
 # Video Generation 
