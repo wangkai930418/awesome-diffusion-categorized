@@ -1472,6 +1472,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://becauseimbatman0.github.io/VanGogh)]
 [[Code](https://github.com/BecauseImBatman0/VanGogh)]
 
+**SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation** \
+[[Website](https://arxiv.org/abs/2507.01586)]
+[[Project](https://bconstantine.github.io/SketchColour/)]
+[[Code](https://github.com/bconstantine/SketchColour)]
+
 **L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2305.15217)]
 [[Code](https://github.com/changzheng123/L-CAD)]
@@ -2884,6 +2889,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://yandex-research.github.io/invertible-cd/)] 
 [[Code](https://github.com/yandex-research/invertible-cd)] 
 
+**ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation** \
+[[ICCV 2025](https://arxiv.org/abs/2507.01496)] 
+[[Project](https://wlaud1001.github.io/ReFlex/)] 
+[[Code](https://github.com/wlaud1001/ReFlex)] 
+
 **ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement** \
 [[Website](https://arxiv.org/abs/2504.01934)] 
 [[Project](https://illume-unified-mllm.github.io/)] 
@@ -3298,6 +3308,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models** \
 [[Website](https://arxiv.org/abs/2506.19103)]
 [[Code](https://github.com/ControlGenAI/Inverse-and-Edit/)] 
+
+**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning** \
+[[Website](https://arxiv.org/abs/2507.01908)]
+[[Code](https://github.com/hithqd/ReasonBrain)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -4617,7 +4631,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2304.00186)] 
 [[Project](https://open-vision-language.github.io/suti/)] 
 
-
+**IC-Custom: Diverse Image Customization via In-Context Learning** \
+[[Website](https://arxiv.org/abs/2507.01926)] 
+[[Project](https://liyaowei-stu.github.io/project/IC_Custom/)] 
 
 **Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation** \
 [[Website](https://arxiv.org/abs/2306.08247)] 
