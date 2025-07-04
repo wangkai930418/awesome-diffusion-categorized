@@ -297,6 +297,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://aniaggarwal.github.io/ecad/)]
 [[Code](https://github.com/aniaggarwal/ecad)]
 
+**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching** \
+[[Website](https://arxiv.org/abs/2507.02860)]
+[[Project](https://h-embodvis.github.io/EasyCache/)]
+[[Code](https://github.com/H-EmbodVis/EasyCache)]
 
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
@@ -5497,6 +5501,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2503.21781)] 
 [[Project](https://jasper0314-huang.github.io/videomage-customization/)] 
 
+**APT: Adaptive Personalized Training for Diffusion Models with Limited Data** \
+[[CVPR 2025](https://arxiv.org/abs/2507.02687)] 
+[[Project](https://lgcnsai.github.io/apt/)] 
+
 **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2402.14780)]
 [[Project](https://anonymous-314.github.io/)]
@@ -7211,6 +7219,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2504.10148)] 
 
+**UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation** \
+[[Website](https://arxiv.org/abs/2507.02713)] 
+
+
 ## Poster
 
 **PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework** \
@@ -7752,6 +7764,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2303.09833)] 
 [[Code](https://github.com/vvictoryuki/freedom)]
 
+**AnyI2V: Animating Any Conditional Image with Motion Control** \
+[[ICCV 2025](https://arxiv.org/abs/2507.02857)] 
+[[Project](https://henghuiding.com/AnyI2V/)] 
+[[Code]](https://github.com/FudanCVL/AnyI2V) 
 
 **Sketch-Guided Text-to-Image Diffusion Models** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2211.13752)] 
@@ -7873,6 +7889,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://air-discover.github.io/SCP-Diff/)] 
 [[Code](https://github.com/AIR-DISCOVER/SCP-Diff-Toolkit)]
 
+**Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback** \
+[[Website](https://arxiv.org/abs/2507.02321)] 
+[[Project](https://controlgenai.github.io/InnerControl/)] 
+[[Code](https://github.com/ControlGenAI/InnerControl)]
+
+**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2507.02792)] 
+[[Project](https://zhang-liheng.github.io/rich-control/)] 
+[[Code](https://github.com/zhang-liheng/RichControl)]
 
 **Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis** \
 [[ICLR 2024](https://arxiv.org/abs/2401.09048)] 
