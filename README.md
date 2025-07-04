@@ -302,6 +302,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://h-embodvis.github.io/EasyCache/)]
 [[Code](https://github.com/H-EmbodVis/EasyCache)]
 
+**Distilling Diversity and Control in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.10637)]
+[[Project](https://distillation.baulab.info/)]
+[[Code](https://github.com/rohitgandikota/distillation)]
+
+**SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation** \
+[[Website](https://arxiv.org/abs/2503.09641)]
+[[Project](https://nvlabs.github.io/Sana/Sprint/)]
+[[Code](https://github.com/NVlabs/Sana)]
+
+
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
 <!-- [[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)] -->
