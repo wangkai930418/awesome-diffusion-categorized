@@ -2117,7 +2117,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/adobe-research/gen2res)] 
 
 **ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration** \
-[[Website](https://arxiv.org/abs/2412.05043)]
+[[NeurIPS 2024](https://arxiv.org/abs/2412.05043)]
 [[Project](https://chiweihsiao.github.io/refldm.github.io/)]
 [[Code](https://github.com/ChiWeiHsiao/ref-ldm)]
 
@@ -2131,12 +2131,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://personalized-restoration.github.io/)]
 [[Code](https://github.com/personalized-restoration/personalized-restoration)]
 
+**FaceMe: Robust Blind Face Restoration with Personal Identification** \
+[[AAAI 2025](https://arxiv.org/abs/2501.05177)]
+[[Code](https://github.com/modyu-liu/FaceMe)]
+
 **RestorerID: Towards Tuning-Free Face Restoration with ID Preservation** \
 [[Website](https://arxiv.org/abs/2411.14125)]
 [[Code](https://github.com/YingJiacheng/RestorerID)]
-
-**FaceMe: Robust Blind Face Restoration with Personal Identification** \
-[[AAAI 2025](https://arxiv.org/abs/2501.05177)]
 
 **PFStorer: Personalized Face Restoration and Super-Resolution** \
 [[CVPR 2024](https://arxiv.org/abs/2403.08436)]
@@ -2273,7 +2274,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/muzishen/RCDMs)]
 
 **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion** \
-[[Website](https://arxiv.org/abs/2407.12899)]   
+[[Website](https://arxiv.org/abs/2407.12899)]
 [[Project](https://dream-xyz.github.io/dreamstory)]
 
 **Multi-Shot Character Consistency for Text-to-Video Generation** \
@@ -3497,7 +3498,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
 
 **SceneCrafter: Controllable Multi-View Driving Scene Editing** \
-[[CVPR 2025](https://arxiv.org/abs/2506.19488   )] 
+[[CVPR 2025](https://arxiv.org/abs/2506.19488)] 
 
 **InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation** \
 [[ICLR 2025](https://openreview.net/forum?id=ZkFMe3OPfw)] 
@@ -6864,7 +6865,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.14549)]
 
 **VisualPrompter: Prompt Optimization with Visual Feedback for Text-to-Image Synthesis** \
-[[Website](https://arxiv.org/abs/2506.23138)]   
+[[Website](https://arxiv.org/abs/2506.23138)]
 
 
 ## Spatial Control
@@ -7976,7 +7977,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls** \
 [[Website](https://arxiv.org/abs/2506.19741)] 
-[[Code](https://github.com/Luo-Yihong/NCT   )]
+[[Code](https://github.com/Luo-Yihong/NCT)]
 
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
