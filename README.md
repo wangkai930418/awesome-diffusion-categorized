@@ -59,29 +59,33 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dangeng.github.io/visual_anagrams/)]
 [[Code](https://github.com/dangeng/visual_anagrams)] 
 
+**PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model** \
+[[CVPR 2025](https://arxiv.org/abs/2503.06186)]
+[[Project](https://xianggao1102.github.io/PTDiffusion_webpage/)]
+[[Code](https://github.com/XiangGao1102/PTDiffusion)] 
+
+**Factorized Diffusion: Perceptual Illusions by Noise Decomposition** \
+[[ECCV 2024](https://arxiv.org/abs/2404.11615)]
+[[Project](https://dangeng.github.io/factorized_diffusion/)]
+[[Code](https://github.com/dangeng/visual_anagrams)] 
+
+**Diffusion Illusions: Hiding Images in Plain Sight** \
+[[Website](https://arxiv.org/abs/2312.03817)]
+[[Project](https://diffusionillusions.com/)]
+[[Code](https://github.com/RyannDaGreat/Diffusion-Illusions)] 
+
 **Diffusion-based Visual Anagram as Multi-task Learning** \
 [[WACV 2025](https://arxiv.org/abs/2412.02693)]
 [[Code](https://github.com/Pixtella/Anagram-MTL)] 
-
 
 **Evaluating Model Perception of Color Illusions in Photorealistic Scenes** \
 [[Website](https://arxiv.org/abs/2412.06184)]
 [[Code](https://github.com/mao1207/RCID)] 
 
-
 **Illusion3D: 3D Multiview Illusion with 2D Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2412.09625)]
 [[Project](https://3d-multiview-illusion.github.io/)] 
 
-
-**Factorized Diffusion: Perceptual Illusions by Noise Decomposition** \
-[[ECCV 2024](https://arxiv.org/abs/2404.11615)]
-
-**PTDiffusion: Free Lunch for Generating Optical Illusion Hidden Pictures with Phase-Transferred Diffusion Model** \
-[[CVPR 2025](https://arxiv.org/abs/2503.06186)]
-
-**Diffusion Illusions: Hiding Images in Plain Sight** \
-[[Website](https://arxiv.org/abs/2312.03817)]
 
 # Color in Generation
 
