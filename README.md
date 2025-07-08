@@ -2496,6 +2496,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.16978)]
 [[Code](https://github.com/rlawjdghek/PromptDresser)]
 
+**Pose-Star: Anatomy-Aware Editing for Open-World Fashion Images** \
+[[Website](https://arxiv.org/abs/2507.03402)]
+[[Code](https://github.com/NDYBSNDY/Pose-Star)]
+
 **M&M VTO: Multi-Garment Virtual Try-On and Editing** \
 [[CVPR 2024 Highlight](https://arxiv.org/abs/2406.04542)]
 [[Project](https://mmvto.github.io/)]
@@ -3494,6 +3498,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.10941)]
 [[Project](https://vincie2025.github.io/)]
 
+**Flux-Sculptor: Text-Driven Rich-Attribute Portrait Editing through Decomposed Spatial Flow Control** \
+[[Website](https://arxiv.org/abs/2507.03979)]
+[[Project](https://flux-sculptor.github.io/)]
+
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
 
@@ -3704,6 +3712,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Improving Diffusion-Based Image Editing Faithfulness via Guidance and Scheduling** \
 [[Website](https://arxiv.org/abs/2506.21045)]
 
+**S2Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control** \
+[[Website](https://arxiv.org/abs/2507.04584)]
 
 ## Diffusion Models Inversion
 
@@ -5049,6 +5059,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2024](https://arxiv.org/abs/2312.03587)] 
 [[Project](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)] 
 
+**QR-LoRA: Efficient and Disentangled Fine-tuning via QR Decomposition for Customized Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2507.04599)] 
+
 **Lego: Learning to Disentangle and Invert Concepts Beyond Object Appearance in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2311.13833)] 
 
@@ -5554,6 +5567,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2502.06527)] 
+
+**Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations** \
+[[Website](https://arxiv.org/abs/2507.04705)] 
 
 
 # T2I Diffusion Model augmentation
@@ -6867,6 +6883,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VisualPrompter: Prompt Optimization with Visual Feedback for Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2506.23138)]
 
+**CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step** \
+[[Website](https://arxiv.org/abs/2507.04451)]
+
+
 
 ## Spatial Control
 
@@ -7253,6 +7273,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **POSTA: A Go-to Framework for Customized Artistic Poster Generation** \
 [[CVPR 2025](https://arxiv.org/abs/2503.14908)] 
 [[Project](https://haoyuchen.com/POSTA)] 
+
+**DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design** \
+[[Website](https://arxiv.org/abs/2507.04218)] 
+[[Project](https://dreamposter.github.io/)] 
+
 
 # I2I translation
 
@@ -10920,6 +10945,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation** \
 [[Website](https://arxiv.org/abs/2506.23690)]
 [[Project](https://lucaria-academy.github.io/SynMotion/)]
+
+**StreamDiT: Real-Time Streaming Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2507.03745)]
+[[Project](https://cumulo-autumn.github.io/StreamDiT/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
