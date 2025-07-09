@@ -3502,6 +3502,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.03979)]
 [[Project](https://flux-sculptor.github.io/)]
 
+**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing** \
+[[Website](https://arxiv.org/abs/2507.05259)]
+[[Project](https://danielchyeh.github.io/x-planner/)]
+
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
 
@@ -5378,6 +5382,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[AAAI 2024](https://arxiv.org/abs/2312.08048)] 
 [[Code](https://github.com/zhangxulu1996/Compositional-Inversion)]
 
+**T-LoRA: Single Image Diffusion Model Customization Without Overfitting** \
+[[Website](https://arxiv.org/abs/2507.05964)] 
+[[Code](https://github.com/ControlGenAI/T-LoRA)]
 
 **Cross Initialization for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2312.15905)] 
@@ -6474,6 +6481,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds** \
 [[ICLR 2025 Spotlight](https://arxiv.org/abs/2411.18810)] 
+
+**Rethinking Layered Graphic Design Generation with a Top-Down Approach** \
+[[ICCV 2025](https://arxiv.org/abs/2507.05601)] 
 
 **GarmentAligner: Text-to-Garment Generation via Retrieval-augmented Multi-level Corrections** \
 [[ECCV 2024](https://arxiv.org/abs/2408.12352)] 
@@ -9045,6 +9055,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://ali-videoai.github.io/tora_video/)] 
 [[Code](https://github.com/ali-videoai/Tora)]
 
+**Tora2: Motion and Appearance Customized Diffusion Transformer for Multi-Entity Video Generation** \
+[[ACMMM 2025](https://arxiv.org/abs/2507.05963)]
+[[Project](https://ali-videoai.github.io/tora_video/)] 
+[[Code](https://github.com/alibaba/Tora)]
+
 **T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback** \
 [[NeurIPS 2024](https://arxiv.org/abs/2405.18750)]
 [[Project](https://t2v-turbo.github.io/)] 
@@ -9519,6 +9534,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://tele-ai.github.io/OmniVDiff/)] 
 [[Code](https://github.com/Tele-AI/OmniVDiff)]
 
+**Omni-Video: Democratizing Unified Video Understanding and Generation** \
+[[Website](https://arxiv.org/abs/2507.06119)]
+[[Project](https://sais-fuxi.github.io/Omni-Video/)] 
+[[Code](https://github.com/SAIS-FUXI/Omni-Video)]
 
 **TPDiff: Temporal Pyramid Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2503.09566)]
@@ -10167,6 +10186,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.21272)]
 [[Project](https://jayleejia.github.io/FairyGen/)]
 [[Code](https://github.com/GVCLab/FairyGen)]
+
+**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation** \
+[[Website](https://arxiv.org/abs/2507.04984)]
+[[Project](https://zonglinl.github.io/tlbvfi_page/)]
+[[Code](https://github.com/ZonglinL/TLBVFI)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
@@ -10949,6 +10973,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **StreamDiT: Real-Time Streaming Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2507.03745)]
 [[Project](https://cumulo-autumn.github.io/StreamDiT/)]
+
+**LiON-LoRA: Rethinking LoRA Fusion to Unify Controllable Spatial and Temporal Generation for Video Diffusion** \
+[[Website](https://arxiv.org/abs/2507.05678)]
+[[Project](https://fuchengsu.github.io/lionlora.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
