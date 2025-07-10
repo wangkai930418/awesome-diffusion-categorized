@@ -1040,6 +1040,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2403.07684)]
 [[Code](https://github.com/scott-yjyang/DiffTTA)]
 
+**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management** \
+[[ACM MM 2025](https://arxiv.org/abs/2507.06656)]
+[[Code](https://github.com/74587887/SPGD)]
+
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
 [[Code](https://github.com/Algolzw/image-restoration-sde)]
@@ -4338,6 +4342,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **NSFW-Classifier Guided Prompt Sanitization for Safe Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2506.18325)] 
 
+**Concept Unlearning by Modeling Key Steps of Diffusion Process** \
+[[Website](https://arxiv.org/abs/2507.06526)] 
 
 
 # New Concept Learning
@@ -11322,6 +11328,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **EchoShot: Multi-Shot Portrait Video Generation** \
 [[Website](https://arxiv.org/abs/2506.15838)]
+
+**Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2507.06830)]
 
 
 # Video Editing 
