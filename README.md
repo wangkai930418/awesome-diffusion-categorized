@@ -697,6 +697,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation** \
 [[Website](https://arxiv.org/abs/2506.18999)]
 
+**Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2507.08422)]
 
 
 ## Train-Free
@@ -2276,6 +2278,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.02482)]
 [[Code](https://github.com/muzishen/RCDMs)]
+
+**Subject-Consistent and Pose-Diverse Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2507.08396)]
+[[Code](https://github.com/NJU-PCALab/CoDi)]
 
 **DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion** \
 [[Website](https://arxiv.org/abs/2407.12899)]
