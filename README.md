@@ -4554,6 +4554,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://moma-adapter.github.io/)] 
 [[Code](https://github.com/bytedance/MoMA/tree/main)]
 
+**MENTOR: Efficient Multimodal-Conditioned Tuning for Autoregressive Vision Generation Models** \
+[[Website](https://arxiv.org/abs/2507.09574)] 
+[[Project](https://haozhezhao.github.io/MENTOR.page/)] 
+[[Code](https://github.com/HaozheZhao/MENTOR)]
+
 **DreamSteerer: Enhancing Source Image Conditioned Editability using Personalized Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.11208)] 
 [[Code](https://github.com/Dijkstra14/DreamSteerer)]
@@ -8988,6 +8993,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis** \
 [[Website](https://arxiv.org/abs/2507.00992)]
 
+**IGD: Instructional Graphic Design with Multimodal Layer Generation** \
+[[Website](https://arxiv.org/abs/2507.09910)]
+
+**WordCraft: Interactive Artistic Typography with Attention Awareness and Noise Blending** \
+[[Website](https://arxiv.org/abs/2507.09573)]
 
 # Video Generation 
 
