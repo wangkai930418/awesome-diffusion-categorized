@@ -2162,6 +2162,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://byliutao.github.io/1Prompt1Story.github.io/)]
 [[Code](https://github.com/byliutao/1Prompt1Story)] 
 
+**CharaConsist: Fine-Grained Consistent Character Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2507.11533)]
+[[Project](https://murray-wang.github.io/CharaConsist/)]
+[[Code](https://github.com/Murray-Wang/CharaConsist)]
 
 **Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2306.00973)]
