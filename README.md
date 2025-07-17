@@ -6339,6 +6339,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.16853)] 
 [[Code](https://github.com/seminkim/RATTPO)] 
 
+**Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2507.11554)] 
+[[Code](https://github.com/MIGHTYEZ/Inversion-DPO)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -7288,6 +7292,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **UniMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation** \
 [[Website](https://arxiv.org/abs/2507.02713)] 
+
+**RaDL: Relation-aware Disentangled Learning for Multi-Instance Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2507.11947)] 
 
 
 ## Poster
