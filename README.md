@@ -4355,6 +4355,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Concept Unlearning by Modeling Key Steps of Diffusion Process** \
 [[Website](https://arxiv.org/abs/2507.06526)] 
 
+**FADE: Adversarial Concept Erasure in Flow Models** \
+[[Website](https://arxiv.org/abs/2507.12283)] 
+
 
 # New Concept Learning
 
@@ -6921,6 +6924,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step** \
 [[Website](https://arxiv.org/abs/2507.04451)]
 
+**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization** \
+[[Website](https://arxiv.org/abs/2507.13311)]
 
 
 ## Spatial Control
@@ -10221,6 +10226,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/GVCLab/FairyGen)]
 
 **TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation** \
+[[Website](https://arxiv.org/abs/2507.12956)]
+[[Project](https://fantasy-amap.github.io/fantasy-portrait/)]
+[[Code](https://github.com/Fantasy-AMAP/fantasy-portrait)]
+
+**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2507.04984)]
 [[Project](https://zonglinl.github.io/tlbvfi_page/)]
 [[Code](https://github.com/ZonglinL/TLBVFI)]
@@ -11011,6 +11021,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.05678)]
 [[Project](https://fuchengsu.github.io/lionlora.github.io/)]
 
+**LoViC: Efficient Long Video Generation with Context Compression** \
+[[Website](https://arxiv.org/abs/2507.12952)]
+[[Project](https://jiangjiaxiu.github.io/lovic/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -11358,6 +11372,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2507.06830)]
+
+**Taming Diffusion Transformer for Real-Time Mobile Video Generation** \
+[[Website](https://arxiv.org/abs/2507.13343)]
+
 
 
 # Video Editing 
