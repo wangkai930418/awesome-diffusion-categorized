@@ -1612,6 +1612,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2410.04618)]
 [[Project](https://dt-bfr.github.io/)]
 
+**DynFaceRestore: Balancing Fidelity and Quality in Diffusion-Guided Blind Face Restoration with Dynamic Blur-Level Mapping and Guidance** \
+[[ICCV 2025](https://arxiv.org/abs/2507.13797)]
+
 **InfoBFR: Real-World Blind Face Restoration via Information Bottleneck** \
 [[Website](https://arxiv.org/abs/2501.15443)]
 
@@ -3520,6 +3523,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.05259)]
 [[Project](https://danielchyeh.github.io/x-planner/)]
 
+**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing** \
+[[Website](https://arxiv.org/abs/2507.14024)]
+[[Project](https://moodify2024.github.io/app/)]
+
+**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining** \
+[[Website](https://arxiv.org/abs/2507.14119)]
+[[Project](https://riko0.github.io/No-Humans-Required/)]
+
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
 
@@ -3732,6 +3743,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **S2Edit: Text-Guided Image Editing with Precise Semantic and Spatial Control** \
 [[Website](https://arxiv.org/abs/2507.04584)]
+
+**MADI: Masking-Augmented Diffusion with Inference-Time Scaling for Visual Editing** \
+[[Website](https://arxiv.org/abs/2507.13401)]
+
 
 ## Diffusion Models Inversion
 
@@ -4020,6 +4035,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **How can Diffusion Models Evolve into Continual Generators?** \
 [[Website](https://arxiv.org/abs/2505.11936)] 
+
+**Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning** \
+[[Website](https://arxiv.org/abs/2507.13739)] 
 
 
 # Remove Concept
@@ -5264,6 +5282,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait** \
 [[Website](https://arxiv.org/abs/2501.17159)] 
+
+**PositionIC: Unified Position and Identity Consistency for Image Customization** \
+[[Website](https://arxiv.org/abs/2507.13861)] 
 
 
 ## General Concept 
@@ -10535,6 +10556,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.23858)]
 [[Code](https://github.com/KwaiVGI/VMoBA)]
 
+**Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis** \
+[[Website](https://arxiv.org/abs/2507.13753)]
+[[Code](https://github.com/Tonniia/EVS)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -11376,6 +11401,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Taming Diffusion Transformer for Real-Time Mobile Video Generation** \
 [[Website](https://arxiv.org/abs/2507.13343)]
 
+**Generalist Forecasting with Frozen Video Models via Latent Diffusion** \
+[[Website](https://arxiv.org/abs/2507.13942)]
 
 
 # Video Editing 
