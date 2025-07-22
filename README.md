@@ -4643,6 +4643,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.03045)] 
 [[Code](https://github.com/drboog/profusion)] 
 
+**FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2507.15249)] 
+[[Code](https://github.com/Monalissaa/FreeCus)] 
+
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
 [[Project](https://assetdropper.github.io/)] 
