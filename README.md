@@ -1728,6 +1728,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Fast Training-free Perceptual Image Compression** \
 [[Website](https://arxiv.org/abs/2506.16102)]
 
+**Conditional Video Generation for High-Efficiency Video Compression** \
+[[Website](https://arxiv.org/abs/2507.15269)]
+
 
 ## Super Resolution
 
@@ -2118,6 +2121,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Self-Cascaded Diffusion Models for Arbitrary-Scale Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2506.07813)]
 
+**Efficient Burst Super-Resolution with One-step Diffusion** \
+[[Website](https://arxiv.org/abs/2507.13607)]
+
+
+
 ## Personalized Restoration
 
 **Restoration by Generation with Constrained Priors** \
@@ -2468,6 +2476,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Incorporating Visual Correspondence into Diffusion Model for Virtual Try-On** \
 [[ICLR 2025](https://arxiv.org/abs/2505.16977)]
 [[Code](https://github.com/HiDream-ai/SPM-Diff)]
+
+**OmniVTON: Training-Free Universal Virtual Try-On** \
+[[ICCV 2025](https://arxiv.org/abs/2507.15037)]
+[[Code](https://github.com/Jerome-Young/OmniVTON)]
 
 **Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**  \
 [[ACM MM 2023](https://arxiv.org/abs/2308.06101)]
@@ -4375,6 +4387,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FADE: Adversarial Concept Erasure in Flow Models** \
 [[Website](https://arxiv.org/abs/2507.12283)] 
+
+**Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning** \
+[[Website](https://arxiv.org/abs/2507.16302)] 
 
 
 # New Concept Learning
@@ -6952,6 +6967,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization** \
 [[Website](https://arxiv.org/abs/2507.13311)]
 
+**Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis** \
+[[Website](https://arxiv.org/abs/2411.17769)]
+
+
 
 ## Spatial Control
 
@@ -9507,6 +9526,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://vibidsampler.github.io/)]
 [[Code](https://github.com/vibidsampler/vibid)]
 
+**TokensGen: Harnessing Condensed Tokens for Long Video Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2507.15728)]
+[[Project](https://vicky0522.github.io/tokensgen-webpage/)]
+[[Code](https://github.com/Vicky0522/TokensGen)]
+
 **Video Probabilistic Diffusion Models in Projected Latent Space** \
 [[CVPR 2023](https://arxiv.org/abs/2302.07685)]
 [[Project](https://sihyun.me/PVDM/)]
@@ -11407,6 +11431,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Generalist Forecasting with Frozen Video Models via Latent Diffusion** \
 [[Website](https://arxiv.org/abs/2507.13942)]
+
+**MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2507.16310)]
 
 
 # Video Editing 
