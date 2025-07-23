@@ -3165,6 +3165,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[EMNLP 2023](https://arxiv.org/abs/2310.19145)] 
 [[Code](https://github.com/tuhinjubcse/faithfuledits_emnlp2023)] 
 
+**Scale Your Instructions: Enhance the Instruction-Following Fidelity of Unified Image Generation Model by Self-Adaptive Attention Scaling** \
+[[ICCV 2025](https://arxiv.org/abs/2507.16240)] 
+[[Code](https://github.com/zhouchao-ops/SaaS)] 
+
 **Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning** \
 [[CVPR 2025](https://arxiv.org/abs/2503.18406)] 
 [[Code](https://github.com/SherryXTChen/Instruct-CLIP)] 
