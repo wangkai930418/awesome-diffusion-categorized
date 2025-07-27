@@ -338,6 +338,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2505.05829)]
 [[Code](https://github.com/ccccczzy/icc)]
 
+**SADA: Stability-guided Adaptive Diffusion Acceleration** \
+[[ICML 2025](https://arxiv.org/abs/2507.17135)]
+[[Code](https://github.com/Ting-Justin-Jiang/sada-icml)]
 
 **SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow** \
 [[ECCV 2024](https://arxiv.org/abs/2407.12718)]
@@ -529,6 +532,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.19348)]
 [[Project](https://euminds.github.io/motionecho/)]
 
+**Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
+[[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
+
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
 
@@ -699,6 +705,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Upsample What Matters: Region-Adaptive Latent Sampling for Accelerated Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2507.08422)]
+
+**Accelerating Parallel Diffusion Model Serving with Residual Compression** \
+[[Website](https://arxiv.org/abs/2507.17511)]
 
 
 ## Train-Free
@@ -1201,6 +1210,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **IRBridge: Solving Image Restoration Bridge with Pre-trained Generative Diffusion Models** \
 [[Website](https://arxiv.org/abs/2505.24406)]
 [[Code](https://github.com/HashWang-null/IRBridge)]
+
+**Degradation-Consistent Learning via Bidirectional Diffusion for Low-Light Image Enhancement** \
+[[Website](https://arxiv.org/abs/2507.18144)]
+[[Code](https://github.com/hejh8/BidDiff)]
 
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
@@ -4250,6 +4263,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Erasing Concept Combination from Text-to-Image Diffusion Model** \
 [[ICLR 2025](https://openreview.net/forum?id=OBjF5I4PWg)] 
 
+**An h-space Based Adversarial Attack for Protection Against Few-shot Personalization** \
+[[ACM MM 2025](https://arxiv.org/abs/2507.17554)] 
 
 **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** \
 [[Website](https://arxiv.org/abs/2412.20413)] 
@@ -4763,7 +4778,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.09472)] 
 [[Project](https://cammimic.github.io/)] 
 
-
+**Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA** \
+[[Website](https://arxiv.org/abs/2507.17963)] 
+[[Project](https://snap-research.github.io/zero-shot-dynamic-concepts/)] 
 
 **PhotoVerse: Tuning-Free Image Customization with Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2309.05793)] 
@@ -6045,6 +6062,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.08071)] 
 [[Project](https://aniketrege.github.io/cure/)] 
 [[Code](https://github.com/aniketrege/cure)]
+
+**Detail++: Training-Free Detail Enhancer for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2507.17853)] 
+[[Project](https://detail-plus-plus.github.io/)] 
+[[Code](https://github.com/clf28/Detail-plus-plus/tree/main)]
+
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
@@ -11081,6 +11104,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LoViC: Efficient Long Video Generation with Context Compression** \
 [[Website](https://arxiv.org/abs/2507.12952)]
 [[Project](https://jiangjiaxiu.github.io/lovic/)]
+
+**Captain Cinema: Towards Short Movie Generation** \
+[[Website](https://arxiv.org/abs/2507.18634)]
+[[Project](https://thecinema.ai/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
