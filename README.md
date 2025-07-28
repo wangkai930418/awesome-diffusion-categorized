@@ -2137,6 +2137,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Efficient Burst Super-Resolution with One-step Diffusion** \
 [[Website](https://arxiv.org/abs/2507.13607)]
 
+**RealisVSR: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2507.19138)]
 
 
 ## Personalized Restoration
@@ -6997,6 +6999,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis** \
 [[Website](https://arxiv.org/abs/2411.17769)]
 
+**Enhancing Reward Models for High-quality Image Generation: Beyond Text-Image Alignment** \
+[[Website](https://arxiv.org/abs/2507.19002)]
 
 
 ## Spatial Control
