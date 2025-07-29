@@ -1462,6 +1462,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling** \
 [[Website](https://arxiv.org/abs/2507.00790)]
 
+**Harnessing Diffusion-Yielded Score Priors for Image Restoration** \
+[[Website](https://arxiv.org/abs/2507.20590)]
+
 
 ## Colorization
 
@@ -1564,6 +1567,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Controllable Image Colorization with Instance-aware Texts and Masks** \
 [[Website](https://arxiv.org/abs/2505.08705)]
+
+**AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2507.20158)]
 
 
 ## Face Restoration
@@ -1996,6 +2002,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency** \
 [[Website](https://arxiv.org/abs/2501.10110)] 
 [[Project](https://xh9998.github.io/DiffVSR-project/)] 
+
+**RealisVSR: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2507.19138)] 
+[[Project](https://zws98.github.io/RealisVSR-project/)] 
 
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
@@ -6151,6 +6161,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2408.15660)] 
 [[Code](https://github.com/aimagelab/MAD)]
 
+**T2I-Copilot: A Training-Free Multi-Agent Text-to-Image System for Enhanced Prompt Interpretation and Interactive Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2507.20536)] 
+[[Code](https://github.com/SHI-Labs/T2I-Copilot)]
+
 **Alfie: Democratising RGBA Image Generation With No $$$** \
 [[ECCVW 2024](https://arxiv.org/abs/2408.14826)] 
 [[Code](https://github.com/aimagelab/Alfie)]
@@ -8243,6 +8257,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Rethink Sparse Signals for Pose-guided Text-to-image Generation** \
 [[Website]](https://arxiv.org/abs/2506.20983) 
+
+**LLMControl: Grounded Control of Text-to-Image Diffusion-based Synthesis with Multimodal LLMs** \
+[[Website]](https://arxiv.org/abs/2507.19939) 
 
 
 # Few-Shot 
@@ -11469,6 +11486,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2507.16310)]
+
+**Compositional Video Synthesis by Temporal Object-Centric Learning** \
+[[Website](https://arxiv.org/abs/2507.20855)]
+
 
 
 # Video Editing 
