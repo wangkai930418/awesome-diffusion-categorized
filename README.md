@@ -6633,6 +6633,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Preserve Anything: Controllable Image Synthesis with Object Preservation** \
 [[ICCV 2025](https://arxiv.org/abs/2506.22531)] 
 
+**Chain-of-Cooking:Cooking Process Visualization via Bidirectional Chain-of-Thought Guidance** \
+[[Website](https://arxiv.org/abs/2507.21529)] 
+
 **Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.10037)] 
 
