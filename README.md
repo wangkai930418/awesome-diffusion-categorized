@@ -3598,6 +3598,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
 [[Website](https://arxiv.org/abs/2506.20977)]
 
+**Locally Controlled Face Aging with Latent Diffusion Models** \
+[[Website](https://arxiv.org/abs/2507.21600)]
+
 **Learning Feature-Preserving Portrait Editing from Generated Pairs** \
 [[Website](https://arxiv.org/abs/2407.20455)]
 
@@ -6165,6 +6168,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICCV 2025](https://arxiv.org/abs/2507.20536)] 
 [[Code](https://github.com/SHI-Labs/T2I-Copilot)]
 
+**Multimodal LLMs as Customized Reward Models for Text-to-Image Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2507.21391)] 
+[[Code](https://github.com/sjz5202/LLaVA-Reward)]
+
 **Alfie: Democratising RGBA Image Generation With No $$$** \
 [[ECCVW 2024](https://arxiv.org/abs/2408.14826)] 
 [[Code](https://github.com/aimagelab/Alfie)]
@@ -8523,6 +8530,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.08677)] 
 [[Code](https://github.com/yeates/OmniPaint-Page/)] 
 
+**GuidPaint: Class-Guided Image Inpainting with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2507.21627)] 
+[[Code](https://github.com/wangqm518/GuidPaint)] 
+
 **AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03028.pdf)] 
 [[Project](https://addme-awesome.github.io/page/)]
@@ -8700,7 +8711,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Towards Seamless Borders: A Method for Mitigating Inconsistencies in Image Inpainting and Outpainting** \
 [[Website](https://arxiv.org/abs/2506.12530)] 
-
 
 
 # Layout Generation
