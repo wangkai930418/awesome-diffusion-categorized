@@ -1282,6 +1282,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Integrating Intermediate Layer Optimization and Projected Gradient Descent for Solving Inverse Problems with Diffusion Models** \
 [[ICML 2025](https://arxiv.org/abs/2505.20789)]
 
+**Exploiting Diffusion Prior for Task-driven Image Restoration** \
+[[ICCV 2025](https://arxiv.org/abs/2507.22459)]
+
 **Seeing Beyond Haze: Generative Nighttime Image Dehazing** \
 [[Website](https://arxiv.org/abs/2503.08073)]
 
@@ -5803,6 +5806,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://rl-diffusion.github.io/)] 
 [[Code](https://github.com/kvablack/ddpo-pytorch)] 
 
+**ShortFT: Diffusion Model Alignment via Shortcut-based Fine-Tuning** \
+[[ICCV 2025](https://arxiv.org/abs/2507.22604)] 
+[[Project](https://xiefan-guo.github.io/shortft/)] 
+[[Code](https://github.com/xiefan-guo/shortft)] 
+
 **Divide & Bind Your Attention for Improved Generative Semantic Nursing**\
 [[BMVC 2023 Oral](https://arxiv.org/abs/2307.10864)] 
 [[Project](https://sites.google.com/view/divide-and-bind)] 
@@ -7026,6 +7034,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Enhancing Reward Models for High-quality Image Generation: Beyond Text-Image Alignment** \
 [[Website](https://arxiv.org/abs/2507.19002)]
 
+**Test-time Prompt Refinement for Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2507.22076)]
+
 
 ## Spatial Control
 
@@ -8145,6 +8156,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls** \
 [[Website](https://arxiv.org/abs/2506.19741)] 
 [[Code](https://github.com/Luo-Yihong/NCT)]
+
+**LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing** \
+[[ICCV 2025 Oral](https://arxiv.org/abs/2507.22627)] 
+[[Project](https://intelligolabs.github.io/lots/)] 
 
 **Modulating Pretrained Diffusion Models for Multimodal Image Synthesis** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2302.12764)] 
