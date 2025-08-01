@@ -1468,6 +1468,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Harnessing Diffusion-Yielded Score Priors for Image Restoration** \
 [[Website](https://arxiv.org/abs/2507.20590)]
 
+**UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration** \
+[[Website](https://arxiv.org/abs/2507.23685)]
+
 
 ## Colorization
 
@@ -2784,6 +2787,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/Sylvie-X/DragLoRA)]
 
 **AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing** \
+[[Website](https://arxiv.org/abs/2507.23300)] 
+[[Code](https://github.com/CIawevy/FreeFine)]
+
+**Training-free Geometric Image Editing on Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.13301)] 
 [[Code](https://github.com/GPlaying/AttentionDrag)]
 
@@ -8285,6 +8292,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **LLMControl: Grounded Control of Text-to-Image Diffusion-based Synthesis with Multimodal LLMs** \
 [[Website]](https://arxiv.org/abs/2507.19939) 
+
+**DivControl: Knowledge Diversion for Controllable Image Generation** \
+[[Website]](https://arxiv.org/abs/2507.23620) 
 
 
 # Few-Shot 
