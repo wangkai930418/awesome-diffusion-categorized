@@ -1471,6 +1471,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration** \
 [[Website](https://arxiv.org/abs/2507.23685)]
 
+**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration** \
+[[Website](https://arxiv.org/abs/2504.08591)]
+
+
 
 ## Colorization
 
