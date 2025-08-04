@@ -5027,6 +5027,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I Adversarial Patches** \
 [[Website](https://arxiv.org/abs/2506.09538)] 
 
+**Steering Guidance for Personalized Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.00319)] 
+
 
 ## Mutiple Concepts
 
@@ -5110,6 +5113,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.02823)] 
 [[Code](https://github.com/guozinan126/MUSAR)] 
 
+**LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2508.00477)] 
+[[Code](https://github.com/Suchenl/LAMIC)] 
 
 **LoRACLR: Contrastive Adaptation for Customization of Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2412.09622)] 
@@ -6627,6 +6633,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MultiGen: Zero-shot Image Generation from Multi-modal Prompt** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01296.pdf)] 
+
+**YOLO-Count: Differentiable Object Counting for Text-to-Image Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2508.00728)] 
 
 **D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples** \
 [[ICML 2025](https://arxiv.org/abs/2505.22002)] 
@@ -11043,6 +11052,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.08456)]
 [[Project](https://choi403.github.io/ALG/)] 
 
+**TITAN-Guide: Taming Inference-Time AligNment for Guided Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.00289)]
+[[Project](https://titanguide.github.io/)] 
 
 **ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation** \
 [[Website](https://arxiv.org/abs/2410.20502)]
