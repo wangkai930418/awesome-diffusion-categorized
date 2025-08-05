@@ -3409,6 +3409,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.01908)]
 [[Code](https://github.com/hithqd/ReasonBrain)] 
 
+**The Promise of RL for Autoregressive Image Editing** \
+[[Website](https://arxiv.org/abs/2508.01119)]
+[[Code](https://github.com/mair-lab/EARL)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -4272,6 +4276,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.09363)] 
 [[Code](https://github.com/KevinLight831/SAGE)]
 
+**Personalized Safety Alignment for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.01151)] 
+[[Code](https://github.com/M-E-AGI-Lab/PSAlign)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -4438,6 +4446,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Towards Resilient Safety-driven Unlearning for Diffusion Models against Downstream Fine-tuning** \
 [[Website](https://arxiv.org/abs/2507.16302)] 
+
+**PromptSafe: Gated Prompt Tuning for Safe Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2508.01272)] 
+
 
 
 # New Concept Learning
@@ -5029,6 +5041,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Steering Guidance for Personalized Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2508.00319)] 
+
+**Subject or Style: Adaptive and Training-Free Mixture of LoRAs** \
+[[Website](https://arxiv.org/abs/2508.02165)] 
 
 
 ## Mutiple Concepts
@@ -7057,6 +7072,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Test-time Prompt Refinement for Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2507.22076)]
 
+**AttriCtrl: Fine-Grained Control of Aesthetic Attribute Intensity in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.02151)]
+
 
 ## Spatial Control
 
@@ -8752,6 +8770,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Towards Seamless Borders: A Method for Mitigating Inconsistencies in Image Inpainting and Outpainting** \
 [[Website](https://arxiv.org/abs/2506.12530)] 
+
+**DreamPainter: Image Background Inpainting for E-commerce Scenarios** \
+[[Website](https://arxiv.org/abs/2508.02155)] 
 
 
 # Layout Generation
@@ -11183,6 +11204,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Captain Cinema: Towards Short Movie Generation** \
 [[Website](https://arxiv.org/abs/2507.18634)]
 [[Project](https://thecinema.ai/)]
+
+**Versatile Transition Generation with Image-to-Video Diffusion** \
+[[Website](https://arxiv.org/abs/2508.01698)]
+[[Project](https://mwxely.github.io/projects/yang2025vtg/index)]
+
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
