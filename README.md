@@ -532,6 +532,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.19348)]
 [[Project](https://euminds.github.io/motionecho/)]
 
+**Forecasting When to Forecast: Accelerating Diffusion Models with Confidence-Gated Taylor** \
+[[Website](https://arxiv.org/abs/2508.02240)]
+[[Project](https://cg-taylor-acce.github.io/CG-Taylor/)]
+
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
 
@@ -3815,6 +3819,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MADI: Masking-Augmented Diffusion with Inference-Time Scaling for Visual Editing** \
 [[Website](https://arxiv.org/abs/2507.13401)]
 
+**LORE: Latent Optimization for Precise Semantic Control in Rectified Flow-based Image Editing** \
+[[Website](https://arxiv.org/abs/2508.03144)]
+
+**UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying** \
+[[Website](https://arxiv.org/abs/2508.03142)]
+
+
 
 ## Diffusion Models Inversion
 
@@ -3945,6 +3956,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing** \
 [[Website](https://arxiv.org/abs/2403.09468)] 
 [[Code](https://github.com/furiosa-ai/eta-inversion)] 
+
+**Transport-Guided Rectified Flow Inversion: Improved Image Editing Using Optimal Transport Theory** \
+[[Website](https://arxiv.org/abs/2508.02363)] 
+[[Code](https://github.com/marianlupascu/OT-Inversion)] 
 
 **Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2502.20376)] 
@@ -5346,6 +5361,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.07392)] 
 [[Code](https://github.com/dariant/ID-Booth)]
 
+**Devil is in the Detail: Towards Injecting Fine Details of Image Prompt in Image Generation via Conflict-free Guidance and Stratified Attention** \
+[[Website](https://arxiv.org/abs/2508.02004)] 
+[[Code](https://github.com/bttkm82/InDetail-IP)]
+
 **Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
 [[Website](https://arxiv.org/abs/2403.11781)] 
 [[Project](https://infinite-id.github.io/)] 
@@ -5718,6 +5737,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations** \
 [[Website](https://arxiv.org/abs/2507.04705)] 
+
+**MoCA: Identity-Preserving Text-to-Video Generation via Mixture of Cross Attention** \
+[[Website](https://arxiv.org/abs/2508.03034)] 
 
 
 # T2I Diffusion Model augmentation
@@ -7080,6 +7102,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **AttriCtrl: Fine-Grained Control of Aesthetic Attribute Intensity in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2508.02151)]
+
+**Diffusion Models with Adaptive Negative Sampling Without External Resources** \
+[[Website](https://arxiv.org/abs/2508.02973)]
 
 
 ## Spatial Control
