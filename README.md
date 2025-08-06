@@ -1474,6 +1474,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration** \
 [[Website](https://arxiv.org/abs/2504.08591)]
 
+**Diffusion Once and Done: Degradation-Aware LoRA for Efficient All-in-One Image Restoration** \
+[[Website](https://arxiv.org/abs/2508.03373)]
 
 
 ## Colorization
@@ -2615,6 +2617,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism** \
 [[Website](https://arxiv.org/abs/2412.09822)]
 [[Project](https://zhengjun-ai.github.io/dynamic-tryon-page/)]
+
+**DreamVVT: Mastering Realistic Video Virtual Try-On in the Wild via a Stage-Wise Diffusion Transformer Framework** \
+[[Website](https://arxiv.org/abs/2508.02807)]
+[[Project](https://virtu-lab.github.io/)]
 
 **Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction** \
 [[CVPR 2025](https://arxiv.org/abs/2505.16980)]
@@ -9011,6 +9017,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2409.06065)]
 [[Code](https://github.com/koninik/DiffusionPen)] 
 
+**Beyond Isolated Words: Diffusion Brush for Handwritten Text-Line Generation** \
+[[Website](https://arxiv.org/abs/2508.03256)]
+[[Code](https://github.com/dailenson/DiffBrush)] 
+
 **PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering** \
 [[CVPR 2025](https://arxiv.org/abs/2504.06632)]
 [[Project](https://poster-maker.github.io/)] 
@@ -11208,6 +11218,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Versatile Transition Generation with Image-to-Video Diffusion** \
 [[Website](https://arxiv.org/abs/2508.01698)]
 [[Project](https://mwxely.github.io/projects/yang2025vtg/index)]
+
+**V.I.P. : Iterative Online Preference Distillation for Efficient Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.03254)]
+[[Project](https://jiiiisoo.github.io/VIP.github.io/)]
 
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
