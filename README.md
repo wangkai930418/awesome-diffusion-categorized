@@ -2003,6 +2003,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.15591)] 
 [[Code](https://github.com/yjsunnn/DLoRAL)] 
 
+**QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2508.04485)] 
+[[Code](https://github.com/bowenchai/QuantVSR)] 
+
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
 [[Project](https://mmsr.kfmei.com/)] 
@@ -2411,6 +2415,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Retrieval Augmented Comic Image Generation** \
 [[Website](https://arxiv.org/abs/2506.12517)]
 
+**StorySync: Training-Free Subject Consistency in Text-to-Image Generation via Region Harmonization** \
+[[Website](https://arxiv.org/abs/2508.03735)]
 
 
 # Try On
@@ -2626,6 +2632,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.02807)]
 [[Project](https://virtu-lab.github.io/)]
 
+**One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose** \
+[[Website](https://arxiv.org/abs/2508.04559)]
+[[Project](https://onemodelforall.github.io/)]
+
 **Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction** \
 [[CVPR 2025](https://arxiv.org/abs/2505.16980)]
 
@@ -2709,6 +2719,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Video Virtual Try-on with Conditional Diffusion Transformer Inpainter** \
 [[Website](https://arxiv.org/abs/2506.21270)]
+
+**Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis** \
+[[Website](https://arxiv.org/abs/2508.04551)]
 
 
 # Drag Edit
@@ -4471,6 +4484,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PromptSafe: Gated Prompt Tuning for Safe Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2508.01272)] 
 
+**Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model** \
+[[Website](https://arxiv.org/abs/2508.04472)] 
 
 
 # New Concept Learning
@@ -7886,6 +7901,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 )] 
 [[Website](https://arxiv.org/abs/2308.12350)] 
 
+**Conditional Latent Diffusion Models for Zero-Shot Instance Segmentation** \
+[[ICCV 2025](https://arxiv.org/abs/2508.04122)] 
+
 **SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection** \
 [[CVPR 2024](https://arxiv.org/abs/2402.17323)] 
 
@@ -10439,6 +10457,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zonglinl.github.io/tlbvfi_page/)]
 [[Code](https://github.com/ZonglinL/TLBVFI)]
 
+**LayerT2V: Interactive Multi-Object Trajectory Layering for Video Generation** \
+[[Website](https://arxiv.org/abs/2508.04228)]
+[[Project](https://kr-panghu.github.io/LayerT2V/)]
+[[Code](https://github.com/Kr-Panghu/LayerT2V-public/)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -11248,6 +11271,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.03254)]
 [[Project](https://jiiiisoo.github.io/VIP.github.io/)]
 
+**IDCNet: Guided Video Diffusion for Metric-Consistent RGBD Scene Generation with Precise Camera Control** \
+[[Website](https://arxiv.org/abs/2508.04147)]
+[[Project](https://idcnet-scene.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
