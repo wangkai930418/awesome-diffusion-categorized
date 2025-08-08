@@ -1728,6 +1728,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.16572)] 
 [[Code](https://github.com/Freemasti/DiffO)] 
 
+**Steering One-Step Diffusion Model with Fidelity-Rich Decoder for Fast Image Compression** \
+[[Website](https://arxiv.org/abs/2508.04979)] 
+[[Code](https://github.com/zhengchen1999/SODEC)] 
 
 **Compressed Image Generation with Denoising Diffusion Codebook Models** \
 [[Website](https://arxiv.org/abs/2502.01189)] 
@@ -2507,6 +2510,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.08650)]
 [[Project](https://zhenchenwan.github.io/MF-VITON/)] 
 [[Code](https://github.com/ZhenchenWan/MF-VITON-High-Fidelity-Mask-Free-Virtual-Try-On-with-Minimal-Input)]
+
+**Voost: A Unified and Scalable Diffusion Transformer for Bidirectional Virtual Try-On and Try-Off** \
+[[Website](https://arxiv.org/abs/2508.04825)]
+[[Project](https://nxnai.github.io/Voost/)] 
+[[Code](https://github.com/nxnai/Voost)]
 
 **D4-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On** \
 [[ECCV 2024](https://arxiv.org/abs/2407.15111)]
@@ -6518,6 +6526,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2507.11554)] 
 [[Code](https://github.com/MIGHTYEZ/Inversion-DPO)] 
+
+**UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2508.05399)] 
+[[Code](https://github.com/furiosa-ai/uncage)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
