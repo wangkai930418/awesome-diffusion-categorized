@@ -11647,6 +11647,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Compositional Video Synthesis by Temporal Object-Centric Learning** \
 [[Website](https://arxiv.org/abs/2507.20855)]
 
+**PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation** \
+[[Website](https://arxiv.org/abs/2508.05091)]
 
 
 # Video Editing 
