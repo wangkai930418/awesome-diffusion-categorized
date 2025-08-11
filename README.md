@@ -802,6 +802,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2312.03209)]
 [[Project](https://github.com/Shenyi-Z/ToCa)]
 
+**Fewer Denoising Steps or Cheaper Per-Step Inference: Towards Compute-Optimal Diffusion Model Deployment** \
+[[ICCV 2025](https://arxiv.org/abs/2508.06160)]
+
 **Token Fusion: Bridging the Gap between Token Pruning and Token Merging** \
 [[WACV 2024](https://arxiv.org/abs/2312.01026)]
 
@@ -4494,6 +4497,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Zero-Residual Concept Erasure via Progressive Alignment in Text-to-Image Model** \
 [[Website](https://arxiv.org/abs/2508.04472)] 
+
+**UnGuide: Learning to Forget with LoRA-Guided Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.05755)] 
 
 
 # New Concept Learning
