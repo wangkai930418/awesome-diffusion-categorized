@@ -713,6 +713,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Accelerating Parallel Diffusion Model Serving with Residual Compression** \
 [[Website](https://arxiv.org/abs/2507.17511)]
 
+**SwiftVideo: A Unified Framework for Few-Step Video Generation through Trajectory-Distribution Alignment** \
+[[Website](https://arxiv.org/abs/2508.06082)]
+
 
 ## Train-Free
 
@@ -1483,6 +1486,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Diffusion Once and Done: Degradation-Aware LoRA for Efficient All-in-One Image Restoration** \
 [[Website](https://arxiv.org/abs/2508.03373)]
+
+**DiTVR: Zero-Shot Diffusion Transformer for Video Restoration** \
+[[Website](https://arxiv.org/abs/2508.07811)]
 
 
 ## Colorization
@@ -3015,6 +3021,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://yandex-research.github.io/invertible-cd/)] 
 [[Code](https://github.com/yandex-research/invertible-cd)] 
 
+**Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing** \
+[[ICCV 2025](https://arxiv.org/abs/2508.07519)] 
+[[Project](https://joonghyuk.com/exploring-mmdit-web/)] 
+[[Code](https://github.com/SNU-VGILab/exploring-mmdit)] 
+
 **ReFlex: Text-Guided Editing of Real Images in Rectified Flow via Mid-Step Feature Extraction and Attention Adaptation** \
 [[ICCV 2025](https://arxiv.org/abs/2507.01496)] 
 [[Project](https://wlaud1001.github.io/ReFlex/)] 
@@ -3624,6 +3635,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.14119)]
 [[Project](https://riko0.github.io/No-Humans-Required/)]
 
+**NEP: Autoregressive Image Editing via Next Editing Token Prediction** \
+[[Website](https://arxiv.org/abs/2508.06044)]
+[[Project](https://nep-bigai.github.io/)]
+
+**InstantEdit: Text-Guided Few-Step Image Editing with Piecewise Rectified Flow** \
+[[ICCV 2025](https://arxiv.org/abs/2508.06033)] 
+
 **h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02187)] 
 
@@ -3849,6 +3867,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying** \
 [[Website](https://arxiv.org/abs/2508.03142)]
 
+**DreamVE: Unified Instruction-based Image and Video Editing** \
+[[Website](https://arxiv.org/abs/2508.06080)]
 
 
 ## Diffusion Models Inversion
@@ -5596,6 +5616,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.22685)] 
 [[Code](https://anonymous.4open.science/r/Embedding-Adjustment/README.md)]
 
+**CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2508.07341)] 
+[[Code](https://github.com/KZF-kzf/CoAR)]
+
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09522)] 
 [[Project](https://prompt-plus.github.io/)] 
@@ -5701,6 +5725,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.23361)]
 [[Project](https://caiyuanhao1998.github.io/project/OmniVCus/)] 
 [[Code](https://github.com/caiyuanhao1998/Open-OmniVCus)]
+
+**LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation** \
+[[ACM MM 2025](https://arxiv.org/abs/2508.07603)]
+[[Code](https://github.com/ssugarwh/LaVieID)]
 
 **Magic-Me: Identity-Specific Video Customized Diffusion** \
 [[Website](https://arxiv.org/abs/2402.09368)]
@@ -8723,6 +8751,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EraserDiT: Fast Video Inpainting with Diffusion Transformer Model** \
 [[Website](https://arxiv.org/abs/2506.12853)] 
 [[Project](https://jieliu95.github.io/EraserDiT_demo/)]
+
+**MILD: Multi-Layer Diffusion Strategy for Complex and Precise Multi-IP Aware Human Erasing** \
+[[Website](https://arxiv.org/abs/2508.06543)] 
+[[Project](https://mild-multi-layer-diffusion.github.io/)]
 
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization** \
 [[ACM MM 2024](https://arxiv.org/abs/2408.03637)] 
