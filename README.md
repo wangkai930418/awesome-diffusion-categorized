@@ -2019,6 +2019,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.04485)] 
 [[Code](https://github.com/bowenchai/QuantVSR)] 
 
+**OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2508.08227)] 
+[[Code](https://github.com/wuer5/OMGSR)] 
+
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
 [[Project](https://mmsr.kfmei.com/)] 
@@ -3241,6 +3245,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://joyli-x.github.io/BPM/)] 
 [[Code](https://github.com/joyli-x/BPM)] 
 
+**CannyEdit: Selective Canny Control and Dual-Prompt Guidance for Training-Free Image Editing** \
+[[Website](https://arxiv.org/abs/2508.06937)] 
+[[Project](https://vaynexie.github.io/CannyEdit/)] 
+[[Code](https://github.com/vaynexie/CannyEdit)] 
+
+**Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided Region Control** \
+[[Website](https://arxiv.org/abs/2508.08134)] 
+[[Project](https://follow-your-shape.github.io/)] 
+[[Code](https://github.com/mayuelala/FollowYourShape)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -3457,6 +3471,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **The Promise of RL for Autoregressive Image Editing** \
 [[Website](https://arxiv.org/abs/2508.01119)]
 [[Code](https://github.com/mair-lab/EARL)] 
+
+**X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning** \
+[[Website](https://arxiv.org/abs/2508.07607)]
+[[Code](https://github.com/OPPO-Mente-Lab/X2Edit)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -3869,6 +3887,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamVE: Unified Instruction-based Image and Video Editing** \
 [[Website](https://arxiv.org/abs/2508.06080)]
+
+**Talk2Image: A Multi-Agent System for Multi-Turn Image Generation and Editing** \
+[[Website](https://arxiv.org/abs/2508.06916)]
+
+
 
 
 ## Diffusion Models Inversion
@@ -5115,6 +5138,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Subject or Style: Adaptive and Training-Free Mixture of LoRAs** \
 [[Website](https://arxiv.org/abs/2508.02165)] 
 
+**Comparison Reveals Commonality: Customized Image Generation through Contrastive Inversion** \
+[[Website](https://arxiv.org/abs/2508.07755)] 
+
 
 ## Mutiple Concepts
 
@@ -5933,6 +5959,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://sites.google.com/view/divide-and-bind)] 
 [[Code](https://github.com/boschresearch/Divide-and-Bind)] 
 
+**MultiRef: Controllable Image Generation with Multiple Visual References** \
+[[Website](https://arxiv.org/abs/2508.06905)] 
+[[Project](https://multiref.github.io/)] 
+[[Code](https://github.com/Dipsy0830/MultiRef-code)]
+
 **Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
 [[Website](https://arxiv.org/abs/2503.14275v1)] 
 [[Project](https://deepffff.github.io/sadis.github.io/)] 
@@ -6725,6 +6756,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Improving Diffusion-Based Image Synthesis with Context Prediction** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70058)] 
 [[Website](https://arxiv.org/abs/2401.02015)] 
+
+**LaRender: Training-Free Occlusion Control in Image Generation via Latent Rendering** \
+[[ICCV 2025 Oral](https://arxiv.org/abs/2508.07647)] 
 
 **Enhancing Compositional Text-to-Image Generation with Reliable Random Seeds** \
 [[ICLR 2025 Spotlight](https://arxiv.org/abs/2411.18810)] 
@@ -7919,6 +7953,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PDDM: Pseudo Depth Diffusion Model for RGB-PD Semantic Segmentation Based in Complex Indoor Scenes** \
 [[Website](https://arxiv.org/abs/2503.18393)] 
 [[Code](https://github.com/Oleki-xxh/PDDM)]
+
+**Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild** \
+[[Website](https://arxiv.org/abs/2508.07759)] 
+[[Code](https://github.com/wanghr64/cav-sam)]
 
 **EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=YqyTXmF8Y2)]
@@ -10511,6 +10549,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.04228)]
 [[Project](https://kr-panghu.github.io/LayerT2V/)]
 [[Code](https://github.com/Kr-Panghu/LayerT2V-public/)]
+
+**Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation** \
+[[Website](https://arxiv.org/abs/2508.07981)]
+[[Project](https://amap-ml.github.io/Omni-Effects.github.io/)]
+[[Code](https://github.com/AMAP-ML/Omni-Effects)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
