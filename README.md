@@ -111,6 +111,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.09864)]
 [[Project](https://hecoding.github.io/colorwave-page/)]
 
+**Exploring Palette based Color Guidance in Diffusion Models** \
+[[ACM MM 2025](https://arxiv.org/abs/2508.08754)]
+
+**Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2508.09131)]
+
 **DiffBrush:Just Painting the Art by Your Hands** \
 [[Website](https://arxiv.org/abs/2502.20904)]
 
@@ -1692,6 +1698,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LAFR: Efficient Diffusion-based Blind Face Restoration via Latent Codebook Alignment Adapter** \
 [[Website](https://arxiv.org/abs/2505.23462)]
 
+**Unlocking the Potential of Diffusion Priors in Blind Face Restoration** \
+[[Website](https://arxiv.org/abs/2508.08556)]
 
 
 ## Image Compression
@@ -2383,6 +2391,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.23275)]
 [[Project](https://chengyou-jia.github.io/T2IS-Home/)]
 
+**Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2309.09553)]
+
 **Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
 [[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
 
@@ -2743,6 +2754,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Two-Way Garment Transfer: Unified Diffusion Framework for Dressing and Undressing Synthesis** \
 [[Website](https://arxiv.org/abs/2508.04551)]
+
+**MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization** \
+[[Website](https://arxiv.org/abs/2508.08488)]
 
 
 # Drag Edit
@@ -4814,6 +4828,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2507.15249)] 
 [[Code](https://github.com/Monalissaa/FreeCus)] 
+
+**TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.08812)] 
+[[Code](https://github.com/YuqiPeng77/TARA)] 
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
