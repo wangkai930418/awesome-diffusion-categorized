@@ -4950,6 +4950,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2401.06105)] 
 [[Project](https://prompt-aligned.github.io/)] 
 
+**Per-Query Visual Concept Learning** \
+[[Website](https://arxiv.org/abs/2508.09045)] 
+[[Project](https://per-query-visual-concept-learning.github.io/)] 
+
 **Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.01179)] 
 
@@ -10572,6 +10576,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.07981)]
 [[Project](https://amap-ml.github.io/Omni-Effects.github.io/)]
 [[Code](https://github.com/AMAP-ML/Omni-Effects)]
+
+**RealisMotion: Decomposed Human Motion Control and Video Generation in the World Space** \
+[[Website](https://arxiv.org/abs/2508.08588)]
+[[Project](https://jingyunliang.github.io/RealisMotion/)]
+[[Code](https://github.com/JingyunLiang/RealisMotion)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
