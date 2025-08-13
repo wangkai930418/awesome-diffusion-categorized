@@ -10557,12 +10557,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jayleejia.github.io/FairyGen/)]
 [[Code](https://github.com/GVCLab/FairyGen)]
 
-**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation** \
+**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2507.12956)]
 [[Project](https://fantasy-amap.github.io/fantasy-portrait/)]
 [[Code](https://github.com/Fantasy-AMAP/fantasy-portrait)]
 
-**FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers** \
+**TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation** \
 [[Website](https://arxiv.org/abs/2507.04984)]
 [[Project](https://zonglinl.github.io/tlbvfi_page/)]
 [[Code](https://github.com/ZonglinL/TLBVFI)]
