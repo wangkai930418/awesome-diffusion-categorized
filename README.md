@@ -1602,6 +1602,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AnimeColor: Reference-based Animation Colorization with Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2507.20158)]
 
+**MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2508.09709)]
+
 
 ## Face Restoration
 
@@ -2194,6 +2197,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RealisVSR: Detail-enhanced Diffusion for Real-World 4K Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2507.19138)]
 
+**RASR: Retrieval-Augmented Super Resolution for Practical Reference-based Image Restoration** \
+[[Website](https://arxiv.org/abs/2508.09449)]
+
 
 ## Personalized Restoration
 
@@ -2322,6 +2328,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://siyuch-fdu.github.io/MangaDiffusion/)]
 [[Code](https://github.com/siyuch-fdu/MangaDiffusion)] 
 
+**Story2Board: A Training-Free Approach for Expressive Storyboard Generation** \
+[[Website](https://arxiv.org/abs/2508.09983)]
+[[Project](https://daviddinkevich.github.io/Story2Board/)]
+[[Code](https://github.com/daviddinkevich/Story2Board)] 
 
 **StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
 [[ECCV 2024](https://arxiv.org/abs/2404.05979)]
@@ -6771,6 +6781,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.24086)] 
 [[Project](https://zeeshank95.github.io/composeanything/ca.html)] 
 
+**Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models** \
+[[Website](https://arxiv.org/abs/2503.20240)] 
+[[Project](https://unconditional-priors-matter.github.io/)] 
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -7222,6 +7236,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Diffusion Models with Adaptive Negative Sampling Without External Resources** \
 [[Website](https://arxiv.org/abs/2508.02973)]
+
+**Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.09968)]
+
 
 
 ## Spatial Control
@@ -8349,6 +8367,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Noise Consistency Training: A Native Approach for One-Step Generator in Learning Additional Controls** \
 [[Website](https://arxiv.org/abs/2506.19741)] 
 [[Code](https://github.com/Luo-Yihong/NCT)]
+
+**Dual Recursive Feedback on Generation and Appearance Latents for Pose-Robust Text-to-Image Diffusion** \
+[[Website](https://arxiv.org/abs/2508.09575)] 
+[[Code](https://github.com/jwonkm/DRF)]
 
 **LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing** \
 [[ICCV 2025 Oral](https://arxiv.org/abs/2507.22627)] 
