@@ -2034,6 +2034,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.08227)] 
 [[Code](https://github.com/wuer5/OMGSR)] 
 
+**Ultra-High-Definition Reference-Based Landmark Image Super-Resolution with Generative Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2508.10779)] 
+[[Code](https://github.com/nkicsl/TriFlowSR)] 
+
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
 [[Project](https://mmsr.kfmei.com/)] 
@@ -3915,6 +3919,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Talk2Image: A Multi-Agent System for Multi-Turn Image Generation and Editing** \
 [[Website](https://arxiv.org/abs/2508.06916)]
 
+**TweezeEdit: Consistent and Efficient Image Editing with Path Regularization** \
+[[Website](https://arxiv.org/abs/2508.10498)]
 
 
 
@@ -7240,6 +7246,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2508.09968)]
 
+**Translation of Text Embedding via Delta Vector to Suppress Strongly Entangled Content in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.10407)]
 
 
 ## Spatial Control
@@ -8504,8 +8512,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DivControl: Knowledge Diversion for Controllable Image Generation** \
 [[Website]](https://arxiv.org/abs/2507.23620) 
 
+**NanoControl: A Lightweight Framework for Precise and Efficient Control in Diffusion Transformer** \
+[[Website]](https://arxiv.org/abs/2508.10424) 
+
+
 
 # Few-Shot 
+
 **Discriminative Diffusion Models as Few-shot Vision and Language Learners** \
 [[Website](https://arxiv.org/abs/2305.10722)] 
 [[Code](https://github.com/eric-ai-lab/dsd)]
@@ -10603,6 +10616,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.08588)]
 [[Project](https://jingyunliang.github.io/RealisMotion/)]
 [[Code](https://github.com/JingyunLiang/RealisMotion)]
+
+**Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation** \
+[[Website](https://arxiv.org/abs/2508.10774)]
+[[Project](https://ziplab.co/BLADE-Homepage/)]
+[[Code](https://github.com/ziplab/VIDEO-BLADE)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
