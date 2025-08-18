@@ -8527,6 +8527,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2205.15463)] 
 [[Code](https://github.com/georgosgeorgos/few-shot-diffusion-models)]
 
+**Noise Matters: Optimizing Matching Noise for Diffusion Classifiers** \
+[[Website](https://arxiv.org/abs/2508.11330)] 
+[[Code](https://github.com/HKUST-LongGroup/NoOp)]
+
 **Few-shot Semantic Image Synthesis with Class Affinity Transfer** \
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Careil_Few-Shot_Semantic_Image_Synthesis_With_Class_Affinity_Transfer_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2304.02321)] 
@@ -10621,6 +10625,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.10774)]
 [[Project](https://ziplab.co/BLADE-Homepage/)]
 [[Code](https://github.com/ziplab/VIDEO-BLADE)]
+
+**CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.11484)]
+[[Project](https://uknowsth.github.io/CineTrans/)]
+[[Code](https://github.com/UknowSth/CineTrans)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
