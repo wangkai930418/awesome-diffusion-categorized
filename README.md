@@ -11459,6 +11459,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.04147)]
 [[Project](https://idcnet-scene.github.io/)]
 
+**Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation** \
+[[Website](https://arxiv.org/abs/2508.12969)]
+[[Project](https://yo-ava.github.io/Compact-Attention.github.io/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
