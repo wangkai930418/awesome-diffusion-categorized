@@ -722,9 +722,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SwiftVideo: A Unified Framework for Few-Step Video Generation through Trajectory-Distribution Alignment** \
 [[Website](https://arxiv.org/abs/2508.06082)]
 
+**MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration** \
+[[Website](https://arxiv.org/abs/2508.12691)]
+
 
 ## Train-Free
-
 
 **AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
 [[NeurIPS 2024](https://arxiv.org/abs/2406.06911)]
@@ -3717,6 +3719,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Locally Controlled Face Aging with Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2507.21600)]
 
+**TimeMachine: Fine-Grained Facial Age Editing with Identity Preservation** \
+[[Website](https://arxiv.org/abs/2508.11284)]
+
+**Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping** \
+[[Website](https://arxiv.org/abs/2508.13065)]
+
 **Learning Feature-Preserving Portrait Editing from Generated Pairs** \
 [[Website](https://arxiv.org/abs/2407.20455)]
 
@@ -4573,6 +4581,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **UnGuide: Learning to Forget with LoRA-Guided Diffusion Models** \
 [[Website](https://arxiv.org/abs/2508.05755)] 
+
+**SafeCtrl: Region-Based Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress** \
+[[Website](https://arxiv.org/abs/2508.11904)] 
 
 
 # New Concept Learning
@@ -6277,6 +6288,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://detail-plus-plus.github.io/)] 
 [[Code](https://github.com/clf28/Detail-plus-plus/tree/main)]
 
+**S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.12880)] 
+[[Project](https://s2guidance.github.io/)] 
+[[Code](https://github.com/AMAP-ML/S2-Guidance)]
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
