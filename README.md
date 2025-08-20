@@ -7264,6 +7264,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Translation of Text Embedding via Delta Vector to Suppress Strongly Entangled Content in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2508.10407)]
 
+**SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2508.13866)]
+
+
 
 ## Spatial Control
 
@@ -8144,6 +8148,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models** \
 [[Website](https://arxiv.org/abs/2503.18947)] 
 
+**Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model** \
+[[Website](https://arxiv.org/abs/2508.13584)] 
 
 
 # Additional conditions 
