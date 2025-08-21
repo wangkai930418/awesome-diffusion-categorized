@@ -1498,6 +1498,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiTVR: Zero-Shot Diffusion Transformer for Video Restoration** \
 [[Website](https://arxiv.org/abs/2508.07811)]
 
+**Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration** \
+[[Website](https://arxiv.org/abs/2508.14483)]
+
 
 ## Colorization
 
@@ -7267,6 +7270,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SAGA: Learning Signal-Aligned Distributions for Improved Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2508.13866)]
 
+**CTA-Flux: Integrating Chinese Cultural Semantics into High-Quality English Text-to-Image Communities** \
+[[Website](https://arxiv.org/abs/2508.14405)]
+
+**TransLight: Image-Guided Customized Lighting Control with Generative Decoupling** \
+[[Website](https://arxiv.org/abs/2508.14814)]
+
 
 
 ## Spatial Control
@@ -7486,6 +7495,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation** \
 [[Website](https://arxiv.org/abs/2410.14324)] 
 [[Code](https://github.com/360CVGroup/HiCo_T2I)]
+
+**MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion** \
+[[Website](https://arxiv.org/abs/2508.14440)] 
+[[Code](https://github.com/pf0607/MUSE)]
 
 **StageDesigner: Artistic Stage Generation for Scenography via Theater Scripts** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02595)] 
@@ -12296,3 +12309,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Good Noise Makes Good Edits: A Training-Free Diffusion-Based Video Editing with Image and Text Prompts** \
 [[Website](https://arxiv.org/abs/2506.12520)]
+
+**DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing** \
+[[Website](https://arxiv.org/abs/2508.14465)]
