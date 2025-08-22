@@ -4588,6 +4588,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SafeCtrl: Region-Based Safety Control for Text-to-Image Diffusion via Detect-Then-Suppress** \
 [[Website](https://arxiv.org/abs/2508.11904)] 
 
+**VideoEraser: Concept Erasure in Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.15314)] 
+
+**Side Effects of Erasing Concepts from Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.15124)] 
+
 
 # New Concept Learning
 
