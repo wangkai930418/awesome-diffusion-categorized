@@ -545,6 +545,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
 
+**OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models** \
+[[ICCV 2025](https://arxiv.org/abs/2508.16212)]
+
 **FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.10356)]
 
@@ -724,6 +727,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2508.12691)]
+
+**Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2508.16211)]
+
 
 
 ## Train-Free
@@ -2063,6 +2070,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.19138)] 
 [[Project](https://zws98.github.io/RealisVSR-project/)] 
 
+**Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2508.16557)] 
+[[Project](https://zty557.github.io/TADSR_HomePage/)] 
+
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
@@ -2208,6 +2219,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **RASR: Retrieval-Augmented Super Resolution for Practical Reference-based Image Restoration** \
 [[Website](https://arxiv.org/abs/2508.09449)]
+
+**RAGSR: Regional Attention Guided Diffusion for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2508.16158)]
 
 
 ## Personalized Restoration
@@ -3508,6 +3522,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning** \
 [[Website](https://arxiv.org/abs/2508.07607)]
 [[Code](https://github.com/OPPO-Mente-Lab/X2Edit)] 
+
+**Visual Autoregressive Modeling for Instruction-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2508.15772)]
+[[Code](https://github.com/HiDream-ai/VAREdit)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -11488,6 +11506,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.12969)]
 [[Project](https://yo-ava.github.io/Compact-Attention.github.io/)]
 
+**WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception** \
+[[Website](https://arxiv.org/abs/2508.15720)]
+[[Project](https://johanan528.github.io/worldweaver_web/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -12030,6 +12052,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.22868)]
 [[Project](https://jslee525.github.io/str-match/)]
 [[Code](https://github.com/jslee525/STR-Match_official)] 
+
+**AnchorSync: Global Consistency Optimization for Long Video Editing** \
+[[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
+[[Code](https://github.com/VISION-SJTU/AnchorSync)]
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
