@@ -1623,6 +1623,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MangaDiT: Reference-Guided Line Art Colorization with Hierarchical Attention in Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2508.09709)]
 
+**Enhancing Reference-based Sketch Colorization via Separating Reference Representations** \
+[[Website](https://arxiv.org/abs/2508.17620)]
+
 
 ## Face Restoration
 
@@ -3540,6 +3543,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Visual Autoregressive Modeling for Instruction-Guided Image Editing** \
 [[Website](https://arxiv.org/abs/2508.15772)]
 [[Code](https://github.com/HiDream-ai/VAREdit)] 
+
+**SpotEdit: Evaluating Visually-Guided Image Editing Methods** \
+[[Website](https://arxiv.org/abs/2508.18159)]
+[[Code](https://github.com/SaraGhazanfari/SpotEdit)] 
+
+
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -6847,6 +6856,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.20240)] 
 [[Project](https://unconditional-priors-matter.github.io/)] 
 
+**CountLoop: Training-Free High-Instance Image Generation via Iterative Agent Guidance** \
+[[Website](https://arxiv.org/abs/2508.16644)] 
+[[Project](https://mondalanindya.github.io/CountLoop/)] 
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -8590,6 +8603,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **NanoControl: A Lightweight Framework for Precise and Efficient Control in Diffusion Transformer** \
 [[Website]](https://arxiv.org/abs/2508.10424) 
 
+**Condition Weaving Meets Expert Modulation: Towards Universal and Controllable Image Generation** \
+[[Website]](https://arxiv.org/abs/2508.17364) 
 
 
 # Few-Shot 
