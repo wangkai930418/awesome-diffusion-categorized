@@ -731,6 +731,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2508.16211)]
 
+**DiCache: Let Diffusion Model Determine Its Own Cache** \
+[[Website](https://arxiv.org/abs/2508.17356)]
+
+**HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching** \
+[[Website](https://arxiv.org/abs/2508.16984)]
+
 
 
 ## Train-Free
@@ -2223,6 +2229,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RAGSR: Regional Attention Guided Diffusion for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2508.16158)]
 
+**TinySR: Pruning Diffusion for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2508.17434)]
+
 
 ## Personalized Restoration
 
@@ -2572,6 +2581,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.04825)]
 [[Project](https://nxnai.github.io/Voost/)] 
 [[Code](https://github.com/nxnai/Voost)]
+
+**JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on** \
+[[Website](https://arxiv.org/abs/2508.17614)]
+[[Project](https://damocv.github.io/JCo-MVTON.github.io/)] 
+[[Code](https://github.com/damo-cv/JCo-MVTON)]
 
 **D4-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On** \
 [[ECCV 2024](https://arxiv.org/abs/2407.15111)]
@@ -7678,6 +7692,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **RaDL: Relation-aware Disentangled Learning for Multi-Instance Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2507.11947)] 
+
+**CEIDM: A Controlled Entity and Interaction Diffusion Model for Enhanced Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2508.17760)] 
 
 
 ## Poster
