@@ -8945,6 +8945,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.06543)] 
 [[Project](https://mild-multi-layer-diffusion.github.io/)]
 
+**ROSE: Remove Objects with Side Effects in Videos** \
+[[Website](https://arxiv.org/abs/2508.18633)] 
+[[Project](https://rose2025-inpaint.github.io/)]
+
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization** \
 [[ACM MM 2024](https://arxiv.org/abs/2408.03637)] 
 
