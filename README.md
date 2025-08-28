@@ -126,6 +126,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2409.02429)]
 
+**Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2508.19791)]
+
 
 # Accelerate
 
@@ -8217,6 +8220,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Temporal-Conditional Referring Video Object Segmentation with Noise-Free Text-to-Video Diffusion Model** \
 [[Website](https://arxiv.org/abs/2508.13584)] 
+
+**GS: Generative Segmentation via Label Diffusion** \
+[[Website](https://arxiv.org/abs/2508.20020)] 
+
 
 
 # Additional conditions 
