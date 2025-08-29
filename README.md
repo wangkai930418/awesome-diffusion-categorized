@@ -545,6 +545,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.02240)]
 [[Project](https://cg-taylor-acce.github.io/CG-Taylor/)]
 
+**POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.21019)]
+[[Project](https://pose-paper.github.io/)]
+
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
 
@@ -2661,6 +2665,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.03402)]
 [[Code](https://github.com/NDYBSNDY/Pose-Star)]
 
+**FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models** \
+[[Website](https://arxiv.org/abs/2508.20586)]
+[[Code](https://github.com/Zheng-Chong/FastFit)]
+
 **M&M VTO: Multi-Garment Virtual Try-On and Editing** \
 [[CVPR 2024 Highlight](https://arxiv.org/abs/2406.04542)]
 [[Project](https://mmvto.github.io/)]
@@ -2720,6 +2728,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose** \
 [[Website](https://arxiv.org/abs/2508.04559)]
 [[Project](https://onemodelforall.github.io/)]
+
+**Dress&Dance: Dress up and Dance as You Like It - Technical Preview** \
+[[Website](https://arxiv.org/abs/2508.21070)]
+[[Project](https://immortalco.github.io/DressAndDance/)]
 
 **Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction** \
 [[CVPR 2025](https://arxiv.org/abs/2505.16980)]
@@ -3745,6 +3757,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **InstantPortrait: One-Step Portrait Editing via Diffusion Multi-Objective Distillation** \
 [[ICLR 2025](https://openreview.net/forum?id=ZkFMe3OPfw)] 
+
+**Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent** \
+[[ICCV 2025](https://arxiv.org/abs/2508.20505)] 
 
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
@@ -6346,6 +6361,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://s2guidance.github.io/)] 
 [[Code](https://github.com/AMAP-ML/S2-Guidance)]
 
+**Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning** \
+[[Website](https://arxiv.org/abs/2508.20751)] 
+[[Project](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)] 
+[[Code](https://github.com/CodeGoat24/Pref-GRPO)]
+
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
 [[Code](https://github.com/soobin-um/MinorityPrompt)]
@@ -6702,6 +6722,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.05399)] 
 [[Code](https://github.com/furiosa-ai/uncage)] 
 
+**Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance** \
+[[Website](https://arxiv.org/abs/2508.21016)] 
+[[Code](https://github.com/jinluo12345/Reinforcement-learning-guidance)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -6862,6 +6886,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CountLoop: Training-Free High-Instance Image Generation via Iterative Agent Guidance** \
 [[Website](https://arxiv.org/abs/2508.16644)] 
 [[Project](https://mondalanindya.github.io/CountLoop/)] 
+
+**OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning** \
+[[Website](https://arxiv.org/abs/2508.21066)] 
+[[Project](https://one-reward.github.io/)] 
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
@@ -11552,6 +11580,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception** \
 [[Website](https://arxiv.org/abs/2508.15720)]
 [[Project](https://johanan528.github.io/worldweaver_web/)]
+
+**Mixture of Contexts for Long Video Generation** \
+[[Website](https://arxiv.org/abs/2508.21058)]
+[[Project](https://primecai.github.io/moc/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
