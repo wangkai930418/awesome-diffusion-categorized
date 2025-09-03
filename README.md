@@ -3929,6 +3929,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Training-Free Text-Guided Image Editing with Visual Autoregressive Model** \
 [[Website](https://arxiv.org/abs/2503.23897)]
 
+**Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing** \
+[[Website](https://arxiv.org/abs/2509.01984)]
+
 **SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow** \
 [[Website](https://arxiv.org/abs/2504.09697)]
 
@@ -3992,6 +3995,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TweezeEdit: Consistent and Efficient Image Editing with Path Regularization** \
 [[Website](https://arxiv.org/abs/2508.10498)]
 
+**LatentEdit: Adaptive Latent Control for Consistent Semantic Editing** \
+[[Website](https://arxiv.org/abs/2509.00541)]
 
 
 ## Diffusion Models Inversion
@@ -5317,6 +5322,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://bytedance.github.io/XVerse/)] 
 [[Code](https://github.com/bytedance/XVerse)] 
 
+**MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware Alignment and Disentanglement** \
+[[Website](https://arxiv.org/abs/2509.01977)] 
+[[Project](https://bytedance-fanqie-ai.github.io/MOSAIC/)] 
+[[Code](https://github.com/bytedance-fanqie-ai/MOSAIC)] 
+
 **Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation** \
 [[AAAI 2025](https://arxiv.org/abs/2409.17920)] 
 [[Code](https://github.com/hqhQAQ/MIP-Adapter)]
@@ -5356,6 +5366,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers** \
 [[Website](https://arxiv.org/abs/2505.23758)] 
 [[Project](https://lorashop.github.io/)] 
+
+**FocusDPO: Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus** \
+[[Website](https://arxiv.org/abs/2509.01181)] 
+[[Project](https://bytedance-fanqie-ai.github.io/FocusDPO/)] 
 
 **FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion** \
 [[Website](https://arxiv.org/abs/2502.05606)] 
@@ -6366,6 +6380,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)] 
 [[Code](https://github.com/CodeGoat24/Pref-GRPO)]
 
+**PractiLight: Practical Light Control Using Foundational Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.01837)] 
+[[Project](https://yoterel.github.io/PractiLight-project-page/)] 
+[[Code](https://github.com/yoterel/PractiLight)]
+
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
 [[Code](https://github.com/soobin-um/MinorityPrompt)]
@@ -6889,7 +6908,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning** \
 [[Website](https://arxiv.org/abs/2508.21066)] 
-[[Project](https://one-reward.github.io/)] 
+[[Project](https://one-reward.github.io/)]
+
+**Data-Driven Loss Functions for Inference-Time Optimization in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2509.02295)] 
+[[Project](https://learn-to-steer-paper.github.io/)]
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
@@ -7740,6 +7763,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CEIDM: A Controlled Entity and Interaction Diffusion Model for Enhanced Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2508.17760)] 
 
+**FICGen: Frequency-Inspired Contextual Disentanglement for Layout-driven Degraded Image Generation** \
+[[Website](https://arxiv.org/abs/2509.01107)] 
+
 
 ## Poster
 
@@ -8502,6 +8528,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Dual Recursive Feedback on Generation and Appearance Latents for Pose-Robust Text-to-Image Diffusion** \
 [[Website](https://arxiv.org/abs/2508.09575)] 
 [[Code](https://github.com/jwonkm/DRF)]
+
+**Mixture of Global and Local Experts with Diffusion Transformer for Controllable Face Generation** \
+[[Website](https://arxiv.org/abs/2509.00428)] 
+[[Code](https://github.com/XavierJiezou/Face-MoGLE)]
 
 **LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing** \
 [[ICCV 2025 Oral](https://arxiv.org/abs/2507.22627)] 
@@ -11585,6 +11615,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.21058)]
 [[Project](https://primecai.github.io/moc/)]
 
+**GenCompositor: Generative Video Compositing with Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2509.02460)]
+[[Project](https://gencompositor.github.io/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -12237,7 +12271,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2503.17641)]
 [[Project](https://o937-blip.github.io/InstructVEdit/)] 
 
-
+**O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing** \
+[[Website](https://arxiv.org/abs/2509.01596)]
+[[Project](https://cyqii.github.io/O-DisCo-Edit.github.io/)] 
 
 **Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation** \
 [[Website](https://arxiv.org/abs/2306.07954)]
