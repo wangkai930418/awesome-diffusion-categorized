@@ -2497,6 +2497,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **StorySync: Training-Free Subject Consistency in Text-to-Image Generation via Region Harmonization** \
 [[Website](https://arxiv.org/abs/2508.03735)]
 
+**Plot'n Polish: Zero-shot Story Visualization and Disentangled Editing with Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.04446)]
+
+**TaleDiffusion: Multi-Character Story Generation with Dialogue Rendering** \
+[[Website](https://arxiv.org/abs/2509.04123)]
+
 
 # Try On
 
