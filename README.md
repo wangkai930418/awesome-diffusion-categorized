@@ -863,9 +863,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 ## AR model
 
 **Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching** \
-[[Website](https://arxiv.org/abs/2412.17153)]
+[[ICLR 2025](https://arxiv.org/abs/2412.17153)]
 [[Project](https://imagination-research.github.io/distilled-decoding/)]
 [[Code](https://github.com/imagination-research/distilled-decoding)]
+
+**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
+[[ICLR 2025](https://arxiv.org/abs/2410.01699)]
+[[Code](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)]
+
+**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \
+[[ICLR 2025](https://arxiv.org/abs/2410.03355)]
+[[Code](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)]
 
 **Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation** \
 [[Website](https://arxiv.org/abs/2502.05415)]
@@ -874,13 +882,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping** \
 [[Website](https://www.arxiv.org/abs/2506.08908)]
 [[Code](https://github.com/fakerone-li/SkipVAR)]
-
-**Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding** \
-[[Website](https://arxiv.org/abs/2410.01699)]
-[[Code](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)]
-
-**LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \
-[[Website](https://arxiv.org/abs/2410.03355)]
 
 
 
@@ -8024,10 +8025,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/shoufachen/diffusiondet)]
 
 **OVTrack: Open-Vocabulary Multiple Object Tracking** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_OVTrack_Open-Vocabulary_Multiple_Object_Tracking_CVPR_2023_paper.html
-)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_OVTrack_Open-Vocabulary_Multiple_Object_Tracking_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2304.08408)] 
 [[Project](https://www.vis.xyz/pub/ovtrack/)] 
+
+**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
+[[CVPR 2024](https://arxiv.org/abs/2308.12469)] 
+[[Project](https://sites.google.com/view/diffseg/home)] 
+[[Code](https://github.com/google/diffseg)]
 
 **SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71719)] 
@@ -8043,11 +8048,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2406.02842)] 
 [[Project](https://diffcut-segmentation.github.io/)] 
 [[Code](https://github.com/PaulCouairon/DiffCut)]
-
-**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion** \
-[[Website](https://arxiv.org/abs/2308.12469)] 
-[[Project](https://sites.google.com/view/diffseg/home)] 
-[[Code](https://github.com/PotatoTian/DiffSeg)]
 
 **InstaGen: Enhancing Object Detection by Training on Synthetic Dataset** \
 [[Website](https://arxiv.org/abs/2402.05937)] 
