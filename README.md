@@ -2830,6 +2830,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization** \
 [[Website](https://arxiv.org/abs/2508.08488)]
 
+**LUIVITON: Learned Universal Interoperable VIrtual Try-ON** \
+[[Website](https://arxiv.org/abs/2509.05030)]
 
 # Drag Edit
 
@@ -2844,6 +2846,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)] 
 [[Code](https://github.com/XingangPan/DragGAN)]
 
+**Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping** \
+[[ICCV 2025](https://arxiv.org/abs/2509.04582)] 
+[[Project](https://visual-ai.github.io/inpaint4drag/)] 
+[[Code](https://github.com/Visual-AI/Inpaint4Drag)]
 
 **Readout Guidance: Learning Control from Diffusion Features** \
 [[CVPR 2024 Highlight](https://arxiv.org/abs/2312.02150)] 
@@ -6775,6 +6781,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2503.09864)] 
 [[Project](https://hecoding.github.io/colorwave-page/)] 
+
+**PromptEnhancer: A Simple Approach to Enhance Text-to-Image Models via Chain-of-Thought Prompt Rewriting** \
+[[Website](https://arxiv.org/abs/2509.04545)] 
+[[Project](https://hunyuan-promptenhancer.github.io/)] 
 
 **Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG** \
 [[Website](https://arxiv.org/abs/2412.09614)] 
