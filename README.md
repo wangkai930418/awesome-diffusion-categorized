@@ -1733,6 +1733,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Unlocking the Potential of Diffusion Priors in Blind Face Restoration** \
 [[Website](https://arxiv.org/abs/2508.08556)]
 
+**BIR-Adapter: A Low-Complexity Diffusion Model Adapter for Blind Image Restoration** \
+[[Website](https://arxiv.org/abs/2509.06904)]
+
+
 
 ## Image Compression
 
@@ -3576,7 +3580,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.18159)]
 [[Code](https://github.com/SaraGhazanfari/SpotEdit)] 
 
-
+**Delta Velocity Rectified Flow for Text-to-Image Editing** \
+[[Website](https://arxiv.org/abs/2509.05342)]
+[[Code](https://github.com/gaspardbd/DeltaVelocityRectifiedFlow)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -4671,6 +4677,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Side Effects of Erasing Concepts from Diffusion Models** \
 [[Website](https://arxiv.org/abs/2508.15124)] 
 
+**SuMa: A Subspace Mapping Approach for Robust and Effective Concept Erasure in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.05625)] 
 
 # New Concept Learning
 
@@ -4945,6 +4953,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2508.08812)] 
 [[Code](https://github.com/YuqiPeng77/TARA)] 
+
+**TIDE: Achieving Balanced Subject-Driven Image Generation via Target-Instructed Diffusion Enhancement** \
+[[Website](https://arxiv.org/abs/2509.06499)] 
+[[Code](https://github.com/KomJay520/TIDE)] 
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
@@ -5620,6 +5632,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PositionIC: Unified Position and Identity Consistency for Image Customization** \
 [[Website](https://arxiv.org/abs/2507.13861)] 
 
+**EditIDv2: Editable ID Customization with Data-Lubricated ID Feature Integration for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2509.05659)] 
 
 ## General Concept 
 
@@ -6758,6 +6772,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.21016)] 
 [[Code](https://github.com/jinluo12345/Reinforcement-learning-guidance)] 
 
+**Interleaving Reasoning for Better Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2509.06945)] 
+[[Code](https://github.com/Osilly/Interleaving-Reasoning-Generation)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -7398,6 +7416,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TransLight: Image-Guided Customized Lighting Control with Generative Decoupling** \
 [[Website](https://arxiv.org/abs/2508.14814)]
 
+**Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference** \
+[[Website](https://arxiv.org/abs/2509.06942)]
+
+**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.06040)]
 
 
 ## Spatial Control
@@ -11997,6 +12020,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **PoseGen: In-Context LoRA Finetuning for Pose-Controllable Long Human Video Generation** \
 [[Website](https://arxiv.org/abs/2508.05091)]
+
+**Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training** \
+[[Website](https://arxiv.org/abs/2509.06723)]
 
 
 # Video Editing 
