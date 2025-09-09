@@ -5560,6 +5560,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://chelsea234.github.io/Dense-Face.github.io/)] 
 [[Code](https://github.com/CHELSEA234/Dense-Face)]
 
+**UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward** \
+[[Website](https://arxiv.org/abs/2509.06818)] 
+[[Project](https://bytedance.github.io/UMO/)] 
+[[Code](https://github.com/bytedance/UMO)]
+
 **High-fidelity Person-centric Subject-to-Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
 [[Code](https://github.com/codegoat24/face-diffuser)] 
