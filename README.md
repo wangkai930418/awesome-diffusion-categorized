@@ -7427,6 +7427,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2509.06040)]
 
+**Reconstruction Alignment Improves Unified Multimodal Models** \
+[[Website](https://arxiv.org/abs/2509.07295)]
+
 
 ## Spatial Control
 
@@ -8576,6 +8579,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Mixture of Global and Local Experts with Diffusion Transformer for Controllable Face Generation** \
 [[Website](https://arxiv.org/abs/2509.00428)] 
 [[Code](https://github.com/XavierJiezou/Face-MoGLE)]
+
+**Universal Few-Shot Spatial Control for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.07530)] 
+[[Code](https://github.com/kietngt00/UFC)]
 
 **LOTS of Fashion! Multi-Conditioning for Image Generation via Sketch-Text Pairing** \
 [[ICCV 2025 Oral](https://arxiv.org/abs/2507.22627)] 
@@ -12039,10 +12046,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://fate-zero-edit.github.io/)] 
 [[Code](https://github.com/ChenyangQiQi/FateZero)]
 
+
 **Text2LIVE: Text-Driven Layered Image and Video Editing** \
 [[ECCV 2022 Oral](https://arxiv.org/abs/2204.02491)]
 [[Project](https://text2live.github.io/)] 
 [[code](https://github.com/omerbt/Text2LIVE)]
+
+**ANYPORTAL: Zero-Shot Consistent Video Background Replacement** \
+[[ICCV 2025](https://arxiv.org/abs/2509.07472)]
+[[Project](https://gaowenshuo.github.io/AnyPortal/)] 
+[[Code](https://github.com/gaowenshuo/AnyPortalCode)] 
+
 
 **VideoGrain: Modulating Space-Time Attention for Multi-grained Video Editing** \
 [[ICLR 2025](https://arxiv.org/abs/2502.17258)]
