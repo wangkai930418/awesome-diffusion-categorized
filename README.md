@@ -114,6 +114,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Exploring Palette based Color Guidance in Diffusion Models** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.08754)]
 
+**Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation** \
+[[ACM MM 2025](https://arxiv.org/abs/2509.10058)]
+
 **Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2508.09131)]
 
@@ -383,6 +386,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2502.01441)]
 [[Code](https://github.com/quandao10/sLCT/)]
 
+
+**Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching** \
+[[ACM MM 2025](https://arxiv.org/abs/2509.10312)]
+[[Code](https://github.com/Shenyi-Z/Cache4Diffusion)]
 
 **CacheQuant: Comprehensively Accelerated Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01323)]
@@ -2246,6 +2253,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TinySR: Pruning Diffusion for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2508.17434)]
+
+**Realism Control One-step Diffusion for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2509.10122)]
 
 
 ## Personalized Restoration
