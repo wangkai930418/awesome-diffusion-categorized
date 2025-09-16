@@ -483,6 +483,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.18251)]
 [[Code](https://github.com/deep-optimization/Morse)]
 
+**SpeCa: Accelerating Diffusion Transformers with Speculative Feature Caching** \
+[[Website](https://arxiv.org/abs/2509.11628)]
+[[Code](https://github.com/Shenyi-Z/Cache4Diffusion/)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -2994,6 +2998,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DragNeXt: Rethinking Drag-Based Image Editing** \
 [[Website](https://arxiv.org/abs/2506.07611)] 
 
+**LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence** \
+[[Website](https://arxiv.org/abs/2509.12203)] 
 
 
 # Text Guided Image Editing
@@ -7440,6 +7446,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Reconstruction Alignment Improves Unified Multimodal Models** \
 [[Website](https://arxiv.org/abs/2509.07295)]
 
+**Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration** \
+[[Website](https://arxiv.org/abs/2509.10704)]
+
 
 ## Spatial Control
 
@@ -7823,6 +7832,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FICGen: Frequency-Inspired Contextual Disentanglement for Layout-driven Degraded Image Generation** \
 [[Website](https://arxiv.org/abs/2509.01107)] 
+
+**Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking** \
+[[Website](https://arxiv.org/abs/2509.12046)] 
+
 
 
 ## Poster
