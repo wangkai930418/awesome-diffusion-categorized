@@ -2329,15 +2329,35 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://omriavrahami.com/the-chosen-one/)] 
 [[Code](https://github.com/ZichengDuan/TheChosenOne)]
 
+**StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation** \
+[[NeurIPS 2024](https://arxiv.org/abs/2405.01434)]
+[[Project](https://storydiffusion.github.io/)]
+[[Code](https://github.com/HVision-NKU/StoryDiffusion)]
+
 **OneActor: Consistent Character Generation via Cluster-Conditioned Guidance** \
 [[NeurIPS 2024](https://arxiv.org/abs/2404.10267)] 
 [[Project](https://johnneywang.github.io/OneActor-webpage/)] 
 [[Code](https://github.com/JoHnneyWang/OneActor)] 
 
+**StoryGPT-V: Large Language Models as Consistent Story Visualizers** \
+[[CVPR 2025](https://arxiv.org/abs/2312.02252)]
+[[Project](https://storygpt-v.s3.amazonaws.com/index.html)]
+[[Code](https://github.com/xiaoqian-shen/StoryGPT-V)] 
+
 **DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation** \
-[[Website](https://arxiv.org/abs/2412.07589)]
+[[CVPR 2025](https://arxiv.org/abs/2412.07589)]
 [[Project](https://jianzongwu.github.io/projects/diffsensei/)]
 [[Code](https://github.com/jianzongwu/DiffSensei)]
+
+**TaleCrafter: Interactive Story Visualization with Multiple Characters** \
+[[SIGGRAPH Asia 2023](https://arxiv.org/abs/2305.18247)]
+[[Project](https://ailab-cvc.github.io/TaleCrafter/)]
+[[Code](https://github.com/AILab-CVC/TaleCrafter)] 
+
+**ShowHowTo: Generating Scene-Conditioned Step-by-Step Visual Instructions** \
+[[CVPR 2025](https://arxiv.org/abs/2412.01987)]
+[[Project](https://soczech.github.io/showhowto/)]
+[[Code](https://github.com/soCzech/showhowto)] 
 
 **AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation** \
 [[Website](https://arxiv.org/abs/2406.01388)]
@@ -2349,25 +2369,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://contrastive-concept-instantiation.github.io/)]
 [[Code](https://github.com/contrastive-concept-instantiation/cocoins)]
 
-**StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation** \
-[[Website](https://arxiv.org/abs/2405.01434)]
-[[Project](https://storydiffusion.github.io/)]
-[[Code](https://github.com/HVision-NKU/StoryDiffusion)]
-
-**StoryGPT-V: Large Language Models as Consistent Story Visualizers** \
-[[Website](https://arxiv.org/abs/2312.02252)]
-[[Project](https://storygpt-v.s3.amazonaws.com/index.html)]
-[[Code](https://github.com/xiaoqian-shen/StoryGPT-V)] 
-
 **Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation** \
 [[Website](https://arxiv.org/abs/2307.06940)]
 [[Project](https://ailab-cvc.github.io/Animate-A-Story/)]
 [[Code](https://github.com/AILab-CVC/Animate-A-Story)] 
-
-**TaleCrafter: Interactive Story Visualization with Multiple Characters** \
-[[Website](https://arxiv.org/abs/2305.18247)]
-[[Project](https://ailab-cvc.github.io/TaleCrafter/)]
-[[Code](https://github.com/AILab-CVC/TaleCrafter)] 
 
 **Story-Adapter: A Training-free Iterative Framework for Long Story Visualization** \
 [[Website](https://arxiv.org/abs/2410.06244)]
@@ -2379,11 +2384,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://dreamrunner-story2video.github.io/)]
 [[Code](https://github.com/wz0919/DreamRunner)] 
 
-**ShowHowTo: Generating Scene-Conditioned Step-by-Step Visual Instructions** \
-[[Website](https://arxiv.org/abs/2412.01987)]
-[[Project](https://soczech.github.io/showhowto/)]
-[[Code](https://github.com/soCzech/showhowto)] 
-
 **Manga Generation via Layout-controllable Diffusion** \
 [[Website](https://arxiv.org/abs/2412.19303)]
 [[Project](https://siyuch-fdu.github.io/MangaDiffusion/)]
@@ -2393,6 +2393,21 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.09983)]
 [[Project](https://daviddinkevich.github.io/Story2Board/)]
 [[Code](https://github.com/daviddinkevich/Story2Board)] 
+
+**MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising** \
+[[Website](https://arxiv.org/abs/2312.10899)]
+[[Project](https://magicscroll.github.io/)]
+[[Code](https://github.com/transient-saliency/MagicScroll)] 
+
+**Why Settle for One? Text-to-ImageSet Generation and Evaluation** \
+[[Website](https://arxiv.org/abs/2506.23275)]
+[[Project](https://chengyou-jia.github.io/T2IS-Home/)]
+[[Code](https://github.com/chengyou-jia/T2IS)] 
+
+**DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion** \
+[[Website](https://arxiv.org/abs/2407.12899)]
+[[Project](https://dream-xyz.github.io/dreamstory)]
+[[Code](https://github.com/hehuiguo/DreamStory)] 
 
 **StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
 [[ECCV 2024](https://arxiv.org/abs/2404.05979)]
@@ -2405,6 +2420,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization** \
 [[AAAI 2025](https://arxiv.org/abs/2412.07375)]
 [[Code](https://github.com/Aria-Zhangjl/StoryWeaver)]
+
+**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models** \
+[[AAAI 2025](https://arxiv.org/abs/2407.02482)]
+[[Code](https://github.com/muzishen/RCDMs)]
 
 **StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation** \
 [[Website](https://arxiv.org/abs/2409.12576)]
@@ -2430,25 +2449,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2308.11606)]
 [[Code](https://github.com/google/storybench)]
 
-**Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models** \
-[[Website](https://arxiv.org/abs/2407.02482)]
-[[Code](https://github.com/muzishen/RCDMs)]
-
 **Subject-Consistent and Pose-Diverse Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2507.08396)]
 [[Code](https://github.com/NJU-PCALab/CoDi)]
 
-**DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion** \
-[[Website](https://arxiv.org/abs/2407.12899)]
-[[Project](https://dream-xyz.github.io/dreamstory)]
-
 **Multi-Shot Character Consistency for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2412.07750)]
 [[Project](https://research.nvidia.com/labs/par/video_storyboarding/)]
-
-**MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoising** \
-[[Website](https://arxiv.org/abs/2312.10899)]
-[[Project](https://magicscroll.github.io/)]
 
 **ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation** \
 [[Website](https://arxiv.org/abs/2505.20626)]
@@ -2458,12 +2465,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.18900)]
 [[Project](https://auditandrepair.github.io/)]
 
-**Why Settle for One? Text-to-ImageSet Generation and Evaluation** \
-[[Website](https://arxiv.org/abs/2506.23275)]
-[[Project](https://chengyou-jia.github.io/T2IS-Home/)]
-
 **Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation** \
-[[ICCV 2025](https://arxiv.org/abs/2309.09553)]
+[[ICCV 2025](https://arxiv.org/abs/2508.08949)]
 
 **Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
 [[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
