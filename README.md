@@ -13,6 +13,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Accelerate](#accelerate)
     - [Train-Free](#train-free)
     - [AR model](#ar-model)
+    - [VAR model](#var-model)
 - [Image Restoration](#image-restoration)
     - [Colorization](#colorization)
     - [Face Restoration](#face-restoration)
