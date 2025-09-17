@@ -140,7 +140,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Diffusers 1](https://huggingface.co/docs/diffusers/main/en/api/pipelines/pixart)]
 [[Diffusers 2](https://huggingface.co/PixArt-alpha/PixArt-XL-2-1024-MS)]
 [[Project](https://pixart-alpha.github.io/)]
-[[Code](https://github.com/PixArt-alpha/PixArt-alpha?tab=readme-ov-file)]
+[[Code](https://github.com/PixArt-alpha/PixArt-alpha)]
 
 **SDXL-Turbo: Adversarial Diffusion Distillation** \
 [[Website](https://arxiv.org/abs/2311.17042)]
@@ -871,6 +871,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas** \
 [[Website](https://arxiv.org/abs/2506.03275)]
 
+
 ## AR model
 
 **Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching** \
@@ -890,11 +891,37 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.05415)]
 [[Code](https://github.com/zhijie-group/Show-o-Turbo)]
 
+**SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL** \
+[[Website](https://arxiv.org/abs/2504.11455)]
+[[Code](https://github.com/wdrink/SimpleAR)]
+
+
+## VAR model
+
+**Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient** \
+[[CVPR 2025](https://arxiv.org/abs/2411.17787)]
+[[Project](https://czg1225.github.io/CoDe_page/)]
+[[Code](https://github.com/czg1225/CoDe)]
+
+**FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning** \
+[[ICCV 2025](https://arxiv.org/abs/2503.23367)]
+[[Project](https://fastvar.github.io/)]
+[[Code](https://github.com/csguoh/FastVAR)]
+
+**Memory-Efficient Visual Autoregressive Modeling with Scale-Aware KV Cache Compression** \
+[[Website](https://arxiv.org/abs/2505.19602)]
+[[Code](https://github.com/StargazerX0/ScaleKV)]
+
 **SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping** \
-[[Website](https://www.arxiv.org/abs/2506.08908)]
+[[Website](https://arxiv.org/abs/2506.08908)]
 [[Code](https://github.com/fakerone-li/SkipVAR)]
 
+**Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis** \
+[[Website](https://arxiv.org/abs/2507.20454v1)]
+[[Code](https://github.com/Caesarhhh/SparseVAR)]
 
+**LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization** \
+[[Website](https://arxiv.org/abs/2411.17178)]
 
 
 # Image Restoration
