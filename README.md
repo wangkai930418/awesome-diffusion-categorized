@@ -3603,6 +3603,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.05342)]
 [[Code](https://github.com/gaspardbd/DeltaVelocityRectifiedFlow)] 
 
+**Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder** \
+[[Website](https://arxiv.org/abs/2509.12883)]
+[[Code](https://github.com/xiaomi-research/lego-edit)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
