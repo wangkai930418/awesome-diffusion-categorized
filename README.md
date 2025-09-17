@@ -4168,6 +4168,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.02363)] 
 [[Code](https://github.com/marianlupascu/OT-Inversion)] 
 
+**Runge-Kutta Approximation and Decoupled Attention for Rectified Flow Inversion and Semantic Editing** \
+[[Website](https://arxiv.org/abs/2509.12888v1)] 
+[[Code](https://github.com/wmchen/RKSovler_DDTA)] 
+
 **Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2502.20376)] 
 [[Project](https://tight-inversion.github.io/)] 
