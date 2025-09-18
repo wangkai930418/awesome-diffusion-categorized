@@ -3821,6 +3821,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.06044)]
 [[Project](https://nep-bigai.github.io/)]
 
+**From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
+[[NeurIPS 2025](https://arxiv.org/abs/2506.20977)]
+
 **InstantEdit: Text-Guided Few-Step Image Editing with Piecewise Rectified Flow** \
 [[ICCV 2025](https://arxiv.org/abs/2508.06033)] 
 
@@ -3849,9 +3852,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models** \
 [[CVPR 2023 AI4CC Workshop](https://arxiv.org/abs/2305.15779)] 
-
-**From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
-[[Website](https://arxiv.org/abs/2506.20977)]
 
 **Locally Controlled Face Aging with Latent Diffusion Models** \
 [[Website](https://arxiv.org/abs/2507.21600)]
@@ -6125,6 +6125,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/Sainzerjj/Free-Guidance-Diffusion)]
 
 
+**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
+[[NeurIPS 2025](https://arxiv.org/abs/2503.14275v1)] 
+[[Project](https://deepffff.github.io/sadis.github.io/)] 
+[[Code](https://github.com/deepffff/SADis)]
+
 **Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability** \
 [[CVPR 2025](https://arxiv.org/abs/2505.03097)] 
 [[Project](https://gudaochangsheng.github.io/MaskUnet-Page/)] 
@@ -6186,11 +6191,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.06905)] 
 [[Project](https://multiref.github.io/)] 
 [[Code](https://github.com/Dipsy0830/MultiRef-code)]
-
-**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
-[[Website](https://arxiv.org/abs/2503.14275v1)] 
-[[Project](https://deepffff.github.io/sadis.github.io/)] 
-[[Code](https://github.com/deepffff/SADis)]
 
 **IP-Composer: Semantic Composition of Visual Concepts** \
 [[Website](https://arxiv.org/abs/2502.13951)] 
