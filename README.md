@@ -756,6 +756,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HiCache: Training-free Acceleration of Diffusion Models via Hermite Polynomial-based Feature Caching** \
 [[Website](https://arxiv.org/abs/2508.16984)]
 
+**SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation** \
+[[Website](https://arxiv.org/abs/2509.13848)]
+
+**BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching** \
+[[Website](https://arxiv.org/abs/2509.13789)]
 
 
 ## Train-Free
