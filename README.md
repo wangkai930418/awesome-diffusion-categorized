@@ -3839,6 +3839,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Describe, Don't Dictate: Semantic Image Editing with Natural Language Intent** \
 [[ICCV 2025](https://arxiv.org/abs/2508.20505)] 
 
+**AutoEdit: Automatic Hyperparameter Tuning for Image Editing** \
+[[NeurIPS 2025](https://arxiv.org/abs/2509.15031)] 
+
 **Iterative Multi-granular Image Editing using Diffusion Models** \
 [[WACV 2024](https://arxiv.org/abs/2309.00613)] 
 
