@@ -6038,6 +6038,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.07848)] 
 [[Project](https://sjtuplayer.github.io/projects/PolyVivid/)] 
 
+**Lynx: Towards High-Fidelity Personalized Video Generation** \
+[[Website](https://arxiv.org/abs/2509.15496)] 
+[[Project](https://byteaigc.github.io/Lynx/)] 
+
 **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** \
 [[Website](https://arxiv.org/abs/2505.02192)] 
 
@@ -7495,6 +7499,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration** \
 [[Website](https://arxiv.org/abs/2509.10704)]
+
+**DiffusionNFT: Online Diffusion Reinforcement with Forward Process** \
+[[Website](https://arxiv.org/abs/2509.16117)]
+
 
 
 ## Spatial Control
@@ -10910,6 +10918,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.11484)]
 [[Project](https://uknowsth.github.io/CineTrans/)]
 [[Code](https://github.com/UknowSth/CineTrans)]
+
+**WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance** \
+[[Website](https://arxiv.org/abs/2509.15130)]
+[[Project](https://worldforge-agi.github.io/)]
+[[Code](https://github.com/Westlake-AGI-Lab/WorldForge)]
 
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
