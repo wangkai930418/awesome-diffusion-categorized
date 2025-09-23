@@ -1566,6 +1566,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration** \
 [[Website](https://arxiv.org/abs/2508.14483)]
 
+**OS-DiffVSR: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2509.16507)]
 
 ## Colorization
 
@@ -4376,6 +4378,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Can Synthetic Images Conquer Forgetting? Beyond Unexplored Doubts in Few-Shot Class-Incremental Learning** \
 [[Website](https://arxiv.org/abs/2507.13739)] 
 
+**VidCLearn: A Continual Learning Approach for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2509.16956)] 
+
 
 # Remove Concept
 
@@ -4742,6 +4747,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SuMa: A Subspace Mapping Approach for Robust and Effective Concept Erasure in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2509.05625)] 
+
+**VCE: Safe Autoregressive Image Generation via Visual Contrast Exploitation** \
+[[Website](https://arxiv.org/abs/2509.16986)] 
+
 
 # New Concept Learning
 
@@ -5351,6 +5360,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Comparison Reveals Commonality: Customized Image Generation through Contrastive Inversion** \
 [[Website](https://arxiv.org/abs/2508.07755)] 
 
+**Stencil: Subject-Driven Generation with Context Guidance** \
+[[Website](https://arxiv.org/abs/2509.17120)] 
+
 
 ## Mutiple Concepts
 
@@ -5663,6 +5675,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Devil is in the Detail: Towards Injecting Fine Details of Image Prompt in Image Generation via Conflict-free Guidance and Stratified Attention** \
 [[Website](https://arxiv.org/abs/2508.02004)] 
 [[Code](https://github.com/bttkm82/InDetail-IP)]
+
+**ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation** \
+[[SIGGRAPH Asia 2025](https://arxiv.org/abs/2509.18092)] 
+[[Project](https://snap-research.github.io/composeme/)] 
 
 **Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm** \
 [[Website](https://arxiv.org/abs/2403.11781)] 
@@ -6483,6 +6499,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.01837)] 
 [[Project](https://yoterel.github.io/PractiLight-project-page/)] 
 [[Code](https://github.com/yoterel/PractiLight)]
+
+**CARINOX: Inference-time Scaling with Category-Aware Reward-based Initial Noise Optimization and Exploration** \
+[[Website](https://arxiv.org/abs/2509.17458)] 
+[[Project](https://amirkasaei.com/carinox/)] 
+[[Code](https://github.com/amirkasaei/carinox)]
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
@@ -7756,6 +7777,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.13589)] 
 [[Project](https://re-ground.github.io/)] 
 
+**InstanceAssemble: Layout-Aware Image Generation via Instance Assembling Attention** \
+[[NeurIPS 2025](https://arxiv.org/abs/2509.16691)] 
+
 **DetDiffusion: Synergizing Generative and Perceptive Models for Enhanced Data Generation and Perception** \
 [[CVPR 2024](https://arxiv.org/abs/2403.13304)] 
 
@@ -7891,6 +7915,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking** \
 [[Website](https://arxiv.org/abs/2509.12046)] 
 
+**Penalizing Boundary Activation for Object Completeness in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.16968)] 
 
 
 ## Poster
@@ -8279,6 +8305,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2401.11739)] 
 [[Project](https://kmcode1.github.io/Projects/EmerDiff/)]
 
+**Seg4Diff: Unveiling Open-Vocabulary Segmentation in Text-to-Image Diffusion Transformers** \
+[[NeurIPS 2025](https://arxiv.org/abs/2404.06542)] 
+[[Project](https://cvlab-kaist.github.io/Seg4Diff/)] 
 
 **Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation** \
 [[CVPR 2024](https://arxiv.org/abs/2404.06542)] 
@@ -9448,6 +9477,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Leveraging Text Localization for Scene Text Removal via Text-aware Masked Image Modeling** \
 [[ECCV 2024](https://arxiv.org/abs/2409.13431)]
 [[Code](https://github.com/wzx99/TMIM)] 
+
+**DA-Font: Few-Shot Font Generation via Dual-Attention Hybrid Integration** \
+[[ACM MM 2025](https://arxiv.org/abs/2509.16632)]
+[[Code](https://github.com/wrchen2001/DA-Font)] 
 
 **First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending** \
 [[ECAI 2024](https://arxiv.org/abs/2410.10168)]
@@ -10924,6 +10957,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://worldforge-agi.github.io/)]
 [[Code](https://github.com/Westlake-AGI-Lab/WorldForge)]
 
+**OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models** \
+[[Website](https://arxiv.org/abs/2509.17627)]
+[[Project](https://phantom-video.github.io/OmniInsert/)]
+[[Code](https://github.com/Phantom-video/OmniInsert)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -12305,6 +12343,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.22868)]
 [[Project](https://jslee525.github.io/str-match/)]
 [[Code](https://github.com/jslee525/STR-Match_official)] 
+
+**ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment** \
+[[Website](https://arxiv.org/abs/2509.17818)]
+[[Project](https://yychen233.github.io/ContextFlow-page/)]
+[[Code](https://github.com/yyChen233/ContextFlow)] 
 
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
