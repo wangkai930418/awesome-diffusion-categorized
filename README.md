@@ -2732,6 +2732,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.20586)]
 [[Code](https://github.com/Zheng-Chong/FastFit)]
 
+**Clothing agnostic Pre-inpainting Virtual Try-ON** \
+[[Website](https://arxiv.org/abs/2509.17654)]
+[[Code](https://github.com/DevChoco/CAP-VTON)]
+
 **M&M VTO: Multi-Garment Virtual Try-On and Editing** \
 [[CVPR 2024 Highlight](https://arxiv.org/abs/2406.04542)]
 [[Project](https://mmvto.github.io/)]
@@ -7616,6 +7620,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://limuloo.github.io/3DIS/)] 
 [[Code](https://github.com/limuloo/3DIS)]
 
+**OverLayBench: A Benchmark for Layout-to-Image Generation with Dense Overlaps** \
+[[NeurIPS DB 2025](https://arxiv.org/abs/2509.19282)] 
+[[Project](https://mlpc-ucsd.github.io/OverLayBench/)] 
+[[Code](https://github.com/mlpc-ucsd/OverLayBench)]
+
 **Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language** \
 [[Website](https://arxiv.org/abs/2406.20085)] 
 [[Project](https://yichengchen24.github.io/projects/autocherrypicker/)] 
@@ -11790,6 +11799,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **GenCompositor: Generative Video Compositing with Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2509.02460)]
 [[Project](https://gencompositor.github.io/)]
+
+**Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation** \
+[[Website](https://arxiv.org/abs/2509.16630)]
+[[Project](https://follow-your-emoji.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
