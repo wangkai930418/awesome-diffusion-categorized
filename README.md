@@ -4086,6 +4086,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LatentEdit: Adaptive Latent Control for Consistent Semantic Editing** \
 [[Website](https://arxiv.org/abs/2509.00541)]
 
+**CAMILA: Context-Aware Masking for Image Editing with Language Alignment** \
+[[Website](https://arxiv.org/abs/2509.19731)]
+
+**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning** \
+[[Website](https://arxiv.org/abs/2509.20360)]
+
 
 ## Diffusion Models Inversion
 
