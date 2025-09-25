@@ -1106,6 +1106,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2311.11600)]
 [[Code](https://github.com/caojiezhang/deqir)]
 
+**Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing** \
+[[ECCV 2024](https://arxiv.org/abs/2509.20091)]
+[[Code](https://github.com/aaaasan111/difflid)]
+
 **An Expectation-Maximization Algorithm for Training Clean Diffusion Models from Corrupted Observations** \
 [[NeurIPS 2024](https://arxiv.org/abs/2407.01014)]
 [[Code](https://github.com/weiminbai/EMDiffusion)]
@@ -11822,6 +11826,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention** \
 [[SIGGRAPH 2024](https://arxiv.org/abs/2403.15931)]
 
+**CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion** \
+[[SIGGRAPH Asia 2025](https://arxiv.org/abs/2509.19979)]
+
 **MTVG : Multi-text Video Generation with Text-to-Video Models** \
 [[ECCV 2024](https://arxiv.org/abs/2312.04086)]
 
@@ -12170,7 +12177,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training** \
 [[Website](https://arxiv.org/abs/2509.06723)]
 
-
 # Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
@@ -12365,6 +12371,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
 [[Code](https://github.com/VISION-SJTU/AnchorSync)]
+
+**From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition** \
+[[ICCV 2025](https://arxiv.org/abs/2509.19690)]
+[[Code](https://github.com/lynn-ling-lo/Prompt2Progression)]
 
 **Vid2Vid-zero: Zero-Shot Video Editing Using Off-the-Shelf Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2303.17599)]
