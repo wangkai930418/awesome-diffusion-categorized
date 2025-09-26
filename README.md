@@ -561,6 +561,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.21019)]
 [[Project](https://pose-paper.github.io/)]
 
+**Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation** \
+[[Website](https://arxiv.org/abs/2509.18824)]
+[[Project](https://hyper-bagel.github.io/)]
+
+
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
 
@@ -2804,6 +2809,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.21070)]
 [[Project](https://immortalco.github.io/DressAndDance/)]
 
+**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On** \
+[[Website](https://arxiv.org/abs/2509.20524)]
+[[Project](https://instructvton.github.io/instruct-vton.github.io/)]
+
 **Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction** \
 [[CVPR 2025](https://arxiv.org/abs/2505.16980)]
 
@@ -4765,6 +4774,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VCE: Safe Autoregressive Image Generation via Visual Contrast Exploitation** \
 [[Website](https://arxiv.org/abs/2509.16986)] 
 
+**A Single Neuron Works: Precise Concept Erasure in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.21008)] 
+
 
 # New Concept Learning
 
@@ -5377,6 +5389,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Stencil: Subject-Driven Generation with Context Guidance** \
 [[Website](https://arxiv.org/abs/2509.17120)] 
 
+**CusEnhancer: A Zero-Shot Scene and Controllability Enhancement Method for Photo Customization via ResInversion** \
+[[Website](https://arxiv.org/abs/2509.20775)] 
 
 ## Mutiple Concepts
 
@@ -9308,6 +9322,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DreamPainter: Image Background Inpainting for E-commerce Scenarios** \
 [[Website](https://arxiv.org/abs/2508.02155)] 
 
+**FreeInsert: Personalized Object Insertion with Geometric and Style Control** \
+[[Website](https://arxiv.org/abs/2509.20756)] 
+
 
 # Layout Generation
 
@@ -11285,6 +11302,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.13753)]
 [[Code](https://github.com/Tonniia/EVS)]
 
+**NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics** \
+[[Website](https://arxiv.org/abs/2509.21309)]
+[[Code](https://github.com/pandayuanyu/NewtonGen)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -11368,6 +11389,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation** \
 [[CVPR 2025](https://arxiv.org/abs/2501.03059)]
 [[Project](https://guyyariv.github.io/TTM/)]
+
+**PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation** \
+[[NeurIPS 2025](https://arxiv.org/abs/2509.20358)]
+[[Project](https://cwchenwang.github.io/physctrl/)]
 
 **MoVideo: Motion-Aware Video Generation with Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2311.11325)]
@@ -11814,6 +11839,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.16630)]
 [[Project](https://follow-your-emoji.github.io/)]
 
+**UniTransfer: Video Concept Transfer via Progressive Spatial and Timestep Decomposition** \
+[[Website](https://arxiv.org/abs/2509.21086)]
+[[Project](https://yu-shaonian.github.io/UniTransfer-Web/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -12182,6 +12211,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Zero-shot 3D-Aware Trajectory-Guided image-to-video generation via Test-Time Training** \
 [[Website](https://arxiv.org/abs/2509.06723)]
+
+**MotionFlow:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation** \
+[[Website](https://arxiv.org/abs/2509.21119)]
+
+
 
 # Video Editing 
 
