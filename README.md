@@ -8391,6 +8391,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2303.11681)] 
 [[Project](https://weijiawu.github.io/DiffusionMask/)] 
 
+**RefAM: Attention Magnets for Zero-Shot Referral Segmentation** \
+[[Website](https://arxiv.org/abs/2509.22650)] 
+[[Project](https://refam-diffusion.github.io/)] 
+
 **Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Peng_Diffusion-based_Image_Translation_with_Label_Guidance_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html
 )] 
@@ -11346,6 +11350,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics** \
 [[Website](https://arxiv.org/abs/2509.21309)]
 [[Code](https://github.com/pandayuanyu/NewtonGen)]
+
+**LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE** \
+[[Website](https://arxiv.org/abs/2509.21790)]
+[[Code](https://github.com/tsinghua-fib-lab/Longscape)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
