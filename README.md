@@ -767,6 +767,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **BWCache: Accelerating Video Diffusion Transformers through Block-Wise Caching** \
 [[Website](https://arxiv.org/abs/2509.13789)]
 
+**RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2509.22323)]
+
 
 ## Train-Free
 
@@ -1048,6 +1051,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.09993)]
 [[Project](https://cvlab-kaist.github.io/TAIR/)]
 [[Code](https://github.com/cvlab-kaist/TAIR)]
+
+**LucidFlux: Caption-Free Universal Image Restoration via a Large-Scale Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2509.22414)]
+[[Project](https://w2genai-lab.github.io/LucidFlux/)]
+[[Code](https://github.com/W2GenAI-Lab/LucidFlux)]
 
 **FlowIE: Efficient Image Enhancement via Rectified Flow** \
 [[CVPR 2024 oral](https://arxiv.org/abs/2406.00508)]
@@ -3056,6 +3064,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence** \
 [[Website](https://arxiv.org/abs/2509.12203)] 
 
+**TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation** \
+[[Website](https://arxiv.org/abs/2509.21905)] 
+
+
 
 # Text Guided Image Editing
 **Prompt-to-Prompt Image Editing with Cross Attention Control** \
@@ -4308,6 +4320,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DCI: Dual-Conditional Inversion for Boosting Diffusion-Based Image Editing** \
 [[Website](https://arxiv.org/abs/2506.02560)]
 
+**FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing** \
+[[Website](https://arxiv.org/abs/2509.22244)]
+
 
 
 # Continual Learning
@@ -4776,6 +4791,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **A Single Neuron Works: Precise Concept Erasure in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2509.21008)] 
+
+**Closing the Safety Gap: Surgical Concept Erasure in Visual Autoregressive Models** \
+[[Website](https://arxiv.org/abs/2509.22400)] 
+
+**SAEmnesia: Erasing Concepts in Diffusion Models with Sparse Autoencoders** \
+[[Website](https://arxiv.org/abs/2509.21379)] 
+
+**DyME: Dynamic Multi-Concept Erasure in Diffusion Models with Bi-Level Orthogonal LoRA Adaptation** \
+[[Website](https://arxiv.org/abs/2509.21433)] 
+
 
 
 # New Concept Learning
@@ -5392,6 +5417,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CusEnhancer: A Zero-Shot Scene and Controllability Enhancement Method for Photo Customization via ResInversion** \
 [[Website](https://arxiv.org/abs/2509.20775)] 
 
+
+
+
 ## Mutiple Concepts
 
 **Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models** \
@@ -5716,6 +5744,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2504.07405)] 
 [[Project](https://flexip-tech.github.io/flexip/#/)] 
 
+**MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning** \
+[[Website](https://arxiv.org/abs/2509.21953)] 
+[[Project](https://wutao-cs.github.io/MultiCrafter/)] 
 
 **DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation** \
 [[Website](https://arxiv.org/abs/2502.13999)] 
@@ -7552,6 +7583,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffusionNFT: Online Diffusion Reinforcement with Forward Process** \
 [[Website](https://arxiv.org/abs/2509.16117)]
 
+**HiGS: History-Guided Sampling for Plug-and-Play Enhancement of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.22300)]
 
 
 ## Spatial Control
@@ -8528,6 +8561,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://yumengli007.github.io/ALDM/)] 
 [[Code](https://github.com/boschresearch/ALDM)]
 
+**SemanticControl: A Training-Free Approach for Handling Loosely Aligned Visual Conditions in ControlNet** \
+[[BMVC 2025](https://arxiv.org/abs/2509.21938)] 
+[[Project](https://mung3477.github.io/semantic-control/)] 
+[[Code](https://github.com/mung3477/SemanticControl)]
+
 **IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts** \
 [[Website](https://arxiv.org/abs/2408.03209)] 
 [[Project](https://unity-research.github.io/IP-Adapter-Instruct.github.io/)] 
@@ -9324,6 +9362,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FreeInsert: Personalized Object Insertion with Geometric and Style Control** \
 [[Website](https://arxiv.org/abs/2509.20756)] 
+
+**Does FLUX Already Know How to Perform Physically Plausible Image Composition?** \
+[[Website](https://arxiv.org/abs/2509.21278)] 
 
 
 # Layout Generation
@@ -12215,6 +12256,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MotionFlow:Learning Implicit Motion Flow for Complex Camera Trajectory Control in Video Generation** \
 [[Website](https://arxiv.org/abs/2509.21119)]
 
+**DiTraj: training-free trajectory control for video diffusion transformer** \
+[[Website](https://arxiv.org/abs/2509.21839)]
 
 
 # Video Editing 
@@ -12705,3 +12748,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing** \
 [[Website](https://arxiv.org/abs/2508.14465)]
+
+**Taming Flow-based I2V Models for Creative Video Editing** \
+[[Website](https://arxiv.org/abs/2509.21917)]
