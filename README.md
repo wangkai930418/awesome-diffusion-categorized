@@ -488,6 +488,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.11628)]
 [[Code](https://github.com/Shenyi-Z/Cache4Diffusion/)]
 
+**QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification** \
+[[Website](https://arxiv.org/abs/2509.23681)]
+[[Code](https://github.com/wlfeng0509/QuantSparse)]
+
+**DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space** \
+[[Website](https://arxiv.org/abs/2509.25180)]
+[[Code](https://github.com/dc-ai-projects/DC-Gen)]
+
+**QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification** \
+[[Website](https://arxiv.org/abs/2509.23681)]
+[[Code](https://github.com/wlfeng0509/QuantSparse)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -770,6 +782,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2509.22323)]
 
+**SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable Sparse-Linear Attention** \
+[[Website](https://arxiv.org/abs/2509.24006)]
+
+**CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2509.24416)]
 
 ## Train-Free
 
@@ -2312,6 +2329,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Realism Control One-step Diffusion for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2509.10122)]
+
+**Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2509.23980)]
+
 
 
 ## Personalized Restoration
@@ -4113,6 +4134,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning** \
 [[Website](https://arxiv.org/abs/2509.20360)]
 
+**Semantic Editing with Coupled Stochastic Differential Equations** \
+[[Website](https://arxiv.org/abs/2509.24223)]
+
+**FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing** \
+[[Website](https://arxiv.org/abs/2509.23452)]
+
 
 ## Diffusion Models Inversion
 
@@ -5696,6 +5723,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://bytedance.github.io/UMO/)] 
 [[Code](https://github.com/bytedance/UMO)]
 
+**VMDiff: Visual Mixing Diffusion for Limitless Cross-Object Synthesis** \
+[[Website](https://arxiv.org/abs/2509.23605)] 
+[[Project](https://xzr52.github.io/VMDiff_index/)] 
+[[Code](https://github.com/xzr52/VMDiff)]
+
 **High-fidelity Person-centric Subject-to-Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
 [[Code](https://github.com/codegoat24/face-diffuser)] 
@@ -5777,6 +5809,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **EditIDv2: Editable ID Customization with Data-Lubricated ID Feature Integration for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2509.05659)] 
+
+
 
 ## General Concept 
 
@@ -6564,6 +6598,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://amirkasaei.com/carinox/)] 
 [[Code](https://github.com/amirkasaei/carinox)]
 
+**Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel** \
+[[Website](https://arxiv.org/abs/2509.24979)] 
+[[Project](https://donghaotian123.github.io/Wan-Alpha/)] 
+[[Code](https://github.com/WeChatCV/Wan-Alpha)]
+
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
 [[Code](https://github.com/soobin-um/MinorityPrompt)]
@@ -7139,6 +7178,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Generating Compositional Scenes via Text-to-image RGBA Instance Generation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.10913)]
 
+**DEFT: Decompositional Efficient Fine-Tuning for Text-to-Image Models** \
+[[NeurIPS 2025](https://arxiv.org/abs/2509.22793)]
+
 **DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models** \
 [[AAAI 2025](https://arxiv.org/abs/2502.14070)] 
 
@@ -7586,6 +7628,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HiGS: History-Guided Sampling for Plug-and-Play Enhancement of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2509.22300)]
 
+**UniAlignment: Semantic Alignment for Unified Image Generation, Understanding, Manipulation and Perception** \
+[[Website](https://arxiv.org/abs/2509.23760)]
+
+**Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings** \
+[[Website](https://arxiv.org/abs/2509.22925)]
+
 
 ## Spatial Control
 
@@ -7983,6 +8031,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Penalizing Boundary Activation for Object Completeness in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2509.16968)] 
+
+**Griffin: Generative Reference and Layout Guided Image Composition** \
+[[Website](https://arxiv.org/abs/2509.23643)] 
+
 
 
 ## Poster
@@ -9370,6 +9422,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Does FLUX Already Know How to Perform Physically Plausible Image Composition?** \
 [[Website](https://arxiv.org/abs/2509.21278)] 
 
+**Token Painter: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models** \
+[[Website](https://arxiv.org/abs/2509.23919)] 
+
+**CrimEdit: Controllable Editing for Counterfactual Object Removal, Insertion, and Movement** \
+[[Website](https://arxiv.org/abs/2509.23708)] 
+
 
 # Layout Generation
 
@@ -9782,6 +9840,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **WordCraft: Interactive Artistic Typography with Attention Awareness and Noise Blending** \
 [[Website](https://arxiv.org/abs/2507.09573)]
+
+**DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation** \
+[[Website](https://arxiv.org/abs/2509.23624)]
+
 
 # Video Generation 
 
@@ -11043,6 +11105,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://phantom-video.github.io/OmniInsert/)]
 [[Code](https://github.com/Phantom-video/OmniInsert)]
 
+**Rolling Forcing: Autoregressive Long Video Diffusion in Real Time** \
+[[Website](https://arxiv.org/abs/2509.25161)]
+[[Project](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/)]
+[[Code](https://github.com/TencentARC/RollingForcing)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -11892,6 +11959,26 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.21086)]
 [[Project](https://yu-shaonian.github.io/UniTransfer-Web/)]
 
+**NeRV-Diffusion: Diffuse Implicit Neural Representations for Video Synthesis** \
+[[Website](https://arxiv.org/abs/2509.24353)]
+[[Project](https://ryx19th.github.io/nerv-diffusion/)]
+
+**ReLumix: Extending Image Relighting to Video via Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2509.23769)]
+[[Project](https://lez-s.github.io/Relumix_project/)]
+
+**SANA-Video: Efficient Video Generation with Block Linear Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2509.24695)]
+[[Project](https://nvlabs.github.io/Sana/Video/)]
+
+**PanoWorld-X: Generating Explorable Panoramic Worlds via Sphere-Aware Video Diffusion** \
+[[Website](https://arxiv.org/abs/2509.24997)]
+[[Project](https://yuyangyin.github.io/PanoWorld-X/)]
+
+**FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2509.25187)]
+[[Project](https://pku-yuangroup.github.io/FlashI2V/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -12266,6 +12353,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DiTraj: training-free trajectory control for video diffusion transformer** \
 [[Website](https://arxiv.org/abs/2509.21839)]
+
+**Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2509.24899)]
 
 
 # Video Editing 
