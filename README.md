@@ -788,6 +788,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2509.24416)]
 
+**Score Distillation of Flow Matching Models** \
+[[Website](https://arxiv.org/abs/2509.25127)]
+
+
 ## Train-Free
 
 **AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
@@ -2182,6 +2186,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TurboVSR: Fantastic Video Upscalers and Where to Find Them** \
 [[ICCV 2025](https://arxiv.org/abs/2506.23618)]
 
+**PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution** \
+[[CVPR 2025](https://arxiv.org/abs/2509.26025)] 
+
 **Text-guided Explorable Image Super-resolution** \
 [[CVPR 2024](https://arxiv.org/abs/2403.01124)] 
 
@@ -2935,6 +2942,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LUIVITON: Learned Universal Interoperable VIrtual Try-ON** \
 [[Website](https://arxiv.org/abs/2509.05030)]
 
+**ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On** \
+[[Website](https://arxiv.org/abs/2509.25749)]
+
+
 # Drag Edit
 
 **DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models** \
@@ -3063,6 +3074,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffUHaul: A Training-Free Method for Object Dragging in Images** \
 [[Website](https://arxiv.org/abs/2406.01594)] 
 [[Project](https://omriavrahami.com/diffuhaul/)]
+
+**Dragging with Geometry: From Pixels to Geometry-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2509.25740)] 
+[[Project](https://github.com/xinyu-pu/GeoDrag)]
 
 **RegionDrag: Fast Region-Based Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.18247)] 
@@ -3454,6 +3469,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.08134)] 
 [[Project](https://follow-your-shape.github.io/)] 
 [[Code](https://github.com/mayuelala/FollowYourShape)] 
+
+**EditReward: A Human-Aligned Reward Model for Instruction-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2509.26346)] 
+[[Project](https://tiger-ai-lab.github.io/EditReward/)] 
+[[Code](https://github.com/TIGER-AI-Lab/EditReward)] 
 
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
@@ -4296,6 +4316,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models** \
 [[ICLR 2025](https://arxiv.org/abs/2505.08622)] 
 
+**Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation** \
+[[ICML 2025](https://arxiv.org/abs/2505.08622)] 
+
 **BARET : Balanced Attention based Real image Editing driven by Target-text Inversion** \
 [[WACV 2024](https://arxiv.org/abs/2312.05482)] 
 
@@ -4349,6 +4372,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing** \
 [[Website](https://arxiv.org/abs/2509.22244)]
+
+**Training-Free Reward-Guided Image Editing via Trajectory Optimal Control** \
+[[Website](https://arxiv.org/abs/2509.25845)]
 
 
 
@@ -5444,6 +5470,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CusEnhancer: A Zero-Shot Scene and Controllability Enhancement Method for Photo Customization via ResInversion** \
 [[Website](https://arxiv.org/abs/2509.20775)] 
 
+**EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model** \
+[[Website](https://arxiv.org/abs/2509.26127)] 
 
 
 
@@ -6967,6 +6995,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.06945)] 
 [[Code](https://github.com/Osilly/Interleaving-Reasoning-Generation)] 
 
+**Free Lunch Alignment of Text-to-Image Diffusion Models without Preference Image Pairs** \
+[[Website](https://arxiv.org/abs/2509.25771)] 
+[[Code](https://github.com/DSL-Lab/T2I-Free-Lunch-Alignment)] 
+
+
+**IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance** \
+[[Website](https://arxiv.org/abs/2509.262311)] 
+[[Code](https://github.com/SHI-Labs/IMG-Multimodal-Diffusion-Alignment)] 
+
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -7634,6 +7672,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Soft-Di[M]O: Improving One-Step Discrete Image Generation with Soft Embeddings** \
 [[Website](https://arxiv.org/abs/2509.22925)]
 
+**CO3: Contrasting Concepts Compose Better** \
+[[Website](https://arxiv.org/abs/2509.25940)]
+
+
 
 ## Spatial Control
 
@@ -7861,6 +7903,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion** \
 [[Website](https://arxiv.org/abs/2508.14440)] 
 [[Code](https://github.com/pf0607/MUSE)]
+
+**Stitch: Training-Free Position Control in Multimodal Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2509.26644)] 
+[[Code](https://github.com/ExplainableML/Stitch)]
 
 **StageDesigner: Artistic Stage Generation for Scenography via Theater Scripts** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02595)] 
@@ -11110,6 +11156,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/)]
 [[Code](https://github.com/TencentARC/RollingForcing)]
 
+**DC-VideoGen: Efficient Video Generation with Deep Compression Video Autoencoder** \
+[[Website](https://arxiv.org/abs/2509.25182)]
+[[Project](https://hanlab.mit.edu/projects/dc-videogen)]
+[[Code](https://github.com/dc-ai-projects/DC-VideoGen)]
+
+**MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
+[[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
+[[Code](https://github.com/MCG-NJU/MotionRAG)]
+
 **FreqPrior: Improving Video Diffusion Models with Frequency Filtering Gaussian Noise** \
 [[ICLR 2025](https://arxiv.org/abs/2502.03496)]
 [[Code](https://github.com/fudan-zvg/FreqPrior)]
@@ -12849,3 +12904,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Taming Flow-based I2V Models for Creative Video Editing** \
 [[Website](https://arxiv.org/abs/2509.21917)]
+
+**VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing** \
+[[Website](https://arxiv.org/abs/2509.25998)]
