@@ -1858,7 +1858,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/jeremyiv/diffc)] 
 
 **OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates** \
-[[Website](https://arxiv.org/abs/2505.16091)] 
+[[NeurIPS 2025](https://arxiv.org/abs/2505.16091)] 
 [[Code](https://github.com/jp-guo/OSCAR)] 
 
 **DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates** \
