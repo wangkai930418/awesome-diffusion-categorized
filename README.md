@@ -1090,7 +1090,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICML 2023 oral](https://arxiv.org/abs/2301.12686)]
 [[Code](https://github.com/sony/gibbsddrm)]
 
-
 **Diffusion Priors for Variational Likelihood Estimation and Image Denoising** \
 [[NeurIPS 2024 Spotlight](https://arxiv.org/abs/2410.17521)]
 [[Code](https://github.com/HUST-Tan/DiffusionVI)]
@@ -1099,6 +1098,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 <!-- [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_DiffIR_Efficient_Diffusion_Model_for_Image_Restoration_ICCV_2023_paper.pdf)] -->
 [[ICCV 2023](https://arxiv.org/abs/2303.09472)] 
 [[Code](https://github.com/Zj-BinXia/DiffIR)]
+
+**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
+[[ICCV 2025](https://arxiv.org/pdf/2502.09873)]
+[[Code](https://github.com/jp-guo/CODiff)]
 
 **Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance** \
 [[CVPR 2024](https://arxiv.org/abs/2312.16519)]
@@ -1200,9 +1203,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.06054)]
 [[Code](https://github.com/morefre/decoupled-data-consistency-with-diffusion-purification-for-image-restoration)]
 
-**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
-[[Website](https://arxiv.org/abs/2502.09873)]
-[[Code](https://github.com/jp-guo/CODiff)]
 
 **One-Step Diffusion Model for Image Motion-Deblurring** \
 [[Website](https://arxiv.org/abs/2503.06537)]
@@ -1829,6 +1829,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://njuvision.github.io/ResULIC/)] 
 [[Code](https://github.com/NJUVISION/ResULIC)] 
 
+**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates** \
+[[NeurIPS 2025](https://arxiv.org/abs/2505.16091)] 
+[[Code](https://github.com/jp-guo/OSCAR)] 
+
 **Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior** \
 [[IEE TCSVT 2024](https://arxiv.org/abs/2404.18820)] 
 [[Code](https://github.com/huai-chang/DiffEIC)] 
@@ -1856,10 +1860,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Lossy Compression with Pretrained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2501.09815)] 
 [[Code](https://github.com/jeremyiv/diffc)] 
-
-**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates** \
-[[Website](https://arxiv.org/abs/2505.16091)] 
-[[Code](https://github.com/jp-guo/OSCAR)] 
 
 **DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates** \
 [[Website](https://arxiv.org/abs/2506.16572)] 
@@ -1940,6 +1940,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2411.18662)] 
 [[Project](https://liyuantsao.github.io/HoliSDiP/)] 
 [[Code](https://github.com/liyuantsao/HoliSDiP)] 
+
+**Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2509.23980)]
+[[Project](https://jp-guo.github.io/oasis.github.io/)]
+[[Code](https://github.com/jp-guo/OASIS)]
 
 **MatchDiffusion: Training-free Generation of Match-cuts** \
 [[Website](https://arxiv.org/abs/2411.18677)] 
@@ -2336,10 +2341,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Realism Control One-step Diffusion for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2509.10122)]
-
-**Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution** \
-[[Website](https://arxiv.org/abs/2509.23980)]
-
 
 
 ## Personalized Restoration
