@@ -961,6 +961,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # Image Restoration
 
+**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
+[[ICCV 2025](https://arxiv.org/pdf/2502.09873)]
+[[Code](https://github.com/jp-guo/CODiff)]
 
 **Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems** \
 [[ECCV 2024 Oral](https://arxiv.org/abs/2407.16125)]
@@ -1199,10 +1202,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Decoupled Data Consistency with Diffusion Purification for Image Restoration** \
 [[Website](https://arxiv.org/abs/2403.06054)]
 [[Code](https://github.com/morefre/decoupled-data-consistency-with-diffusion-purification-for-image-restoration)]
-
-**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal** \
-[[Website](https://arxiv.org/abs/2502.09873)]
-[[Code](https://github.com/jp-guo/CODiff)]
 
 **One-Step Diffusion Model for Image Motion-Deblurring** \
 [[Website](https://arxiv.org/abs/2503.06537)]
@@ -10392,6 +10391,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2403.13802)]
 [[Project](https://taohu.me/zigma/)]
 [[Code](https://github.com/CompVis/zigma)]
+
+**Towards Redundancy Reduction in Diffusion Models for Efficient Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2509.23980)]
+[[Project](https://jp-guo.github.io/oasis.github.io/)]
+[[Code](https://github.com/jp-guo/OASIS)]
 
 **Packing Input Frame Context in Next-Frame Prediction Models for Video Generation** \
 [[Website](https://arxiv.org/abs/2504.12626)]
