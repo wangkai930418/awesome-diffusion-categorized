@@ -4855,6 +4855,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DyME: Dynamic Multi-Concept Erasure in Diffusion Models with Bi-Level Orthogonal LoRA Adaptation** \
 [[Website](https://arxiv.org/abs/2509.21433)] 
 
+**Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack** \
+[[Website](https://arxiv.org/abs/2510.00635)] 
 
 
 # New Concept Learning
@@ -6179,6 +6181,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Lynx: Towards High-Fidelity Personalized Video Generation** \
 [[Website](https://arxiv.org/abs/2509.15496)] 
 [[Project](https://byteaigc.github.io/Lynx/)] 
+
+**BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration** \
+[[Website](https://arxiv.org/abs/2510.00438)] 
+[[Project](https://lzy-dot.github.io/BindWeave/)] 
 
 **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** \
 [[Website](https://arxiv.org/abs/2505.02192)] 
@@ -7676,6 +7682,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CO3: Contrasting Concepts Compose Better** \
 [[Website](https://arxiv.org/abs/2509.25940)]
 
+**Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment** \
+[[Website](https://arxiv.org/abs/2510.00430)]
 
 
 ## Spatial Control
@@ -12604,6 +12612,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.17818)]
 [[Project](https://yychen233.github.io/ContextFlow-page/)]
 [[Code](https://github.com/yyChen233/ContextFlow)] 
+
+**IMAGEdit: Let Any Subject Transform** \
+[[Website](https://arxiv.org/abs/2510.01186)]
+[[Project](https://muzishen.github.io/IMAGEdit/)]
+[[Code](https://github.com/XWH-A/IMAGEdit)] 
 
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
