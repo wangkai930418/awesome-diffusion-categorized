@@ -96,8 +96,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/moatifbutt/color-peel)]
 
 **Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
-[[Website](https://arxiv.org/abs/2503.14275)]
-[[Project](https://deepffff.github.io/sadis.github.io/)]
+[[NeurIPS 2025](https://arxiv.org/abs/2503.14275v1)] 
+[[Project](https://deepffff.github.io/sadis.github.io/)] 
 [[Code](https://github.com/deepffff/SADis)]
 
 **Color Conditional Generation with Sliced Wasserstein Guidance** \
@@ -2160,6 +2160,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.10779)] 
 [[Code](https://github.com/nkicsl/TriFlowSR)] 
 
+**InfVSR: Breaking Length Limits of Generic Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2510.00948)] 
+[[Code](https://github.com/Kai-Liu001/InfVSR)] 
+
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
 [[Project](https://mmsr.kfmei.com/)] 
@@ -3104,6 +3108,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation** \
 [[Website](https://arxiv.org/abs/2509.21905)] 
 
+**DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing** \
+[[Website](https://arxiv.org/abs/2510.02253)] 
 
 
 # Text Guided Image Editing
@@ -4377,6 +4383,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Training-Free Reward-Guided Image Editing via Trajectory Optimal Control** \
 [[Website](https://arxiv.org/abs/2509.25845)]
 
+**DIA: The Adversarial Exposure of Deterministic Inversion in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.00778)]
 
 
 # Continual Learning
@@ -4472,6 +4480,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **VidCLearn: A Continual Learning Approach for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2509.16956)] 
+
+**Continual Personalization for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.02296)] 
+
 
 
 # Remove Concept
@@ -6276,10 +6288,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/Sainzerjj/Free-Guidance-Diffusion)]
 
 
-**Free-Lunch Color-Texture Disentanglement for Stylized Image Generation** \
-[[NeurIPS 2025](https://arxiv.org/abs/2503.14275v1)] 
-[[Project](https://deepffff.github.io/sadis.github.io/)] 
-[[Code](https://github.com/deepffff/SADis)]
+
 
 **Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability** \
 [[CVPR 2025](https://arxiv.org/abs/2505.03097)] 
@@ -7011,6 +7020,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.262311)] 
 [[Code](https://github.com/SHI-Labs/IMG-Multimodal-Diffusion-Alignment)] 
 
+**Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity** \
+[[Website](https://arxiv.org/abs/2510.02315)] 
+[[Code](https://github.com/ericbill21/FOCUS/)] 
+
+**G2RPO: Granular GRPO for precise reward in flow models** \
+[[Website](https://arxiv.org/abs/2510.01982)] 
+[[Code](https://github.com/bcmi/Granular-GRPO)] 
+
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
@@ -7684,6 +7701,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Plug-and-Play Prompt Refinement via Latent Feedback for Diffusion Model Alignment** \
 [[Website](https://arxiv.org/abs/2510.00430)]
+
+**MIRA: Towards Mitigating Reward Hacking in Inference-Time Alignment of T2I Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.01549)]
+
+**Towards Better Optimization For Listwise Preference in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.01540)]
+
+**NoiseShift: Resolution-Aware Noise Recalibration for Better Low-Resolution Image Generation** \
+[[Website](https://arxiv.org/abs/2510.02307)]
 
 
 ## Spatial Control
@@ -11170,6 +11196,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://hanlab.mit.edu/projects/dc-videogen)]
 [[Code](https://github.com/dc-ai-projects/DC-VideoGen)]
 
+**TempoControl: Temporal Attention Guidance for Text-to-Video Models** \
+[[Website](https://arxiv.org/abs/2510.02226)]
+[[Project](https://shira-schiber.github.io/TempoControl/)]
+[[Code](https://github.com/Shira-Schiber/TempoControl)]
+
+**Self-Forcing++: Towards Minute-Scale High-Quality Video Generation** \
+[[Website](https://arxiv.org/abs/2510.02283)]
+[[Project](https://self-forcing-plus-plus.github.io/)]
+[[Code](https://github.com/justincui03/Self-Forcing-Plus-Plus)]
+
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12042,6 +12079,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FlashI2V: Fourier-Guided Latent Shifting Prevents Conditional Image Leakage in Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2509.25187)]
 [[Project](https://pku-yuangroup.github.io/FlashI2V/)]
+
+**Learning to Generate Object Interactions with Physics-Guided Video Diffusion** \
+[[Website](https://arxiv.org/abs/2510.02284)]
+[[Project](https://daromog.github.io/KineMask/)]
+
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
@@ -12921,3 +12963,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing** \
 [[Website](https://arxiv.org/abs/2509.25998)]
+
+**FreeViS: Training-free Video Stylization with Inconsistent References** \
+[[Website](https://arxiv.org/abs/2510.01686)]
