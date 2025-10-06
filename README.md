@@ -4870,6 +4870,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack** \
 [[Website](https://arxiv.org/abs/2510.00635)] 
 
+**Latent Diffusion Unlearning: Protecting Against Unauthorized Personalization Through Trajectory Shifted Perturbations** \
+[[Website](https://arxiv.org/abs/2510.03089)] 
+
+
 
 # New Concept Learning
 
@@ -7028,6 +7032,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.01982)] 
 [[Code](https://github.com/bcmi/Granular-GRPO)] 
 
+**PEO: Training-Free Aesthetic Quality Enhancement in Pre-Trained Text-to-Image Diffusion Models with Prompt Embedding Optimization** \
+[[Website](https://arxiv.org/abs/2510.02599)] 
+[[Code](https://github.com/marghovo/PEO)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
@@ -9096,6 +9103,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[SIGGRAPH 2023](https://arxiv.org/abs/2206.02779)] 
 [[Project](https://omriavrahami.com/blended-latent-diffusion-page/)]
 [[Code](https://github.com/omriav/blended-latent-diffusion)]
+
+**GeoComplete: Geometry-Aware Diffusion for Reference-Driven Image Completion** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.03110)] 
+[[Project](https://bb12346.github.io/GeoComplete/)]
+[[Code](https://github.com/bb12346/GeoComplete_codes)] 
 
 **CLIPAway: Harmonizing Focused Embeddings for Removing Objects via Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2406.09368)] 
