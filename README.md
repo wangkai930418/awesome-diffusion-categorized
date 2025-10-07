@@ -791,6 +791,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Score Distillation of Flow Matching Models** \
 [[Website](https://arxiv.org/abs/2509.25127)]
 
+**Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2510.04188)]
 
 ## Train-Free
 
@@ -2854,6 +2856,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.20524)]
 [[Project](https://instructvton.github.io/instruct-vton.github.io/)]
 
+**DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing** \
+[[Website](https://arxiv.org/abs/2510.04797)]
+[[Project](https://dit-vton.github.io/DiT-VTON/)]
+
 **Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction** \
 [[CVPR 2025](https://arxiv.org/abs/2505.16980)]
 
@@ -3110,6 +3116,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing** \
 [[Website](https://arxiv.org/abs/2510.02253)] 
+
+**Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!** \
+[[Website](https://arxiv.org/abs/2510.03550)] 
+
+
 
 
 # Text Guided Image Editing
@@ -3481,6 +3492,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.26346)] 
 [[Project](https://tiger-ai-lab.github.io/EditReward/)] 
 [[Code](https://github.com/TIGER-AI-Lab/EditReward)] 
+
+**ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation** \
+[[Website](https://arxiv.org/abs/2510.04290)] 
+[[Project](https://research.nvidia.com/labs/toronto-ai/chronoedit/)] 
+[[Code](https://github.com/nv-tlabs/ChronoEdit)] 
 
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
@@ -5565,6 +5581,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2410.05591)] 
 [[Code](https://github.com/KwonGihyun/TweedieMix)]
 
+**ConceptSplit: Decoupled Multi-Concept Personalization of Diffusion Models via Token-wise Adaptation and Attention Disentanglement** \
+[[ICCV 2025](https://arxiv.org/abs/2510.04668)] 
+[[Code](https://github.com/KU-VGI/ConceptSplit)]
+
 **Cached Multi-Lora Composition for Multi-Concept Image Generation** \
 [[Website](https://arxiv.org/abs/2502.04923)] 
 [[Code](https://github.com/Yqcca/CMLoRA)]
@@ -7036,6 +7056,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.02599)] 
 [[Code](https://github.com/marghovo/PEO)] 
 
+**Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2510.04504)] 
+[[Code](https://github.com/hu-zijing/AsynDM)] 
+
+**World-To-Image: Grounding Text-to-Image Generation with Agent-Driven World Knowledge** \
+[[Website](https://arxiv.org/abs/2510.04201)] 
+[[Code](https://github.com/mhson-kyle/World-To-Image)] 
+
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -7261,6 +7290,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Preserve Anything: Controllable Image Synthesis with Object Preservation** \
 [[ICCV 2025](https://arxiv.org/abs/2506.22531)] 
+
+**Rare Text Semantics Were Always There in Your Diffusion Transformer** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.03886)] 
+
+**Diverse Text-to-Image Generation via Contrastive Noise Optimization** \
+[[Website](https://arxiv.org/abs/2510.03813)] 
 
 **Chain-of-Cooking:Cooking Process Visualization via Bidirectional Chain-of-Thought Guidance** \
 [[Website](https://arxiv.org/abs/2507.21529)] 
@@ -11218,6 +11253,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://self-forcing-plus-plus.github.io/)]
 [[Code](https://github.com/justincui03/Self-Forcing-Plus-Plus)]
 
+**Character Mixing for Video Generation** \
+[[Website](https://arxiv.org/abs/2510.05093)]
+[[Project](https://tingtingliao.github.io/mimix/)]
+[[Code](https://github.com/TingtingLiao/mimix)]
+
+**Generating Human Motion Videos using a Cascaded Text-to-Video Framework** \
+[[Website](https://arxiv.org/abs/2510.03909)]
+[[Project](https://hyelinnam.github.io/Cameo/)]
+[[Code](https://github.com/HyelinNAM/Cameo)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
