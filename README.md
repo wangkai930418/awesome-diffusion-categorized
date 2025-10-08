@@ -379,6 +379,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICML 2024](https://arxiv.org/abs/2404.04057)]
 [[Code](https://github.com/mingyuanzhou/SiD)]
 
+**On the Trajectory Regularity of ODE-based Diffusion Sampling** \
+[[ICML 2024](https://arxiv.org/abs/2405.11326)]
+[[Code](https://github.com/zju-pi/diff-sampler)]
+
 **InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation** \
 [[ICLR 2024](https://arxiv.org/abs/2309.06380)]
 [[Code](https://github.com/gnobitab/instaflow)]
@@ -844,6 +848,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Token Merging for Fast Stable Diffusion** \
 [[CVPRW 2024](https://arxiv.org/abs/2303.17604)]
 [[Code](https://github.com/dbolya/tomesd)]
+
+**LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation** \
+[[Website](https://arxiv.org/abs/2510.05367)]
+[[Code](https://github.com/NKUShaw/LightCache)]
 
 **FORA: Fast-Forward Caching in Diffusion Transformer Acceleration** \
 [[Website](https://arxiv.org/abs/2407.01425)]
@@ -3734,6 +3742,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder** \
 [[Website](https://arxiv.org/abs/2509.12883)]
 [[Code](https://github.com/xiaomi-research/lego-edit)] 
+
+**AgeBooth: Controllable Facial Aging and Rejuvenation via Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.05715)]
+[[Code](https://github.com/HH-LG/AgeBooth)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -7238,6 +7250,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.02295)] 
 [[Project](https://learn-to-steer-paper.github.io/)]
 
+**Fine-grained Defocus Blur Control for Generative Image Models** \
+[[Website](https://arxiv.org/abs/2510.06215)] 
+[[Project](https://www.ayshrv.com/defocus-blur-gen)]
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -9555,6 +9571,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **CrimEdit: Controllable Editing for Counterfactual Object Removal, Insertion, and Movement** \
 [[Website](https://arxiv.org/abs/2509.23708)] 
+
+**Teleportraits: Training-Free People Insertion into Any Scene** \
+[[Website](https://arxiv.org/abs/2510.05660)] 
+
 
 
 # Layout Generation
