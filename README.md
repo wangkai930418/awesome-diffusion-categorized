@@ -4195,6 +4195,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing** \
 [[Website](https://arxiv.org/abs/2509.23452)]
 
+**Efficient High-Resolution Image Editing with Hallucination-Aware Loss and Adaptive Tiling** \
+[[Website](https://arxiv.org/abs/2510.06295)]
+
 
 ## Diffusion Models Inversion
 
@@ -8713,7 +8716,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SketchKnitter: Vectorized Sketch Generation with Diffusion Models** \
 [[ICLR 2023 Spotlight](https://openreview.net/forum?id=4eJ43EN2g6l&noteId=fxpTz_vCdO)]
-[[ICLR 2023 Spotlight](https://iclr.cc/virtual/2023/poster/11832)]
+[[Project](https://iclr.cc/virtual/2023/poster/11832)]
 [[Website](https://openreview.net/pdf?id=4eJ43EN2g6l)]
 [[Code](https://github.com/XDUWQ/SketchKnitter/tree/75ded224e91f5ecf7e225c031b32cb97508443b9)]
 
@@ -8880,6 +8883,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.02792)] 
 [[Project](https://zhang-liheng.github.io/rich-control/)] 
 [[Code](https://github.com/zhang-liheng/RichControl)]
+
+**SIGMA-GEN: Structure and Identity Guided Multi-subject Assembly for Image Generation** \
+[[Website](https://arxiv.org/abs/2510.06469)] 
+[[Project](https://oindrilasaha.github.io/SIGMA-Gen/)] 
+[[Code](https://github.com/oindrilasaha/SIGMA-Gen-Code)]
 
 **Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis** \
 [[ICLR 2024](https://arxiv.org/abs/2401.09048)] 
