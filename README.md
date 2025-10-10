@@ -581,6 +581,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.18824)]
 [[Project](https://hyper-bagel.github.io/)]
 
+**Large Scale Diffusion Distillation via Score-Regularized Continuous-Time Consistency** \
+[[Website](https://arxiv.org/abs/2510.08431)]
+[[Project](https://research.nvidia.com/labs/dir/rcm/)]
 
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
@@ -797,6 +800,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Let Features Decide Their Own Solvers: Hybrid Feature Caching for Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2510.04188)]
+
+**LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation** \
+[[Website](https://arxiv.org/abs/2510.08318)]
+
+
 
 ## Train-Free
 
@@ -2198,6 +2206,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.16557)] 
 [[Project](https://zty557.github.io/TADSR_HomePage/)] 
 
+**UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2510.08143)] 
+[[Project](https://shiandu.github.io/UniMMVSR-website/)] 
+
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
@@ -3098,6 +3110,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.25740)] 
 [[Project](https://github.com/xinyu-pu/GeoDrag)]
 
+**Real-Time Motion-Controllable Autoregressive Video Diffusion** \
+[[Website](https://arxiv.org/abs/2510.08131)] 
+[[Project](https://kesenzhao.github.io/AR-Drag.github.io/)]
+
 **RegionDrag: Fast Region-Based Image Editing with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2407.18247)] 
 
@@ -3128,6 +3144,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!** \
 [[Website](https://arxiv.org/abs/2510.03550)] 
 
+**InstructUDrag: Joint Text Instructions and Object Dragging for Interactive Image Editing** \
+[[Website](https://arxiv.org/abs/2510.08181)] 
 
 
 
@@ -3927,6 +3945,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **NEP: Autoregressive Image Editing via Next Editing Token Prediction** \
 [[Website](https://arxiv.org/abs/2508.06044)]
 [[Project](https://nep-bigai.github.io/)]
+
+**Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing** \
+[[Website](https://arxiv.org/abs/2510.08532)]
+[[Project](https://snap-research.github.io/kontinuouskontext/)]
 
 **From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
 [[NeurIPS 2025](https://arxiv.org/abs/2506.20977)]
@@ -7079,6 +7101,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.04201)] 
 [[Code](https://github.com/mhson-kyle/World-To-Image)] 
 
+**Reinforcing Diffusion Models by Direct Group Preference Optimization** \
+[[Website](https://arxiv.org/abs/2510.08425)] 
+[[Code](https://github.com/Luo-Yihong/DGPO)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
@@ -9274,6 +9299,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FreeCompose: Generic Zero-Shot Image Composition with Diffusion Prior** \
 [[ECCV 2024](https://arxiv.org/abs/2407.04947)] 
 [[Code](https://github.com/aim-uofa/FreeCompose)] 
+
+
+**One Stone with Two Birds: A Null-Text-Null Frequency-Aware Diffusion Models for Text-Guided Image Inpainting** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.08273)] 
+[[Code](https://github.com/htyjers/NTN-Diff)] 
+
 
 **360-Degree Panorama Generation from Few Unregistered NFoV Images** \
 [[ACM MM 2023](https://arxiv.org/abs/2308.14686)] 
@@ -12168,6 +12199,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.02284)]
 [[Project](https://daromog.github.io/KineMask/)]
 
+**Controllable Video Synthesis via Variational Inference** \
+[[Website](https://arxiv.org/abs/2510.07670)]
+[[Project](https://video-synthesis-variational.github.io/)]
+
+**VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning** \
+[[Website](https://arxiv.org/abs/2510.08555)]
+[[Project](https://onevfall.github.io/project_page/videocanvas/)]
+
+**FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control** \
+[[Website](https://arxiv.org/abs/2510.08527)]
+[[Project](https://bestzzhang.github.io/FlexTraj/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
