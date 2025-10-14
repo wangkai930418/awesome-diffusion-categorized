@@ -2594,6 +2594,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Causal-Story: Local Causal Attention Utilizing Parameter-Efficient Tuning For Visual Story Synthesis** \
 [[ICASSP 2024](https://arxiv.org/abs/2309.09553)]
 
+**CharCom: Composable Identity Control for Multi-Character Story Illustration** \
+[[ACM MMAsia 2025](https://arxiv.org/abs/2510.10135)]
+
 **Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting** \
 [[Website](https://arxiv.org/abs/2501.15641)]
 
@@ -5848,6 +5851,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://xzr52.github.io/VMDiff_index/)] 
 [[Code](https://github.com/xzr52/VMDiff)]
 
+**ContextGen: Contextual Layout Anchoring for Identity-Consistent Multi-Instance Generation** \
+[[Website](https://arxiv.org/abs/2510.11000)] 
+[[Project](https://nenhang.github.io/ContextGen/)] 
+[[Code](https://github.com/nenhang/ContextGen)]
+
 **High-fidelity Person-centric Subject-to-Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
 [[Code](https://github.com/codegoat24/face-diffuser)] 
@@ -5930,6 +5938,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EditIDv2: Editable ID Customization with Data-Lubricated ID Feature Integration for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2509.05659)] 
 
+**ReMix: Towards a Unified View of Consistent Character Generation and Editing** \
+[[Website](https://arxiv.org/abs/2510.10156)] 
 
 
 ## General Concept 
