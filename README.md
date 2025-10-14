@@ -504,6 +504,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.23681)]
 [[Code](https://github.com/wlfeng0509/QuantSparse)]
 
+**Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy** \
+[[Website](https://arxiv.org/abs/2510.09012)]
+[[Code](https://github.com/krennic999/ARsample)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -804,6 +808,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation** \
 [[Website](https://arxiv.org/abs/2510.08318)]
 
+**FreqCa: Accelerating Diffusion Models via Frequency-Aware Caching** \
+[[Website](https://arxiv.org/abs/2510.08669)]
 
 
 ## Train-Free
@@ -947,6 +953,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL** \
 [[Website](https://arxiv.org/abs/2504.11455)]
 [[Code](https://github.com/wdrink/SimpleAR)]
+
+**Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation** \
+[[Website](https://arxiv.org/abs/2510.08994)]
 
 
 ## VAR model
@@ -2210,6 +2219,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.08143)] 
 [[Project](https://shiandu.github.io/UniMMVSR-website/)] 
 
+**SkipSR: Faster Super Resolution with Token Skipping** \
+[[Website](https://arxiv.org/abs/2510.08799)] 
+[[Project](https://rccchoudhury.github.io/skipsr/)] 
+
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Website](https://arxiv.org/abs/2306.12085)] 
@@ -2367,6 +2380,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Realism Control One-step Diffusion for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2509.10122)]
+
+**LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2510.08771)]
 
 
 ## Personalized Restoration
@@ -7308,6 +7324,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **YOLO-Count: Differentiable Object Counting for Text-to-Image Generation** \
 [[ICCV 2025](https://arxiv.org/abs/2508.00728)] 
 
+**Dense2MoE: Restructuring Diffusion Transformer to MoE for Efficient Text-to-Image Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2510.09094)] 
+
 **D-Fusion: Direct Preference Optimization for Aligning Diffusion Models with Visually Consistent Samples** \
 [[ICML 2025](https://arxiv.org/abs/2505.22002)] 
 
@@ -7797,6 +7816,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **NoiseShift: Resolution-Aware Noise Recalibration for Better Low-Resolution Image Generation** \
 [[Website](https://arxiv.org/abs/2510.02307)]
 
+**Massive Activations are the Key to Local Detail Synthesis in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2510.11538)]
 
 ## Spatial Control
 
@@ -10031,6 +10052,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffInk: Glyph- and Style-Aware Latent Diffusion Transformer for Text to Online Handwriting Generation** \
 [[Website](https://arxiv.org/abs/2509.23624)]
 
+**SceneTextStylizer: A Training-Free Scene Text Style Transfer Framework with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2510.10910)]
+
 
 # Video Generation 
 
@@ -12210,6 +12234,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control** \
 [[Website](https://arxiv.org/abs/2510.08527)]
 [[Project](https://bestzzhang.github.io/FlexTraj/)]
+
+**Stable Video Infinity: Infinite-Length Video Generation with Error Recycling** \
+[[Website](https://arxiv.org/abs/2510.09212)]
+[[Project](https://stable-video-infinity.github.io/homepage/)]
+
+**Point Prompting: Counterfactual Tracking with Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.11715)]
+[[Project](https://point-prompting.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
