@@ -1755,6 +1755,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Code](https://github.com/sen-mao/InterLCM)]
 [[Demo](https://2lq8im394062.vicp.fun/)]
 
+**Self-Supervised Selective-Guided Diffusion Model for Old-Photo Face Restoration** \
+[[Website](https://arxiv.org/abs/2510.12114)]
+[[Project](https://24wenjie-li.github.io/projects/SSDiff/)]
+[[Code](https://github.com/PRIS-CV/SSDiff)]
+
 **DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2308.15070)]
 [[Project](https://0x3f3f3f3fun.github.io/projects/diffbir/)]
@@ -2002,6 +2007,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2305.07015)] 
 [[Project](https://iceclear.github.io/projects/stablesr/)] 
 [[Code](https://github.com/IceClear/StableSR)] 
+
+**FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2510.12747)] 
+[[Project](https://zhuang2002.github.io/FlashVSR/)] 
+[[Code](https://github.com/OpenImagingLab/FlashVSR)] 
 
 **SinSR: Diffusion-Based Image Super-Resolution in a Single Step** \
 [[CVPR 2024](https://arxiv.org/abs/2311.14760)] 
