@@ -811,6 +811,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FreqCa: Accelerating Diffusion Models via Frequency-Aware Caching** \
 [[Website](https://arxiv.org/abs/2510.08669)]
 
+**Hierarchical Koopman Diffusion: Fast Generation with Interpretable Diffusion Trajectory** \
+[[Website](https://arxiv.org/abs/2510.12220)]
+
 
 ## Train-Free
 
@@ -7839,6 +7842,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Massive Activations are the Key to Local Detail Synthesis in Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2510.11538)]
 
+**Improving Text-to-Image Generation with Input-Side Inference-Time Scaling** \
+[[Website](https://arxiv.org/abs/2510.12041)]
+
+
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -8552,6 +8560,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model** \
 [[ECCV 2024](https://arxiv.org/abs/2407.05352)] 
 [[Code](https://github.com/nini0919/DiffPNG)]
+
+**Diffusion-based RGB-D Semantic Segmentation with Deformable Attention Transformer** \
+[[ICAR 2025](https://arxiv.org/abs/2409.15117)] 
+[[Code](https://github.com/ntnu-arl/diffusionMMS)]
 
 **ConsistencyTrack: A Robust Multi-Object Tracker with a Generation Strategy of Consistency Model** \
 [[Website](https://arxiv.org/abs/2408.15548)] 
@@ -12901,6 +12913,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FADE: Frequency-Aware Diffusion Model Factorization for Video Editing** \
 [[Website](https://arxiv.org/abs/2506.05934)]
 [[Code](https://github.com/EternalEvan/FADE)]
+
+**VIDMP3: Video Editing by Representing Motion with Pose and Position Priors** \
+[[Website](https://arxiv.org/abs/2510.12069)]
+[[Code](https://github.com/sandeep-sm/VidMP3)]
 
 **Shape-Aware Text-Driven Layered Video Editing** \
 [[CVPR 2023](https://arxiv.org/abs/2301.13173)]
