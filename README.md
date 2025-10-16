@@ -7144,6 +7144,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.08425)] 
 [[Code](https://github.com/Luo-Yihong/DGPO)] 
 
+**Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2510.13418)] 
+[[Code](https://github.com/xingzhejun/Mask-GRPO)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -10086,6 +10090,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SceneTextStylizer: A Training-Free Scene Text Style Transfer Framework with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2510.10910)]
+
+**UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy** \
+[[Website](https://arxiv.org/abs/2510.13745)]
 
 
 # Video Generation 
