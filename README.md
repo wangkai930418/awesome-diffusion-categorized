@@ -2664,6 +2664,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TaleDiffusion: Multi-Character Story Generation with Dialogue Rendering** \
 [[Website](https://arxiv.org/abs/2509.04123)]
 
+**Consistent text-to-image generation via scene de-contextualization** \
+[[Website](https://arxiv.org/abs/2510.14553)]
+
 
 # Try On
 
@@ -3981,6 +3984,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing** \
 [[Website](https://arxiv.org/abs/2510.08532)]
 [[Project](https://snap-research.github.io/kontinuouskontext/)]
+
+**Learning an Image Editing Model without Image Editing Pairs** \
+[[Website](https://arxiv.org/abs/2510.14978)]
+[[Project](https://nupurkmr9.github.io/npedit/)]
 
 **From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
 [[NeurIPS 2025](https://arxiv.org/abs/2506.20977)]
@@ -5868,6 +5875,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.11000)] 
 [[Project](https://nenhang.github.io/ContextGen/)] 
 [[Code](https://github.com/nenhang/ContextGen)]
+
+**WithAnyone: Towards Controllable and ID Consistent Image Generation** \
+[[Website](https://arxiv.org/abs/2510.14975)] 
+[[Project](https://doby-xu.github.io/WithAnyone/)] 
+[[Code](https://github.com/doby-xu/WithAnyone)]
 
 **High-fidelity Person-centric Subject-to-Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
@@ -7849,6 +7861,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Improving Text-to-Image Generation with Input-Side Inference-Time Scaling** \
 [[Website](https://arxiv.org/abs/2510.12041)]
 
+**DOS: Directional Object Separation in Text Embeddings for Multi-Object Image Generation** \
+[[Website](https://arxiv.org/abs/2510.14376)]
 
 
 ## Spatial Control
@@ -9184,6 +9198,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Condition Weaving Meets Expert Modulation: Towards Universal and Controllable Image Generation** \
 [[Website]](https://arxiv.org/abs/2508.17364) 
+
+**ScaleWeaver: Weaving Efficient Controllable T2I Generation with Multi-Scale Reference Attention** \
+[[Website]](https://arxiv.org/abs/2510.14882) 
+
 
 
 # Few-Shot 
@@ -11801,6 +11819,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2405.17405)]
 [[Project](https://human4dit.github.io/)] 
 
+**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures** \
+[[SIGGRAPH Asia 2025](https://arxiv.org/abs/2510.14179)]
+[[Project](https://eyeline-labs.github.io/Virtually-Being/)] 
+
 **Repurposing Pre-trained Video Diffusion Models for Event-based Video Interpolation** \
 [[CVPR 2025](https://arxiv.org/abs/2412.07761)]
 [[Project](https://vdm-evfi.github.io/)]
@@ -12660,6 +12682,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Attention Surgery: An Efficient Recipe to Linearize Your Video Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2509.24899)]
 
+**ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints** \
+[[Website](https://arxiv.org/abs/2510.14847)]
+
 
 # Video Editing 
 
@@ -12924,6 +12949,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VIDMP3: Video Editing by Representing Motion with Pose and Position Priors** \
 [[Website](https://arxiv.org/abs/2510.12069)]
 [[Code](https://github.com/sandeep-sm/VidMP3)]
+
+**In-Context Learning with Unpaired Clips for Instruction-based Video Editing** \
+[[Website](https://arxiv.org/abs/2510.14648)]
+[[Code](https://github.com/leoisufa/ICVE)]
 
 **Shape-Aware Text-Driven Layered Video Editing** \
 [[CVPR 2023](https://arxiv.org/abs/2301.13173)]
