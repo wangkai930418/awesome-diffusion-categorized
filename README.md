@@ -508,6 +508,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.09012)]
 [[Code](https://github.com/krennic999/ARsample)]
 
+**pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation** \
+[[Website](https://arxiv.org/abs/2510.14974)]
+[[Code](https://github.com/Lakonik/piFlow)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -7864,6 +7868,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DOS: Directional Object Separation in Text Embeddings for Multi-Object Image Generation** \
 [[Website](https://arxiv.org/abs/2510.14376)]
 
+**Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.14526)]
+
 
 ## Spatial Control
 
@@ -9508,6 +9515,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference** \
 [[NeurIPS 2024](https://arxiv.org/abs/2407.21017)] 
 [[Project](https://prefpaint.github.io/)]
+
+**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** \
+[[ICCV 2025](https://arxiv.org/abs/2510.15868)] 
+[[Project](https://ray-1026.github.io/lightsout/)]
 
 **Get In Video: Add Anything You Want to the Video** \
 [[Website](https://arxiv.org/abs/2503.06268)] 
@@ -12303,6 +12314,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Point Prompting: Counterfactual Tracking with Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2510.11715)]
 [[Project](https://point-prompting.github.io/)]
+
+**Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization** \
+[[Website](https://arxiv.org/abs/2510.14255)]
+[[Project](https://ipro-alimama.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
