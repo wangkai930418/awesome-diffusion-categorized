@@ -4760,6 +4760,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.01151)] 
 [[Code](https://github.com/M-E-AGI-Lab/PSAlign)]
 
+**NDM: A Noise-driven Detection and Mitigation Framework against Implicit Sexual Intentions in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2510.15752)] 
+[[Code](https://github.com/lorraine021/NDM)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -7871,6 +7875,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2510.14526)]
 
+**DeLeaker: Dynamic Inference-Time Reweighting For Semantic Leakage Mitigation in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2510.15015)]
+
 
 ## Spatial Control
 
@@ -8577,6 +8584,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.15263)] 
 [[Project](https://reachomk.github.io/gen2seg/)] 
 [[Code](https://github.com/UCDvision/gen2seg)]
+
+**ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection** \
+[[NeurIPS 2025 (Spotlight)](https://arxiv.org/abs/2510.15783)] 
+[[Code](https://github.com/haoweiz23/ReCon)]
 
 **Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.21708)] 
@@ -12321,6 +12332,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.14255)]
 [[Project](https://ipro-alimama.github.io/)]
 
+**TGT: Text-Grounded Trajectories for Locally Controlled Video Generation** \
+[[Website](https://arxiv.org/abs/2510.15104)]
+[[Project](https://textgroundedtraj.github.io/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -12898,6 +12913,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.01186)]
 [[Project](https://muzishen.github.io/IMAGEdit/)]
 [[Code](https://github.com/XWH-A/IMAGEdit)] 
+
+**Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset** \
+[[Website](https://arxiv.org/abs/2510.15742)]
+[[Project](https://editto.net/)]
+[[Code](https://github.com/EzioBy/Ditto)] 
 
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
