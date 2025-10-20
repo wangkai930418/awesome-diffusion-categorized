@@ -9280,6 +9280,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://yigitekin.github.io/CLIPAway/)]
 [[Code](https://github.com/YigitEkin/CLIPAway)] 
 
+**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** \
+[[ICCV 2025](https://arxiv.org/abs/2510.15868)] 
+[[Project](https://ray-1026.github.io/lightsout/)]
+[[Code](https://github.com/Ray-1026/LightsOut-official)]
+
 **TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_TF-ICON_Diffusion-Based_Training-Free_Cross-Domain_Image_Composition_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2307.12493)] 
@@ -9516,9 +9521,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2407.21017)] 
 [[Project](https://prefpaint.github.io/)]
 
-**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal** \
-[[ICCV 2025](https://arxiv.org/abs/2510.15868)] 
-[[Project](https://ray-1026.github.io/lightsout/)]
 
 **Get In Video: Add Anything You Want to the Video** \
 [[Website](https://arxiv.org/abs/2503.06268)] 
