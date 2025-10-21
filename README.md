@@ -3808,10 +3808,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.05715)]
 [[Code](https://github.com/HH-LG/AgeBooth)] 
 
+**Region in Context: Text-condition Image editing with Human-like semantic reasoning** \
+[[Website](https://arxiv.org/abs/2510.16772)]
+[[Code](https://github.com/thuyvuphuong/Region-in-Context)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
 <!-- [[NeurIPS 2023](https://openreview.net/forum?id=cBS5CU96Jq)]  -->
+
+**ConsistEdit: Highly Consistent and Precise Training-free Visual Editing** \
+[[SIGGRAPH Asia 2025](https://arxiv.org/abs/2510.17803)] 
+[[Project](https://zxyin.github.io/ConsistEdit/)]
 
 **Emu Edit: Precise Image Editing via Recognition and Generation Tasks** \
 [[CVPR 2024](https://arxiv.org/abs/2311.10089)] 
@@ -4977,6 +4985,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Latent Diffusion Unlearning: Protecting Against Unauthorized Personalization Through Trajectory Shifted Perturbations** \
 [[Website](https://arxiv.org/abs/2510.03089)] 
 
+**Beyond Fixed Anchors: Precisely Erasing Concepts with Sibling Exclusive Counterparts** \
+[[Website](https://arxiv.org/abs/2510.16342)] 
 
 
 # New Concept Learning
