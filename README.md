@@ -1641,6 +1641,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **OS-DiffVSR: Towards One-step Latent Diffusion Model for High-detailed Real-world Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2509.16507)]
 
+**Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement** \
+[[Website](https://arxiv.org/abs/2510.17105)]
+
+
 ## Colorization
 
 **LVCD: Reference-based Lineart Video Colorization with Diffusion Models** \
