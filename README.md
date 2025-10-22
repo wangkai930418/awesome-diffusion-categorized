@@ -2272,6 +2272,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution** \
 [[AAAI 2025](https://arxiv.org/abs/2504.03490)] 
 
+**DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolutio** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.18851)] 
+
 **Detail-Enhancing Framework for Reference-Based Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2405.00431)] 
 
@@ -5609,6 +5612,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model** \
 [[Website](https://arxiv.org/abs/2509.26127)] 
 
+**From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation** \
+[[Website](https://arxiv.org/abs/2510.18263)] 
 
 
 ## Mutiple Concepts
@@ -5905,6 +5910,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.14975)] 
 [[Project](https://doby-xu.github.io/WithAnyone/)] 
 [[Code](https://github.com/doby-xu/WithAnyone)]
+
+**Chimera: Compositional Image Generation using Part-based Concepting** \
+[[Website](https://arxiv.org/abs/2510.18083)] 
+[[Project](https://chimera-compositional-image-generation.vercel.app/)] 
+[[Code](https://github.com/shivamsingh-gpu/Chimera)]
 
 **High-fidelity Person-centric Subject-to-Image Synthesis** \
 [[CVPR 2024](https://arxiv.org/abs/2311.10329)] 
@@ -12737,6 +12747,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond Semantic Dependency Constraints** \
 [[Website](https://arxiv.org/abs/2510.14847)]
+
+**Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model** \
+[[Website](https://arxiv.org/abs/2510.18573)]
+
+**MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation** \
+[[Website](https://arxiv.org/abs/2510.18692)]
 
 
 # Video Editing 
