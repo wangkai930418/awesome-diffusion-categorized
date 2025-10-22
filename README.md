@@ -516,6 +516,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
 
+**Shortcutting Pre-trained Flow Matching Diffusion Models is Almost Free Lunch** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.17858)]
+[[Project](https://shortcutfm.github.io/)]
 
 **Cache Me if You Can: Accelerating Diffusion Models through Block Caching** \
 [[CVPR 2024](https://arxiv.org/abs/2312.03209)]
@@ -7181,6 +7184,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Reinforcement Learning Meets Masked Generative Models: Mask-GRPO for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2510.13418)] 
 [[Code](https://github.com/xingzhejun/Mask-GRPO)] 
+
+**Ranking-based Preference Optimization for Diffusion Models from Implicit User Feedback** \
+[[Website](https://arxiv.org/abs/2510.18353)] 
+[[Code](https://github.com/basiclab/DiffusionDRO)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
