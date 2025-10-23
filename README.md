@@ -2215,6 +2215,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.00948)] 
 [[Code](https://github.com/Kai-Liu001/InfVSR)] 
 
+**SCEESR: Semantic-Control Edge Enhancement for Diffusion-Based Super-Resolution** \
+[[Website](https://arxiv.org/abs/2510.19272)] 
+[[Code](https://github.com/ARBEZ-ZEBRA/SCEESR)] 
+
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
 [[Project](https://mmsr.kfmei.com/)] 
@@ -7909,6 +7913,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DeLeaker: Dynamic Inference-Time Reweighting For Semantic Leakage Mitigation in Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2510.15015)]
 
+**D2D: Detector-to-Differentiable Critic for Improved Numeracy in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2510.19278)]
 
 ## Spatial Control
 
@@ -12753,6 +12759,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation** \
 [[Website](https://arxiv.org/abs/2510.18692)]
+
+**MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.19022)]
+
+**Video Consistency Distance: Enhancing Temporal Consistency for Image-to-Video Generation via Reward-Based Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2510.19193)]
 
 
 # Video Editing 
