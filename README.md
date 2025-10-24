@@ -118,6 +118,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation** \
 [[ACM MM 2025](https://arxiv.org/abs/2509.10058)]
 
+**GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models** \
+[[Website](https://arxiv.org/abs/2510.20586)]
+
 **Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2508.09131)]
 
@@ -6175,6 +6178,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.07341)] 
 [[Code](https://github.com/KZF-kzf/CoAR)]
 
+**EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion Personalization** \
+[[Website](https://arxiv.org/abs/2510.20512)] 
+[[Project](https://liulisixin.github.io/EchoDistill-page/)] 
+
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09522)] 
 [[Project](https://prompt-plus.github.io/)] 
@@ -10558,6 +10565,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2024](https://arxiv.org/abs/2312.07509)]
 [[Project](https://jinga-lala.github.io/projects/Peekaboo/)]
 [[Code](https://github.com/microsoft/Peekaboo)]
+
+**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling** \
+[[CVPR 2025](https://arxiv.org/abs/2510.20206)]
+[[Project](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)]
+[[Code](https://github.com/Vchitect/RAPO)]
 
 **VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis** \
 [[ICLR 2025](https://arxiv.org/abs/2403.13501)]
