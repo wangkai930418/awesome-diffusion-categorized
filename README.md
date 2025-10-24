@@ -4387,6 +4387,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2403.11105)] 
 [[Code](https://github.com/leeruibin/SPDInv)] 
 
+**EditInfinity: Image Editing with Binary-Quantized Generative Models** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.20217)] 
+[[Code](https://github.com/yx-chen-ust/EditInfinity)] 
+
 **LocInv: Localization-aware Inversion for Text-Guided Image Editing** \
 [[CVPR 2024 AI4CC workshop](https://arxiv.org/abs/2405.01496)] 
 [[Code](https://github.com/wangkai930418/DPL)] 
@@ -4426,6 +4430,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Runge-Kutta Approximation and Decoupled Attention for Rectified Flow Inversion and Semantic Editing** \
 [[Website](https://arxiv.org/abs/2509.12888v1)] 
 [[Code](https://github.com/wmchen/RKSovler_DDTA)] 
+
+**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing** \
+[[Website](https://arxiv.org/abs/2510.20212)] 
+[[Code](https://github.com/HKUST-LongGroup/FlowCycle)] 
 
 **Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2502.20376)] 
@@ -10785,7 +10793,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://noise-rectification.github.io/)] 
 [[Code](https://github.com/alimama-creative/Noise-Rectification)] 
 
-
+**HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives** \
+[[Website](https://arxiv.org/abs/2510.20822)]
+[[Project](https://holo-cine.github.io/)] 
+[[Code](https://github.com/yihao-meng/HoloCine)]
 
 **Video Diffusion Alignment via Reward Gradients** \
 [[Website](https://arxiv.org/abs/2407.08737)]
