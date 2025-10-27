@@ -5983,6 +5983,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.21953)] 
 [[Project](https://wutao-cs.github.io/MultiCrafter/)] 
 
+**Preventing Shortcuts in Adapter Training via Providing the Shortcuts** \
+[[Website](https://arxiv.org/abs/2510.20887)] 
+[[Project](https://snap-research.github.io/shortcut-rerouting/)] 
+
 **DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation** \
 [[Website](https://arxiv.org/abs/2502.13999)] 
 
@@ -9765,6 +9769,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Teleportraits: Training-Free People Insertion into Any Scene** \
 [[Website](https://arxiv.org/abs/2510.05660)] 
 
+**VidSplice: Towards Coherent Video Inpainting via Explicit Spaced Frame Guidance** \
+[[Website](https://arxiv.org/abs/2510.21461)] 
 
 
 # Layout Generation
@@ -11487,6 +11493,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://hyelinnam.github.io/Cameo/)]
 [[Code](https://github.com/HyelinNAM/Cameo)]
 
+**Video-As-Prompt: Unified Semantic Control for Video Generation** \
+[[Website](https://arxiv.org/abs/2510.20888)]
+[[Project](https://bytedance.github.io/Video-As-Prompt/)]
+[[Code](https://github.com/bytedance/Video-As-Prompt)]
+
+**BachVid: Training-Free Video Generation with Consistent Background and Character** \
+[[Website](https://arxiv.org/abs/2510.21696)]
+[[Project](https://wolfball.github.io/bachvid/)]
+[[Code](https://github.com/wolfball/BachVid)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12395,6 +12411,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TGT: Text-Grounded Trajectories for Locally Controlled Video Generation** \
 [[Website](https://arxiv.org/abs/2510.15104)]
 [[Project](https://textgroundedtraj.github.io/)]
+
+**Epipolar Geometry Improves Video Generation Models** \
+[[Website](https://arxiv.org/abs/2510.21615)]
+[[Project](https://epipolar-dpo.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
