@@ -12429,6 +12429,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CoMo: Compositional Motion Customization for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2510.23007)]
 [[Project](https://como6.github.io/)]
+
 **Epipolar Geometry Improves Video Generation Models** \
 [[Website](https://arxiv.org/abs/2510.21615)]
 [[Project](https://epipolar-dpo.github.io/)]
