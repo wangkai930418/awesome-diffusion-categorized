@@ -2265,6 +2265,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TurboVSR: Fantastic Video Upscalers and Where to Find Them** \
 [[ICCV 2025](https://arxiv.org/abs/2506.23618)]
 
+**SRSR: Enhancing Semantic Accuracy in Real-World Image Super-Resolution with Spatially Re-Focused Text-Conditioning** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.22534)] 
+
 **PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution** \
 [[CVPR 2025](https://arxiv.org/abs/2509.26025)] 
 
@@ -2613,6 +2616,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Subject-Consistent and Pose-Diverse Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2507.08396)]
 [[Code](https://github.com/NJU-PCALab/CoDi)]
+
+**SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.22994)]
+[[Project](https://lulupig12138.github.io/SceneDecorator/)]
 
 **Multi-Shot Character Consistency for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2412.07750)]
@@ -4021,6 +4028,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Learning an Image Editing Model without Image Editing Pairs** \
 [[Website](https://arxiv.org/abs/2510.14978)]
 [[Project](https://nupurkmr9.github.io/npedit/)]
+
+**FlowOpt: Fast Optimization Through Whole Flow Processes for Training-Free Editing** \
+[[Website](https://arxiv.org/abs/2510.22010)]
+[[Project](https://orronai.github.io/FlowOpt/)]
 
 **From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
 [[NeurIPS 2025](https://arxiv.org/abs/2506.20977)]
@@ -5749,6 +5760,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FocusDPO: Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus** \
 [[Website](https://arxiv.org/abs/2509.01181)] 
 [[Project](https://bytedance-fanqie-ai.github.io/FocusDPO/)] 
+
+**FreeFuse: Multi-Subject LoRA Fusion via Auto Masking at Test Time** \
+[[Website](https://arxiv.org/abs/2510.23515)] 
+[[Project](https://future-item.github.io/FreeFuse/)] 
 
 **FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion** \
 [[Website](https://arxiv.org/abs/2502.05606)] 
@@ -10208,6 +10223,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy** \
 [[Website](https://arxiv.org/abs/2510.13745)]
 
+**Autoregressive Styled Text Image Generation, but Make it Reliable** \
+[[Website](https://arxiv.org/abs/2510.23240)]
 
 # Video Generation 
 
@@ -13343,3 +13360,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FreeViS: Training-free Video Stylization with Inconsistent References** \
 [[Website](https://arxiv.org/abs/2510.01686)]
+
+**VALA: Learning Latent Anchors for Training-Free and Temporally Consistent** \
+[[Website](https://arxiv.org/abs/2510.22970)]
