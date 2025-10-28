@@ -118,6 +118,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings for Improved Diffusion Generation** \
 [[ACM MM 2025](https://arxiv.org/abs/2509.10058)]
 
+**GenColorBench: A Color Evaluation Benchmark for Text-to-Image Generation Models** \
+[[Website](https://arxiv.org/abs/2510.20586)]
+
 **Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2508.09131)]
 
@@ -4388,6 +4391,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2403.11105)] 
 [[Code](https://github.com/leeruibin/SPDInv)] 
 
+**EditInfinity: Image Editing with Binary-Quantized Generative Models** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.20217)] 
+[[Code](https://github.com/yx-chen-ust/EditInfinity)] 
+
 **LocInv: Localization-aware Inversion for Text-Guided Image Editing** \
 [[CVPR 2024 AI4CC workshop](https://arxiv.org/abs/2405.01496)] 
 [[Code](https://github.com/wangkai930418/DPL)] 
@@ -4427,6 +4434,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Runge-Kutta Approximation and Decoupled Attention for Rectified Flow Inversion and Semantic Editing** \
 [[Website](https://arxiv.org/abs/2509.12888v1)] 
 [[Code](https://github.com/wmchen/RKSovler_DDTA)] 
+
+**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing** \
+[[Website](https://arxiv.org/abs/2510.20212)] 
+[[Code](https://github.com/HKUST-LongGroup/FlowCycle)] 
 
 **Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2502.20376)] 
@@ -5984,6 +5995,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.21953)] 
 [[Project](https://wutao-cs.github.io/MultiCrafter/)] 
 
+**Preventing Shortcuts in Adapter Training via Providing the Shortcuts** \
+[[Website](https://arxiv.org/abs/2510.20887)] 
+[[Project](https://snap-research.github.io/shortcut-rerouting/)] 
+
 **DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation** \
 [[Website](https://arxiv.org/abs/2502.13999)] 
 
@@ -6186,6 +6201,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2508.07341)] 
 [[Code](https://github.com/KZF-kzf/CoAR)]
+
+**EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion Personalization** \
+[[Website](https://arxiv.org/abs/2510.20512)] 
+[[Project](https://liulisixin.github.io/EchoDistill-page/)] 
 
 **$P+$: Extended Textual Conditioning in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2303.09522)] 
@@ -9764,6 +9783,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Teleportraits: Training-Free People Insertion into Any Scene** \
 [[Website](https://arxiv.org/abs/2510.05660)] 
 
+**VidSplice: Towards Coherent Video Inpainting via Explicit Spaced Frame Guidance** \
+[[Website](https://arxiv.org/abs/2510.21461)] 
 
 
 # Layout Generation
@@ -10573,6 +10594,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jinga-lala.github.io/projects/Peekaboo/)]
 [[Code](https://github.com/microsoft/Peekaboo)]
 
+**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling** \
+[[CVPR 2025](https://arxiv.org/abs/2510.20206)]
+[[Project](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)]
+[[Code](https://github.com/Vchitect/RAPO)]
+
 **VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis** \
 [[ICLR 2025](https://arxiv.org/abs/2403.13501)]
 [[Project](https://yumengli007.github.io/VSTAR/)] 
@@ -10787,7 +10813,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://noise-rectification.github.io/)] 
 [[Code](https://github.com/alimama-creative/Noise-Rectification)] 
 
-
+**HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives** \
+[[Website](https://arxiv.org/abs/2510.20822)]
+[[Project](https://holo-cine.github.io/)] 
+[[Code](https://github.com/yihao-meng/HoloCine)]
 
 **Video Diffusion Alignment via Reward Gradients** \
 [[Website](https://arxiv.org/abs/2407.08737)]
@@ -11477,6 +11506,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.03909)]
 [[Project](https://hyelinnam.github.io/Cameo/)]
 [[Code](https://github.com/HyelinNAM/Cameo)]
+
+**Video-As-Prompt: Unified Semantic Control for Video Generation** \
+[[Website](https://arxiv.org/abs/2510.20888)]
+[[Project](https://bytedance.github.io/Video-As-Prompt/)]
+[[Code](https://github.com/bytedance/Video-As-Prompt)]
+
+**BachVid: Training-Free Video Generation with Consistent Background and Character** \
+[[Website](https://arxiv.org/abs/2510.21696)]
+[[Project](https://wolfball.github.io/bachvid/)]
+[[Code](https://github.com/wolfball/BachVid)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
@@ -12390,6 +12429,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CoMo: Compositional Motion Customization for Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2510.23007)]
 [[Project](https://como6.github.io/)]
+**Epipolar Geometry Improves Video Generation Models** \
+[[Website](https://arxiv.org/abs/2510.21615)]
+[[Project](https://epipolar-dpo.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
