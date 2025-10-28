@@ -1373,6 +1373,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.18144)]
 [[Code](https://github.com/hejh8/BidDiff)]
 
+**Residual Diffusion Bridge Model for Image Restoration** \
+[[Website](https://arxiv.org/abs/2510.23116)]
+[[Code](https://github.com/MiliLab/RDBM)]
+
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
 [[Project](https://tianhewu.github.io/A-FINE-page.github.io/)]
@@ -4786,6 +4790,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.15752)] 
 [[Code](https://github.com/lorraine021/NDM)]
 
+**Semantic Surgery: Zero-Shot Concept Erasure in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.22851)] 
+[[Code](https://github.com/Lexiang-Xiong/Semantic-Surgery)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -5955,6 +5963,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Devil is in the Detail: Towards Injecting Fine Details of Image Prompt in Image Generation via Conflict-free Guidance and Stratified Attention** \
 [[Website](https://arxiv.org/abs/2508.02004)] 
 [[Code](https://github.com/bttkm82/InDetail-IP)]
+
+**Face-MakeUpV2: Facial Consistency Learning for Controllable Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2510.21775)] 
+[[Code](https://github.com/ddw2AIGROUP2CQUPT/Face-MakeUpV2)]
 
 **ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation** \
 [[SIGGRAPH Asia 2025](https://arxiv.org/abs/2509.18092)] 
@@ -8741,8 +8753,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://refam-diffusion.github.io/)] 
 
 **Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation** \
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Peng_Diffusion-based_Image_Translation_with_Label_Guidance_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html
-)] 
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Peng_Diffusion-based_Image_Translation_with_Label_Guidance_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2308.12350)] 
 
 **Conditional Latent Diffusion Models for Zero-Shot Instance Segmentation** \
@@ -8756,6 +8767,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.02369)] 
+
+**Diffusion-Driven Two-Stage Active Learning for Low-Budget Semantic Segmentation** \
+[[NeurIPS 2025](https://arxiv.org/abs/2510.22229)] 
 
 **Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation** \
 [[WACV 2024](https://arxiv.org/abs/2312.01850)] 
@@ -12372,6 +12386,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TGT: Text-Grounded Trajectories for Locally Controlled Video Generation** \
 [[Website](https://arxiv.org/abs/2510.15104)]
 [[Project](https://textgroundedtraj.github.io/)]
+
+**CoMo: Compositional Motion Customization for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2510.23007)]
+[[Project](https://como6.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
