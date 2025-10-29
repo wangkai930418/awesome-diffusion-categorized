@@ -3597,6 +3597,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://research.nvidia.com/labs/toronto-ai/chronoedit/)] 
 [[Code](https://github.com/nv-tlabs/ChronoEdit)] 
 
+**Group Relative Attention Guidance for Image Editing** \
+[[Website](https://arxiv.org/abs/2510.24657)] 
+[[Project](https://little-misfit.github.io/GRAG-Image-Editing/)] 
+[[Code](https://github.com/little-misfit/GRAG-Image-Editing)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -4821,6 +4826,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Semantic Surgery: Zero-Shot Concept Erasure in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2510.22851)] 
 [[Code](https://github.com/Lexiang-Xiong/Semantic-Surgery)]
+
+**Training-Free Safe Text Embedding Guidance for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.24012)] 
+[[Code](https://github.com/aailab-kaist/STG)]
 
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
@@ -7254,6 +7263,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Ranking-based Preference Optimization for Diffusion Models from Implicit User Feedback** \
 [[Website](https://arxiv.org/abs/2510.18353)] 
 [[Code](https://github.com/basiclab/DiffusionDRO)] 
+
+**Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.23974)] 
+[[Code](https://github.com/aailab-kaist/DATE)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
@@ -10231,6 +10244,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Autoregressive Styled Text Image Generation, but Make it Reliable** \
 [[Website](https://arxiv.org/abs/2510.23240)]
+
+**OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation** \
+[[Website](https://arxiv.org/abs/2510.24093)]
+
 
 # Video Generation 
 
