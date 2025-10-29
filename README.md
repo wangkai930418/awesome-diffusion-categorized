@@ -943,6 +943,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Chipmunk: Training-Free Acceleration of Diffusion Transformers with Dynamic Column-Sparse Deltas** \
 [[Website](https://arxiv.org/abs/2506.03275)]
 
+**ETC: training-free diffusion models acceleration with Error-aware Trend Consistency** \
+[[Website](https://arxiv.org/abs/2510.24129)]
+
 
 ## AR model
 
@@ -1653,6 +1656,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Boosting Fidelity for Pre-Trained-Diffusion-Based Low-Light Image Enhancement via Condition Refinement** \
 [[Website](https://arxiv.org/abs/2510.17105)]
+
+**Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.23633)]
 
 
 ## Colorization
@@ -11849,6 +11855,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LongScape: Advancing Long-Horizon Embodied World Models with Context-Aware MoE** \
 [[Website](https://arxiv.org/abs/2509.21790)]
 [[Code](https://github.com/tsinghua-fib-lab/Longscape)]
+
+**VC4VG: Optimizing Video Captions for Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2510.24134)]
+[[Code](https://github.com/qyr0403/VC4VG)]
+
+**Uniform Discrete Diffusion with Metric Path for Video Generation** \
+[[Website](https://arxiv.org/abs/2510.24717)]
+[[Code](https://github.com/baaivision/URSA)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
