@@ -973,6 +973,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation** \
 [[Website](https://arxiv.org/abs/2510.08994)]
 
+**Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2510.25739)]
+
 
 ## VAR model
 
@@ -3846,6 +3849,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Region in Context: Text-condition Image editing with Human-like semantic reasoning** \
 [[Website](https://arxiv.org/abs/2510.16772)]
 [[Code](https://github.com/thuyvuphuong/Region-in-Context)] 
+
+**RegionE: Adaptive Region-Aware Generation for Efficient Image Editing** \
+[[Website](https://arxiv.org/abs/2510.25590)]
+[[Code](https://github.com/Peyton-Chen/RegionE)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -12481,6 +12488,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Epipolar Geometry Improves Video Generation Models** \
 [[Website](https://arxiv.org/abs/2510.21615)]
 [[Project](https://epipolar-dpo.github.io/)]
+
+**VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos** \
+[[Website](https://arxiv.org/abs/2510.24904)]
+[[Project](https://wuqiuche.github.io/VividCamDemoPage/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
