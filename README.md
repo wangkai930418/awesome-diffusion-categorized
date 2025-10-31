@@ -4548,6 +4548,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DIA: The Adversarial Exposure of Deterministic Inversion in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2510.00778)]
 
+**SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing** \
+[[Website](https://arxiv.org/abs/2510.25970)]
+
 
 # Continual Learning
 
@@ -10254,6 +10257,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation** \
 [[Website](https://arxiv.org/abs/2510.24093)]
+
+**GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?** \
+[[Website](https://arxiv.org/abs/2510.26339)]
 
 
 # Video Generation 
