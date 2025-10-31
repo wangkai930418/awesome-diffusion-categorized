@@ -7455,6 +7455,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.06215)] 
 [[Project](https://www.ayshrv.com/defocus-blur-gen)]
 
+**MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and efficiency** \
+[[Website](https://arxiv.org/abs/2510.25897)] 
+[[Project](https://nicolas-dufour.github.io/miro/)]
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
