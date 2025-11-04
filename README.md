@@ -332,6 +332,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://nvlabs.github.io/Sana/Sprint/)]
 [[Code](https://github.com/NVlabs/Sana)]
 
+**LeMiCa: Lexicographic Minimax Path Caching for Efficient Diffusion-Based Video Generation** \
+[[Website](https://arxiv.org/abs/2511.00090)]
+[[Project](https://unicomai.github.io/LeMiCa/)]
+[[Code](https://github.com/UnicomAI/LeMiCa)]
 
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
@@ -514,6 +518,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation** \
 [[Website](https://arxiv.org/abs/2510.14974)]
 [[Code](https://github.com/Lakonik/piFlow)]
+
+**Towards One-step Causal Video Generation via Adversarial Self-Distillation** \
+[[Website](https://arxiv.org/abs/2511.01419)]
+[[Code](https://github.com/BigAandSmallq/SAD)]
 
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
@@ -1386,6 +1394,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.23116)]
 [[Code](https://github.com/MiliLab/RDBM)]
 
+**Learnable Fractional Reaction-Diffusion Dynamics for Under-Display ToF Imaging and Beyond** \
+[[Website](https://arxiv.org/abs/2511.01704)]
+[[Code](https://github.com/wudiqx106/LFRD2)]
+
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
 [[Project](https://tianhewu.github.io/A-FINE-page.github.io/)]
@@ -1662,6 +1674,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Noise is All You Need: Solving Linear Inverse Problems by Noise Combination Sampling with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2510.23633)]
+
+**Enhancing Diffusion-based Restoration Models via Difficulty-Adaptive Reinforcement Learning with IQA Reward** \
+[[Website](https://arxiv.org/abs/2511.01645)]
 
 
 ## Colorization
@@ -2433,6 +2448,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **LinearSR: Unlocking Linear Attention for Stable and Efficient Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2510.08771)]
+
+**Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2511.01175)]
 
 
 ## Personalized Restoration
@@ -3854,6 +3872,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.25590)]
 [[Code](https://github.com/Peyton-Chen/RegionE)] 
 
+**Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing** \
+[[Website](https://arxiv.org/abs/2510.27335)]
+[[Code](https://github.com/Jia-shao/Reasoning-Editing)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -4841,6 +4863,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.24012)] 
 [[Code](https://github.com/aailab-kaist/STG)]
 
+**Rethinking Robust Adversarial Concept Erasure in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2510.27285)] 
+[[Code](https://github.com/Qhong-522/S-GRACE)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -5673,6 +5699,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation** \
 [[Website](https://arxiv.org/abs/2510.18263)] 
+
+**Multi-View Consistent Human Image Customization via In-Context Learning** \
+[[Website](https://arxiv.org/abs/2511.00293)] 
 
 
 ## Mutiple Concepts
@@ -12503,6 +12532,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.24904)]
 [[Project](https://wuqiuche.github.io/VividCamDemoPage/)]
 
+**MotionStream: Real-Time Video Generation with Interactive Motion Controls** \
+[[Website](https://arxiv.org/abs/2511.01266)]
+[[Project](https://joonghyuk.com/motionstream-web/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -12895,6 +12928,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Video Consistency Distance: Enhancing Temporal Consistency for Image-to-Video Generation via Reward-Based Fine-Tuning** \
 [[Website](https://arxiv.org/abs/2510.19193)]
+
+**ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation** \
+[[Website](https://arxiv.org/abs/2511.00511)]
+
 
 
 # Video Editing 
