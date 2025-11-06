@@ -5703,6 +5703,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Multi-View Consistent Human Image Customization via In-Context Learning** \
 [[Website](https://arxiv.org/abs/2511.00293)] 
 
+**Finetuning-Free Personalization of Text to Image Generation via Hypernetworks** \
+[[Website](https://arxiv.org/abs/2511.03156)] 
+
 
 ## Mutiple Concepts
 
@@ -8024,6 +8027,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **D2D: Detector-to-Differentiable Critic for Improved Numeracy in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2510.19278)]
 
+**Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.03317)]
+
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -9862,6 +9869,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **VidSplice: Towards Coherent Video Inpainting via Explicit Spaced Frame Guidance** \
 [[Website](https://arxiv.org/abs/2510.21461)] 
+
+**Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising** \
+[[Website](https://arxiv.org/abs/2511.03272)] 
 
 
 # Layout Generation
