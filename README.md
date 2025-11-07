@@ -4594,6 +4594,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2410.17594)] 
 [[Code](https://github.com/JiahuaDong/CIFC)]
 
+**ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection** \
+[[IJCAI 2025](https://arxiv.org/abs/2505.06603)] 
+[[Code](https://github.com/HULEI7/ReplayCAD)]
+
 **CLoG: Benchmarking Continual Learning of Image Generation Models** \
 [[Website](https://arxiv.org/abs/2406.04584)] 
 [[Code](https://github.com/linhaowei1/CLoG)]
