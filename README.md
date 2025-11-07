@@ -181,6 +181,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://tianweiy.github.io/dmd/)]
 [[Code](https://github.com/devrimcavusoglu/dmd)]
 
+**Tortoise and Hare Guidance: Accelerating Diffusion Model Inference with Multirate Integration** \
+[[NeurIPS 2025](https://arxiv.org/abs/2511.04117)]
+[[Project](https://yhlee-add.github.io/THG/)]
+[[Code](https://github.com/yhlee-add/THG)]
 
 **Consistency Models** \
 [[ICML 2023](https://proceedings.mlr.press/v202/song23a.html)]
@@ -8435,6 +8439,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Griffin: Generative Reference and Layout Guided Image Composition** \
 [[Website](https://arxiv.org/abs/2509.23643)] 
 
+**SpatialLock: Precise Spatial Control in Text-to-Image Synthesis** \
+[[Website](https://arxiv.org/abs/2511.04112)] 
 
 
 ## Poster
@@ -12546,6 +12552,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.01266)]
 [[Project](https://joonghyuk.com/motionstream-web/)]
 
+**RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2511.04317)]
+[[Project](https://rise-t2v.github.io/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -12941,6 +12951,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation** \
 [[Website](https://arxiv.org/abs/2511.00511)]
+
+**PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection** \
+[[Website](https://arxiv.org/abs/2511.03997)]
 
 
 
