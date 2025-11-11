@@ -8321,6 +8321,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2403.13589)] 
 [[Project](https://re-ground.github.io/)] 
 
+**MALeR: Improving Compositional Fidelity in Layout-Guided Generation** \
+[[Website](https://arxiv.org/abs/2511.06002)] 
+[[Project](https://katha-ai.github.io/projects/maler/)] 
+
 **InstanceAssemble: Layout-Aware Image Generation via Instance Assembling Attention** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.16691)] 
 
@@ -12590,6 +12594,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2511.04317)]
 [[Project](https://rise-t2v.github.io/)]
+
+**RelightMaster: Precise Video Relighting with Multi-plane Light Images** \
+[[Website](https://arxiv.org/abs/2511.06271)]
+[[Project](https://wkbian.github.io/Projects/RelightMaster/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
