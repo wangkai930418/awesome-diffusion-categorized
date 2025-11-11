@@ -836,6 +836,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Hierarchical Koopman Diffusion: Fast Generation with Interpretable Diffusion Trajectory** \
 [[Website](https://arxiv.org/abs/2510.12220)]
 
+**Test-Time Iterative Error Correction for Efficient Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.06250)]
+
 
 ## Train-Free
 
@@ -1402,6 +1405,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.01704)]
 [[Code](https://github.com/wudiqx106/LFRD2)]
 
+**EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion** \
+[[Website](https://arxiv.org/abs/2511.05873)]
+[[Code](https://github.com/DavisMeee/EndoIR)]
+
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
 [[Project](https://tianhewu.github.io/A-FINE-page.github.io/)]
@@ -1682,6 +1689,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Enhancing Diffusion-based Restoration Models via Difficulty-Adaptive Reinforcement Learning with IQA Reward** \
 [[Website](https://arxiv.org/abs/2511.01645)]
 
+**Integrating Reweighted Least Squares with Plug-and-Play Diffusion Priors for Noisy Image Restoration** \
+[[Website](https://arxiv.org/abs/2511.06823)]
+
 
 ## Colorization
 
@@ -1953,6 +1963,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Compressed Image Generation with Denoising Diffusion Codebook Models** \
 [[Website](https://arxiv.org/abs/2502.01189)] 
 [[Project](https://ddcm-2025.github.io/)] 
+
+**Turbo-DDCM: Fast and Flexible Zero-Shot Diffusion-Based Image Compression** \
+[[Website](https://arxiv.org/abs/2511.06424)] 
+[[Project](https://amitvaisman.github.io/turbo_ddcm/)] 
 
 **DiffPC: Diffusion-based High Perceptual Fidelity Image Compression with Semantic Refinement** \
 [[ICLR 2025](https://openreview.net/forum?id=RL7PycCtAO)]
@@ -3912,6 +3926,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Novel Object Synthesis via Adaptive Text-Image Harmony** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.20823)]
 [[Project](https://xzr52.github.io/ATIH/)] 
+
+**Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization** \
+[[NeurIPS 2025](https://arxiv.org/abs/2511.05616)]
+[[Project](https://personalized-editing.github.io/)] 
 
 **Textualize Visual Prompt for Image Editing via Diffusion Bridge** \
 [[AAAI 2025](https://arxiv.org/abs/2501.03495)]
@@ -7499,6 +7517,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.25897)] 
 [[Project](https://nicolas-dufour.github.io/miro/)]
 
+**Generating an Image From 1,000 Words: Enhancing Text-to-Image With Structured Captions** \
+[[Website](https://arxiv.org/abs/2511.06876)] 
+[[Project](https://huggingface.co/briaai/FIBO)]
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -8445,6 +8467,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SpatialLock: Precise Spatial Control in Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2511.04112)] 
+
+**A Two-Stage System for Layout-Controlled Image Generation using Large Language Models and Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.06888)] 
+
 
 
 ## Poster
@@ -11623,6 +11649,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://wolfball.github.io/bachvid/)]
 [[Code](https://github.com/wolfball/BachVid)]
 
+**StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation** \
+[[Website](https://arxiv.org/abs/2511.07399)]
+[[Project](https://streamdiffusionv2.github.io/)]
+[[Code](https://github.com/chenfengxu714/StreamDiffusionV2)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12959,6 +12990,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection** \
 [[Website](https://arxiv.org/abs/2511.03997)]
 
+**Neodragon: Mobile Video Generation using Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2511.06055)]
 
 
 # Video Editing 
