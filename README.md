@@ -3894,6 +3894,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.27335)]
 [[Code](https://github.com/Jia-shao/Reasoning-Editing)] 
 
+**LayerEdit: Disentangled Multi-Object Editing via Conflict-Aware Multi-Layer Learning** \
+[[Website](https://arxiv.org/abs/2511.08251)]
+[[Code](https://github.com/fufy1024/LayerEdit)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -4603,6 +4607,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2212.05993)] 
 [[Project](https://jblei.site/proj/rgbd-diffusion)] 
 [[Code](https://github.com/Karbo123/RGBD-Diffusion)]
+
+**Continual Unlearning for Text-to-Image Diffusion Models: A Regularization Perspective** \
+[[Website](https://arxiv.org/abs/2511.07970)] 
+[[Project](https://justinhylee135.github.io/CUIG_Project_Page/)] 
+[[Code](https://github.com/justinhylee135/CUIG)]
 
 **Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning** \
 [[ECCV 2024 Oral](https://arxiv.org/abs/2409.01128)] 
@@ -8060,6 +8069,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2511.03317)]
 
+**Beyond Randomness: Understand the Order of the Noise in Diffusion** \
+[[Website](https://arxiv.org/abs/2511.07756)]
+
 
 ## Spatial Control
 
@@ -8247,6 +8259,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness** \
 [[CVPR 2025](https://arxiv.org/abs/2503.164065)] 
 [[Code](https://github.com/SeungJuCha/VerbDiffe)]
+
+**Laytrol: Preserving Pretrained Knowledge in Layout Control for Multimodal Diffusion Transformers** \
+[[AAAI 2026](https://arxiv.org/abs/2511.07934)] 
+[[Code](https://github.com/HHHHStar/Laytrol)]
 
 **Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2308.06027)] 
