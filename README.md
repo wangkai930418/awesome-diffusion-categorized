@@ -839,6 +839,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Test-Time Iterative Error Correction for Efficient Diffusion Models** \
 [[Website](https://arxiv.org/abs/2511.06250)]
 
+**From Structure to Detail: Hierarchical Distillation for Efficient Diffusion Model** \
+[[Website](https://arxiv.org/abs/2511.08930)]
+
 
 ## Train-Free
 
@@ -1408,6 +1411,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EndoIR: Degradation-Agnostic All-in-One Endoscopic Image Restoration via Noise-Aware Routing Diffusion** \
 [[Website](https://arxiv.org/abs/2511.05873)]
 [[Code](https://github.com/DavisMeee/EndoIR)]
+
+**Equivariant Sampling for Improving Diffusion Model-based Image Restoration** \
+[[Website](https://arxiv.org/abs/2511.09965)]
+[[Code](https://github.com/FouierL/EquS)]
 
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
@@ -11673,6 +11680,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.07399)]
 [[Project](https://streamdiffusionv2.github.io/)]
 [[Code](https://github.com/chenfengxu714/StreamDiffusionV2)]
+
+**Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising** \
+[[Website](https://arxiv.org/abs/2511.08633)]
+[[Project](https://time-to-move.github.io/)]
+[[Code](https://github.com/time-to-move/TTM)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
