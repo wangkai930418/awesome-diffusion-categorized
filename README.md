@@ -8079,6 +8079,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Beyond Randomness: Understand the Order of the Noise in Diffusion** \
 [[Website](https://arxiv.org/abs/2511.07756)]
 
+**ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation** \
+[[Website](https://arxiv.org/abs/2511.11483)]
+
+
 
 ## Spatial Control
 
