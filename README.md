@@ -362,6 +362,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[CVPR 2025](https://arxiv.org/abs/2505.05829)]
 [[Code](https://github.com/ccccczzy/icc)]
 
+**ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs** \
+[[AAAI 2026](https://arxiv.org/abs/2511.12280)]
+[[Code](https://github.com/bcmi/D3ToM-Diffusion-MLLM)]
+
 **SADA: Stability-guided Adaptive Diffusion Acceleration** \
 [[ICML 2025](https://arxiv.org/abs/2507.17135)]
 [[Code](https://github.com/Ting-Justin-Jiang/sada-icml)]
@@ -526,6 +530,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards One-step Causal Video Generation via Adversarial Self-Distillation** \
 [[Website](https://arxiv.org/abs/2511.01419)]
 [[Code](https://github.com/BigAandSmallq/SAD)]
+
+**RedVTP: Training-Free Acceleration of Diffusion Vision-Language Models Inference via Masked Token-Guided Visual Token Pruning** \
+[[Website](https://arxiv.org/abs/2511.12428)]
+[[Code](https://github.com/Blacktower27/RedVTP)]
 
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
@@ -842,6 +850,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **From Structure to Detail: Hierarchical Distillation for Efficient Diffusion Model** \
 [[Website](https://arxiv.org/abs/2511.08930)]
 
+**PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling** \
+[[Website](https://arxiv.org/abs/2511.12056)]
 
 ## Train-Free
 
@@ -1235,6 +1245,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[AAAI 2025](https://arxiv.org/abs/2503.15017)]
 [[Code](https://github.com/ywxjm/Diff-Dehazer)]
 
+**Seeing Through the Rain: Resolving High-Frequency Conflicts in Deraining and Super-Resolution via Diffusion Guidance** \
+[[AAAI 2026](https://arxiv.org/abs/2511.12419)]
+[[Code](https://github.com/PRIS-CV/DHGM)]
+
 **Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal** \
 [[CVPR 2024](https://arxiv.org/abs/2403.07684)]
 [[Code](https://github.com/scott-yjyang/DiffTTA)]
@@ -1455,6 +1469,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision** \
 [[Website](https://arxiv.org/abs/2504.04903)]
 [[Project](https://andrew0613.github.io/OmniLV_page/)]
+
+**From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing** \
+[[Website](https://arxiv.org/abs/2511.11944)]
+[[Project](https://evdehaze.github.io/)]
 
 **DREAMCLEAN: RESTORING CLEAN IMAGE USING DEEP DIFFUSION PRIOR** \
 [[ICLR 2025](https://openreview.net/forum?id=6ALuy19mPa)]
@@ -2477,6 +2495,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion Transformer meets Multi-level Wavelet Spectrum for Single Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2511.01175)]
 
+**HDW-SR: High-Frequency Guided Diffusion Model based on Wavelet Decomposition for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2511.13175)]
 
 ## Personalized Restoration
 
@@ -2684,6 +2704,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.18900)]
 [[Project](https://auditandrepair.github.io/)]
+
+**Infinite-Story: A Training-Free Consistent Text-to-Image Generation** \
+[[AAAI 2026 Oral](https://arxiv.org/abs/2511.13002)]
 
 **Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation** \
 [[ICCV 2025](https://arxiv.org/abs/2508.08949)]
@@ -5121,6 +5144,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Beyond Fixed Anchors: Precisely Erasing Concepts with Sibling Exclusive Counterparts** \
 [[Website](https://arxiv.org/abs/2510.16342)] 
 
+**GrOCE:Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.12968)] 
 
 # New Concept Learning
 
@@ -13032,6 +13057,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Neodragon: Mobile Video Generation using Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2511.06055)]
+
+**Adaptive Begin-of-Video Tokens for Autoregressive Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.12099)]
 
 
 # Video Editing 
