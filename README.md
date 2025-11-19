@@ -1257,6 +1257,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ACM MM 2025](https://arxiv.org/abs/2507.06656)]
 [[Code](https://github.com/74587887/SPGD)]
 
+**PerTouch: VLM-Driven Agent for Personalized and Semantic Image Retouching** \
+[[AAAI 2026](https://arxiv.org/abs/2511.12998)]
+[[Code](https://github.com/Auroral703/PerTouch)]
+
 **Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
 [[CVPR 2023 Workshop NTIRE](https://arxiv.org/abs/2304.08291)]
 [[Code](https://github.com/Algolzw/image-restoration-sde)]
@@ -1716,6 +1720,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Integrating Reweighted Least Squares with Plug-and-Play Diffusion Priors for Noisy Image Restoration** \
 [[Website](https://arxiv.org/abs/2511.06823)]
+
+**InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2511.14208)]
 
 
 ## Colorization
@@ -4546,6 +4553,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.20212)] 
 [[Code](https://github.com/HKUST-LongGroup/FlowCycle)] 
 
+**FIA-Edit: Frequency-Interactive Attention for Efficient and High-Fidelity Inversion-Free Text-Guided Image Editing** \
+[[Website](https://arxiv.org/abs/2511.12151)] 
+[[Code](https://github.com/kk42yy/FIA-Edit)] 
+
 **Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2502.20376)] 
 [[Project](https://tight-inversion.github.io/)] 
@@ -5146,6 +5157,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **GrOCE:Graph-Guided Online Concept Erasure for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2511.12968)] 
+
+**Coffee: Controllable Diffusion Fine-tuning** \
+[[Website](https://arxiv.org/abs/2511.14113)] 
+
 
 # New Concept Learning
 
@@ -13580,3 +13595,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **VALA: Learning Latent Anchors for Training-Free and Temporally Consistent** \
 [[Website](https://arxiv.org/abs/2510.22970)]
+
+**Generative Photographic Control for Scene-Consistent Video Cinematic Editing** \
+[[Website](https://arxiv.org/abs/2511.12921)]
