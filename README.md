@@ -1724,6 +1724,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **InstantViR: Real-Time Video Inverse Problem Solver with Distilled Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2511.14208)]
 
+**BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching** \
+[[Website](https://arxiv.org/abs/2511.15066)]
+
 
 ## Colorization
 
@@ -6466,6 +6469,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://caiyuanhao1998.github.io/project/OmniVCus/)] 
 [[Code](https://github.com/caiyuanhao1998/Open-OmniVCus)]
 
+**First Frame Is the Place to Go for Video Content Customization** \
+[[Website](https://arxiv.org/abs/2511.15700)]
+[[Project](https://firstframego.github.io/)] 
+[[Code](https://github.com/zli12321/FFGO-Video-Customization)]
+
 **LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.07603)]
 [[Code](https://github.com/ssugarwh/LaVieID)]
@@ -9980,6 +9988,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising** \
 [[Website](https://arxiv.org/abs/2511.03272)] 
 
+**Insert In Style: A Zero-Shot Generative Framework for Harmonious Cross-Domain Object Composition** \
+[[Website](https://arxiv.org/abs/2511.15197)] 
+
+
 
 # Layout Generation
 
@@ -12054,6 +12066,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.24717)]
 [[Code](https://github.com/baaivision/URSA)]
 
+**FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation** \
+[[Website](https://arxiv.org/abs/2511.14712)]
+[[Code](https://github.com/WillWu111/FreeSwim)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -12670,6 +12686,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RelightMaster: Precise Video Relighting with Multi-plane Light Images** \
 [[Website](https://arxiv.org/abs/2511.06271)]
 [[Project](https://wkbian.github.io/Projects/RelightMaster/)]
+
+**Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising** \
+[[Website](https://arxiv.org/abs/2511.14719)]
+[[Project](https://wyf0824.github.io/Video_Realism_Enhancement/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
