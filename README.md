@@ -2508,6 +2508,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HDW-SR: High-Frequency Guided Diffusion Model based on Wavelet Decomposition for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2511.13175)]
 
+**One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2511.17138)]
+
+
 ## Personalized Restoration
 
 **Restoration by Generation with Constrained Priors** \
@@ -6990,6 +6994,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2509.24979)] 
 [[Project](https://donghaotian123.github.io/Wan-Alpha/)] 
 [[Code](https://github.com/WeChatCV/Wan-Alpha)]
+
+**Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation** \
+[[Website](https://arxiv.org/abs/2511.16671)] 
+[[Project](https://think-while-gen.github.io/)] 
+[[Code](https://github.com/ZiyuGuo99/Thinking-while-Generating)]
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
@@ -11742,6 +11751,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://time-to-move.github.io/)]
 [[Code](https://github.com/time-to-move/TTM)]
 
+**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO** \
+[[Website](https://arxiv.org/abs/2511.16669)]
+[[Project](https://video-as-answer.github.io/)]
+[[Code](https://github.com/KlingTeam/VANS)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -13095,6 +13109,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Adaptive Begin-of-Video Tokens for Autoregressive Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2511.12099)]
+
+**Loomis Painter: Reconstructing the Painting Process** \
+[[Website](https://arxiv.org/abs/2511.17344)]
 
 
 # Video Editing 
