@@ -4430,6 +4430,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Efficient High-Resolution Image Editing with Hallucination-Aware Loss and Adaptive Tiling** \
 [[Website](https://arxiv.org/abs/2510.06295)]
 
+**Video4Edit: Viewing Image Editing as a Degenerate Temporal Process** \
+[[Website](https://arxiv.org/abs/2511.18131)]
+
 
 ## Diffusion Models Inversion
 
@@ -8584,6 +8587,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **A Two-Stage System for Layout-Controlled Image Generation using Large Language Models and Diffusion Models** \
 [[Website](https://arxiv.org/abs/2511.06888)] 
 
+**ConsistCompose: Unified Multimodal Layout Control for Image Composition** \
+[[Website](https://arxiv.org/abs/2511.18333)] 
+
 
 
 ## Poster
@@ -9305,6 +9311,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.06469)] 
 [[Project](https://oindrilasaha.github.io/SIGMA-Gen/)] 
 [[Code](https://github.com/oindrilasaha/SIGMA-Gen-Code)]
+
+**BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment** \
+[[Website](https://arxiv.org/abs/2511.19268)] 
+[[Project](https://limuloo.github.io/BideDPO/)] 
+[[Code](https://github.com/limuloo/BideDPO)]
 
 **Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis** \
 [[ICLR 2024](https://arxiv.org/abs/2401.09048)] 
@@ -10456,6 +10467,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?** \
 [[Website](https://arxiv.org/abs/2510.26339)]
+
+**ScriptViT: Vision Transformer-Based Personalized Handwriting Generation** \
+[[Website](https://arxiv.org/abs/2511.18307)]
+
 
 
 # Video Generation 
@@ -12739,6 +12754,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.17839)]
 [[Project](https://yujiangpu20.github.io/showme/)]
 
+**Plan-X: Instruct Video Generation via Semantic Planning** \
+[[Website](https://arxiv.org/abs/2511.17986)]
+[[Project](https://byteaigc.github.io/Plan-X/)]
+
+**In-Video Instructions: Visual Signals as Generative Control** \
+[[Website](https://arxiv.org/abs/2511.19401)]
+[[Project](https://fangggf.github.io/In-Video/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13682,3 +13705,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Generative Photographic Control for Scene-Consistent Video Cinematic Editing** \
 [[Website](https://arxiv.org/abs/2511.12921)]
+
+**Point-to-Point: Sparse Motion Guidance for Controllable Video Editing** \
+[[Website](https://arxiv.org/abs/2511.18277)]
