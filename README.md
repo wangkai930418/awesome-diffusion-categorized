@@ -1152,6 +1152,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://w2genai-lab.github.io/LucidFlux/)]
 [[Code](https://github.com/W2GenAI-Lab/LucidFlux)]
 
+**Zero-Shot Video Deraining with Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.18537)]
+[[Project](https://tvaranka.github.io/ZSVD/)]
+[[Code](https://github.com/tvaranka/ZSVD)]
+
 **FlowIE: Efficient Image Enhancement via Rectified Flow** \
 [[CVPR 2024 oral](https://arxiv.org/abs/2406.00508)]
 [[Code](https://github.com/EternalEvan/FlowIE)]
@@ -1727,6 +1732,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **BokehFlow: Depth-Free Controllable Bokeh Rendering via Flow Matching** \
 [[Website](https://arxiv.org/abs/2511.15066)]
 
+**UnfoldLDM: Deep Unfolding-based Blind Image Restoration with Latent Diffusion Priors** \
+[[Website](https://arxiv.org/abs/2511.18152)]
+
 
 ## Colorization
 
@@ -2036,6 +2044,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Conditional Video Generation for High-Efficiency Video Compression** \
 [[Website](https://arxiv.org/abs/2507.15269)]
 
+**CoD: A Diffusion Foundation Model for Image Compression** \
+[[Website](https://arxiv.org/abs/2511.18706)]
 
 ## Super Resolution
 
@@ -2334,6 +2344,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SkipSR: Faster Super Resolution with Token Skipping** \
 [[Website](https://arxiv.org/abs/2510.08799)] 
 [[Project](https://rccchoudhury.github.io/skipsr/)] 
+
+**STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2511.18786)] 
+[[Project](https://jychen9811.github.io/STCDiT_page/)] 
 
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
@@ -3131,6 +3145,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ART-VITON: Measurement-Guided Latent Diffusion for Artifact-Free Virtual Try-On** \
 [[Website](https://arxiv.org/abs/2509.25749)]
+
+**Rethinking Garment Conditioning in Diffusion-based Virtual Try-On** \
+[[Website](https://arxiv.org/abs/2511.18775)]
 
 
 # Drag Edit
@@ -4754,6 +4771,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Continual Personalization for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2510.02296)] 
 
+**Breaking Forgetting: Training-Free Few-Shot Class-Incremental Learning via Conditional Diffusion** \
+[[Website](https://arxiv.org/abs/2511.18516)] 
 
 
 # Remove Concept
@@ -5168,6 +5187,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Coffee: Controllable Diffusion Fine-tuning** \
 [[Website](https://arxiv.org/abs/2511.14113)] 
 
+**Now You See It, Now You Don't - Instant Concept Erasure for Safe Text-to-Image and Video Generation** \
+[[Website](https://arxiv.org/abs/2511.18684)] 
 
 # New Concept Learning
 
@@ -5446,6 +5467,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TIDE: Achieving Balanced Subject-Driven Image Generation via Target-Instructed Diffusion Enhancement** \
 [[Website](https://arxiv.org/abs/2509.06499)] 
 [[Code](https://github.com/KomJay520/TIDE)] 
+
+**MINDiff: Mask-Integrated Negative Attention for Controlling Overfitting in Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2511.17888)] 
+[[Code](https://github.com/seuleepy/MINDiff)] 
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
@@ -11756,6 +11781,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://video-as-answer.github.io/)]
 [[Code](https://github.com/KlingTeam/VANS)]
 
+**Learning Plug-and-play Memory for Guiding Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.19229)]
+[[Project](https://thrcle421.github.io/DiT-Mem-Web/)]
+[[Code](https://github.com/Thrcle421/DiT-Mem)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12705,6 +12735,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.14719)]
 [[Project](https://wyf0824.github.io/Video_Realism_Enhancement/)]
 
+**Show Me: Unifying Instructional Image and Video Generation with Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.17839)]
+[[Project](https://yujiangpu20.github.io/showme/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13112,6 +13146,19 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Loomis Painter: Reconstructing the Painting Process** \
 [[Website](https://arxiv.org/abs/2511.17344)]
+
+**Beyond Reward Margin: Rethinking and Resolving Likelihood Displacement in Diffusion Models via Video Generation** \
+[[Website](https://arxiv.org/abs/2511.19049)]
+
+**View-Consistent Diffusion Representations for 3D-Consistent Video Generation** \
+[[Website](https://arxiv.org/abs/2511.18991)]
+
+**Sequence-Adaptive Video Prediction in Continuous Streams using Diffusion Noise Optimization** \
+[[Website](https://arxiv.org/abs/2511.18255)]
+
+**Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2511.17844)]
+
 
 
 # Video Editing 
