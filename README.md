@@ -5823,6 +5823,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Finetuning-Free Personalization of Text to Image Generation via Hypernetworks** \
 [[Website](https://arxiv.org/abs/2511.03156)] 
 
+**HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning** \
+[[Website](https://arxiv.org/abs/2511.19965)] 
+
 
 ## Mutiple Concepts
 
@@ -8166,6 +8169,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation** \
 [[Website](https://arxiv.org/abs/2511.11483)]
+
+**Personalized Reward Modeling for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2511.19458)]
+
+**RubricRL: Simple Generalizable Rewards for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2511.20651)]
 
 
 
@@ -10979,6 +10988,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2403.13802)]
 [[Project](https://taohu.me/zigma/)]
 [[Code](https://github.com/CompVis/zigma)]
+
+**UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers** \
+[[ICML 2025](https://arxiv.org/abs/2511.20123)]
+[[Project](https://thu-ml.github.io/UltraViCo.github.io/)]
+[[Code](https://github.com/thu-ml/RIFLEx)]
 
 **Packing Input Frame Context in Next-Frame Prediction Models for Video Generation** \
 [[Website](https://arxiv.org/abs/2504.12626)]
