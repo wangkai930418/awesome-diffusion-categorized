@@ -4170,6 +4170,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.22010)]
 [[Project](https://orronai.github.io/FlowOpt/)]
 
+**MIRA: Multimodal Iterative Reasoning Agent for Image Editing** \
+[[Website](https://arxiv.org/abs/2511.21087)]
+[[Project](https://zzzmyyzeng.github.io/MIRA/)]
+
 **From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
 [[NeurIPS 2025](https://arxiv.org/abs/2506.20977)]
 
