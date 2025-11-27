@@ -100,6 +100,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://deepffff.github.io/sadis.github.io/)] 
 [[Code](https://github.com/deepffff/SADis)]
 
+**Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models** \
+[[WACV 2026](https://arxiv.org/abs/2503.09864)]
+[[Project](https://hecoding.github.io/colorwave-page/)]
+
 **Color Conditional Generation with Sliced Wasserstein Guidance** \
 [[Website](https://arxiv.org/abs/2503.19034)]
 [[Code](https://github.com/alobashev/sw-guidance/)]
@@ -108,9 +112,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2412.06184)]
 [[Code](https://github.com/mao1207/RCID)]
 
-**Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models** \
-[[Website](https://arxiv.org/abs/2503.09864)]
-[[Project](https://hecoding.github.io/colorwave-page/)]
+
 
 **Exploring Palette based Color Guidance in Diffusion Models** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.08754)]
