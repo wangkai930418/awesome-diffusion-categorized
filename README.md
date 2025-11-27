@@ -853,6 +853,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling** \
 [[Website](https://arxiv.org/abs/2511.12056)]
 
+**Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning** \
+[[Website](https://arxiv.org/abs/2511.20549)]
+
+
 ## Train-Free
 
 **AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
@@ -2524,6 +2528,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2511.17138)]
+
+**Low-Resolution Editing is All You Need for High-Resolution Editing** \
+[[Website](https://arxiv.org/abs/2511.19945)]
+
 
 
 ## Personalized Restoration
@@ -6191,6 +6199,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.20887)] 
 [[Project](https://snap-research.github.io/shortcut-rerouting/)] 
 
+**The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment** \
+[[Website](https://arxiv.org/abs/2511.20614)] 
+[[Project](https://ouyangziheng.github.io/ImageCritic-Page/)] 
+
 **DP-Adapter: Dual-Pathway Adapter for Boosting Fidelity and Text Consistency in Customizable Human Image Generation** \
 [[Website](https://arxiv.org/abs/2502.13999)] 
 
@@ -6223,6 +6235,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ReMix: Towards a Unified View of Consistent Character Generation and Editing** \
 [[Website](https://arxiv.org/abs/2510.10156)] 
+
+**A Training-Free Approach for Multi-ID Customization via Attention Adjustment and Spatial Control** \
+[[Website](https://arxiv.org/abs/2511.20401)] 
 
 
 ## General Concept 
@@ -8176,6 +8191,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RubricRL: Simple Generalizable Rewards for Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2511.20651)]
 
+**Training-Free Generation of Diverse and High-Fidelity Images via Prompt Semantic Space Optimization** \
+[[Website](https://arxiv.org/abs/2511.19811)]
+
+**PromptMoG: Enhancing Diversity in Long-Prompt Image Generation via Prompt Embedding Mixture-of-Gaussian Sampling** \
+[[Website](https://arxiv.org/abs/2511.20251)]
+
+**Test-Time Alignment of Text-to-Image Diffusion Models via Null-Text Embedding Optimisation** \
+[[Website](https://arxiv.org/abs/2511.20889)]
+
 
 
 ## Spatial Control
@@ -8445,6 +8469,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MALeR: Improving Compositional Fidelity in Layout-Guided Generation** \
 [[Website](https://arxiv.org/abs/2511.06002)] 
 [[Project](https://katha-ai.github.io/projects/maler/)] 
+
+**Canvas-to-Image: Compositional Image Generation with Multimodal Controls** \
+[[Website](https://arxiv.org/abs/2511.21691)] 
+[[Project](https://snap-research.github.io/canvas-to-image/)] 
 
 **InstanceAssemble: Layout-Aware Image Generation via Instance Assembling Attention** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.16691)] 
@@ -12143,6 +12171,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.14712)]
 [[Code](https://github.com/WillWu111/FreeSwim)]
 
+**MobileI2V: Fast and High-Resolution Image-to-Video on Mobile Devices** \
+[[Website](https://arxiv.org/abs/2511.21475)]
+[[Code](https://github.com/hustvl/MobileI2V)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -12776,6 +12808,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.19401)]
 [[Project](https://fangggf.github.io/In-Video/)]
 
+**Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout** \
+[[Website](https://arxiv.org/abs/2511.20649)]
+[[Project](https://infinity-rope.github.io/)]
+
+**Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization** \
+[[Website](https://arxiv.org/abs/2511.20647)]
+[[Project](https://diverse-video.github.io/)]
+
+**CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion** \
+[[Website](https://arxiv.org/abs/2511.21129)]
+[[Project](https://tele-ai.github.io/CtrlVDiff/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13196,6 +13240,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2511.17844)]
 
+**A Reason-then-Describe Instruction Interpreter for Controllable Video Generation** \
+[[Website](https://arxiv.org/abs/2511.20563)]
+
+**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training** \
+[[Website](https://arxiv.org/abs/2511.21592)]
+
 
 
 # Video Editing 
@@ -13398,6 +13448,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.15742)]
 [[Project](https://editto.net/)]
 [[Code](https://github.com/EzioBy/Ditto)] 
+
+**MotionV2V: Editing Motion in a Video** \
+[[Website](https://arxiv.org/abs/2511.20640)]
+[[Project](https://ryanndagreat.github.io/MotionV2V/)]
+[[Code](https://github.com/RyannDaGreat/MotionV2V)] 
 
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
