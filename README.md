@@ -1853,6 +1853,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Enhancing Reference-based Sketch Colorization via Separating Reference Representations** \
 [[Website](https://arxiv.org/abs/2508.17620)]
 
+**Prompt-based Consistent Video Colorization** \
+[[Website](https://arxiv.org/abs/2511.22330)]
+
 
 ## Face Restoration
 
@@ -3969,6 +3972,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.08251)]
 [[Code](https://github.com/fufy1024/LayerEdit)] 
 
+**REASONEDIT: Towards Reasoning-Enhanced Image Editing Models** \
+[[Website](https://arxiv.org/abs/2511.22625)]
+[[Code](https://github.com/stepfun-ai/Step1X-Edit)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -5972,6 +5979,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation** \
 [[Website](https://arxiv.org/abs/2506.18493)] 
 
+**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation** \
+[[Website](https://arxiv.org/abs/2511.22690)] 
+
 
 ## Decomposition
 
@@ -7058,6 +7068,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.16671)] 
 [[Project](https://think-while-gen.github.io/)] 
 [[Code](https://github.com/ZiyuGuo99/Thinking-while-Generating)]
+
+**Match-and-Fuse: Consistent Generation from Unstructured Image Sets** \
+[[Website](https://arxiv.org/abs/2511.22287)] 
+[[Project](https://match-and-fuse.github.io/)] 
+[[Code](https://github.com/kate-feingold/match-and-fuse)]
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
@@ -8217,6 +8232,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Test-Time Alignment of Text-to-Image Diffusion Models via Null-Text Embedding Optimisation** \
 [[Website](https://arxiv.org/abs/2511.20889)]
 
+**Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage** \
+[[Website](https://arxiv.org/abs/2511.22177)]
 
 
 ## Spatial Control
@@ -11874,6 +11891,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://soyouthinkyoucantell.github.io/dualcamctrl-page/)]
 [[Code](https://github.com/EnVision-Research/DualCamCtrl)]
 
+**One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfe** \
+[[Website](https://arxiv.org/abs/2511.22940)]
+[[Project](https://ssj9596.github.io/one-to-all-animation-project/)]
+[[Code](https://github.com/ssj9596/One-to-All-Animation)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12850,6 +12872,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CtrlVDiff: Controllable Video Generation via Unified Multimodal Video Diffusion** \
 [[Website](https://arxiv.org/abs/2511.21129)]
 [[Project](https://tele-ai.github.io/CtrlVDiff/)]
+
+**InstanceV: Instance-Level Video Generation** \
+[[Website](https://arxiv.org/abs/2511.23146)]
+[[Project](https://aliothchen.github.io/projects/InstanceV/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
