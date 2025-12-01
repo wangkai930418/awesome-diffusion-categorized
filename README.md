@@ -4447,6 +4447,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Video4Edit: Viewing Image Editing as a Degenerate Temporal Process** \
 [[Website](https://arxiv.org/abs/2511.18131)]
 
+**NumeriKontrol: Adding Numeric Control to Diffusion Transformers for Instruction-based Image Editing** \
+[[Website](https://arxiv.org/abs/2511.23105)]
+
+
 
 ## Diffusion Models Inversion
 
@@ -6429,6 +6433,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias** \
 [[Website](https://arxiv.org/abs/2503.06632)] 
 
+**Semantic Anchoring for Robust Personalization in Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2511.22245)] 
+
 
 ## AR-based
 
@@ -7460,6 +7467,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2510.23974)] 
 [[Code](https://github.com/aailab-kaist/DATE)] 
+
+**TTSnap: Test-Time Scaling of Diffusion Models via Noise-Aware Pruning** \
+[[Website](https://arxiv.org/abs/2511.22242)] 
+[[Code](https://github.com/TerrysLearning/TTSnap/)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
@@ -9052,6 +9063,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **RefAM: Attention Magnets for Zero-Shot Referral Segmentation** \
 [[Website](https://arxiv.org/abs/2509.22650)] 
 [[Project](https://refam-diffusion.github.io/)] 
+
+**DM3T: Harmonizing Modalities via Diffusion for Multi-Object Tracking** \
+[[Website](https://arxiv.org/abs/2511.22896)] 
+[[Project](https://vranlee.github.io/DM-3-T/)] 
 
 **Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Peng_Diffusion-based_Image_Translation_with_Label_Guidance_for_Domain_Adaptive_Semantic_ICCV_2023_paper.html)] 
@@ -11848,6 +11863,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.19229)]
 [[Project](https://thrcle421.github.io/DiT-Mem-Web/)]
 [[Code](https://github.com/Thrcle421/DiT-Mem)]
+
+**BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation** \
+[[Website](https://arxiv.org/abs/2511.22973)]
+[[Project](https://ziplab.co/BlockVid/)]
+[[Code](https://github.com/alibaba-damo-academy/Inferix)]
+
+**DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation** \
+[[Website](https://arxiv.org/abs/2511.23127)]
+[[Project](https://soyouthinkyoucantell.github.io/dualcamctrl-page/)]
+[[Code](https://github.com/EnVision-Research/DualCamCtrl)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
