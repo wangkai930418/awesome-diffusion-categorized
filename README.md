@@ -537,6 +537,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.12428)]
 [[Code](https://github.com/Blacktower27/RedVTP)]
 
+**Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield** \
+[[Website](https://arxiv.org/abs/2511.22677)]
+[[Code](https://github.com/Tongyi-MAI/Z-Image)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -7672,6 +7676,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.06876)] 
 [[Project](https://huggingface.co/briaai/FIBO)]
 
+**Test-time scaling of diffusions with flow maps** \
+[[Website](https://arxiv.org/abs/2511.22688)] 
+[[Project](https://flow-map-trajectory-tilting.github.io/)]
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -9051,6 +9059,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild** \
 [[Website](https://arxiv.org/abs/2508.07759)] 
 [[Code](https://github.com/wanghr64/cav-sam)]
+
+**Object-Centric Data Synthesis for Category-level Object Detection** \
+[[Website](https://arxiv.org/abs/2511.23450)] 
+[[Code](https://github.com/RIPS25-Analog/OC-Synthesis)]
 
 **EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models** \
 [[ICLR 2024](https://openreview.net/forum?id=YqyTXmF8Y2)]
