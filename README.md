@@ -2060,6 +2060,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CoD: A Diffusion Foundation Model for Image Compression** \
 [[Website](https://arxiv.org/abs/2511.18706)]
 
+**Low-Bitrate Video Compression through Semantic-Conditioned Diffusion** \
+[[Website](https://arxiv.org/abs/2512.00408)]
+
+
 ## Super Resolution
 
 **ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting** \
@@ -2361,6 +2365,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **STCDiT: Spatio-Temporally Consistent Diffusion Transformer for High-Quality Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2511.18786)] 
 [[Project](https://jychen9811.github.io/STCDiT_page/)] 
+
+**FRAMER: Frequency-Aligned Self-Distillation with Adaptive Modulation Leveraging Diffusion Priors for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2512.01390)] 
+[[Project](https://cmlab-korea.github.io/FRAMER/)] 
 
 **HSR-Diff: Hyperspectral Image Super-Resolution via Conditional Diffusion Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_HSR-Diff_Hyperspectral_Image_Super-Resolution_via_Conditional_Diffusion_Models_ICCV_2023_paper.pdf)]
@@ -2749,6 +2757,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models** \
 [[Website](https://arxiv.org/abs/2506.18900)]
 [[Project](https://auditandrepair.github.io/)]
+
+**DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models** \
+[[Website](https://arxiv.org/abs/2512.01686)]
+[[Project](https://yj7082126.github.io/dreamingcomics/)]
 
 **Infinite-Story: A Training-Free Consistent Text-to-Image Generation** \
 [[AAAI 2026 Oral](https://arxiv.org/abs/2511.13002)]
@@ -4185,6 +4197,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.21087)]
 [[Project](https://zzzmyyzeng.github.io/MIRA/)]
 
+**FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing** \
+[[Website](https://arxiv.org/abs/2512.01755)]
+[[Project](https://freqedit.github.io/)]
+
 **From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
 [[NeurIPS 2025](https://arxiv.org/abs/2506.20977)]
 
@@ -4553,6 +4569,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://rf-solver-edit.github.io/)] 
 [[Code](https://github.com/wangjiangshan0725/RF-Solver-Edit)] 
 
+**POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.00369)] 
+[[Project](https://polaris-code-official.github.io/)] 
+[[Code](https://github.com/Chatonz/POLARIS)] 
+
 **A Latent Space of Stochastic Diffusion Models for Zero-Shot Image Editing and Guidance** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_A_Latent_Space_of_Stochastic_Diffusion_Models_for_Zero-Shot_Image_ICCV_2023_paper.pdf)] 
 [[Code](https://github.com/humansensinglab/cycle-diffusion)] 
@@ -4612,6 +4633,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FIA-Edit: Frequency-Interactive Attention for Efficient and High-Fidelity Inversion-Free Text-Guided Image Editing** \
 [[Website](https://arxiv.org/abs/2511.12151)] 
 [[Code](https://github.com/kk42yy/FIA-Edit)] 
+
+**Reversible Inversion for Training-Free Exemplar-guided Image Editing** \
+[[Website](https://arxiv.org/abs/2512.01382)] 
+[[Code](https://github.com/liyuke65535/ReInversion)] 
 
 **Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2502.20376)] 
@@ -5950,6 +5975,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2508.00477)] 
 [[Code](https://github.com/Suchenl/LAMIC)] 
+
+**PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards** \
+[[Website](https://arxiv.org/abs/2512.01236)] 
+[[Code](https://github.com/wang-shulei/PSR)] 
 
 **LoRACLR: Contrastive Adaptation for Customization of Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2412.09622)] 
@@ -8243,6 +8272,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Designing Instance-Level Sampling Schedules via REINFORCE with James-Stein Shrinkage** \
 [[Website](https://arxiv.org/abs/2511.22177)]
 
+**Multi-GRPO: Multi-Group Advantage Estimation for Text-to-Image Generation with Tree-Based Trajectories and Multiple Rewards** \
+[[Website](https://arxiv.org/abs/2512.00743)]
 
 ## Spatial Control
 
@@ -10558,6 +10589,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ScriptViT: Vision Transformer-Based Personalized Handwriting Generation** \
 [[Website](https://arxiv.org/abs/2511.18307)]
 
+**DCText: Scheduled Attention Masking for Visual Text Generation via Divide-and-Conquer Strategy** \
+[[Website](https://arxiv.org/abs/2512.01302)]
 
 
 # Video Generation 
@@ -12889,6 +12922,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.23146)]
 [[Project](https://aliothchen.github.io/projects/InstanceV/)]
 
+**TalkingPose: Efficient Face and Gesture Animation with Feedback-guided Diffusion Model** \
+[[Website](https://arxiv.org/abs/2512.00909)]
+[[Project](https://dfki-av.github.io/TalkingPose/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13315,6 +13352,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training** \
 [[Website](https://arxiv.org/abs/2511.21592)]
 
+**AlignVid: Training-Free Attention Scaling for Semantic Fidelity in Text-Guided Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2512.01334)]
 
 
 # Video Editing 
