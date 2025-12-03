@@ -343,6 +343,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://unicomai.github.io/LeMiCa/)]
 [[Code](https://github.com/UnicomAI/LeMiCa)]
 
+**Glance: Accelerating Diffusion Models with 1 Sample** \
+[[Website](https://arxiv.org/abs/2512.02899)]
+[[Project](https://zhuobaidong.github.io/Glance/)]
+[[Code](https://github.com/zhuobaidong/Glance)]
+
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
 <!-- [[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)] -->
@@ -2329,6 +2334,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SCEESR: Semantic-Control Edge Enhancement for Diffusion-Based Super-Resolution** \
 [[Website](https://arxiv.org/abs/2510.19272)] 
 [[Code](https://github.com/ARBEZ-ZEBRA/SCEESR)] 
+
+**PGP-DiffSR: Phase-Guided Progressive Pruning for Efficient Diffusion-based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2512.02681)] 
+[[Code](https://github.com/yzb1997/PGP-DiffSR)] 
 
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
@@ -5880,6 +5889,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning** \
 [[Website](https://arxiv.org/abs/2511.19965)] 
 
+**PhyCustom: Towards Realistic Physical Customization in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2512.02794)] 
+
 
 ## Mutiple Concepts
 
@@ -9236,6 +9248,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **GS: Generative Segmentation via Label Diffusion** \
 [[Website](https://arxiv.org/abs/2508.20020)] 
+
+**Video Diffusion Models Excel at Tracking Similar-Looking Objects Without Supervision** \
+[[Website](https://arxiv.org/abs/2512.02339)] 
 
 
 
