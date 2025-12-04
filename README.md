@@ -3270,6 +3270,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://joonghyuk.com/instantdrag-web/)]
 [[Code](https://github.com/alex4727/InstantDrag)]
 
+**DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment** \
+[[Website](https://arxiv.org/abs/2512.03981)] 
+[[Project](https://frakw.github.io/DirectDrag/)]
+[[Code](https://github.com/frakw/DirectDrag)]
+
 **DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing** \
 [[CVPR 2024](https://arxiv.org/abs/2402.02583)] 
 [[Code](https://github.com/MC-E/DragonDiffusion)]
@@ -5546,6 +5551,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MINDiff: Mask-Integrated Negative Attention for Controlling Overfitting in Text-to-Image Personalization** \
 [[Website](https://arxiv.org/abs/2511.17888)] 
 [[Code](https://github.com/seuleepy/MINDiff)] 
+
+**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization** \
+[[Website](https://arxiv.org/abs/2512.03964)] 
+[[Code](https://github.com/lyuPang/UniID)] 
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
@@ -10041,6 +10050,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.18633)] 
 [[Project](https://rose2025-inpaint.github.io/)]
 
+**LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization** \
+[[Website](https://arxiv.org/abs/2512.02933)] 
+[[Project](https://cz-5f.github.io/LoVoRA.github.io/)]
+
 **PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement** \
 [[NeurIPS 2025](https://arxiv.org/abs/2512.03247)] 
 
@@ -12304,6 +12317,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.21475)]
 [[Code](https://github.com/hustvl/MobileI2V)]
 
+**Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence** \
+[[Website](https://arxiv.org/abs/2512.03905)]
+[[Code](https://github.com/Sunnycookies/FRESCO-v2)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -12957,6 +12974,23 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.00909)]
 [[Project](https://dfki-av.github.io/TalkingPose/)]
 
+**MultiShotMaster: A Controllable Multi-Shot Video Generation Framework** \
+[[Website](https://arxiv.org/abs/2512.03041)]
+[[Project](https://qinghew.github.io/MultiShotMaster/)]
+
+**RELIC: Interactive Video World Model with Long-Horizon Memory** \
+[[Website](https://arxiv.org/abs/2512.04040)]
+[[Project](https://relic-worldmodel.github.io/)]
+
+**GeoVideo: Introducing Geometric Regularization into Video Generation Model** \
+[[Website](https://arxiv.org/abs/2512.03453)]
+[[Project](https://geovideo.github.io/GeoVideo/)]
+
+**Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation** \
+[[Website](https://arxiv.org/abs/2512.03040)]
+[[Project](https://xizaoqu.github.io/video4spatial/)]
+
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13386,6 +13420,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AlignVid: Training-Free Attention Scaling for Semantic Fidelity in Text-Guided Image-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2512.01334)]
 
+**Taming Camera-Controlled Video Generation with Verifiable Geometry Reward** \
+[[Website](https://arxiv.org/abs/2512.02870)]
+
+
 
 # Video Editing 
 
@@ -13592,6 +13630,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.20640)]
 [[Project](https://ryanndagreat.github.io/MotionV2V/)]
 [[Code](https://github.com/RyannDaGreat/MotionV2V)] 
+
+**In-Context Sync-LoRA for Portrait Video Editing** \
+[[Website](https://arxiv.org/abs/2512.03013)]
+[[Project](https://sagipolaczek.github.io/Sync-LoRA/)]
+[[Code](https://github.com/SagiPolaczek/Sync-LoRA)] 
 
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
