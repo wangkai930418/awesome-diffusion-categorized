@@ -100,13 +100,18 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://deepffff.github.io/sadis.github.io/)] 
 [[Code](https://github.com/deepffff/SADis)]
 
+**Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models** \
+[[WACV 2026](https://arxiv.org/abs/2508.19791)]
+[[Project](https://tau-vailab.github.io/color-edit/)] 
+[[Code](https://github.com/TAU-VAILab/color-edit)]
+
+**Color Conditional Generation with Sliced Wasserstein Guidance** \
+[[NeurIPS 2025](https://arxiv.org/abs/2503.19034)]
+[[Code](https://github.com/alobashev/sw-guidance/)]
+
 **Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models** \
 [[WACV 2026](https://arxiv.org/abs/2503.09864)]
 [[Project](https://hecoding.github.io/colorwave-page/)]
-
-**Color Conditional Generation with Sliced Wasserstein Guidance** \
-[[Website](https://arxiv.org/abs/2503.19034)]
-[[Code](https://github.com/alobashev/sw-guidance/)]
 
 **Evaluating Model Perception of Color Illusions in Photorealistic Scenes** \
 [[Website](https://arxiv.org/abs/2412.06184)]
@@ -135,8 +140,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2409.02429)]
 
-**Not Every Gift Comes in Gold Paper or with a Red Ribbon: Exploring Color Perception in Text-to-Image Models** \
-[[Website](https://arxiv.org/abs/2508.19791)]
 
 
 # Accelerate
@@ -867,6 +870,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning** \
 [[Website](https://arxiv.org/abs/2511.20549)]
 
+**GalaxyDiT: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2512.03451)]
+
 
 ## Train-Free
 
@@ -1497,6 +1503,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing** \
 [[Website](https://arxiv.org/abs/2511.11944)]
 [[Project](https://evdehaze.github.io/)]
+
+**BlurDM: A Blur Diffusion Model for Image Deblurring** \
+[[NeurIPS 2025](https://arxiv.org/abs/2512.03979)]
 
 **DREAMCLEAN: RESTORING CLEAN IMAGE USING DEEP DIFFUSION PRIOR** \
 [[ICLR 2025](https://openreview.net/forum?id=6ALuy19mPa)]
@@ -7721,6 +7730,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.22688)] 
 [[Project](https://flow-map-trajectory-tilting.github.io/)]
 
+**Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation** \
+[[Website](https://arxiv.org/abs/2512.03534)] 
+[[Project](https://subin-kim-cv.github.io/PRIS/)]
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -10027,6 +10040,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ROSE: Remove Objects with Side Effects in Videos** \
 [[Website](https://arxiv.org/abs/2508.18633)] 
 [[Project](https://rose2025-inpaint.github.io/)]
+
+**PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement** \
+[[NeurIPS 2025](https://arxiv.org/abs/2512.03247)] 
 
 **TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization** \
 [[ACM MM 2024](https://arxiv.org/abs/2408.03637)] 
