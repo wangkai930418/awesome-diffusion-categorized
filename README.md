@@ -2077,6 +2077,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Low-Bitrate Video Compression through Semantic-Conditioned Diffusion** \
 [[Website](https://arxiv.org/abs/2512.00408)]
 
+**Generative Neural Video Compression via Video Diffusion Prior** \
+[[Website](https://arxiv.org/abs/2512.05016)]
+
 
 ## Super Resolution
 
@@ -2347,6 +2350,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PGP-DiffSR: Phase-Guided Progressive Pruning for Efficient Diffusion-based Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2512.02681)] 
 [[Code](https://github.com/yzb1997/PGP-DiffSR)] 
+
+**OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2512.04699)] 
+[[Code](https://github.com/chaixinning/OmniScaleSR)] 
 
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
@@ -7137,6 +7144,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://match-and-fuse.github.io/)] 
 [[Code](https://github.com/kate-feingold/match-and-fuse)]
 
+**NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation** \
+[[Website](https://arxiv.org/abs/2512.05106)] 
+[[Project](https://yuzeng-at-tri.github.io/ppd-page/)] 
+[[Code](https://github.com/zengxianyu/PPD-examples)]
+
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
 [[Code](https://github.com/soobin-um/MinorityPrompt)]
@@ -7549,6 +7561,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TTSnap: Test-Time Scaling of Diffusion Models via Noise-Aware Pruning** \
 [[Website](https://arxiv.org/abs/2511.22242)] 
 [[Code](https://github.com/TerrysLearning/TTSnap/)] 
+
+**DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation** \
+[[Website](https://arxiv.org/abs/2512.05112)] 
+[[Code](https://github.com/CaraJ7/DraCo)] 
 
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
@@ -11985,6 +12001,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://ssj9596.github.io/one-to-all-animation-project/)]
 [[Code](https://github.com/ssj9596/One-to-All-Animation)]
 
+**EgoLCD: Egocentric Video Generation with Long Context Diffusion** \
+[[Website](https://arxiv.org/abs/2512.04515)]
+[[Project](https://aigeeksgroup.github.io/EgoLCD/)]
+[[Code](https://github.com/AIGeeksGroup/EgoLCD)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12320,6 +12341,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence** \
 [[Website](https://arxiv.org/abs/2512.03905)]
 [[Code](https://github.com/Sunnycookies/FRESCO-v2)]
+
+**MoReGen: Multi-Agent Motion-Reasoning Engine for Code-based Text-to-Video Synthesis** \
+[[Website](https://arxiv.org/abs/2512.04221)]
+[[Code](https://github.com/ostadabbas/MoReGen-Multi-Agent-Motion-Reasoning-Engine)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
