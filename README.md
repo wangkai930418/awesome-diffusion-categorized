@@ -2787,6 +2787,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.01686)]
 [[Project](https://yj7082126.github.io/dreamingcomics/)]
 
+**PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling** \
+[[Website](https://arxiv.org/abs/2512.04784)]
+[[Project](https://x-gengroup.github.io/HomePage_PaCo-RL/)]
+
 **Infinite-Story: A Training-Free Consistent Text-to-Image Generation** \
 [[AAAI 2026 Oral](https://arxiv.org/abs/2511.13002)]
 
@@ -4021,6 +4025,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **REASONEDIT: Towards Reasoning-Enhanced Image Editing Models** \
 [[Website](https://arxiv.org/abs/2511.22625)]
 [[Code](https://github.com/stepfun-ai/Step1X-Edit)] 
+
+**Refaçade: Editing Object with Given Reference Texture** \
+[[Website](https://arxiv.org/abs/2512.04534)]
+[[Code](https://github.com/fishZe233/Refacade)] 
 
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
@@ -7148,6 +7156,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.05106)] 
 [[Project](https://yuzeng-at-tri.github.io/ppd-page/)] 
 [[Code](https://github.com/zengxianyu/PPD-examples)]
+
+**PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design** \
+[[Website](https://arxiv.org/abs/2512.04082)] 
+[[Project](https://postercopilot.github.io/)] 
+[[Code](https://github.com/JiazheWei/PosterCopilot)]
 
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
@@ -13015,6 +13028,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.03040)]
 [[Project](https://xizaoqu.github.io/video4spatial/)]
 
+**BulletTime: Decoupled Control of Time and Camera Pose for Video Generation** \
+[[Website](https://arxiv.org/abs/2512.05076)]
+[[Project](https://19reborn.github.io/Bullet4D/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
