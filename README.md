@@ -873,6 +873,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **GalaxyDiT: Efficient Video Generation with Guidance Alignment and Adaptive Proxy in Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2512.03451)]
 
+**InvarDiff: Cross-Scale Invariance Caching for Accelerated Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.05134)]
+
+**USV: Unified Sparsification for Accelerating Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.05754)]
+
+**TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows** \
+[[Website](https://arxiv.org/abs/2512.05150)]
+
 
 ## Train-Free
 
@@ -1758,6 +1767,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **UnfoldLDM: Deep Unfolding-based Blind Image Restoration with Latent Diffusion Priors** \
 [[Website](https://arxiv.org/abs/2511.18152)]
+
+**CARD: Correlation Aware Restoration with Diffusion** \
+[[Website](https://arxiv.org/abs/2512.05268)]
 
 
 ## Colorization
@@ -3765,6 +3777,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://little-misfit.github.io/GRAG-Image-Editing/)] 
 [[Code](https://github.com/little-misfit/GRAG-Image-Editing)] 
 
+**EditThinker: Unlocking Iterative Reasoning for Any Image Editor** \
+[[Website](https://arxiv.org/abs/2512.05965)] 
+[[Project](https://appletea233.github.io/think-while-edit/)] 
+[[Code](https://github.com/appletea233/EditThinker)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -4800,6 +4817,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Prompt-Based Exemplar Super-Compression and Regeneration for Class-Incremental Learning** \
 [[Website](https://arxiv.org/abs/2311.18266)] 
 [[Code](https://github.com/KerryDRX/ESCORT)]
+
+**Bring Your Dreams to Life: Continual Text-to-Video Customization** \
+[[Website](https://arxiv.org/abs/2512.05802)] 
+[[Code](https://github.com/JiahuaDong/CCVD)]
 
 **Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA** \
 [[TMLR](https://arxiv.org/abs/2304.06027)] 
@@ -12019,6 +12040,17 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://aigeeksgroup.github.io/EgoLCD/)]
 [[Code](https://github.com/AIGeeksGroup/EgoLCD)]
 
+**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression** \
+[[Website](https://arxiv.org/abs/2512.05081)]
+[[Project](https://cvlab-kaist.github.io/DeepForcing/)]
+[[Code](https://github.com/cvlab-kaist/DeepForcing)]
+
+**Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation** \
+[[Website](https://arxiv.org/abs/2512.04678)]
+[[Project](https://reward-forcing.github.io/)]
+[[Code](https://github.com/JaydenLyh/Reward-Forcing)]
+
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -13463,6 +13495,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Taming Camera-Controlled Video Generation with Verifiable Geometry Reward** \
 [[Website](https://arxiv.org/abs/2512.02870)]
+
+**VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory** \
+[[Website](https://arxiv.org/abs/2512.04519)]
 
 
 
