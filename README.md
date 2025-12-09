@@ -1031,6 +1031,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation** \
 [[Website](https://arxiv.org/abs/2510.08994)]
 
+**SJD++: Improved Speculative Jacobi Decoding for Training-free Acceleration of Discrete Auto-regressive Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2512.07503)]
+
 **Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2510.25739)]
 
@@ -12391,6 +12394,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.04221)]
 [[Code](https://github.com/ostadabbas/MoReGen-Multi-Agent-Motion-Reasoning-Engine)]
 
+**ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2512.07328)]
+[[Code](https://github.com/ziyang1106/ContextAnyone)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -13064,6 +13071,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.05076)]
 [[Project](https://19reborn.github.io/Bullet4D/)]
 
+**Scaling Zero-Shot Reference-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2512.06905)]
+[[Project](https://franciszzj.github.io/Saber/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13499,6 +13510,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory** \
 [[Website](https://arxiv.org/abs/2512.04519)]
 
+**MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2512.07500)]
+
+**Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance** \
+[[Website](https://arxiv.org/abs/2512.07480)]
 
 
 # Video Editing 
