@@ -8362,6 +8362,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Multi-GRPO: Multi-Group Advantage Estimation for Text-to-Image Generation with Tree-Based Trajectories and Multiple Rewards** \
 [[Website](https://arxiv.org/abs/2512.00743)]
 
+**Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment** \
+[[Website](https://arxiv.org/abs/2512.07702)]
+
+
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -13897,6 +13902,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing** \
 [[Website](https://arxiv.org/abs/2506.05046)]
 [[Project](https://flowdirector-edit.github.io/)]
+
+**Unified Video Editing with Temporal Reasoner** \
+[[Website](https://arxiv.org/abs/2512.07469)]
+[[Project](https://videocof.github.io/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
