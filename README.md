@@ -27,7 +27,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
     - [Diffusion Inversion](#diffusion-models-inversion)
 - [Continual Learning](#continual-learning)
 - [Remove Concept](#remove-concept)
-- [New Concept Learning](#new-concept-learning)
+- [In Context Learning](#in-context-learning)
     - [Multi-Concept](#mutiple-concepts)
     - [Decompostion](#decomposition)
     - [ID Encoder](#id-encoder)
@@ -1037,6 +1037,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2510.25739)]
 
+**Fast-ARDiff: An Entropy-informed Acceleration Framework for Continuous Space Autoregressive Generation** \
+[[Website](https://arxiv.org/abs/2512.08537)]
+
+
 
 ## VAR model
 
@@ -1515,6 +1519,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing** \
 [[Website](https://arxiv.org/abs/2511.11944)]
 [[Project](https://evdehaze.github.io/)]
+
+**FlowSteer: Conditioning Flow Field for Consistent Image Restoration** \
+[[Website](https://arxiv.org/abs/2512.08125)]
+[[Project](https://tharindu-nirmal.github.io/FlowSteer/)]
 
 **BlurDM: A Blur Diffusion Model for Image Deblurring** \
 [[NeurIPS 2025](https://arxiv.org/abs/2512.03979)]
@@ -3398,6 +3406,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **InstructUDrag: Joint Text Instructions and Object Dragging for Interactive Image Editing** \
 [[Website](https://arxiv.org/abs/2510.08181)] 
 
+**ContextDrag: Precise Drag-Based Image Editing via Context-Preserving Token Injection and Position-Consistent Attention** \
+[[Website](https://arxiv.org/abs/2512.08477)] 
 
 
 # Text Guided Image Editing
@@ -5309,7 +5319,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Now You See It, Now You Don't - Instant Concept Erasure for Safe Text-to-Image and Video Generation** \
 [[Website](https://arxiv.org/abs/2511.18684)] 
 
-# New Concept Learning
+# In Context Learning
 
 **ReVersion: Diffusion-Based Relation Inversion from Images** \
 [[SIGGRAPH Asia 2024](https://arxiv.org/abs/2303.13495)] 
@@ -5594,6 +5604,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization** \
 [[Website](https://arxiv.org/abs/2512.03964)] 
 [[Code](https://github.com/lyuPang/UniID)] 
+
+**OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation** \
+[[Website](https://arxiv.org/abs/2512.08294)] 
+[[Code](https://github.com/LAW1223/OpenSubject)] 
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
@@ -8365,6 +8379,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment** \
 [[Website](https://arxiv.org/abs/2512.07702)]
 
+**TreeGRPO: Tree-Advantage GRPO for Online RL Post-Training of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.08153)]
+
 
 
 ## Spatial Control
@@ -10334,6 +10351,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LayoutRAG: Retrieval-Augmented Model for Content-agnostic Conditional Layout Generation** \
 [[Website](https://arxiv.org/abs/2506.02697)]
 
+**UniLayDiff: A Unified Diffusion Transformer for Content-Aware Layout Generation** \
+[[Website](https://arxiv.org/abs/2512.08897)]
+
 
 # Text Generation
 
@@ -10405,6 +10425,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2506.24123)]
 [[Project](https://calligrapher2025.github.io/Calligrapher/)] 
 [[Code](https://github.com/Calligrapher2025/Calligrapher)] 
+
+**Unified Diffusion Transformer for High-fidelity Text-Aware Image Restoration** \
+[[Website](https://arxiv.org/abs/2512.08922)]
+[[Project](https://cvlab-kaist.github.io/UniT/)] 
+[[Code](https://github.com/cvlab-kaist/UniT)] 
 
 **One-Shot Diffusion Mimicker for Handwritten Text Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2409.04004)]
