@@ -140,6 +140,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis** \
 [[Website](https://arxiv.org/abs/2409.02429)]
 
+**Color encoding in Latent Space of Stable Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.09477)]
 
 
 # Accelerate
@@ -4545,6 +4547,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **NumeriKontrol: Adding Numeric Control to Diffusion Transformers for Instruction-based Image Editing** \
 [[Website](https://arxiv.org/abs/2511.23105)]
 
+**Are Image-to-Video Models Good Zero-Shot Image Editors** \
+[[Website](https://arxiv.org/abs/2511.19435)]
 
 
 ## Diffusion Models Inversion
@@ -5963,6 +5967,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PhyCustom: Towards Realistic Physical Customization in Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2512.02794)] 
 
+**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2512.09814)] 
+
+
 
 ## Mutiple Concepts
 
@@ -7200,6 +7208,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://postercopilot.github.io/)] 
 [[Code](https://github.com/JiazheWei/PosterCopilot)]
 
+**Composing Concepts from Images and Videos via Concept-prompt Binding** \
+[[Website](https://arxiv.org/abs/2512.09824)] 
+[[Project](https://alicezrzhao.github.io/)] 
+[[Code](https://github.com/refkxh/bico)]
+
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
 [[Code](https://github.com/soobin-um/MinorityPrompt)]
@@ -8382,6 +8395,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **TreeGRPO: Tree-Advantage GRPO for Online RL Post-Training of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2512.08153)]
 
+**AgentComp: From Agentic Reasoning to Compositional Mastery in Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2512.09081)]
 
 
 ## Spatial Control
@@ -10718,6 +10733,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DCText: Scheduled Attention Masking for Visual Text Generation via Divide-and-Conquer Strategy** \
 [[Website](https://arxiv.org/abs/2512.01302)]
+
+**TextGuider: Training-Free Guidance for Text Rendering via Attention Alignment** \
+[[Website](https://arxiv.org/abs/2512.09350)]
 
 
 # Video Generation 
@@ -13105,6 +13123,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.06905)]
 [[Project](https://franciszzj.github.io/Saber/)]
 
+**GimbalDiffusion: Gravity-Aware Camera Control for Video Generation** \
+[[Website](https://arxiv.org/abs/2512.09112)]
+[[Project](https://lvsn.github.io/GimbalDiffusion/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13829,6 +13851,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **In-Context Learning with Unpaired Clips for Instruction-based Video Editing** \
 [[Website](https://arxiv.org/abs/2510.14648)]
 [[Code](https://github.com/leoisufa/ICVE)]
+
+**ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning** \
+[[Website](https://arxiv.org/abs/2512.09924)]
+[[Code](https://github.com/Liuxinyv/ReViSE)]
 
 **Shape-Aware Text-Driven Layered Video Editing** \
 [[CVPR 2023](https://arxiv.org/abs/2301.13173)]
