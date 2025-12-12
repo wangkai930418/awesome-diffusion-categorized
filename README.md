@@ -2599,6 +2599,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Low-Resolution Editing is All You Need for High-Resolution Editing** \
 [[Website](https://arxiv.org/abs/2511.19945)]
 
+**Zero-shot Adaptation of Stable Diffusion via Plug-in Hierarchical Degradation Representation for Real-World Super-Resolution** \
+[[Website](https://arxiv.org/abs/2512.10340)]
 
 
 ## Personalized Restoration
@@ -13126,6 +13128,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **GimbalDiffusion: Gravity-Aware Camera Control for Video Generation** \
 [[Website](https://arxiv.org/abs/2512.09112)]
 [[Project](https://lvsn.github.io/GimbalDiffusion/)]
+
+**ShotDirector: Directorially Controllable Multi-Shot Video Generation with Cinematographic Transitions** \
+[[Website](https://arxiv.org/abs/2512.10286)]
+[[Project](https://uknowsth.github.io/ShotDirector/)]
+
+**AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation** \
+[[Website](https://arxiv.org/abs/2512.10943)]
+[[Project](https://snap-research.github.io/Video-AlcheMinT/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
