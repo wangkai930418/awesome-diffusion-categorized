@@ -3799,6 +3799,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://appletea233.github.io/think-while-edit/)] 
 [[Code](https://github.com/appletea233/EditThinker)] 
 
+**EditMGT: Unleashing Potentials of Masked Generative Transformers in Image Editing** \
+[[Website](https://arxiv.org/abs/2512.11715)] 
+[[Project](https://weichow23.github.io/EditMGT/)] 
+[[Code](https://github.com/weichow23/EditMGT)] 
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -4794,6 +4799,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing** \
 [[Website](https://arxiv.org/abs/2510.25970)]
+
+**FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing** \
+[[Website](https://arxiv.org/abs/2512.11395)]
+
 
 
 # Continual Learning
@@ -12448,6 +12457,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.07328)]
 [[Code](https://github.com/ziyang1106/ContextAnyone)]
 
+**PersonaLive! Expressive Portrait Image Animation for Live Streaming** \
+[[Website](https://arxiv.org/abs/2512.11253)]
+[[Code](https://github.com/GVCLab/PersonaLive)]
+
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
 [[Project](https://kwonminki.github.io/HARIVO/)]
@@ -13137,6 +13150,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.10943)]
 [[Project](https://snap-research.github.io/Video-AlcheMinT/)]
 
+**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation** \
+[[Website](https://arxiv.org/abs/2512.11792)]
+[[Project](https://sam2videox.github.io/)]
+
+**FilmWeaver: Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion** \
+[[Website](https://arxiv.org/abs/2512.11274)]
+[[Project](https://filmweaver.github.io/)]
+
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13578,12 +13600,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Single-step Diffusion-based Video Coding with Semantic-Temporal Guidance** \
 [[Website](https://arxiv.org/abs/2512.07480)]
 
+**AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path** \
+[[Website](https://arxiv.org/abs/2512.11203)]
+
+
 
 # Video Editing 
 
 **FateZero: Fusing Attentions for Zero-shot Text-based Video Editing** \
-[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/QI_FateZero_Fusing_Attentions_for_Zero-shot_Text-based_Video_Editing_ICCV_2023_paper.html
-)]
+[[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/QI_FateZero_Fusing_Attentions_for_Zero-shot_Text-based_Video_Editing_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.09535)]
 [[Project](https://fate-zero-edit.github.io/)] 
 [[Code](https://github.com/ChenyangQiQi/FateZero)]
@@ -13967,6 +13992,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Unified Video Editing with Temporal Reasoner** \
 [[Website](https://arxiv.org/abs/2512.07469)]
 [[Project](https://videocof.github.io/)]
+
+**V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties** \
+[[Website](https://arxiv.org/abs/2512.11799)]
+[[Project](https://aleafy.github.io/vrgbx/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
