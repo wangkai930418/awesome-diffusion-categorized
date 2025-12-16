@@ -353,6 +353,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zhuobaidong.github.io/Glance/)]
 [[Code](https://github.com/zhuobaidong/Glance)]
 
+**No Cache Left Idle: Accelerating diffusion model via Extreme-slimming Caching** \
+[[Website](https://arxiv.org/abs/2512.12604)]
+[[Project](https://thu-accdiff.github.io/xslim-page/)]
+[[Code](https://github.com/THU-AccDiff/xslim/]
+
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
 <!-- [[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)] -->
@@ -883,6 +888,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TwinFlow: Realizing One-step Generation on Large Models with Self-adversarial Flows** \
 [[Website](https://arxiv.org/abs/2512.05150)]
+
+**Few-Step Distillation for Text-to-Image Generation: A Practical Guide** \
+[[Website](https://arxiv.org/abs/2512.13006)]
+
+**On the Design of One-step Diffusion via Shortcutting Flow Paths** \
+[[Website](https://arxiv.org/abs/2512.11831)]
 
 
 ## Train-Free
@@ -1525,6 +1536,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FlowSteer: Conditioning Flow Field for Consistent Image Restoration** \
 [[Website](https://arxiv.org/abs/2512.08125)]
 [[Project](https://tharindu-nirmal.github.io/FlowSteer/)]
+
+**CreativeVR: Diffusion-Prior-Guided Approach for Structure and Motion Restoration in Generative and Real Videos** \
+[[Website](https://arxiv.org/abs/2512.12060)]
+[[Project](https://daveishan.github.io/creativevr-webpage/)]
 
 **BlurDM: A Blur Diffusion Model for Image Deblurring** \
 [[NeurIPS 2025](https://arxiv.org/abs/2512.03979)]
@@ -3413,6 +3428,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ContextDrag: Precise Drag-Based Image Editing via Context-Preserving Token Injection and Position-Consistent Attention** \
 [[Website](https://arxiv.org/abs/2512.08477)] 
 
+**RealDrag: The First Dragging Benchmark with Real Target Image** \
+[[Website](https://arxiv.org/abs/2512.12287)] 
+
 
 # Text Guided Image Editing
 **Prompt-to-Prompt Image Editing with Cross Attention Control** \
@@ -4557,6 +4575,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Are Image-to-Video Models Good Zero-Shot Image Editors** \
 [[Website](https://arxiv.org/abs/2511.19435)]
 
+**CogniEdit: Dense Gradient Flow Optimization for Fine-Grained Image Editing** \
+[[Website](https://arxiv.org/abs/2512.13276)]
+
+
 
 ## Diffusion Models Inversion
 
@@ -5333,6 +5355,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Now You See It, Now You Don't - Instant Concept Erasure for Safe Text-to-Image and Video Generation** \
 [[Website](https://arxiv.org/abs/2511.18684)] 
+
+**Bi-Erasing: A Bidirectional Framework for Concept Removal in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.13039)] 
+
 
 # In Context Learning
 
@@ -6519,6 +6545,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://zichengduan.github.io/pages/EZIGen/index.html)] 
 [[Code](https://github.com/ZichengDuan/EZIGen)]
 
+**Directional Textual Inversion for Personalized Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2512.13672)] 
+[[Project](https://kunheek.github.io/dti/)] 
+[[Code](https://github.com/kunheek/dti)]
+
 **Cones 2: Customizable Image Synthesis with Multiple Subjects** \
 [[NeurIPS 2023](https://arxiv.org/abs/2305.19327v1)] 
 [[Code](https://github.com/ali-vilab/cones-v2)] 
@@ -6681,6 +6712,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.15700)]
 [[Project](https://firstframego.github.io/)] 
 [[Code](https://github.com/zli12321/FFGO-Video-Customization)]
+
+**V-Warper: Appearance-Consistent Video Diffusion Personalization via Value Warping** \
+[[Website](https://arxiv.org/abs/2512.12375)]
+[[Project](https://cvlab-kaist.github.io/V-Warper/)] 
+[[Code](https://github.com/cvlab-kaist/V-Warper)]
 
 **LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.07603)]
@@ -8408,6 +8444,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **AgentComp: From Agentic Reasoning to Compositional Mastery in Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2512.09081)]
+
+**Geometry-Aware Scene-Consistent Image Generation** \
+[[Website](https://arxiv.org/abs/2512.12598)]
 
 
 ## Spatial Control
@@ -13158,6 +13197,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.11274)]
 [[Project](https://filmweaver.github.io/)]
 
+**SMRABooth: Subject and Motion Representation Alignment for Customized Video Generation** \
+[[Website](https://arxiv.org/abs/2512.12193)]
+[[Project](https://smrabooth.github.io/)]
+
+**BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.12080)]
+[[Project](https://ryanpo.com/bagger/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
@@ -13602,6 +13648,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **AutoRefiner: Improving Autoregressive Video Diffusion Models via Reflective Refinement Over the Stochastic Sampling Path** \
 [[Website](https://arxiv.org/abs/2512.11203)]
+
+**STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative** \
+[[Website](https://arxiv.org/abs/2512.12372)]
 
 
 
