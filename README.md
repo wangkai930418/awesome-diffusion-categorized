@@ -895,6 +895,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **On the Design of One-step Diffusion via Shortcutting Flow Paths** \
 [[Website](https://arxiv.org/abs/2512.11831)]
 
+**OUSAC: Optimized Guidance Scheduling with Adaptive Caching for DiT Acceleration** \
+[[Website](https://arxiv.org/abs/2512.14096)]
+
 
 ## Train-Free
 
@@ -2394,6 +2397,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2512.04699)] 
 [[Code](https://github.com/chaixinning/OmniScaleSR)] 
+
+**Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2512.14061)] 
+[[Code](https://github.com/Chanson94/CODSR)] 
 
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
@@ -4743,6 +4750,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.20376)] 
 [[Project](https://tight-inversion.github.io/)] 
 
+**The Devil is in Attention Sharing: Improving Complex Non-rigid Image Editing Faithfulness via Attention Synergy** \
+[[Website](https://arxiv.org/abs/2512.14423)] 
+[[Project](https://synps26.github.io/)] 
+
 **Effective Real Image Editing with Accelerated Iterative Diffusion Inversion** \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Pan_Effective_Real_Image_Editing_with_Accelerated_Iterative_Diffusion_Inversion_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2309.04907)]
@@ -6419,6 +6430,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **A Training-Free Approach for Multi-ID Customization via Attention Adjustment and Spatial Control** \
 [[Website](https://arxiv.org/abs/2511.20401)] 
+
+**HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion** \
+[[Website](https://arxiv.org/abs/2512.14542)] 
 
 
 ## General Concept 
