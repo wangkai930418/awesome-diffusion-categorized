@@ -11,6 +11,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Visual Illusion](#illusion)
 - [Color](#color-in-generation)
 - [Count](#count-guidance)
+- [Poster](#poster)
 - [Accelerate](#accelerate)
     - [Train-Free](#train-free)
     - [AR model](#ar-model)
@@ -37,7 +38,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
     - [Video Customization](#video-customization)
 - [T2I augmentation](#t2i-diffusion-model-augmentation)
     - [Spatial Control](#spatial-control)
-    - [Poster](#poster)
 - [Image Translation](#i2i-translation)
 - [Seg & Detect & Track](#segmentation-detection-tracking)
 - [Adding Conditions](#additional-conditions)
@@ -166,6 +166,29 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion** \
 [[Website](https://arxiv.org/abs/2505.04347)] 
 
+
+# Poster
+
+**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework** \
+[[Website](https://arxiv.org/abs/2506.10741)] 
+[[Project](https://ephemeral182.github.io/PosterCraft/)] 
+[[Code](https://github.com/Ephemeral182/PosterCraft)]
+
+**CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation** \
+[[Website](https://arxiv.org/abs/2506.10890)] 
+[[Code](https://github.com/graphic-design-ai/creatiposter)] 
+
+**PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering** \
+[[CVPR 2025](https://arxiv.org/abs/2504.06632)]
+[[Project](https://poster-maker.github.io/)] 
+
+**POSTA: A Go-to Framework for Customized Artistic Poster Generation** \
+[[CVPR 2025](https://arxiv.org/abs/2503.14908)] 
+[[Project](https://haoyuchen.com/POSTA)] 
+
+**DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design** \
+[[Website](https://arxiv.org/abs/2507.04218)] 
+[[Project](https://dreamposter.github.io/)] 
 
 # Accelerate
 
@@ -578,6 +601,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield** \
 [[Website](https://arxiv.org/abs/2511.22677)]
 [[Code](https://github.com/Tongyi-MAI/Z-Image)]
+
+**TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times** \
+[[Website](https://arxiv.org/abs/2512.16093)]
+[[Code](https://github.com/thu-ml/TurboDiffusion)]
 
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
@@ -8903,25 +8930,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 
 
-## Poster
-
-**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework** \
-[[Website](https://arxiv.org/abs/2506.10741)] 
-[[Project](https://ephemeral182.github.io/PosterCraft/)] 
-[[Code](https://github.com/Ephemeral182/PosterCraft)]
-
-**CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation** \
-[[Website](https://arxiv.org/abs/2506.10890)] 
-[[Code](https://github.com/graphic-design-ai/creatiposter)] 
-
-**POSTA: A Go-to Framework for Customized Artistic Poster Generation** \
-[[CVPR 2025](https://arxiv.org/abs/2503.14908)] 
-[[Project](https://haoyuchen.com/POSTA)] 
-
-**DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design** \
-[[Website](https://arxiv.org/abs/2507.04218)] 
-[[Project](https://dreamposter.github.io/)] 
-
 
 # I2I translation
 
@@ -10619,9 +10627,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.03256)]
 [[Code](https://github.com/dailenson/DiffBrush)] 
 
-**PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering** \
-[[CVPR 2025](https://arxiv.org/abs/2504.06632)]
-[[Project](https://poster-maker.github.io/)] 
 
 **AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model** \
 [[Website](https://arxiv.org/abs/2312.02967)]
@@ -13236,6 +13241,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.15702)]
 [[Project](https://guoyww.github.io/projects/resampling-forcing/)]
 
+**DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations** \
+[[Website](https://arxiv.org/abs/2512.15524)]
+[[Project](https://syx132.github.io/DeX-Portrait/)]
+
+**Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.16371)]
+[[Project](https://vita-epfl.github.io/FVG/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13894,6 +13907,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.03013)]
 [[Project](https://sagipolaczek.github.io/Sync-LoRA/)]
 [[Code](https://github.com/SagiPolaczek/Sync-LoRA)] 
+
+**IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning** \
+[[Website](https://arxiv.org/abs/2512.15635)]
+[[Project](https://cuc-mipg.github.io/IC-Effect/)]
+[[Code](https://github.com/CUC-MIPG/IC-Effect)] 
 
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
