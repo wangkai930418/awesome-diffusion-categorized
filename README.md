@@ -10,6 +10,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 - [Visual Illusion](#illusion)
 - [Color](#color-in-generation)
+- [Count](#count-guidance)
 - [Accelerate](#accelerate)
     - [Train-Free](#train-free)
     - [AR model](#ar-model)
@@ -142,6 +143,28 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Color encoding in Latent Space of Stable Diffusion Models** \
 [[Website](https://arxiv.org/abs/2512.09477)]
+
+# Count Guidance
+
+**Make It Count: Text-to-Image Generation with an Accurate Number of Objects** \
+[[CVPR 2025](https://arxiv.org/abs/2406.10210)] 
+[[Project](https://make-it-count-paper.github.io//)] 
+[[Code](https://github.com/Litalby1/make-it-count)]
+
+**Detection-Driven Object Count Optimization for Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2408.11721v2)] 
+[[Project](https://ozzafar.github.io/count_token/)] 
+[[Code](https://github.com/ozzafar/discriminative_class_tokens_for_counting)]
+
+**CountCluster: Training-Free Object Quantity Guidance with Cross-Attention Map Clustering for Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2508.10710)] 
+[[Code](https://github.com/JoohyeonL22/CountCluster)] 
+
+**YOLO-Count: Differentiable Object Counting for Text-to-Image Generation** \
+[[ICCV 2025](https://arxiv.org/abs/2508.00728)] 
+
+**CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion** \
+[[Website](https://arxiv.org/abs/2505.04347)] 
 
 
 # Accelerate
@@ -6969,10 +6992,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://microsoft.github.io/RAS/)] 
 [[Code](https://github.com/microsoft/RAS)]
 
-**Make It Count: Text-to-Image Generation with an Accurate Number of Objects** \
-[[Website](https://arxiv.org/abs/2406.10210)] 
-[[Project](https://make-it-count-paper.github.io//)] 
-[[Code](https://github.com/Litalby1/make-it-count)]
+
 
 **TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning in Text-to-Image Models** \
 [[Website](https://arxiv.org/abs/2503.15283)] 
@@ -7163,11 +7183,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2502.18302)] 
 [[Project](https://zrealli.github.io/LDGen/)] 
 [[Code](https://github.com/zrealli/LDGen)]
-
-**Iterative Object Count Optimization for Text-to-image Diffusion Models** \
-[[Website](https://arxiv.org/abs/2408.11721)] 
-[[Project](https://ozzafar.github.io/count_token/)] 
-[[Code](https://github.com/ozzafar/discriminative_class_tokens_for_counting)]
 
 **ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment** \
 [[Website](https://arxiv.org/abs/2403.05135)] 
@@ -7703,6 +7718,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2410.21638)] 
 [[Project](https://deepaksridhar.github.io/factorgraphdiffusion.github.io/)] 
 
+**MotiF: Making Text Count in Image Animation with Motion Focal Loss** \
+[[CVPR 2025](https://arxiv.org/abs/2412.16153)] 
+[[Project](https://wang-sj16.github.io/motif/)] 
+
 **Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment** \
 [[ICLR 2025](https://arxiv.org/abs/2502.05153)] 
 [[Project](https://roar-ai.github.io/hummingbird/)] 
@@ -7760,9 +7779,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2407.00737)] 
 [[Project](https://xiaobul.github.io/LLM4GEN/)] 
 
-**MotiF: Making Text Count in Image Animation with Motion Focal Loss** \
-[[Website](https://arxiv.org/abs/2412.16153)] 
-[[Project](https://wang-sj16.github.io/motif/)] 
+
 
 **RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance** \
 [[Website](https://arxiv.org/abs/2405.17661)] 
@@ -7907,8 +7924,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **MultiGen: Zero-shot Image Generation from Multi-modal Prompt** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01296.pdf)] 
 
-**YOLO-Count: Differentiable Object Counting for Text-to-Image Generation** \
-[[ICCV 2025](https://arxiv.org/abs/2508.00728)] 
 
 **Dense2MoE: Restructuring Diffusion Transformer to MoE for Efficient Text-to-Image Generation** \
 [[ICCV 2025](https://arxiv.org/abs/2510.09094)] 
@@ -8105,8 +8120,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance** \
 [[Website](https://arxiv.org/abs/2405.15321)] 
 
-**CountDiffusion: Text-to-Image Synthesis with Training-Free Counting-Guidance Diffusion** \
-[[Website](https://arxiv.org/abs/2505.04347)] 
 
 **Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance** \
 [[Website](https://arxiv.org/abs/2406.04551)] 
@@ -13218,6 +13231,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **BAgger: Backwards Aggregation for Mitigating Drift in Autoregressive Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2512.12080)]
 [[Project](https://ryanpo.com/bagger/)]
+
+**End-to-End Training for Autoregressive Video Diffusion via Self-Resampling** \
+[[Website](https://arxiv.org/abs/2512.15702)]
+[[Project](https://guoyww.github.io/projects/resampling-forcing/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
