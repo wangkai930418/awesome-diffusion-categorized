@@ -469,6 +469,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICLR 2025](https://arxiv.org/abs/2502.01441)]
 [[Code](https://github.com/quandao10/sLCT/)]
 
+**ProCache: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration** \
+[[AAAI 2026](https://arxiv.org/abs//2512.17298)]
+[[Code](https://github.com/macovaseas/ProCache)]
 
 **Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching** \
 [[ACM MM 2025](https://arxiv.org/abs/2509.10312)]
@@ -1541,6 +1544,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Equivariant Sampling for Improving Diffusion Model-based Image Restoration** \
 [[Website](https://arxiv.org/abs/2511.09965)]
 [[Code](https://github.com/FouierL/EquS)]
+
+**Fose: Fusion of One-Step Diffusion and End-to-End Network for Pansharpening** \
+[[Website](https://arxiv.org/abs/2512.17202)]
+[[Code](https://github.com/Kai-Liu001/Fose)]
 
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
@@ -5420,6 +5427,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Bi-Erasing: A Bidirectional Framework for Concept Removal in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2512.13039)] 
 
+**EMMA: Concept Erasure Benchmark with Comprehensive Semantic Metrics and Diverse Categories** \
+[[Website](https://arxiv.org/abs/2512.17320)] 
+
 
 # In Context Learning
 
@@ -5849,6 +5859,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models** \
 [[AAAI 2024](https://arxiv.org/abs/2309.06933)] 
+
+**LumiCtrl : Learning Illuminant Prompts for Lighting Control in Personalized Text-to-Image Models** \
+[[Website](https://arxiv.org/abs/2512.17489)] 
 
 **FreeTuner: Any Subject in Any Style with Training-free Diffusion** \
 [[Website](https://arxiv.org/abs/2405.14201)] 
@@ -12183,6 +12196,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://reward-forcing.github.io/)]
 [[Code](https://github.com/JaydenLyh/Reward-Forcing)]
 
+**Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation** \
+[[Website](https://arxiv.org/abs/2512.17040)]
+[[Project](https://emjay73.github.io/InfCam/)]
+[[Code](https://github.com/emjay73/InfCam)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
@@ -14094,6 +14111,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties** \
 [[Website](https://arxiv.org/abs/2512.11799)]
 [[Project](https://aleafy.github.io/vrgbx/)]
+
+**Region-Constraint In-Context Generation for Instructional Video Editing** \
+[[Website](https://arxiv.org/abs/2512.17650)]
+[[Project](https://zhw-zhang.github.io/ReCo-page/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
