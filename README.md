@@ -2180,6 +2180,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Generative Neural Video Compression via Video Diffusion Prior** \
 [[Website](https://arxiv.org/abs/2512.05016)]
 
+**SLIM: Semantic-based Low-bitrate Image compression for Machines by leveraging diffusion** \
+[[Website](https://arxiv.org/abs/2512.18200)]
+
 
 ## Super Resolution
 
@@ -3312,6 +3315,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Rethinking Garment Conditioning in Diffusion-based Virtual Try-On** \
 [[Website](https://arxiv.org/abs/2511.18775)]
+
+**The devil is in the details: Enhancing Video Virtual Try-On via Keyframe-Driven Details Injection** \
+[[Website](https://arxiv.org/abs//2512.20340)]
 
 
 # Drag Edit
@@ -8515,6 +8521,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Geometry-Aware Scene-Consistent Image Generation** \
 [[Website](https://arxiv.org/abs/2512.12598)]
 
+**VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis** \
+[[Website](https://arxiv.org/abs/2512.19243)]
+
 
 ## Spatial Control
 
@@ -9914,8 +9923,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 # SD-inpaint
 
 **Paint by Example: Exemplar-based Image Editing with Diffusion Models** \
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html
-)] 
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Paint_by_Example_Exemplar-Based_Image_Editing_With_Diffusion_Models_CVPR_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2211.13227)] 
 [[Code](https://github.com/Fantasy-Studio/Paint-by-Example)]
 [[Diffusers Doc](https://huggingface.co/docs/diffusers/api/pipelines/paint_by_example)] 
@@ -10069,6 +10077,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ACM MM 2022](https://arxiv.org/abs/2209.08217)] 
 [[Code](https://github.com/htyjers/DGTS-Inpainting)]
 
+**FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting** \
+[[AAAI 2026](https://arxiv.org/abs/2512.21104)] 
+[[Code](https://github.com/CharlesGong12/FreeInpaint)] 
+
 **PIXELS: Progressive Image Xemplar-based Editing with Latent Surgery** \
 [[AAAI 2025](https://arxiv.org/abs/2501.09826)] 
 [[Code](https://github.com/amazon-science/pixels)]
@@ -10164,6 +10176,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **GuidPaint: Class-Guided Image Inpainting with Diffusion Models** \
 [[Website](https://arxiv.org/abs/2507.21627)] 
 [[Code](https://github.com/wangqm518/GuidPaint)] 
+
+**Efficient Zero-Shot Inpainting with Decoupled Diffusion Guidance** \
+[[Website](https://arxiv.org/abs/2512.18365)] 
+[[Code](https://github.com/YazidJanati/ding)] 
 
 **AddMe: Zero-shot Group-photo Synthesis by Inserting People into Scenes** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03028.pdf)] 
@@ -10831,6 +10847,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **TextGuider: Training-Free Guidance for Text Rendering via Attention Alignment** \
 [[Website](https://arxiv.org/abs/2512.09350)]
+
+**UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images** \
+[[Website](https://arxiv.org/abs/2512.20479)]
 
 
 # Video Generation 
@@ -12201,6 +12220,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://emjay73.github.io/InfCam/)]
 [[Code](https://github.com/emjay73/InfCam)]
 
+**StoryMem: Multi-shot Long Video Storytelling with Memory** \
+[[Website](https://arxiv.org/abs/2512.19539)]
+[[Project](https://kevin-thu.github.io/StoryMem/)]
+[[Code](https://github.com/Kevin-thu/StoryMem)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12548,6 +12572,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PersonaLive! Expressive Portrait Image Animation for Live Streaming** \
 [[Website](https://arxiv.org/abs/2512.11253)]
 [[Code](https://github.com/GVCLab/PersonaLive)]
+
+**Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation** \
+[[Website](https://arxiv.org/abs/2512.18741)]
+[[Code](https://github.com/Xilluill/MAG)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
@@ -13266,6 +13294,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.16371)]
 [[Project](https://vita-epfl.github.io/FVG/)]
 
+**SemanticGen: Video Generation in Semantic Space** \
+[[Website](https://arxiv.org/abs/2512.20619)]
+[[Project](https://jianhongbai.github.io/SemanticGen/)]
+
+**DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation** \
+[[Website](https://arxiv.org/abs/2512.21252)]
+[[Project](https://dreamontage.github.io/DreaMontage/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13713,6 +13749,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **STAGE: Storyboard-Anchored Generation for Cinematic Multi-shot Narrative** \
 [[Website](https://arxiv.org/abs/2512.12372)]
 
+**Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.20000)]
 
 
 # Video Editing 
@@ -14269,3 +14307,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Point-to-Point: Sparse Motion Guidance for Controllable Video Editing** \
 [[Website](https://arxiv.org/abs/2511.18277)]
+
+**FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing** \
+[[Website](https://arxiv.org/abs/2512.21015)]
