@@ -5017,6 +5017,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 # Remove Concept
 
+**The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models** \
+[[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.pdf)] 
+[[Code](https://github.com/NGK2110/TIU)]
+
 **Ablating Concepts in Text-to-Image Diffusion Models** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Kumari_Ablating_Concepts_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2303.13516)] 
