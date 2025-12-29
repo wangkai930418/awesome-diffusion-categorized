@@ -5101,6 +5101,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ECCV 2024](https://arxiv.org/abs/2407.21032)] 
 [[Code](https://github.com/nannullna/safeguard-hfi)]
 
+**The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models** \
+[[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.pdf)] 
+[[Code](https://github.com/NGK2110/TIU)]
+
 **Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.15618)] 
 [[Code](https://github.com/tuananhbui89/Erasing-Adversarial-Preservation)]
@@ -10053,6 +10057,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2505.24873)]
 [[Project](https://minimax-remover.github.io/)]
 [[Code](https://github.com/zibojia/MiniMax-Remover)]
+
+**EasyOmnimatte: Taming Pretrained Inpainting Diffusion Models for End-to-End Video Layered Decomposition** \
+[[Website](https://arxiv.org/abs/2512.21865)]
+[[Project](https://yihanhu-2022.github.io/easyomnimatte-project/)]
+[[Code](https://github.com/GVCLab/EasyOmnimatte)]
 
 **Improving Text-guided Object Inpainting with Semantic Pre-inpainting**\
 [[ECCV 2024](https://arxiv.org/abs/2409.08260)] 
