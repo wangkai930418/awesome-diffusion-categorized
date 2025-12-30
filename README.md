@@ -693,6 +693,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.08431)]
 [[Project](https://research.nvidia.com/labs/dir/rcm/)]
 
+**Self-Evaluation Unlocks Any-Step Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2512.22374)]
+[[Project](https://xinyu-andy.github.io/SelfE-project/)]
+
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
 
@@ -951,6 +955,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **OUSAC: Optimized Guidance Scheduling with Adaptive Caching for DiT Acceleration** \
 [[Website](https://arxiv.org/abs/2512.14096)]
 
+**Plug-and-Play Fidelity Optimization for Diffusion Transformer Acceleration via Cumulative Error Minimization** \
+[[Website](https://arxiv.org/abs/2512.23258)]
 
 ## Train-Free
 
@@ -1859,6 +1865,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CARD: Correlation Aware Restoration with Diffusion** \
 [[Website](https://arxiv.org/abs/2512.05268)]
 
+**SURE Guided Posterior Sampling: Trajectory Correction for Diffusion-Based Inverse Problems** \
+[[Website](https://arxiv.org/abs/2512.23232)]
+
 
 ## Colorization
 
@@ -2257,6 +2266,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.12747)] 
 [[Project](https://zhuang2002.github.io/FlashVSR/)] 
 [[Code](https://github.com/OpenImagingLab/FlashVSR)] 
+
+**Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion** \
+[[Website](https://arxiv.org/abs/2512.23709)] 
+[[Project](https://jamichss.github.io/stream-diffvsr-project-page/)] 
+[[Code](https://github.com/jamichss/Stream-DiffVSR)] 
 
 **SinSR: Diffusion-Based Image Super-Resolution in a Single Step** \
 [[CVPR 2024](https://arxiv.org/abs/2311.14760)] 
@@ -2684,6 +2698,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Zero-shot Adaptation of Stable Diffusion via Plug-in Hierarchical Degradation Representation for Real-World Super-Resolution** \
 [[Website](https://arxiv.org/abs/2512.10340)]
 
+**Iterative Inference-time Scaling with Adaptive Frequency Steering for Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2512.23532)]
 
 ## Personalized Restoration
 
@@ -2831,6 +2847,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2407.12899)]
 [[Project](https://dream-xyz.github.io/dreamstory)]
 [[Code](https://github.com/hehuiguo/DreamStory)] 
+
+**ASemConsist: Adaptive Semantic Feature Control for Training-Free Identity-Consistent Generation** \
+[[Website](https://arxiv.org/abs/2512.23245)]
+[[Project](https://minjung-s.github.io/asemconsist)]
+[[Code](https://github.com/GrainSack/ASemConsist)] 
 
 **StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion** \
 [[ECCV 2024](https://arxiv.org/abs/2404.05979)]
@@ -3891,6 +3912,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.11715)] 
 [[Project](https://weichow23.github.io/EditMGT/)] 
 [[Code](https://github.com/weichow23/EditMGT)] 
+
+**SpotEdit: Selective Region Editing in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2512.22323)] 
+[[Project](https://biangbiang0321.github.io/SpotEdit.github.io/)]
+[[Code](https://github.com/Biangbiang0321/SpotEdit)]
 
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
@@ -5213,6 +5239,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.27285)] 
 [[Code](https://github.com/Qhong-522/S-GRACE)]
 
+**PurifyGen: A Risk-Discrimination and Semantic-Purification Model for Safe Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2512.23546)] 
+[[Code](https://github.com/AI-Researcher-Team/PurifyGen)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -5440,6 +5470,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EMMA: Concept Erasure Benchmark with Comprehensive Semantic Metrics and Diverse Categories** \
 [[Website](https://arxiv.org/abs/2512.17320)] 
 
+**M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.22877)] 
 
 # In Context Learning
 
@@ -5730,6 +5762,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **OpenSubject: Leveraging Video-Derived Identity and Diversity Priors for Subject-driven Image Generation and Manipulation** \
 [[Website](https://arxiv.org/abs/2512.08294)] 
 [[Code](https://github.com/LAW1223/OpenSubject)] 
+
+**InstructMoLE: Instruction-Guided Mixture of Low-rank Experts for Multi-Conditional Image Generation** \
+[[Website](https://arxiv.org/abs/2512.21788)] 
+[[Code](https://github.com/yanq095/InstructMoLE)] 
+
+**Reverse Personalization** \
+[[Website](https://arxiv.org/abs/2512.22984)] 
+[[Code](https://github.com/hanweikung/reverse-personalization)] 
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
@@ -6226,6 +6266,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation** \
 [[Website](https://arxiv.org/abs/2511.22690)] 
+
+**AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization** \
+[[Website](https://arxiv.org/abs/2512.23537)] 
 
 
 ## Decomposition
@@ -7339,6 +7382,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://alicezrzhao.github.io/)] 
 [[Code](https://github.com/refkxh/bico)]
 
+**Direct Diffusion Score Preference Optimization via Stepwise Contrastive Policy-Pair Supervision** \
+[[Website](https://arxiv.org/abs/2512.23426)] 
+[[Project](https://dohyun-as.github.io/DDSPO/)] 
+[[Code](https://github.com/dohyun-as/DDSPO)]
+
 **Minority-Focused Text-to-Image Generation via Prompt Optimization** \
 [[CVPR 2025 Oral](https://arxiv.org/abs/2410.07838)] 
 [[Code](https://github.com/soobin-um/MinorityPrompt)]
@@ -7951,6 +7999,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.03534)] 
 [[Project](https://subin-kim-cv.github.io/PRIS/)]
 
+**Co-GRPO: Co-Optimized Group Relative Policy Optimization for Masked Diffusion Model** \
+[[Website](https://arxiv.org/abs/2512.22288)] 
+[[Project](https://co-grpo.github.io/)]
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -8527,6 +8579,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis** \
 [[Website](https://arxiv.org/abs/2512.19243)]
+
+**CritiFusion: Semantic Critique and Spectral Alignment for Faithful Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2512.22681)]
 
 
 ## Spatial Control
@@ -12234,6 +12289,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://kevin-thu.github.io/StoryMem/)]
 [[Code](https://github.com/Kevin-thu/StoryMem)]
 
+**HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming** \
+[[Website](https://arxiv.org/abs/2512.21338)]
+[[Project](http://haonanqiu.com/projects/HiStream.html)]
+[[Code](https://github.com/arthur-qiu/HiStream)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -12585,6 +12645,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation** \
 [[Website](https://arxiv.org/abs/2512.18741)]
 [[Code](https://github.com/Xilluill/MAG)]
+
+**LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation** \
+[[Website](https://arxiv.org/abs/2512.23576)]
+[[Code](https://github.com/GAIR-NLP/LiveTalk)]
 
 **HARIVO: Harnessing Text-to-Image Models for Video Generation** \
 [[ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06938.pdf)]
