@@ -609,6 +609,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.16093)]
 [[Code](https://github.com/thu-ml/TurboDiffusion)]
 
+**CorGi: Contribution-Guided Block-Wise Interval Caching for Training-Free Acceleration of Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2512.24195)]
+[[Code](https://github.com/CASL-KU/CorGi)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -2700,6 +2704,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Iterative Inference-time Scaling with Adaptive Frequency Steering for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2512.23532)]
+
+**F2IDiff: Real-world Image Super-resolution using Feature to Image Diffusion Foundation Model** \
+[[Website](https://arxiv.org/abs/2512.24473)]
+
+
 
 ## Personalized Restoration
 
@@ -4924,6 +4933,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FlowDC: Flow-Based Decoupling-Decay for Complex Image Editing** \
 [[Website](https://arxiv.org/abs/2512.11395)]
+
+**On Exact Editing of Flow-Based Diffusion Models** \
+[[Website](https://arxiv.org/abs/2512.24015)]
 
 
 
@@ -8003,6 +8015,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.22288)] 
 [[Project](https://co-grpo.github.io/)]
 
+**GARDO: Reinforcing Diffusion Models without Reward Hacking** \
+[[Website](https://arxiv.org/abs/2512.24138)] 
+[[Project](https://tinnerhrhe.github.io/gardo_project/)]
+
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
 [[Website](https://arxiv.org/abs/2306.08687)] 
@@ -8582,6 +8598,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **CritiFusion: Semantic Critique and Spectral Alignment for Faithful Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2512.22681)]
+
+**Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning** \
+[[Website](https://arxiv.org/abs/2512.24146)]
 
 
 ## Spatial Control
@@ -12294,6 +12313,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](http://haonanqiu.com/projects/HiStream.html)]
 [[Code](https://github.com/arthur-qiu/HiStream)]
 
+**PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2512.24551)]
+[[Project](https://caiyuanhao1998.github.io/project/PhyGDPO/]
+[[Code](https://github.com/caiyuanhao1998/Open-PhyGDPO)]
+
+**SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time** \
+[[Website](https://arxiv.org/abs/2512.25075)]
+[[Project](https://zheninghuang.github.io/Space-Time-Pilot/]
+[[Code](https://github.com/ZheningHuang/SpaceTimePilot)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -14383,3 +14412,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FluencyVE: Marrying Temporal-Aware Mamba with Bypass Attention for Video Editing** \
 [[Website](https://arxiv.org/abs/2512.21015)]
+
+**PipeFlow: Pipelined Processing and Motion-Aware Frame Selection for Long-Form Video Editing** \
+[[Website](https://arxiv.org/abs/2512.24026)]
