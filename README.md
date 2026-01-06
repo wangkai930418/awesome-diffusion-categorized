@@ -4844,6 +4844,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.01382)] 
 [[Code](https://github.com/liyuke65535/ReInversion)] 
 
+**DeepInv: A Novel Self-supervised Learning Approach for Fast and Accurate Diffusion Inversion** \
+[[Website](https://arxiv.org/abs/2601.01487)] 
+[[Code](https://github.com/potato-kitty/DeepInv)] 
+
 **Tight Inversion: Image-Conditioned Inversion for Real Image Editing** \
 [[Website](https://arxiv.org/abs/2502.20376)] 
 [[Project](https://tight-inversion.github.io/)] 
@@ -5484,6 +5488,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models** \
 [[Website](https://arxiv.org/abs/2512.22877)] 
+
+**ActErase: A Training-Free Paradigm for Precise Concept Erasure via Activation Patching** \
+[[Website](https://arxiv.org/abs/2601.00267)] 
+
 
 # In Context Learning
 
@@ -8602,6 +8610,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Taming Preference Mode Collapse via Directional Decoupling Alignment in Diffusion Reinforcement Learning** \
 [[Website](https://arxiv.org/abs/2512.24146)]
 
+**Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion** \
+[[Website](https://arxiv.org/abs/2601.02211)]
+
+**GDRO: Group-level Reward Post-training Suitable for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2601.02036)]
+
+**It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models** \
+[[Website](https://arxiv.org/abs/2601.00090)]
+
 
 ## Spatial Control
 
@@ -10934,6 +10951,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images** \
 [[Website](https://arxiv.org/abs/2512.20479)]
 
+**FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection** \
+[[Website](https://arxiv.org/abs/2601.00535)]
+
 
 # Video Generation 
 
@@ -12322,6 +12342,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.25075)]
 [[Project](https://zheninghuang.github.io/Space-Time-Pilot/]
 [[Code](https://github.com/ZheningHuang/SpaceTimePilot)]
+
+**DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2601.01425)]
+[[Project](https://guoxu1233.github.io/DreamID-V/]
+[[Code](https://github.com/bytedance/DreamID-V)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
