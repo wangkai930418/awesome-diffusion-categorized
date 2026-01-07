@@ -4683,6 +4683,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CogniEdit: Dense Gradient Flow Optimization for Fine-Grained Image Editing** \
 [[Website](https://arxiv.org/abs/2512.13276)]
 
+**LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing** \
+[[Website](https://arxiv.org/abs/2601.02987)]
 
 
 ## Diffusion Models Inversion
@@ -12345,8 +12347,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer** \
 [[Website](https://arxiv.org/abs/2601.01425)]
-[[Project](https://guoxu1233.github.io/DreamID-V/]
+[[Project](https://guoxu1233.github.io/DreamID-V/)]
 [[Code](https://github.com/bytedance/DreamID-V)]
+
+**DreamStyle: A Unified Framework for Video Stylization** \
+[[Website](https://arxiv.org/abs/2601.02785)]
+[[Project](https://lemonsky1995.github.io/dreamstyle/)]
+[[Code](https://github.com/LemonSky1995/DreamStyle)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
@@ -13428,6 +13435,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation** \
 [[Website](https://arxiv.org/abs/2512.21252)]
 [[Project](https://dreamontage.github.io/DreaMontage/)]
+
+**DreamLoop: Controllable Cinemagraph Generation from a Single Photograph** \
+[[Website](https://arxiv.org/abs/2601.02646)]
+[[Project](https://anime26398.github.io/dreamloop.github.io/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
