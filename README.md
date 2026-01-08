@@ -5261,6 +5261,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.23546)] 
 [[Code](https://github.com/AI-Researcher-Team/PurifyGen)]
 
+**Mass Concept Erasure in Diffusion Models with Concept Hierarchy** \
+[[Website](https://arxiv.org/abs/2601.03305)] 
+[[Code](https://github.com/TtuHamg/SuPLoRA)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -13889,6 +13893,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2512.20000)]
+
+**Diffusion-DRF: Differentiable Reward Flow for Video Diffusion Fine-Tuning** \
+[[Website](https://arxiv.org/abs/2601.04153)]
+
+**Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2601.04068)]
 
 
 # Video Editing 
