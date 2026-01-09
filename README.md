@@ -1872,6 +1872,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SURE Guided Posterior Sampling: Trajectory Correction for Diffusion-Based Inverse Problems** \
 [[Website](https://arxiv.org/abs/2512.23232)]
 
+**Measurement-Consistent Langevin Corrector: A Remedy for Latent Diffusion Inverse Solvers** \
+[[Website](https://arxiv.org/abs/2601.04791)]
 
 ## Colorization
 
@@ -5918,6 +5920,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.09045)] 
 [[Project](https://per-query-visual-concept-learning.github.io/)] 
 
+**Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing** \
+[[Website](https://arxiv.org/abs/2601.05124)] 
+[[Project](https://hrz2000.github.io/realign/)] 
+
 **Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.01179)] 
 
@@ -8625,6 +8631,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **It's Never Too Late: Noise Optimization for Collapse Recovery in Trained Diffusion Models** \
 [[Website](https://arxiv.org/abs/2601.00090)]
 
+**Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes** \
+[[Website](https://arxiv.org/abs/2601.04300)]
+
+
 
 ## Spatial Control
 
@@ -10363,6 +10373,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization** \
 [[Website](https://arxiv.org/abs/2512.02933)] 
 [[Project](https://cz-5f.github.io/LoVoRA.github.io/)]
+
+**LooseRoPE: Content-aware Attention Manipulation for Semantic Harmonization** \
+[[Website](https://arxiv.org/abs/2601.05127)] 
+[[Project](https://snap-research.github.io/LooseRoPE/)]
 
 **PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement** \
 [[NeurIPS 2025](https://arxiv.org/abs/2512.03247)] 
@@ -13899,6 +13913,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2601.04068)]
+
+**ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2601.04342)]
 
 
 # Video Editing 
