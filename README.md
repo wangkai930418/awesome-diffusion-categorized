@@ -962,6 +962,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Plug-and-Play Fidelity Optimization for Diffusion Transformer Acceleration via Cumulative Error Minimization** \
 [[Website](https://arxiv.org/abs/2512.23258)]
 
+**Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2601.07396)]
+
+
+
 ## Train-Free
 
 **AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising** \
@@ -4194,6 +4199,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.04534)]
 [[Code](https://github.com/fishZe233/Refacade)] 
 
+**Towards Generalized Multi-Image Editing for Unified Multimodal Models** \
+[[Website](https://arxiv.org/abs/2601.05572)]
+[[Code](https://github.com/Pengchengpcx/MIE-UMM)] 
+
 **Conditional Score Guidance for Text-Driven Image-to-Image Translation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/71103)] 
 [[Website](https://arxiv.org/abs/2305.18007)] 
@@ -5499,6 +5508,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ActErase: A Training-Free Paradigm for Precise Concept Erasure via Activation Patching** \
 [[Website](https://arxiv.org/abs/2601.00267)] 
+
+**Forget Many, Forget Right: Scalable and Precise Concept Unlearning in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2601.06162)] 
+
+**Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking** \
+[[Website](https://arxiv.org/abs/2601.06163)] 
 
 
 # In Context Learning
@@ -8870,6 +8885,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Stitch: Training-Free Position Control in Multimodal Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2509.26644)] 
 [[Code](https://github.com/ExplainableML/Stitch)]
+
+**MoGen: A Unified Collaborative Framework for Controllable Multi-Object Image Generation** \
+[[Website](https://arxiv.org/abs/2601.05546)] 
+[[Code](https://github.com/Tear-kitty/MoGen/tree/master)]
 
 **StageDesigner: Artistic Stage Generation for Scenography via Theater Scripts** \
 [[CVPR 2025](https://arxiv.org/abs/2503.02595)] 
@@ -13458,6 +13477,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.02646)]
 [[Project](https://anime26398.github.io/dreamloop.github.io/)]
 
+**Tuning-free Visual Effect Transfer across Videos** \
+[[Website](https://arxiv.org/abs/2601.07833)]
+[[Project](https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -13916,6 +13939,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2601.04342)]
+
+**VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction** \
+[[Website](https://arxiv.org/abs/2601.05966)]
+
+**Focal Guidance: Unlocking Controllability from Semantic-Weak Layers in Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2601.07287)]
 
 
 # Video Editing 
