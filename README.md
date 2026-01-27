@@ -4708,6 +4708,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing** \
 [[Website](https://arxiv.org/abs/2601.02987)]
 
+**RemEdit: Efficient Diffusion Editing with Riemannian Geometry** \
+[[Website](https://arxiv.org/abs/2601.17927)]
+
+**Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss** \
+[[Website](https://arxiv.org/abs/2601.16645)]
+
 
 ## Diffusion Models Inversion
 
@@ -13533,6 +13539,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.07833)]
 [[Project](https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/)]
 
+**Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory** \
+[[Website](https://arxiv.org/abs/2601.16296)]
+[[Project](https://dohunlee1.github.io/MemoryV2V/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -14000,6 +14010,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Beyond Inpainting: Unleash 3D Understanding for Precise Camera-Controlled Video Generation** \
 [[Website](https://arxiv.org/abs/2601.10214)]
+
+**SkyReels-V3 Technique Report** \
+[[Website](https://arxiv.org/abs/2601.17323)]
 
 
 # Video Editing 
