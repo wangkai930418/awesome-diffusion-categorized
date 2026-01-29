@@ -1282,6 +1282,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://tvaranka.github.io/ZSVD/)]
 [[Code](https://github.com/tvaranka/ZSVD)]
 
+**TPGDiff: Hierarchical Triple-Prior Guided Diffusion for Image Restoration** \
+[[Website](https://arxiv.org/abs/2601.20306)]
+[[Project](https://leoyjtu.github.io/tpgdiff-project/)]
+[[Code](https://github.com/leoyjTu/TPGDiff)]
+
 **FlowIE: Efficient Image Enhancement via Rectified Flow** \
 [[CVPR 2024 oral](https://arxiv.org/abs/2406.00508)]
 [[Code](https://github.com/EternalEvan/FlowIE)]
@@ -2210,6 +2215,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement** \
 [[Website](https://arxiv.org/abs/2601.10373)]
 
+**DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression** \
+[[Website](https://arxiv.org/abs/2601.20564)]
+
 
 ## Super Resolution
 
@@ -2722,6 +2730,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **F2IDiff: Real-world Image Super-resolution using Feature to Image Diffusion Foundation Model** \
 [[Website](https://arxiv.org/abs/2512.24473)]
 
+**OSDEnhancer: Taming Real-World Space-Time Video Super-Resolution with One-Step Diffusion** \
+[[Website](https://arxiv.org/abs/2601.20308)]
 
 
 ## Personalized Restoration
@@ -6198,6 +6208,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation** \
 [[Website](https://arxiv.org/abs/2512.09814)] 
+
+**Say Cheese! Detail-Preserving Portrait Collection Generation via Natural Language Edits** \
+[[Website](https://arxiv.org/abs/2601.20511)] 
 
 
 
@@ -13542,6 +13555,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory** \
 [[Website](https://arxiv.org/abs/2601.16296)]
 [[Project](https://dohunlee1.github.io/MemoryV2V/)]
+
+**Efficient Autoregressive Video Diffusion with Dummy Head** \
+[[Website](https://arxiv.org/abs/2601.20499)]
+[[Project](https://csguoh.github.io/project/DummyForcing/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
