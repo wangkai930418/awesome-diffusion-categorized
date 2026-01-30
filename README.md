@@ -1889,6 +1889,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Measurement-Consistent Langevin Corrector: A Remedy for Latent Diffusion Inverse Solvers** \
 [[Website](https://arxiv.org/abs/2601.04791)]
 
+**Unifying Heterogeneous Degradations: Uncertainty-Aware Diffusion Bridge Model for All-in-One Image Restoration** \
+[[Website](https://arxiv.org/abs/2601.21592)]
+
+**Zero-Shot Video Restoration and Enhancement with Assistance of Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2601.21922)]
+
+
 ## Colorization
 
 **LVCD: Reference-based Lineart Video Colorization with Diffusion Models** \
@@ -7010,6 +7017,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.03034)] 
 
 
+## 3D-assets
+
+**RefAny3D: 3D Asset-Referenced Diffusion Models for Image Generation** \
+[[Website](https://arxiv.org/abs/2601.22094)] 
+[[Project](https://judgementh.github.io/RefAny3D/)] 
+[[Code](https://github.com/JudgementH/RefAny3D)]
+
+
 # T2I Diffusion Model augmentation
 
 **Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
@@ -8109,6 +8124,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models** \
 [[Website](https://arxiv.org/abs/2601.15968)]
 [[Project](https://shelsin.github.io/hyperalign.github.io/)]
+
+**Creative Image Generation with Diffusion Model** \
+[[Website](https://arxiv.org/abs/2601.22125)]
+[[Project](https://creative-t2i.github.io/)]
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
