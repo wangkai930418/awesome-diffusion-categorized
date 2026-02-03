@@ -705,6 +705,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.09881)]
 [[Project](https://research.nvidia.com/labs/genair/tmd/)]
 
+**Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention** \
+[[Website](https://arxiv.org/abs/2602.01801)]
+[[Project](https://dvirsamuel.github.io/fast-auto-regressive-video/)]
+
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
 
@@ -2305,6 +2309,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://jamichss.github.io/stream-diffvsr-project-page/)] 
 [[Code](https://github.com/jamichss/Stream-DiffVSR)] 
 
+**Trust but Verify: Adaptive Conditioning for Reference-Based Diffusion Super-Resolution via Implicit Reference Correlation Modeling** \
+[[ICLR 2026](https://arxiv.org/abs/2602.01864)] 
+[[Code](https://github.com/vivoCameraResearch/AdaRefSR)] 
+
 **SinSR: Diffusion-Based Image Super-Resolution in a Single Step** \
 [[CVPR 2024](https://arxiv.org/abs/2311.14760)] 
 [[Code](https://github.com/wyf0912/SinSR)] 
@@ -3029,6 +3037,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Consistent text-to-image generation via scene de-contextualization** \
 [[Website](https://arxiv.org/abs/2510.14553)]
+
+**ReDiStory: Region-Disentangled Diffusion for Consistent Visual Story Generation** \
+[[Website](https://arxiv.org/abs/2602.01303)]
+
+**DeCorStory: Gram-Schmidt Prompt Embedding Decorrelation for Consistent Storytelling** \
+[[Website](https://arxiv.org/abs/2602.01306)]
+
+**StoryState: Agent-Based State Control for Consistent and Editable Storybooks** \
+[[Website](https://arxiv.org/abs/2602.01305)]
 
 
 # Try On
@@ -4988,6 +5005,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **On Exact Editing of Flow-Based Diffusion Models** \
 [[Website](https://arxiv.org/abs/2512.24015)]
 
+**FlowBypass: Rectified Flow Trajectory Bypass for Training-Free Image Editing** \
+[[Website](https://arxiv.org/abs/2602.01805)]
+
+**SSI-DM: Singularity Skipping Inversion of Diffusion Models** \
+[[Website](https://arxiv.org/abs/2602.02193)]
 
 
 # Continual Learning
@@ -5314,6 +5336,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.14330)] 
 [[Code](https://github.com/Katherine1312/LURE)]
 
+**ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased concepts in unlearned diffusion models** \
+[[Website](https://arxiv.org/abs/2602.00350)] 
+[[Code](https://github.com/gmum/ReLaPSe)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -5552,6 +5578,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Forget-It-All: Multi-Concept Machine Unlearning via Concept-Aware Neuron Masking** \
 [[Website](https://arxiv.org/abs/2601.06163)] 
+
+**Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models** \
+[[Website](https://arxiv.org/abs/2602.01089)] 
+
+**The Illusion of Forgetting: Attack Unlearned Diffusion via Initial Latent Variable Optimization** \
+[[Website](https://arxiv.org/abs/2602.00175)] 
 
 
 # In Context Learning
@@ -6358,6 +6390,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization** \
 [[Website](https://arxiv.org/abs/2512.23537)] 
 
+**PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories** \
+[[Website](https://arxiv.org/abs/2602.00267)] 
+
 
 ## Decomposition
 
@@ -6637,6 +6672,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion** \
 [[Website](https://arxiv.org/abs/2512.14542)] 
+
+**Diff-PC: Identity-preserving and 3D-aware Controllable Diffusion for Zero-shot Portrait Customization** \
+[[Website](https://arxiv.org/abs/2602.00639)] 
+
+**FaceSnap: Enhanced ID-fidelity Network for Tuning-free Portrait Customization** \
+[[Website](https://arxiv.org/abs/2602.00627)] 
 
 
 ## General Concept 
@@ -7914,6 +7955,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.10332)] 
 [[Code](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)] 
 
+**PromptRL: Prompt Matters in RL for Flow-Based Image Generation** \
+[[Website](https://arxiv.org/abs/2602.01382)] 
+[[Code](https://github.com/G-U-N/UniRL)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -8128,6 +8173,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Creative Image Generation with Diffusion Model** \
 [[Website](https://arxiv.org/abs/2601.22125)]
 [[Project](https://creative-t2i.github.io/)]
+
+**DIAMOND: Directed Inference for Artifact Mitigation in Flow Matching Models** \
+[[Website](https://arxiv.org/abs/2602.00883)]
+[[Project](https://gmum.github.io/DIAMOND/)]
 
 **Norm-guided latent space exploration for text-to-image generation** \
 [[NeurIPS 2023](https://nips.cc/virtual/2023/poster/70922)] 
@@ -8723,7 +8772,6 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes** \
 [[Website](https://arxiv.org/abs/2601.04300)]
-
 
 ## Spatial Control
 
@@ -10775,6 +10823,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://cvlab-kaist.github.io/UniT/)] 
 [[Code](https://github.com/cvlab-kaist/UniT)] 
 
+**UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy** \
+[[Website](https://arxiv.org/abs/2510.13745)]
+[[Project](https://envision-research.github.io/UniCalli/)] 
+[[Code](https://github.com/EnVision-Research/UniCalli)] 
+
 **One-Shot Diffusion Mimicker for Handwritten Text Generation** \
 [[ECCV 2024](https://arxiv.org/abs/2409.04004)]
 [[Code](https://github.com/dailenson/One-DM)] 
@@ -12478,6 +12531,16 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://pangzecheung.github.io/OmniTransfer/)]
 [[Code](https://github.com/PangzeCheung/OmniTransfer)]
 
+**VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation** \
+[[Website](https://arxiv.org/abs/2601.23286)]
+[[Project](https://hongyang-du.github.io/VideoGPA-Website/)]
+[[Code](https://github.com/Hongyang-Du/VideoGPA)]
+
+**Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation** \
+[[Website](https://arxiv.org/abs/2602.02214)]
+[[Project](https://thu-ml.github.io/CausalForcing.github.io/)]
+[[Code](https://github.com/thu-ml/Causal-Forcing)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -13579,6 +13642,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.20499)]
 [[Project](https://csguoh.github.io/project/DummyForcing/)]
 
+**FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space** \
+[[Website](https://arxiv.org/abs/2602.02092)]
+[[Project](https://kingofprank.github.io/fsvideo/)]
+
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
 
@@ -14049,6 +14116,15 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SkyReels-V3 Technique Report** \
 [[Website](https://arxiv.org/abs/2601.17323)]
+
+**PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards** \
+[[Website](https://arxiv.org/abs/2602.01624)]
+
+**GPD: Guided Progressive Distillation for Fast and High-Quality Video Generation** \
+[[Website](https://arxiv.org/abs/2602.01814)]
+
+**PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards** \
+[[Website](https://arxiv.org/abs/2602.01624)]
 
 
 # Video Editing 
