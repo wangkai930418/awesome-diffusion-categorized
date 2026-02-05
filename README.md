@@ -2748,6 +2748,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **OSDEnhancer: Taming Real-World Space-Time Video Super-Resolution with One-Step Diffusion** \
 [[Website](https://arxiv.org/abs/2601.20308)]
 
+**Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2602.03342)]
 
 ## Personalized Restoration
 
@@ -6251,6 +6253,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Say Cheese! Detail-Preserving Portrait Collection Generation via Natural Language Edits** \
 [[Website](https://arxiv.org/abs/2601.20511)] 
 
+**VIRAL: Visual In-Context Reasoning via Analogy in Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2602.03210)] 
 
 
 ## Mutiple Concepts
@@ -6393,6 +6397,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **PLACID: Identity-Preserving Multi-Object Compositing via Video Diffusion with Synthetic Trajectories** \
 [[Website](https://arxiv.org/abs/2602.00267)] 
 
+**Hierarchical Concept-to-Appearance Guidance for Multi-Subject Image Generation** \
+[[Website](https://arxiv.org/abs/2602.03448)] 
 
 ## Decomposition
 
@@ -7959,6 +7965,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2602.01382)] 
 [[Code](https://github.com/G-U-N/UniRL)] 
 
+**Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis** \
+[[Website](https://arxiv.org/abs/2602.03139)] 
+[[Code](https://github.com/Multimedia-Analytics-Laboratory/dpdmd)] 
+
 **LightIt: Illumination Modeling and Control for Diffusion Models** \
 [[CVPR 2024](https://arxiv.org/abs/2403.10615)] 
 [[Project](https://peter-kocsis.github.io/LightIt/)] 
@@ -8772,6 +8782,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes** \
 [[Website](https://arxiv.org/abs/2601.04300)]
+
+**SIDiffAgent: Self-Improving Diffusion Agent** \
+[[Website](https://arxiv.org/abs/2602.02051)]
+
 
 ## Spatial Control
 
@@ -12540,6 +12554,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2602.02214)]
 [[Project](https://thu-ml.github.io/CausalForcing.github.io/)]
 [[Code](https://github.com/thu-ml/Causal-Forcing)]
+
+**Self-Forcing++: Towards Minute-Scale High-Quality Video Generation** \
+[[Website](https://arxiv.org/abs/2510.02283)]
+[[Project](https://self-forcing-plus-plus.github.io/)]
+[[Code](https://github.com/justincui03/Self-Forcing-Plus-Plus)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
