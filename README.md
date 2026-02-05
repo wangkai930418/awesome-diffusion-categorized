@@ -1899,6 +1899,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Zero-Shot Video Restoration and Enhancement with Assistance of Video Diffusion Models** \
 [[Website](https://arxiv.org/abs/2601.21922)]
 
+**LCUDiff: Latent Capacity Upgrade Diffusion for Faithful Human Body Restoration** \
+[[Website](https://arxiv.org/abs/2602.04406)]
 
 ## Colorization
 
@@ -14144,6 +14146,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards** \
 [[Website](https://arxiv.org/abs/2602.01624)]
+
+**Adaptive 1D Video Diffusion Autoencoder** \
+[[Website](https://arxiv.org/abs/2602.04220)]
 
 
 # Video Editing 
