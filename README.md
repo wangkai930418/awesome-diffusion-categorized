@@ -709,6 +709,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2602.01801)]
 [[Project](https://dvirsamuel.github.io/fast-auto-regressive-video/)]
 
+**FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion** \
+[[Website](https://arxiv.org/abs/2602.05305)]
+[[Project](https://caesarhhh.github.io/FlashBlock/)]
+
 **Adversarial Distribution Matching for Diffusion Distillation Towards Efficient Image and Video Synthesis** \
 [[ICCV 2025 (Highlight)](https://arxiv.org/abs/2507.18569)]
 
@@ -973,6 +977,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Forecast the Principal, Stabilize the Residual: Subspace-Aware Feature Caching for Efficient Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2601.07396)]
 
+**DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching** \
+[[Website](https://arxiv.org/abs/2602.05449)]
 
 
 ## Train-Free
@@ -5589,6 +5595,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **The Illusion of Forgetting: Attack Unlearned Diffusion via Initial Latent Variable Optimization** \
 [[Website](https://arxiv.org/abs/2602.00175)] 
 
+**Consistency-Preserving Concept Erasure via Unsafe-Safe Pairing and Directional Fisher-weighted Adaptation** \
+[[Website](https://arxiv.org/abs/2602.05339)] 
 
 # In Context Learning
 
@@ -8787,6 +8795,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **SIDiffAgent: Self-Improving Diffusion Agent** \
 [[Website](https://arxiv.org/abs/2602.02051)]
+
+**SAIL: Self-Amplified Iterative Learning for Diffusion Model Alignment with Minimal Human Feedback** \
+[[Website](https://arxiv.org/abs/2602.05380)]
+
 
 
 ## Spatial Control
@@ -12561,6 +12573,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2510.02283)]
 [[Project](https://self-forcing-plus-plus.github.io/)]
 [[Code](https://github.com/justincui03/Self-Forcing-Plus-Plus)]
+
+**FastVMT: Eliminating Redundancy in Video Motion Transfer** \
+[[Website](https://arxiv.org/abs/2602.05551)]
+[[Project](https://fastvmt.github.io/)]
+[[Code](https://github.com/mayuelala/FastVMT)]
 
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
