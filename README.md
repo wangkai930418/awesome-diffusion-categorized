@@ -613,6 +613,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.24195)]
 [[Code](https://github.com/CASL-KU/CorGi)]
 
+**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation** \
+[[Website](https://arxiv.org/abs/2602.09014)]
+[[Code](https://github.com/pnotp/ArcFlow)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -979,6 +983,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DisCa: Accelerating Video Diffusion Transformers with Distillation-Compatible Learnable Feature Caching** \
 [[Website](https://arxiv.org/abs/2602.05449)]
+
+**NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices** \
+[[Website](https://arxiv.org/abs/2602.06879)]
 
 
 ## Train-Free
@@ -2758,6 +2765,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Tiled Prompts: Overcoming Prompt Underspecification in Image and Video Super-Resolution** \
 [[Website](https://arxiv.org/abs/2602.03342)]
+
+**Bidirectional Reward-Guided Diffusion for Real-World Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2602.07069)]
+
 
 ## Personalized Restoration
 
@@ -4758,6 +4769,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss** \
 [[Website](https://arxiv.org/abs/2601.16645)]
 
+**Shifting the Breaking Point of Flow Matching for Multi-Instance Editing** \
+[[Website](https://arxiv.org/abs/2602.08749)]
+
 
 ## Diffusion Models Inversion
 
@@ -5134,6 +5148,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Breaking Forgetting: Training-Free Few-Shot Class-Incremental Learning via Conditional Diffusion** \
 [[Website](https://arxiv.org/abs/2511.18516)] 
+
+**Prompt Reinjection: Alleviating Prompt Forgetting in Multimodal Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2602.06886)] 
 
 
 # Remove Concept
@@ -5597,6 +5614,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Consistency-Preserving Concept Erasure via Unsafe-Safe Pairing and Directional Fisher-weighted Adaptation** \
 [[Website](https://arxiv.org/abs/2602.05339)] 
+
+**Selective Fine-Tuning for Targeted and Robust Concept Unlearning** \
+[[Website](https://arxiv.org/abs/2602.07919)] 
+
 
 # In Context Learning
 
@@ -8799,7 +8820,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **SAIL: Self-Amplified Iterative Learning for Diffusion Model Alignment with Minimal Human Feedback** \
 [[Website](https://arxiv.org/abs/2602.05380)]
 
+**Di3PO -- Diptych Diffusion DPO for Targeted Improvements in Image** \
+[[Website](https://arxiv.org/abs/2602.06355)]
 
+**DeDPO: Debiased Direct Preference Optimization for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2602.06195)]
+
+**AEGPO: Adaptive Entropy-Guided Policy Optimization for Diffusion Models** \
+[[Website](https://arxiv.org/abs/2602.06825)]
 
 ## Spatial Control
 
@@ -10693,6 +10721,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Insert In Style: A Zero-Shot Generative Framework for Harmonious Cross-Domain Object Composition** \
 [[Website](https://arxiv.org/abs/2511.15197)] 
 
+**Geometric Image Editing via Effects-Sensitive In-Context Inpainting with Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2602.08388)] 
 
 
 # Layout Generation
@@ -12579,6 +12609,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://fastvmt.github.io/)]
 [[Code](https://github.com/mayuelala/FastVMT)]
 
+**Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion** \
+[[Website](https://arxiv.org/abs/2602.07775)]
+[[Project](https://rolling-sink.github.io/)]
+[[Code](https://github.com/haodong2000/Rolling-Sink)]
+
 **MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation** \
 [[NeurIPS 2025](https://arxiv.org/abs/2509.26391)]
 [[Code](https://github.com/MCG-NJU/MotionRAG)]
@@ -14382,6 +14417,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.15635)]
 [[Project](https://cuc-mipg.github.io/IC-Effect/)]
 [[Code](https://github.com/CUC-MIPG/IC-Effect)] 
+
+**RFDM: Residual Flow Diffusion Model for Efficient Causal Video Editing** \
+[[Website](https://arxiv.org/abs/2602.06871)]
+[[Project](https://smsd75.github.io/RFDM_page/)]
+[[Code](https://github.com/SMSD75/RFDM-Residual-Flow-Diffusion-Model-for-Efficient-Causal-Video-Editing)] 
 
 **AnchorSync: Global Consistency Optimization for Long Video Editing** \
 [[ACM MM 2025](https://arxiv.org/abs/2508.14609)]
