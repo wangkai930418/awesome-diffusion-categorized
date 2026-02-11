@@ -3996,6 +3996,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://biangbiang0321.github.io/SpotEdit.github.io/)]
 [[Code](https://github.com/Biangbiang0321/SpotEdit)]
 
+**Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling** \
+[[Website](https://arxiv.org/abs/2602.09084)] 
+[[Project](https://agent-banana.github.io/)]
+[[Code](https://github.com/taco-group/agent-banana)]
+
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
 [[Code](https://github.com/xuduo35/UniTune)]
@@ -13718,6 +13723,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space** \
 [[Website](https://arxiv.org/abs/2602.02092)]
 [[Project](https://kingofprank.github.io/fsvideo/)]
+
+**ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2602.10113)]
+[[Project](https://mingyang.me/ConsID-Gen/)]
 
 **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation** \
 [[NeurIPS 2024](https://arxiv.org/abs/2410.24037)]
