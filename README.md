@@ -404,6 +404,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Project](https://thu-accdiff.github.io/xslim-page/)]
 [[Code](https://github.com/THU-AccDiff/xslim/]
 
+**Relational Feature Caching for Accelerating Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2602.19506)]
+[[Project](https://cvlab.yonsei.ac.kr/projects/RFC/)]
+[[Code](https://github.com/cvlab-yonsei]
+
 **One-Way Ticket:Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2505.21960)]
 <!-- [[Project](https://openaccess.thecvf.com/content/CVPR2025/html/Li_One-Way_Ticket_Time-Independent_Unified_Encoder_for_Distilling_Text-to-Image_Diffusion_Models_CVPR_2025_paper.html)] -->
@@ -480,6 +485,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **CacheQuant: Comprehensively Accelerated Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2503.01323)]
 [[Code](https://github.com/BienLuky/CacheQuant)]
+
+**SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models** \
+[[CVPR 2026](https://arxiv.org/abs/2602.18993)]
+[[Code](https://github.com/jiwoogit/SeaCache)]
 
 **Accelerating Vision Diffusion Transformers with Skip Branches** \
 [[Website](https://arxiv.org/abs/2411.17616)]
@@ -986,6 +995,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **NanoFLUX: Distillation-Driven Compression of Large Text-to-Image Generation Models for Mobile Devices** \
 [[Website](https://arxiv.org/abs/2602.06879)]
+
+**DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers** \
+[[Website](https://arxiv.org/abs/2602.16968)]
 
 
 ## Train-Free
@@ -4483,6 +4495,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.10714)]
 [[Project](https://talreiss.github.io/alterbute/)]
 
+**Controlling Your Image via Simplified Vector Graphics** \
+[[Website](https://arxiv.org/abs/2602.14443)]
+[[Project](https://guolanqing.github.io/Vec2Pix/)]
+
 **From Cradle to Cane: A Two-Pass Framework for High-Fidelity Lifespan Face Aging** \
 [[NeurIPS 2025](https://arxiv.org/abs/2506.20977)]
 
@@ -5223,6 +5239,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models** \
 [[CVPR 2025](https://arxiv.org/abs/2406.14855)] 
 [[Code](https://github.com/Artanisax/Six-CD)]
+
+**Localized Concept Erasure in Text-to-Image Diffusion Models via High-Level Representation Misdirection** \
+[[ICLR 2026](https://arxiv.org/abs/2602.19631)] 
+[[Code](https://github.com/Coffeeloveman/HiRM)]
 
 **Concept Pinpoint Eraser for Text-to-image Diffusion Models via Residual Attention Gate** \
 [[ICLR 2025](https://openreview.net/forum?id=ZRDhBwKs7l)] 
@@ -6050,6 +6070,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models** \
 [[NeurIPS 2024](https://arxiv.org/abs/2411.01179)] 
 
+**ConceptPrism: Concept Disentanglement in Personalized Diffusion Models via Residual Token Optimization** \
+[[CVPR 2026](https://arxiv.org/abs/2602.19575)] 
+
 **ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image** \
 [[ECCV 2024](https://arxiv.org/abs/2402.11849)] 
 
@@ -6720,6 +6743,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FaceSnap: Enhanced ID-fidelity Network for Tuning-free Portrait Customization** \
 [[Website](https://arxiv.org/abs/2602.00627)] 
+
+**Inject Where It Matters: Training-Free Spatially-Adaptive Identity Preservation for Text-to-Image Personalization** \
+[[Website](https://arxiv.org/abs/2602.13994)] 
 
 
 ## General Concept 
@@ -8834,6 +8860,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **AEGPO: Adaptive Entropy-Guided Policy Optimization for Diffusion Models** \
 [[Website](https://arxiv.org/abs/2602.06825)]
 
+**Diff-Aid: Inference-time Adaptive Interaction Denoising for Rectified Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2602.13585)]
+
+**GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation** \
+[[Website](https://arxiv.org/abs/2602.17200)]
+
+
 ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
@@ -9995,6 +10028,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis** \
 [[AAAI 2025](https://arxiv.org/abs/2412.11594)] 
 [[Code](https://github.com/FelixChan9527/VersaGen_official)]
+
+**Efficient Text-Guided Convolutional Adapter for the Diffusion Model** \
+[[Website](https://arxiv.org/abs/2602.14514)] 
+[[Code](https://github.com/arya-domain/Nexus-Adapters)]
 
 **CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation** \
 [[Website](https://arxiv.org/abs/2410.09400)] 
@@ -11184,6 +11221,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **FreeText: Training-Free Text Rendering in Diffusion Transformers via Attention Localization and Spectral Glyph Injection** \
 [[Website](https://arxiv.org/abs/2601.00535)]
+
+**Structure-Level Disentangled Diffusion for Few-Shot Chinese Font Generation** \
+[[Website](https://arxiv.org/abs/2602.18874)]
 
 
 # Video Generation 
@@ -14211,6 +14251,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Adaptive 1D Video Diffusion Autoencoder** \
 [[Website](https://arxiv.org/abs/2602.04220)]
 
+**DCDM: Divide-and-Conquer Diffusion Models for Consistency-Preserving Video Generation** \
+[[Website](https://arxiv.org/abs/2602.13637)]
 
 # Video Editing 
 
@@ -14617,6 +14659,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Region-Constraint In-Context Generation for Instructional Video Editing** \
 [[Website](https://arxiv.org/abs/2512.17650)]
 [[Project](https://zhw-zhang.github.io/ReCo-page/)]
+
+**EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing** \
+[[Website](https://arxiv.org/abs/2602.15031)]
+[[Project](https://yehonathanlitman.github.io/edit_ctrl/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
