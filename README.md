@@ -999,6 +999,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers** \
 [[Website](https://arxiv.org/abs/2602.16968)]
 
+**LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration** \
+[[Website](https://arxiv.org/abs/2602.20497)]
+
 
 ## Train-Free
 
@@ -3079,6 +3082,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **StoryState: Agent-Based State Control for Consistent and Editable Storybooks** \
 [[Website](https://arxiv.org/abs/2602.01305)]
+
+**AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?** \
+[[Website](https://arxiv.org/abs/2602.20664)]
 
 
 # Try On
@@ -5391,6 +5397,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ReLAPSe: Reinforcement-Learning-trained Adversarial Prompt Search for Erased concepts in unlearned diffusion models** \
 [[Website](https://arxiv.org/abs/2602.00350)] 
 [[Code](https://github.com/gmum/ReLaPSe)]
+
+**When Safety Collides: Resolving Multi-Category Harmful Conflicts in Text-to-Image Diffusion via Adaptive Safety Guidance** \
+[[Website](https://arxiv.org/abs/2602.20880)] 
+[[Code](https://github.com/tmllab/2026_CVPR_CASG)]
 
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
@@ -14663,6 +14673,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing** \
 [[Website](https://arxiv.org/abs/2602.15031)]
 [[Project](https://yehonathanlitman.github.io/edit_ctrl/)]
+
+**PropFly: Learning to Propagate via On-the-Fly Supervision from Pre-trained Video Diffusion Models** \
+[[Website](https://arxiv.org/abs/2602.20583)]
+[[Project](https://kaist-viclab.github.io/PropFly_site/)]
 
 **DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency** \
 [[ECCV 2024](https://arxiv.org/abs/2408.07481)]
