@@ -454,6 +454,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2024](https://arxiv.org/abs/2411.01171)]
 [[Code](https://github.com/wuyushuwys/FMEDiffusion)]
 
+**Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling** \
+[[CVPR 2026](https://arxiv.org/abs/2602.21760)]
+[[Code](https://github.com/kaist-dmlab/Hybridiff)]
+
 **A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models** \
 [[ICML 2024](https://arxiv.org/abs/2408.05927)]
 [[Code](https://github.com/taehong-moon/ee-diffusion)]
@@ -625,6 +629,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation** \
 [[Website](https://arxiv.org/abs/2602.09014)]
 [[Code](https://github.com/pnotp/ArcFlow)]
+
+**Jano: Adaptive Diffusion Generation with Early-stage Convergence Awareness** \
+[[Website](https://arxiv.org/abs/2603.00519)]
+[[Code](https://github.com/chen-yy20/Jano)]
 
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
@@ -1001,6 +1009,12 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **LESA: Learnable Stage-Aware Predictors for Diffusion Model Acceleration** \
 [[Website](https://arxiv.org/abs/2602.20497)]
+
+**Analyzing and Improving Fast Sampling of Text-to-Image Diffusion Models** \
+[[Website](https://arxiv.org/abs/2603.00763)]
+
+**Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration** \
+[[Website](https://arxiv.org/abs/2603.01623)]
 
 
 ## Train-Free
@@ -2259,6 +2273,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **DiffVC-RT: Towards Practical Real-Time Diffusion-based Perceptual Neural Video Compression** \
 [[Website](https://arxiv.org/abs/2601.20564)]
 
+**CADC: Content Adaptive Diffusion-Based Generative Image Compression** \
+[[Website](https://arxiv.org/abs/2602.21591)]
 
 ## Super Resolution
 
@@ -2783,6 +2799,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **Bidirectional Reward-Guided Diffusion for Real-World Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2602.07069)]
+
+**Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution** \
+[[Website](https://arxiv.org/abs/2603.00458)]
 
 
 ## Personalized Restoration
@@ -4018,6 +4037,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2602.09084)] 
 [[Project](https://agent-banana.github.io/)]
 [[Code](https://github.com/taco-group/agent-banana)]
+
+**ChordEdit: One-Step Low-Energy Transport for Image Editing** \
+[[Website](https://arxiv.org/abs/2602.19083)] 
+[[Project](https://chordedit.github.io/)]
+[[Code](https://github.com/ChordEdit/ChordEdit)]
 
 **UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2210.09477)] 
@@ -7699,6 +7723,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Multimodal LLMs as Customized Reward Models for Text-to-Image Generation** \
 [[ICCV 2025](https://arxiv.org/abs/2507.21391)] 
 [[Code](https://github.com/sjz5202/LLaVA-Reward)]
+
+**RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment** \
+[[CVPR 2026](https://arxiv.org/abs/2603.00483)] 
+[[Code](https://github.com/LiyaoJiang1998/RAISE)]
+
+**Improving Text-to-Image Generation with Intrinsic Self-Confidence Rewards** \
+[[CVPR 2026](https://arxiv.org/abs/2603.00918)] 
+[[Code](https://wookiekim.github.io/SPARC/)]
 
 **Alfie: Democratising RGBA Image Generation With No $$$** \
 [[ECCVW 2024](https://arxiv.org/abs/2408.14826)] 
