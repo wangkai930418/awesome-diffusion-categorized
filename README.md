@@ -1016,6 +1016,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Adaptive Spectral Feature Forecasting for Diffusion Sampling Acceleration** \
 [[Website](https://arxiv.org/abs/2603.01623)]
 
+**TC-Padé: Trajectory-Consistent Padé Approximation for Diffusion Acceleration** \
+[[Website](https://arxiv.org/abs/2603.02943)]
+
 
 ## Train-Free
 
@@ -1618,6 +1621,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Fose: Fusion of One-Step Diffusion and End-to-End Network for Pansharpening** \
 [[Website](https://arxiv.org/abs/2512.17202)]
 [[Code](https://github.com/Kai-Liu001/Fose)]
+
+**MiM-DiT: MoE in MoE with Diffusion Transformers for All-in-One Image Restoration** \
+[[Website](https://arxiv.org/abs/2603.02710)]
+[[Code](https://github.com/kkkls/MIM-DiT)]
 
 **Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption** \
 [[CVPR 2025](https://arxiv.org/abs/2503.11221)]
@@ -2562,6 +2569,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2512.14061)] 
 [[Code](https://github.com/Chanson94/CODSR)] 
+
+**FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution** \
+[[Website](https://arxiv.org/abs/2603.02692)] 
+[[Code](https://github.com/Ar0Kim/FiDeSR)] 
 
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
@@ -14295,6 +14306,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 
 **DCDM: Divide-and-Conquer Diffusion Models for Consistency-Preserving Video Generation** \
 [[Website](https://arxiv.org/abs/2602.13637)]
+
+**BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2603.02816)]
+
+
 
 # Video Editing 
 
