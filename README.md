@@ -36,8 +36,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
     - [General Personalization](#general-concept)
     - [AR-based](#ar-based)
     - [Video Customization](#video-customization)
-- [T2I augmentation](#t2i-diffusion-model-augmentation)
-    - [Spatial Control](#spatial-control)
+<!-- - [T2I augmentation](#t2i-diffusion-model-augmentation)
+    - [Spatial Control](#spatial-control) -->
 - [Image Translation](#i2i-translation)
 - [Seg & Detect & Track](#segmentation-detection-tracking)
 - [Adding Conditions](#additional-conditions)
@@ -7174,14 +7174,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2508.03034)] 
 
 
-## 3D-assets
+<!-- ## 3D-assets
 
 **RefAny3D: 3D Asset-Referenced Diffusion Models for Image Generation** \
 [[Website](https://arxiv.org/abs/2601.22094)] 
 [[Project](https://judgementh.github.io/RefAny3D/)] 
-[[Code](https://github.com/JudgementH/RefAny3D)]
+[[Code](https://github.com/JudgementH/RefAny3D)] -->
 
-
+<!-- 
 # T2I Diffusion Model augmentation
 
 **Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models** \
@@ -9353,7 +9353,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.18333)] 
 
 **POCI-Diff: Position Objects Consistently and Interactively with 3D-Layout Guided Diffusion** \
-[[Website](https://arxiv.org/abs/2601.14056)] 
+[[Website](https://arxiv.org/abs/2601.14056)]  -->
 
 
 
@@ -11281,7 +11281,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Structure-Level Disentangled Diffusion for Few-Shot Chinese Font Generation** \
 [[Website](https://arxiv.org/abs/2602.18874)]
 
-
+<!-- 
 # Video Generation 
 
 **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
@@ -14889,4 +14889,4 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.21015)]
 
 **PipeFlow: Pipelined Processing and Motion-Aware Frame Selection for Long-Form Video Editing** \
-[[Website](https://arxiv.org/abs/2512.24026)]
+[[Website](https://arxiv.org/abs/2512.24026)] -->
