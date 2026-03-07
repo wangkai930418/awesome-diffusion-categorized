@@ -749,6 +749,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation** \
 [[AAAI 2025](https://arxiv.org/abs/2412.16906)]
 
+**TAP: A Token-Adaptive Predictor Framework for Training-Free Diffusion Acceleration** \
+[[CVPR 2026](https://arxiv.org/abs/2603.03792)]
+
 **BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers** \
 [[CVPR 2025](https://arxiv.org/abs/2503.15927)]
 
@@ -14310,6 +14313,8 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation** \
 [[Website](https://arxiv.org/abs/2603.02816)]
 
+**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation** \
+[[Website](https://arxiv.org/abs/2603.03505)]
 
 
 # Video Editing 
