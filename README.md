@@ -44,9 +44,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 - [Few-Shot](#few-shot)
 - [Inpainting](#sd-inpaint)
 - [Layout](#layout-generation)
-- [Text Generation](#text-generation)
+<!-- - [Text Generation](#text-generation)
 - [Video Generation](#video-generation)
-- [Video Editing](#video-editing)
+- [Video Editing](#video-editing) -->
 
 
 # Illusion 
@@ -10903,14 +10903,13 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2512.08897)]
 
 
-# Text Generation
+<!-- # Text Generation
 
 **TextDiffuser: Diffusion Models as Text Painters** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70636)]
 [[Website](https://arxiv.org/abs/2305.10855)]
 [[Project](https://jingyechen.github.io/textdiffuser/)] 
 [[Code](https://github.com/microsoft/unilm/tree/master/textdiffuser)] 
-<!-- [[NeurIPS 2023](https://openreview.net/forum?id=ke3RgcDmfO)] -->
 
 **TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering** \
 [[ECCV 2024 Oral](https://arxiv.org/abs/2311.16465)]
@@ -10921,13 +10920,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/70191)]
 [[Website](https://arxiv.org/abs/2305.18259)]
 [[Code](https://github.com/AIGText/GlyphControl-release)] 
-<!-- [[NeurIPS 2023](https://openreview.net/forum?id=thPI8hrA4V)] -->
 
 **DiffUTE: Universal Text Editing Diffusion Model** \
 [[NeurIPS 2023](https://neurips.cc/virtual/2023/poster/71364)]
 [[Website](https://arxiv.org/abs/2305.10825)]
 [[Code](https://github.com/chenhaoxing/DiffUTE)] 
-<!-- [[NeurIPS 2023](https://openreview.net/forum?id=XKeSauhUdJ)] -->
 
 **Word-As-Image for Semantic Typography** \
 [[SIGGRAPH 2023](https://arxiv.org/abs/2303.01818)]
@@ -11279,7 +11276,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2601.00535)]
 
 **Structure-Level Disentangled Diffusion for Few-Shot Chinese Font Generation** \
-[[Website](https://arxiv.org/abs/2602.18874)]
+[[Website](https://arxiv.org/abs/2602.18874)] -->
 
 <!-- 
 # Video Generation 
