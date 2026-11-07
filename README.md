@@ -11313,6 +11313,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 <!-- 
 # Video Generation 
 
+**Motion-aware generative frame interpolation** \
+[[SCIS 2026](https://link.springer.com/article/10.1007/s11432-025-4920-3)]
+[[Website](https://arxiv.org/abs/2501.03699)]
+[[Code](https://github.com/MCG-NJU/MoG-VFI)]
+
 **Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators**  \
 [[ICCV 2023 Oral](https://openaccess.thecvf.com/content/ICCV2023/html/Khachatryan_Text2Video-Zero_Text-to-Image_Diffusion_Models_are_Zero-Shot_Video_Generators_ICCV_2023_paper.html)]
 [[Website](https://arxiv.org/abs/2303.13439)]
