@@ -2079,6 +2079,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Prompt-based Consistent Video Colorization** \
 [[Website](https://arxiv.org/abs/2511.22330)]
 
+**Hint-AUC: Deterministic Region-based Hint Generation for Line Art Colorization Evaluation** \
+[[TVCG 2026](https://doi.org/10.1109/TVCG.2026.3738401)]
+[[Project](https://madonokouki.github.io/projects/hintauc/)]
+[[Code](https://github.com/MADONOKOUKI/DetFill-with-DHT)]
+
 
 ## Face Restoration
 
